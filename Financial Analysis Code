@@ -1,0 +1,154 @@
+import numpy as np
+import pandas as pd
+import plotly.graph_objects as go
+import plotly.express as px
+
+df = pd.read_csv('https://raw.githubusercontent.com/Michel-A-Gonzalez/BeyondEco/main/UHCU%20Spendings%20Q3.csv')
+
+df.head(5)
+
+df = df.rename(columns = {'Post Date' : 'Date'})
+
+# Since card numbers are read as integers we need them to be strings
+
+df = df.astype({'Card': str})
+
+# Makes the date column into a datetime object
+
+df['Date'] = df['Date'].apply(lambda x : pd.to_datetime(x, format = "%m/%d/%Y"))
+
+df = df.drop(columns = 'Balance')
+
+# Dataframe only with buissness expenses and revenue to analyise profits
+
+buiss_df = df[df['Transaction Type'] == 'B']
+
+# Dataframe only with buissness expenses separated by type of expense
+
+business = df[df['Transaction Type'] == 'B']
+
+business = business[business['Purchase Type'] != 'Deposit']
+
+business = business.groupby(by = ['Purchase Type']).sum().reset_index()
+
+# Dataframes only with personal expeses to analyse spending behaviour
+
+personal = df[df['Transaction Type'] == 'P']
+
+personal = personal.groupby(by = ['Card', 'Purchase Type']).sum().reset_index()
+
+totals = df[(df['Transaction Type'] == 'P')]
+
+totals = totals.groupby(by = ['Card']).sum().reset_index()
+
+# Aggregates the data into weekly data points
+
+weekly = buiss_df.set_index('Date').resample('W').sum()
+
+weekly['Profit'] = weekly['Credit'] - weekly['Debit']
+
+weekly = weekly.reset_index()
+
+r_c = go.Figure()
+
+r_c.add_trace(go.Bar(x = weekly['Date'],
+                     y = weekly['Credit'],
+                     marker_color = 'green',
+                     marker_line_color = 'darkgreen',
+                     opacity = .75,
+                     name = 'Revenue')
+             )
+r_c.add_trace(go.Bar(x = weekly['Date'],
+                     y = weekly['Debit'],
+                     marker_color = 'red',
+                     marker_line_color = 'darkred',
+                     opacity = .75,
+                     name = 'Cost')
+             )
+r_c.update_traces(texttemplate = '%{y:$.2s}',
+                  textposition = 'outside'
+                 )
+
+r_c.update_layout(title = 'Weekly Revenue and Cost',
+                  xaxis_title = 'Date',
+                  yaxis_title = 'Dollars ($)')
+
+prof = go.Figure()
+
+prof.add_trace(go.Bar(x = weekly['Date'],
+                     y = weekly['Profit'],
+                     marker_color = 'lightblue',
+                     marker_line_color = 'darkblue',
+                     opacity = 0.75,
+                     name = 'Profit'
+                     )
+)
+
+prof.update_traces(texttemplate = '%{y:$.2s}',
+                   textposition = 'outside'
+                   )
+
+prof.add_trace(go.Scatter(x = weekly['Date'],
+                          y = weekly['Profit'],
+                          mode = 'lines',
+                          marker_color = 'darkblue',
+                          name = 'Profits',                          
+                         )
+)
+
+prof.update_layout(title = 'Weekly Profits',
+                   xaxis_title = 'Date',
+                   yaxis_title = 'Dollars ($)')
+
+split_p = px.bar(personal,
+             x = 'Purchase Type',
+             y = 'Debit',
+             color = 'Card',
+             barmode = 'group',
+             hover_name = 'Debit'
+)
+
+split_p.update_traces(texttemplate = '%{y:$.2s}',
+                   textposition = 'outside'
+                   )
+
+split_p.update_layout(title = 'Personal Expendures per Card by Category (July, 01 - Aug, 16)',  
+                  xaxis={'categoryorder':'total descending'})
+                  
+grouped_p = px.bar(totals,
+             x = 'Card',
+             y = 'Debit',
+             color = 'Card',
+             barmode = 'stack',
+             hover_name = 'Debit'
+)
+
+grouped_p.update_traces(texttemplate = '%{y:$.2s}',
+                   textposition = 'outside'
+                   )
+
+grouped_p.update_layout(title = 'Total Personal Expendures per Card (July, 01 - Aug, 16)',  
+                  xaxis={'categoryorder':'total descending'})
+                  
+buiss_type = px.bar(business,
+             x = 'Purchase Type',
+             y = 'Debit',
+             hover_name = 'Debit'
+)
+
+buiss_type.update_traces(texttemplate = '%{y:$.2s}',
+                   textposition = 'outside'
+                   )
+
+buiss_type.update_layout(title = 'Business Expendures by Category (July, 01 - Aug, 16)',  
+                  xaxis={'categoryorder':'total descending'})
+                  
+r_c.show()
+
+prof.show()
+
+split_p.show()
+
+grouped_p.show()
+
+buiss_type.show()
