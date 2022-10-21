@@ -1,0 +1,246 @@
+import pandas as pd
+import numpy as np
+import plotly.express as px
+import plotly.graph_objects as go
+
+# Bank Data is preped in excel for now, (model still in progress)
+
+df = pd.read_csv('https://raw.githubusercontent.com/Michel-A-Gonzalez/BeyondEco/main/UHCU%20Spendings%202022.csv')
+
+# converst all dates into datetime object 
+
+df['Post Date'] = df['Post Date'].apply(lambda x : pd.to_datetime(x, format="%m/%d/%Y"))
+
+df = df.rename(columns = {'Post Date' : 'Date'})
+
+# aggregates data into weekly sums to report profits and loss
+
+weekly = df.set_index('Date').resample('W').sum()
+
+weekly['Profit'] = weekly['Credit'] - weekly['Debit']
+
+weekly = weekly.reset_index()
+
+# aggregates data into monthly sums to report profits and loss
+
+monthly = df.set_index('Date').resample('M').sum()
+
+monthly['Profit'] = monthly['Credit'] - monthly['Debit']
+
+monthly = monthly.reset_index()
+
+# aggregates data into personal expenditures per card and per category
+
+personal_sep = df[df['Transaction Type'] == 'P']
+
+personal_sep = personal_sep.groupby(by = ['Card', 'Purchase Type']).sum().reset_index()
+
+# aggregates data into total personal expeditures per category
+
+personal_com = df[df['Transaction Type'] == 'P']
+
+personal_com = personal_com.groupby(by = ['Purchase Type']).sum().reset_index()
+
+# aggregates data to see the average business costs per category
+
+business_com = df[df['Transaction Type'] == 'B']
+
+business_com = business_com[business_com['Purchase Type'] != 'Deposit']
+
+# business_com = business_com[(business_com['Date'] >= '8/1/2022') & (business_com['Date'] <= '8/31/2022')]
+
+business_com = business_com.groupby(by = ['Purchase Type']).sum().reset_index()
+
+all = df[df['Purchase Type'] != 'Deposit']
+
+all = all[(all['Date'] >= '8/1/2022') & (all['Date'] <= '8/31/2022')]
+
+all = all.groupby(by = ['Purchase Type']).sum().reset_index()
+
+rev_cost_w = go.Figure()
+
+rev_cost_w.add_trace(go.Bar(x = weekly['Date'],
+                            y = weekly['Credit'],
+                            marker_color = 'lightgreen',
+                            marker_line_color = 'darkgreen',
+                            opacity = 0.75,
+                            name = 'Credit'
+                           )
+)
+
+rev_cost_w.add_trace(go.Bar(x = weekly['Date'],
+                            y = weekly['Debit'],
+                            marker_color = 'red',
+                            marker_line_color = 'darkred',
+                            opacity = 0.75,
+                            name = 'Debit'
+                           )
+)
+
+rev_cost_w.update_traces(texttemplate = '%{y:$.2s}',
+                         textposition = 'outside'
+)
+
+rev_cost_w.update_layout(title = 'Weekly Revenue and Cost',
+                         xaxis_title = 'Date',
+                         yaxis_title = 'Dollars ($)'
+)
+
+profit_w = go.Figure()
+
+profit_w.add_trace(go.Bar(x = weekly['Date'],
+                          y = weekly['Profit'],
+                          marker_color = 'lightblue',
+                          marker_line_color = 'darkblue',
+                          opacity = 0.75,
+                          name = 'Profit'
+                         )
+)
+
+profit_w.update_traces(texttemplate = '%{y:$.2s}',
+                       textposition = 'outside'
+                      )
+
+profit_w.add_trace(go.Scatter(x = weekly['Date'],
+                              y = weekly['Profit'],
+                              mode = 'lines',
+                              marker_color = 'darkblue',
+                              name = 'Profits'
+                             )
+)
+
+profit_w.update_layout(title = 'Weekly Profits',
+                       xaxis_title = 'Date',
+                       yaxis_title = 'Dollars ($)'
+)
+
+rev_cost_m = go.Figure()
+
+rev_cost_m.add_trace(go.Bar(x = monthly['Date'],
+                            y = monthly['Credit'],
+                            marker_color = 'lightgreen',
+                            marker_line_color = 'darkgreen',
+                            opacity = 0.75,
+                            name = 'Credit'
+                           )
+)
+
+rev_cost_m.add_trace(go.Bar(x = monthly['Date'],
+                            y = monthly['Debit'],
+                            marker_color = 'red',
+                            marker_line_color = 'darkred',
+                            opacity = 0.75,
+                            name = 'Debit'
+                           )
+)
+
+rev_cost_m.update_traces(texttemplate = '%{y:$.2s}',
+                         textposition = 'outside')
+
+rev_cost_m.update_layout(title = 'Monthly Revenue and Cost',
+                         xaxis_title = 'Date',
+                         yaxis_title = 'Dollars ($)')
+                         
+profit_m = go.Figure()
+
+profit_m.add_trace(go.Bar(x = monthly['Date'],
+                          y = monthly['Profit'],
+                          marker_color = 'lightblue',
+                          marker_line_color = 'darkblue',
+                          opacity = 0.75,
+                          name = 'Profit'
+                         )
+)
+
+profit_m.update_traces(texttemplate = '%{y:$.2s}',
+                       textposition = 'outside'
+)
+
+profit_m.update_layout(title = 'Monthly Profits',
+                       xaxis_title = 'Date',
+                       yaxis_title = 'Dollars ($)'
+)
+
+profit_m.add_trace(go.Scatter(x = monthly['Date'],
+                              y = monthly['Profit'],
+                              mode = 'lines',
+                              marker_color = 'darkblue',
+                              name = 'Profit'
+                             )
+)
+
+personal_split = px.bar(personal_sep,
+                        x = 'Purchase Type',
+                        y = 'Debit',
+                        color = 'Card',
+                        barmode = 'group',
+                        hover_name = 'Debit'
+)
+
+personal_split.update_traces(texttemplate = '%{y:$.2s}',
+                             textposition = 'outside',
+)
+
+personal_split.update_layout(title = 'Personal Expendures per Card by Category',
+                             xaxis={'categoryorder':'total descending'},
+                             font = dict(size = 14),
+)
+
+personal_tot = px.bar(personal_com,
+                      x = 'Purchase Type',
+                      y = 'Debit',
+                      barmode = 'stack',
+                      hover_name = 'Debit'
+)
+
+personal_tot.update_traces(texttemplate = '%{y:$.2s}',
+                           textposition = 'outside',
+)
+
+personal_tot.update_layout(title = 'Personal Expendures by Category',
+                           xaxis={'categoryorder':'total descending'},
+                           font = dict(size = 14),
+)
+
+business_tot = px.bar(business_com,
+                      x = 'Purchase Type',
+                      y = 'Debit',
+                      hover_name = 'Debit'
+)
+
+business_tot.update_traces(texttemplate = '%{y:$.2s}',
+                           textposition = 'outside'
+)
+
+business_tot.update_layout(title = 'Business Expendures by Category',
+                           xaxis={'categoryorder':'total descending'},
+                           font = dict(size = 14)
+)
+
+all_tot = px.bar(all,
+                 x = 'Purchase Type',
+                 y = 'Debit',
+                 hover_name = 'Debit'
+)
+
+all_tot.update_traces(texttemplate = '%{y:$.2s}',
+                           textposition = 'outside'
+)
+
+all_tot.update_layout(title = 'All Expendures by Category',
+                           xaxis={'categoryorder':'total descending'},
+                           font = dict(size = 14)
+)
+
+rev_cost_w.show()
+profit_w.show()
+
+rev_cost_m.show()
+profit_m.show()
+
+personal_split.show()
+personal_tot.show()
+
+business_tot.show()
+
+all_tot.show()
