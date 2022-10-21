@@ -1,0 +1,816 @@
+import pandas as pd
+import numpy as np
+import plotly.graph_objects as go
+import plotly.express as px
+
+# Chosen model
+from sklearn import tree
+
+# Needed preprocessing objects
+from sklearn.preprocessing import OrdinalEncoder
+from sklearn.model_selection import GridSearchCV
+from sklearn.pipeline import Pipeline
+from sklearn.model_selection import train_test_split
+
+# Used to check accuracy of model
+from sklearn.metrics import accuracy_score
+
+# List of special characters to delete from Descriptions
+
+special_char = ["'",
+                '.',
+                '!'
+]
+
+# needed UHCU cards to keep track of individual spenfing behaviour
+
+uchu_cards = ['0718 M',
+              '3341 M',
+              '4969 M',
+              '0001 M',
+              '2675 M',
+              '2272 M',
+]
+
+# Used to referecne the card number in the algorithm
+
+cards_number = ['0718',
+                '3341',
+                '4969',
+                '0001',
+                '2675',
+                '2272'
+]
+
+# Name of each company we have a transaction with
+
+Descriptions = ['7-Eleven',
+                'A & A AutoMechanic',
+                'ABC Home',
+                'ADP',
+                'AT&T',
+                'AT&amp;T',
+                'ATM',
+                'ATT',
+                'AVR',
+                'Academy Sports',
+                'Adobe AcroPro',
+                'Advance Auto',
+                'Aggieland',
+                'Alamo Specialty Pharmacy',
+                'AllState',
+                'Ally',
+                'Amazon',
+                'American Bolt',
+                'American Gen',
+                'American Gen Life',
+                'Amex',
+                'Amzn',
+                'Aplus Outdoor',
+                'Apple',
+                'Atmos Energy',
+                'Audible',
+                'Austin Bergstorm',
+                'Austin Family Medicine',
+                'Austin Tire Man',
+                'Austin rent Way',
+                'Austin-Bergstrom',
+                'Automechanic',
+                'BBB',
+                'BBQ',
+                'BCBS Health',
+                'BKAmerica',
+                'Barton Creek Soccer',
+                'Batteries Plus',
+                'Bella Sera',
+                'Blaze Pizza',
+                'Bolt',
+                'Breed &amp',
+                "Buc-ee's",
+                'Buenos Aires Cafe',
+                'Burpy Market',
+                'Bushs Chicken',
+                'C Store',
+                'C Store Marble Falls',
+                'CSC Servicework',
+                'CVS',
+                'Capital One',
+                'Caporales Meat',
+                'Car Unlock',
+                'Car Wash',
+                'CareNow',
+                'CefCo',
+                'Champions School',
+                'Charity',
+                'Chase Credit',
+                'Check',
+                'Chevron',
+                'Chick-Fil-A',
+                'China Cafe',
+                'Chipotle',
+                'Cinemark',
+                'Cinepolis',
+                'Circle K',
+                'Citi',
+                'Citizens',
+                'City of Austin',
+                'City of Cedar Park',
+                'City of Leander',
+                'City of San Antonio',
+                'Clip It',
+                'Cookies',
+                'Copper Ridge Market',
+                'Costco',
+                'Crate & Barrel',
+                'Crate &amp',
+                'CrateBarrel',
+                'Cricket',
+                'Crime Rec',
+                'Culligan',
+                'Custom Trailers',
+                'DSW Cedar Park',
+                'Dairy Queen',
+                'DashPass',
+                'Deposit',
+                'Derm Partners',
+                'Discount Tire',
+                'Discover',
+                'Dog Waste Depot',
+                'Dollar-General',
+                'Doordash',
+                'DutchBros',
+                'El Pollo Rico',
+                'El Rancho',
+                'El Rinconcito',
+                'Estancia Brazilian',
+                'Expedia',
+                'Express Food',
+                'ExxonMobil',
+                'FWB Cedar Park',
+                'FYF',
+                'Fajita Petes',
+                'Farmers',
+                'Fee',
+                'Fees',
+                'Financial Pacif',
+                'Fish Daddys',
+                'Fncl Pacific',
+                'Fortiva',
+                'Fuel Maxx',
+                'Gattis Pizza',
+                "Gig'em Food",
+                'Glorias Restaurant',
+                'Grainger',
+                'Guaco Taco',
+                'Gusto',
+                'H & R Grocery',
+                'H Food Mart',
+                'H-E-B #',
+                'H-E-B Gas',
+                'H-E-B Online',
+                'H20 Hand Car Wash',
+                'Harmony Dental',
+                'Health Care Serv',
+                'HiTechPower',
+                'Home DePot',
+                'Hopdoddy',
+                'Hp Instant Ink',
+                'Humana',
+                'IH 35 Lots',
+                'IRS',
+                'In N Out',
+                'Innovative Urgent Care',
+                'Instant Ink',
+                'Intuit',
+                'Jack Brown Cleaners',
+                'Jiffy Lube',
+                'Jimmy Johns',
+                'Juanitas College',
+                'Kerbey Lane Cafe',
+                'Kim Paper',
+                'Kristy R. Cortez',
+                'Kristy R. Cortez',
+                'LSCC Seton',
+                'La Chaparita',
+                'La Chaparrita Meat',
+                'La Margarita',
+                'La Mexicana',
+                'Labcorp',
+                'Lake Austin',
+                'Lake Line Food',
+                'Lake Line Food',
+                'LakeLine Xpress Mart',
+                'Lambs Tire',
+                'Landfill',
+                'Laundry',
+                'Laundry & Dry',
+                'Laz Parking',
+                'Leander Express Lube',
+                'Leander ISD',
+                'Leander Stores',
+                'Left Hand Design',
+                'LendingClub',
+                'Lincoln NatLife',
+                'Llano Co',
+                'Loan 00',
+                'Loan 02',
+                'LongHorn Trailers',
+                'Lotus Hunan',
+                "Lowe's",
+                'Lowes',
+                "Luby's",
+                'Lupe Tortilla',
+                'M Vince Nail Spa',
+                'MCW308-WHiteStone',
+                'MDVIP',
+                "McDonald's",
+                'Mi Tiendita',
+                'Mi Tradicion',
+                'Microsoft',
+                'Mighty Fine Burgers',
+                'Mod Pizza',
+                'Msft',
+                'Municipal Online Payments',
+                'Murphy Express',
+                'NWS 2nd Street',
+                'National Bank',
+                'Navient',
+                'NinaBerenato',
+                'Northern Tool',
+                "O'Reilly Auto Parts",
+                "O'Rielly Auto",
+                'OBGYN',
+                'Office DePot',
+                'Office Max',
+                'Oil Changers',
+                'P. Terrys',
+                'ParkWhiz',
+                'Pedernales Elect',
+                'Pharmacy',
+                'PintHouse Pizza',
+                'Pizza Hut',
+                'Poco Loco',
+                'Popeyes',
+                'Pro Serve Ent',
+                'QT',
+                'Quinta Caoirales Meat',
+                'R Grocery',
+                'RBFCU',
+                "Raising Cane's",
+                'Randall Fuel',
+                'Randalls',
+                'Real Estate',
+                'Refuel',
+                'Renken Dentistry',
+                'RMA Toll',
+                'Rockdale Valero',
+                'Rosas Cafe',
+                'S and S Computer',
+                'SP Choice',
+                'Diamond',
+                'Platinum Research',
+                'Safe and Lock',
+                'SaltGrass',
+                'Sams Club',
+                'Samsclub',
+                'Sana Vida Wellness',
+                'Shell Oil',
+                'Shell Service',
+                'Short Stop',
+                'Sky Asian Fusion',
+                'Smalls',
+                'Snack Vending',
+                'Soda Snack vendign Austin',
+                'Star Stop',
+                'Sunoco',
+                'Surf and Turf',
+                'Syncb Payment',
+                'TAMU',
+                'Taco Bell',
+                'Taco Blvd',
+                'Taco Cabana',
+                'Taqueria',
+                'Taquitos West',
+                'Target',
+                'Tasco Auto',
+                'Tax',
+                'Tennant Company',
+                'Texaco',
+                'Texas Hone',
+                'Texas Mutual',
+                'Texas Roadhouse',
+                'TexasGasService',
+                'The Cromeens Law',
+                'The Garden',
+                'The Guardian',
+                'Thrall Food',
+                "Tiff's Treats",
+                'Tires.com-online-orde',
+                'Transfer to share 00',
+                'Travis Co WCID No 10',
+                'TxTag',
+                'UPS Store',
+                'USCraft LLC',
+                'USP Store',
+                'Unpaid',
+                'Urgent Care',
+                'UrgentCare',
+                'Vazquez Tacos',
+                'Venmo',
+                'Vivint',
+                'Wal-Mart',
+                'Walgreens',
+                'Walmart',
+                'Wells Fargo',
+                'WhatABurger',
+                'Whittlesey',
+                'WholFds',
+                'Wholefds',
+                'Williamson Co',
+                'WingStop',
+                'Wm Supercenter',
+]
+
+purch_type = {'7-Eleven':'Gas',
+              'A Plus Outdoor':'Recreational',
+              'ABC Home':'Professional Services',
+              'ADP':'Tax',
+              'ATM':'Fees',
+              'AVR':'Fees',
+              'Academy Sports':'Recreational',
+              'Adobe AcroPro':'Software',
+              'Advance Auto':'Auto Maintenance',
+              'Aggieland':'Recreational',
+              'Alamo Specialty Pharmacy':'Medical',
+              'AllState':'Insurance',
+              'Ally':'Loan',
+              'Amazon':'Supplies',
+              'American Cookies':'Food',
+              'Amercian General':'Insurance',
+              'American Express':'Credit Card',
+              'Apple':'Software',
+              'At&t':'Phone/Internet',
+              'Austin Bergstrom':'Recreational',
+              'Austin Family Medicine':'Medical',
+              'Austin Tire Man':'Auto Maintenance',
+              'Austin rent Way':'Supplies',
+              'Auto Mechanic':'Auto Maintenance',
+              'BBQ':'Food',
+              'Bank of America':'Credit Card',
+              'Barton Creek Soccer':'Recreational',
+              'Bella Sera':'Food',
+              'Blaze Pizza':'Food',
+              'Blue Cross Blue Shield':'Insurance',
+              'Bolt':'Professional Services',
+              'Buc-ees':'Gas',
+              'Buenos Aires Cafe':'Food',
+              'Burpy Market':'Groceries',
+              'Bushs Chicken':'Food',
+              'C Store':'Gas',
+              'CVS':'Groceries',
+              'Capital One':'Credit Card',
+              'Caporales Meat':'Food',
+              'Car Unlock':'Professional Services',
+              'Car Wash' : 'Auto Maintenance',
+              'CareNow':'Medical',
+              'CefCo':'Gas',
+              'Champions School':'Professional Services',
+              'Charity':'Recreational',
+              'Chase Credit':'Credit Card',
+              'Check':'Labor',
+              'Chevron':'Gas',
+              'Chick-Fil-A':'Food',
+              'China Cafe':'Food',
+              'Chipotle':'Food',
+              'Cinemark':'Recreational',
+              'Cinepolis':'Recreational',
+              'Circle K':'Gas',
+              'Citi':'Credit Card',
+              'City of Austin':'Utilities',
+              'City of Cedar Park':'Utilities',
+              'City of Leander':'Utilities',
+              'City of San Antonio':'Utilities',
+              'Clip It':'Recreational',
+              'Copper Ridge Market':'Groceries',
+              'Costco':'Groceries',
+              'Crate & Barrel':'Credit Card',
+              'Cricket':'Phone/Internet',
+              'Crime Rec':'Professional Services',
+              'Culligan':'Utilities',
+              'DSW Cedar Park':'Recreational',
+              'Dairy Queen':'Food',
+              'DashPass':'Food',
+              'Deposit':'Revenue',
+              'Derm Partners':'Professional Services',
+              'Discount Tire':'Auto Maintenance',
+              'Discover':'Credit Card',
+              'Dog Waste Depot':'Supplies',
+              'Dollar-General':'Supplies',
+              'Doordash':'Food',
+              'Dutch Bros':'Food',
+              'El Pollo Rico':'Food',
+              'El Rancho':'Groceries',
+              'El Rinconcito':'Groceries',
+              'Estancia Brazilian':'Food',
+              'Expedia':'Recreational',
+              'Express Food':'Food',
+              'Exxon Mobil':'Gas',
+              'FWB Cedar Park':'Food',
+              'FYF':'Food',
+              'Fajita Petes':'Food',
+              'Farmers':'Insurance',
+              'Fee':'Fees',
+              'Financial Pacific':'Loan',
+              'Fish Daddys':'Food',
+              'Fortiva':'Loan',
+              'Fuel Maxx':'Gas',
+              'Gigem Food':'Food',
+              'Glorias Restaurant':'Food',
+              'Grainger':'Supplies',
+              'Guaco Taco':'Food',
+              'Gusto':'Tax',
+              'H Food Mart':'Groceries',
+              'H-E-B #':'Groceries',
+              'H-E-B Gas':'Gas',
+              'H-E-B Online':'Groceries',
+              'H20 Hand Car Wash':'Auto Maintenance',
+              'Harmony Dental':'Medical',
+              'Health Care Serv':'Insurance',
+              'HiTechPower':'Professional Services',
+              'Home DePot':'Supplies',
+              'Hopdoddy':'Food',
+              'Hp Ink':'Supplies',
+              'Humana':'Insurance',
+              'IH 35 Lots':'Recreational',
+              'IRS':'Tax',
+              'In N Out':'Food',
+              'Innovative Urgent Care':'Medical',
+              'Jack Brown Cleaners':'Professional Services',
+              'Jiffy Lube':'Auto Maintenance',
+              'Jimmy Johns':'Food',
+              'Kerbey Lane Cafe':'Food',
+              'Kim Paper':'Supplies',
+              'Kristy R Cortez':'Professional Services',
+              'La Chaparita':'Groceries',
+              'La Margarita':'Food',
+              'La Mexicana':'Food',
+              'Lake Austin':'Recreational',
+              'Lake Line Food':'Food',
+              'LakeLine Xpress Mart':'Groceries',
+              'Lambs Tire':'Auto Maintenance',
+              'Landfill':'Professional Services',
+              'Laundry':'Professional Services',
+              'Leander Express Lube':'Auto Maintenance',
+              'Leander ISD':'Recreational',
+              'Left Hand Design':'Recreational',
+              'LendingClub':'Loan',
+              'Lincoln Natural':'Insurance',
+              'Loan 00':'Loan',
+              'Loan 02':'Loan',
+              'LongHorn Trailers':'Supplies',
+              'Lotus Hunan':'Food',
+              'Lowes':'Supplies',
+              'Lubys':'Food',
+              'Lupe Tortilla':'Food',
+              'M Vince Nail Spa':'Professional Services',
+              'MCW308-WHiteStone':'Grocereis',
+              'MDVIP':'Medical',
+              'McDonalds':'Food',
+              'Mi Tiendita':'Groceries',
+              'Mi Tradicion':'Food',
+              'Microsoft':'Software',
+              'Mighty Fine Burgers':'Food',
+              'Mod Pizza':'Food',
+              'Municipal Online Payments':'Fees',
+              'Murphy Express':'Gas',
+              'Navient':'Loan',
+              'NinaBerenato':'Recreational',
+              'Northern Tool':'Supplies',
+              'O Rielly Auto':'Auto Maintenance',
+              'OBGYN':'Medical',
+              'Office DePot':'Supplies',
+              'Office Max':'Supplies',
+              'Oil Changers':'Gas',
+              'P Terrys':'Food',
+              'ParkWhiz':'Recreational',
+              'Pedernales Elect':'Utilities',
+              'PintHouse Pizza':'Food',
+              'Pizza Hut':'Food',
+              'Popeyes':'Food',
+              'Pro Serve Ent':'Supplies',
+              'QT':'Gas',
+              'R Grocery':'Groceries',
+              'Raising Canes':'Food',
+              'Randall Fuel':'Gas',
+              'Randalls':'Groceries',
+              'Real Estate':'Recreational',
+              'Renken Dentistry':'Medical',
+              'Rockdale Valero':'Gas',
+              'Rosas Cafe':'Food',
+              'S and S Computer':'Professional Services',
+              'Safe and Lock':'Professional Services',
+              'SaltGrass':'Food',
+              'Sams Club':'Groceries',
+              'Sana Vida Wellness':'Medical',
+              'Shell Oil':'Gas',
+              'Shell Service':'Auto Maintenance',
+              'Short Stop':'Food',
+              'Sky Asian Fusion':'Food',
+              'Smalls':'Food',
+              'Snack Vending':'Food',
+              'Star Stop':'Recreational',
+              'Sunoco':'Professional Services',
+              'Surf and Turf':'Food',
+              'Syncb Payment':'Credit Card',
+              'TAMU':'Recreational',
+              'Taco Bell':'Food',
+              'Taco Blvd':'Food',
+              'Taco Cabana':'Food',
+              'Taqueria':'Food',
+              'Target':'Recreational',
+              'Tax':'Tax',
+              'Tennant Company':'Supplies',
+              'Texaco':'Gas',
+              'Texas Gas':'Utilities',
+              'Texas Honey Ham':'Food',
+              'Texas Mutual':'Insurance',
+              'Texas Roadhouse':'Food',
+              'Texas Tag':'Supplies',
+              'The Cromeens Law':'Professional Services',
+              'The Garden':'Food',
+              'The Guardian':'Insurance',
+              'Thrall Food':'Food',
+              'Tiffs Treats':'Food',
+              'Tires':'Auto Maintenance',
+              'UPS Store':'Professional Services',
+              'USCraft LLC':'Supplies',
+              'Urgent Care':'Medical',
+              'Vazquez Tacos':'Food',
+              'Vivint':'Software',
+              'Walgreens':'Groceries',
+              'Walmart':'Groceries',
+              'Water Service':'Utilities',
+              'Wells Fargo':'Credit Card',
+              'WhatABurger':'Food',
+              'Whittlesey':'Supplies',
+              'Whole Foods':'Food',
+              'Williamson Co':'Professional Services',
+              'WingStop':'Food',
+              'withdrawal cash':'Withdrawal',
+              'withdrawal courtesy pay-ach':'Fees',
+              'Samsclub':'Groceries',
+              'Venmo':'Withdrawal',
+              'Diamond':'Supplies',
+              'Poco Loco':'Food',
+              'Laz Parking':'Recreational',
+              'NWS 2nd Street':'Food',
+              'Juanitas College':'Food',
+              'Taquitos West':'Food',
+              'Breed &amp':'Supplies',
+              'Platinum Research':'Medical',
+}
+
+trans_type = {'Auto Maintenance':'B',
+              'Credit Card':'B',
+              'Fees':'B',
+              'Food':'P',
+              'Gas':'B',
+              'Groceries':'P',
+              'Insurance':'B',
+              'Labor':'B',
+              'Loan':'B',
+              'Medical':'P',
+              'Phone/Internet':'B',
+              'Professional Services':'B',
+              'Recreational':'P',
+              'Revenue':'B',
+              'Software':'B',
+              'Supplies':'B',
+              'Tax':'B',
+              'Utilities':'P',
+              'Withdrawal':'B',
+}
+
+monthly = { 'Auto Maintenance':'N',
+            'Credit Card':'Y',
+            'Fees':'N',
+            'Food':'N',
+            'Gas':'N',
+            'Groceries':'N',
+            'Insurance':'Y',
+            'Labor':'Y',
+            'Loan':'N',
+            'Medical':'N',
+            'Phone/Internet':'Y',
+            'Professional Services':'N',
+            'Recreational':'N',
+            'Revenue':'Y',
+            'Software':'Y',
+            'Supplies':'N',
+            'Tax':'Y',
+            'Utilities':'Y',
+            'Withdrawal':'N',
+}
+
+# Accesses the non modefied banking information from 04/01/2022 to 09/19/2022
+
+df = pd.read_csv('https://raw.githubusercontent.com/Michel-A-Gonzalez/BeyondEco/main/Banking%20Data%20UHCU.csv')
+
+df = df[df['Credit'] != 0].reset_index(drop = True)
+
+# Drops uncessecary columns
+
+df = df.drop(columns = ['Account Number', 'Check', 'Status', 'Balance'])
+
+# Gets the cards columns from the descriptions
+
+for i in range(0, len(uchu_cards)):
+
+  df.loc[df['Description'].str.contains(uchu_cards[i]), 'Cards'] = cards_number[i]
+
+# needed to replace the 2272 card with 3341
+
+df.loc[(df['Cards'] == '2272'), 'Cards'] = '3341'
+
+df = df.fillna(0)
+
+df['Description'] = df['Description'].str.lower()
+
+df['Description'] = df['Description'].apply(lambda x: x.replace("*",''))
+
+df['Description'] = df['Description'].apply(lambda x: x.replace("/",' '))
+
+for i in range(0, len(Descriptions)):
+  
+  df.loc[df['Description'].str.contains(Descriptions[i].lower()), 'Description'] = Descriptions[i]
+
+for i in des_dic.keys():
+
+  df.loc[df['Description'].str.contains(i), 'Description'] = des_dic[i]
+
+df['Description'] = df['Description'].apply(lambda x: x.replace("'",''))
+
+df['Description'] = df['Description'].apply(lambda x: x.replace(".",''))
+
+for i in purch_type.keys():
+
+  df.loc[df['Description'].str.contains(i), 'Purchase Type'] = purch_type[i]
+
+for i in trans_type.keys():
+
+  df.loc[df['Purchase Type'].str.contains(i), 'Transaction Type'] = trans_type[i]
+
+for i in trans_type.keys():
+
+  df.loc[df['Purchase Type'].str.contains(i), 'Monthly'] = monthly[i]
+  
+X = df[['Description']]
+
+y = df[['Purchase Type']]
+
+encoder = OrdinalEncoder()
+
+X = encoder.fit_transform(X)
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25)
+
+clf = tree.DecisionTreeClassifier(criterion = 'entropy',max_depth=15)
+
+clf.fit(X_train, y_train)
+
+y_pred = clf.predict(X_test)
+
+accuracy_score(y_test, y_pred)
+
+# Validator
+
+pipe = Pipeline(steps = [
+                        #  ('scale', StandardScaler()),
+                         ('model', clf),
+                        ]
+                )
+
+
+depth = [i for i in range(1,41)]
+
+model = GridSearchCV(estimator = pipe,
+                     param_grid ={'model__max_depth' : depth},
+                     cv = 10
+             )
+
+model.fit(X_train, y_train)
+
+mod_df = pd.DataFrame(model.cv_results_)
+
+fig = go.Figure()
+
+fig.add_traces(go.Scatter(x = mod_df['param_model__max_depth'],
+                          y = mod_df['mean_test_score'],
+                          mode = 'lines+markers',
+                          marker_color = 'darkgreen',
+                          )
+)
+
+fig.update_layout(xaxis_title = 'Max Depth',
+                  yaxis_title = 'Mean Score',
+                  title = 'Decision Tree validation',
+)
+
+new_df = pd.read_csv('https://raw.githubusercontent.com/Michel-A-Gonzalez/BeyondEco/main/AccountHistory.csv')
+
+new_df
+
+new_df = new_df[new_df['Credit'] != 0].reset_index(drop = True)
+
+# Drops uncessecary columns
+
+new_df = new_df.drop(columns = ['Account Number', 'Check', 'Status', 'Balance'])
+
+# Gets the cards columns from the descriptions
+
+for i in range(0, len(uchu_cards)):
+
+  new_df.loc[new_df['Description'].str.contains(uchu_cards[i]), 'Cards'] = cards_number[i]
+
+# needed to replace the 2272 card with 3341
+
+new_df.loc[(new_df['Cards'] == '2272'), 'Cards'] = '3341'
+
+new_df = new_df.fillna(0)
+
+new_df['Description'] = new_df['Description'].str.lower()
+
+new_df['Description'] = new_df['Description'].apply(lambda x: x.replace("*",''))
+
+new_df['Description'] = new_df['Description'].apply(lambda x: x.replace("/",' '))
+
+for i in range(0, len(Descriptions)):
+  
+  new_df.loc[new_df['Description'].str.contains(Descriptions[i].lower()), 'Description'] = Descriptions[i]
+
+for i in des_dic.keys():
+
+  new_df.loc[new_df['Description'].str.contains(i), 'Description'] = des_dic[i]
+
+new_df['Description'] = new_df['Description'].apply(lambda x: x.replace("'",''))
+
+new_df['Description'] = new_df['Description'].apply(lambda x: x.replace(".",''))
+
+X_new = new_df[['Description']]
+
+X_new = X_new.loc[~X_new['Description'].isin(['Breed &amp', 'RMA Toll', 'SP Choice', 
+                                              'Taquitos West', 'Venmo', 'National Bank', 
+                                              'Refuel', 'Laz Parking', 'NWS 2nd Street', 
+                                              'CSC Servicework', 'Leander Stores', 'Custom Trailers', 
+                                              'Llano Co', 'Samsclub', 'SQ Diamond', 'Labcorp', 
+                                              'BBB', 'Pharmacy', 'Tasco Auto', 'LSCC Seton', 
+                                              'Poco Loco', 'SQ Platinum', 'Juanitas College'])
+]
+
+X_new = encoder.transform(X_new)
+
+purchase_type = clf.predict(X_new)
+
+new_purch = new_df.loc[~new_df['Description'].isin([ 'Breed &amp', 'RMA Toll', 'SP Choice', 
+                                                  'Taquitos West', 'Venmo', 'National Bank', 
+                                                  'Refuel', 'Laz Parking', 'NWS 2nd Street', 
+                                                  'CSC Servicework', 'Leander Stores', 'Custom Trailers', 
+                                                  'Llano Co', 'Samsclub', 'SQ Diamond', 'Labcorp', 
+                                                  'BBB', 'Pharmacy', 'Tasco Auto', 'LSCC Seton', 
+                                                  'Poco Loco', 'SQ Platinum', 'Juanitas College'
+                                                  ]
+                                                )
+]
+
+missing_purch = new_df.loc[new_df['Description'].isin([ 'Breed &amp', 'RMA Toll', 'SP Choice', 
+                                                  'Taquitos West', 'Venmo', 'National Bank', 
+                                                  'Refuel', 'Laz Parking', 'NWS 2nd Street', 
+                                                  'CSC Servicework', 'Leander Stores', 'Custom Trailers', 
+                                                  'Llano Co', 'Samsclub', 'SQ Diamond', 'Labcorp', 
+                                                  'BBB', 'Pharmacy', 'Tasco Auto', 'LSCC Seton', 
+                                                  'Poco Loco', 'SQ Platinum', 'Juanitas College'
+                                                  ]
+                                                )
+]
+
+new_purch['Purchase Type'] = purchase_type
+
+for i in trans_type.keys():
+
+  new_purch.loc[new_purch['Purchase Type'].str.contains(i), 'Transaction Type'] = trans_type[i]
+
+for i in trans_type.keys():
+
+  new_purch.loc[new_purch['Purchase Type'].str.contains(i), 'Monthly'] = monthly[i]
+  
+new_df = df.append(new_purch)
+
+new_df = new_df.append(missing_purch)
+
+new_df['Post Date'] = new_df['Post Date'].apply(lambda x : pd.to_datetime(x, format="%m/%d/%Y"))
+
+new_df = new_df.sort_values(by='Post Date').reset_index(drop=True)
+
+new_df.value_counts('Purchase Type')
+
+new_df.to_excel('output.xlsx')
