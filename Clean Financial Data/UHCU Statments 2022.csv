@@ -1,733 +1,1429 @@
 Post Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
-4/1/2022,Fee,34,0,0,Fees,B,N
-4/1/2022,Austin Bergstrom,5,0,0,Recreational,P,N
-4/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
-4/1/2022,Doordash,33.97,0,0,Food,P,N
-4/1/2022,Home DePot,41.03,0,0,Supplies,B,N
-4/1/2022,Navient,204.9,0,0,Loan,B,N
-4/1/2022,Texas Honey Ham,46.44,0,0,Food,P,N
-4/2/2022,Citi,63.76,0,0,Credit Card,B,Y
-4/3/2022,7-Eleven,27.04,0,2675,Gas,B,N
-4/3/2022,O Rielly Auto,7.03,0,2675,Auto Maintenance,B,N
-4/3/2022,Landfill,168.5,0,2675,Professional Services,B,N
-4/3/2022,7-Eleven,100,0,2675,Gas,B,N
-4/4/2022,Capital One,100,0,0,Credit Card,B,Y
-4/4/2022,Deposit,0,608.3,0,Revenue,B,Y
-4/4/2022,Bank of America,877.05,0,0,Credit Card,B,Y
-4/4/2022,Check,1000,0,0,Labor,B,Y
-4/5/2022,Apple,2.99,0,0,Software,B,Y
-4/5/2022,Deposit,0,1190.75,0,Revenue,B,Y
-4/5/2022,Check,1408,0,0,Labor,B,Y
-4/5/2022,Deposit,0,6495,0,Revenue,B,Y
-4/5/2022,City of Austin,132.78,0,0,Utilities,P,Y
-4/5/2022,Fee,18.33,0,0,Fees,B,N
-4/5/2022,Austin rent Way,157.8,0,0,Supplies,B,N
-4/5/2022,Check,3478,0,0,Labor,B,Y
-4/5/2022,Amercian General,44.54,0,0,Insurance,B,Y
-4/5/2022,Deposit,0,497.95,0,Revenue,B,Y
-4/5/2022,Deposit,0,497.95,0,Revenue,B,Y
-4/5/2022,Farmers,1005.33,0,0,Insurance,B,Y
-4/5/2022,Walgreens,30.06,0,4969,Groceries,P,N
-4/5/2022,Check,2620,0,0,Labor,B,Y
-4/6/2022,Randalls,81.32,0,0,Groceries,P,N
-4/6/2022,Deposit,0,1995.13,0,Revenue,B,Y
-4/6/2022,LakeLine Xpress Mart,11.14,0,0,Groceries,P,N
-4/6/2022,Chevron,2.57,0,0,Gas,B,N
-4/6/2022,CareNow,45,0,0,Medical,P,N
-4/7/2022,Amercian General,60.11,0,0,Insurance,B,Y
-4/7/2022,Randalls,10.49,0,2675,Groceries,P,N
-4/7/2022,Texas Tag,40,0,0,Supplies,B,N
-4/7/2022,Home DePot,6.47,0,0,Supplies,B,N
-4/7/2022,City of Cedar Park,259.37,0,0,Utilities,P,Y
-4/7/2022,Check,892.5,0,0,Labor,B,Y
-4/7/2022,Fee,34,0,0,Fees,B,N
-4/8/2022,7-Eleven,10.85,0,718,Gas,B,N
-4/8/2022,Home DePot,50,0,0,Supplies,B,N
-4/8/2022,Whittlesey,64,0,0,Supplies,B,N
-4/8/2022,The Cromeens Law,75,0,0,Professional Services,B,N
-4/8/2022,Star Stop,125,0,0,Recreational,P,N
-4/8/2022,Popeyes,28.22,0,0,Food,P,N
-4/9/2022,Whittlesey,52.8,0,0,Supplies,B,N
-4/9/2022,Whittlesey,52.8,0,0,Supplies,B,N
-4/9/2022,Texas Tag,40,0,0,Supplies,B,N
+10/5/2022,ATM,100,0,0,Fees,B,N
+11/1/2022,ATM,1,0,0,Fees,B,N
+11/1/2022,ATM,200,0,0,Fees,B,N
+11/1/2022,ATM,43,0,0,Fees,B,N
+11/11/2022,ATM,1,0,0718,Fees,B,N
+11/11/2022,ATM,503.5,0,0718,Fees,B,N
+4/16/2022,ATM,23,0,0,Fees,B,N
+10/12/2022,Burpy Market,59.32,0,0,Groceries,P,N
+10/9/2022,Adobe AcroPro,16.23,0,718,Software,B,Y
+11/1/2022,ABC Home,136.41,0,0,Professional Services,B,N
+4/16/2022,ATM,1,0,0,Fees,B,N
+10/31/2022,AllState,1807.33,0,1,Insurance,B,Y
+10/14/2022,Burpy Market,37.06,0,0,Groceries,P,N
+10/31/2022,Burpy Market,26.5,0,0,Groceries,P,N
+11/9/2022,Adobe AcroPro,16.23,0,0718,Software,B,Y
 4/9/2022,Adobe AcroPro,16.23,0,1,Software,B,Y
-4/11/2022,Loan 02,447.78,0,0,Loan,B,N
-4/11/2022,Blue Cross Blue Shield,174.2,0,0,Insurance,B,Y
-4/11/2022,Fee,145.33,0,0,Fees,B,N
-4/11/2022,Deposit,0,4259.87,0,Revenue,B,Y
-4/12/2022,Check,2050,0,0,Labor,B,Y
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Check,1442.5,0,0,Labor,B,Y
+10/10/2022,Amazon,26.58,0,0,Supplies,B,N
+10/11/2022,Amazon,14.97,0,0,Supplies,B,N
+10/5/2022,Burpy Market,51.32,0,0,Groceries,P,N
+8/13/2022,BBQ,178.62,0,0,Food,P,N
+8/22/2022,Burpy Market,43.18,0,0,Groceries,P,N
+6/18/2022,Bella Sera,200.27,0,0,Food,P,N
+5/11/2022,Adobe AcroPro,16.23,0,1,Software,B,Y
+6/9/2022,Adobe AcroPro,16.23,0,1,Software,B,Y
+7/9/2022,Adobe AcroPro,16.23,0,1,Software,B,Y
+10/11/2022,7-Eleven,120.33,0,2675,Gas,B,N
+10/14/2022,7-Eleven,44.97,0,718,Gas,B,N
+10/11/2022,American Express,398,0,0,Credit Card,B,Y
+10/26/2022,Amazon,62.9,0,0,Supplies,B,N
+10/7/2022,Amazon,389.2,0,0,Supplies,B,N
+10/27/2022,Ally,509.98,0,0,Loan,B,N
+11/17/2022,Amazon,145.98,0,0,Supplies,B,N
+10/8/2022,Copper Ridge Market,18.78,0,0,Groceries,P,N
+7/20/2022,ABC Home,136.35,0,0,Professional Services,B,N
+9/14/2022,Bolt,56.07,0,0,Professional Services,B,N
+7/1/2022,Blue Cross Blue Shield,0,33.25,0,Revenue,B,Y
+5/13/2022,Copper Ridge Market,73.97,0,0,Groceries,P,N
+7/19/2022,Blue Cross Blue Shield,0,388.1,0,Revenue,B,Y
+7/19/2022,Blue Cross Blue Shield,0,1407.74,0,Revenue,B,Y
+9/20/2022,ATM,300,0,0,Withdrawal,B,N
+7/19/2022,Blue Cross Blue Shield,0,1407.74,0,Revenue,B,Y
+5/20/2022,Amazon,159.6,0,0,Supplies,B,N
+10/24/2022,American Express,329,0,0,Credit Card,B,Y
+10/31/2022,Costco,11.3,0,0,Groceries,P,N
+5/20/2022,Amazon,309.67,0,0,Supplies,B,N
+4/15/2022,ADP,64.93,0,0,Tax,B,Y
+11/10/2022,Costco,27.6,0,2675,Groceries,P,N
+10/14/2022,7-Eleven,40.2,0,2675,Gas,B,N
+5/24/2022,Costco,57.77,0,718,Groceries,P,N
+4/19/2022,AllState,655.76,0,0,Insurance,B,Y
+8/14/2022,Costco,246.01,0,0,Groceries,P,N
+7/19/2022,Blue Cross Blue Shield,0,866.28,0,Revenue,B,Y
+4/27/2022,Ally,509.98,0,0,Loan,B,N
+11/16/2022,Venmo,300,0,0,Withdrawal,B,N
+10/14/2022,7-Eleven,40.82,0,3341,Gas,B,N
+10/17/2022,7-Eleven,105.76,0,0,Gas,B,N
+4/29/2022,Blaze Pizza,58.29,0,0,Food,P,N
+4/19/2022,AllState,75.73,0,0,Insurance,B,Y
+7/19/2022,Blue Cross Blue Shield,0,174.2,0,Revenue,B,Y
+9/21/2022,Venmo,300,0,0,Withdrawal,B,N
+10/14/2022,Check,671.58,0,0,Labor,B,Y
+10/19/2022,7-Eleven,20.9,0,0,Gas,B,N
+8/2/2022,Blue Cross Blue Shield,0,498.66,0,Revenue,B,Y
+8/17/2022,Amazon,16.18,0,0,Supplies,B,N
+8/22/2022,Amazon,12.98,0,0,Supplies,B,N
+5/21/2022,Blaze Pizza,52.3,0,0,Food,P,N
+10/18/2022,At&t,84.19,0,0,Phone/Internet,B,Y
+10/15/2022,Shell Service,65.09,0,3341,Auto Maintenance,B,N
+4/30/2022,Buenos Aires Cafe,194.16,0,0,Food,P,N
+11/14/2022,A Plus Outdoor,681.96,0,0,Recreational,P,N
+8/18/2022,CVS,25.97,0,0,Groceries,P,N
+8/23/2022,Amazon,145.1,0,0,Supplies,B,N
+9/24/2022,CVS,19.78,0,3341,Groceries,P,N
+10/28/2022,American Express,485.25,0,0,Credit Card,B,Y
+10/17/2022,Check,1584,0,0,Labor,B,Y
+11/14/2022,American Express,398,0,0,Credit Card,B,Y
+10/12/2022,Deposit,0,5893.64,0,Revenue,B,Y
+11/14/2022,American Express,485.26,0,0,Credit Card,B,Y
+10/17/2022,Check,2520,0,0,Labor,B,Y
+10/17/2022,Check,1307.72,0,0,Labor,B,Y
+10/2/2022,7-Eleven,62.64,0,0,Gas,B,N
+10/17/2022,Check,1000,0,0,Labor,B,Y
+11/2/2022,American Express,485.25,0,0,Credit Card,B,Y
+10/17/2022,Check,2325,0,0,Labor,B,Y
+4/20/2022,AllState,86.03,0,0,Insurance,B,Y
+10/17/2022,Check,1472,0,0,Labor,B,Y
+10/18/2022,Check,700,0,0,Labor,B,Y
+10/18/2022,Check,853.14,0,0,Labor,B,Y
+10/18/2022,Check,1094.15,0,0,Labor,B,Y
+10/12/2022,Deposit,0,2048.88,0,Revenue,B,Y
+10/18/2022,Check,650,0,0,Labor,B,Y
+10/18/2022,Check,1160,0,0,Labor,B,Y
+10/18/2022,Check,250,0,0,Labor,B,Y
+10/18/2022,Check,1178.47,0,0,Labor,B,Y
+10/18/2022,Check,277.05,0,0,Labor,B,Y
+4/13/2022,El Rancho,19.14,0,0,Groceries,P,N
+10/20/2022,At&t,80,0,0,Phone/Internet,B,Y
+10/23/2022,7-Eleven,107.8,0,0,Gas,B,N
+8/21/2022,El Rancho,149.37,0,0,Groceries,P,N
+5/31/2022,Ally,509.98,0,0,Loan,B,N
+10/18/2022,Check,1557.67,0,0,Labor,B,Y
+8/31/2022,Amazon,7.57,0,0,Supplies,B,N
+4/14/2022,American Express,3494.16,0,0,Credit Card,B,Y
+9/2/2022,El Rancho,17.34,0,0,Groceries,P,N
+10/25/2022,7-Eleven,58.78,0,718,Gas,B,N
+10/13/2022,Deposit,0,811.88,0,Revenue,B,Y
+4/20/2022,ATM,260,0,4969,Fees,B,N
+4/14/2022,American Express,35,0,0,Credit Card,B,Y
+9/23/2022,Amazon,193.77,0,1,Supplies,B,N
+4/5/2022,Austin rent Way,157.8,0,0,Supplies,B,N
+4/26/2022,El Rinconcito,66.83,0,0,Groceries,P,N
+9/27/2022,Breed &amp,21.64,0,0,Supplies,B,N
+10/19/2022,Check,2411.83,0,0,Labor,B,Y
+10/27/2022,7-Eleven,45.88,0,3341,Gas,B,N
+10/13/2022,Custom Trailers,46.6,0,0,Supplies,B,N
+10/4/2022,Alamo Specialty Pharmacy,25,0,0,Medical,P,N
+10/4/2022,7-Eleven,105.18,0,0,Gas,B,N
+10/4/2022,At&t,20.71,0,4969,Phone/Internet,B,Y
+5/18/2022,AllState,352.23,0,0,Insurance,B,Y
+9/17/2022,Bushs Chicken,27.61,0,0,Food,P,N
+7/16/2022,A Plus Outdoor,777.19,0,0,Recreational,P,N
+10/7/2022,7-Eleven,115.78,0,2675,Gas,B,N
+10/9/2022,7-Eleven,56.34,0,0,Gas,B,N
+11/9/2022,City of Austin,197.21,0,0,Utilities,P,Y
+8/16/2022,A Plus Outdoor,147.12,0,0,Recreational,P,N
+4/18/2022,American Express,449,0,0,Credit Card,B,Y
+10/24/2022,Check,1550,0,0,Labor,B,Y
+10/14/2022,Deposit,0,1426.52,0,Revenue,B,Y
+8/10/2022,Adobe AcroPro,16.23,0,718,Software,B,Y
+5/13/2022,American Express,685.06,0,0,Credit Card,B,Y
+5/4/2022,Caporales Meat,75.42,0,0,Food,P,N
+11/1/2022,7-Eleven,12.44,0,3341,Gas,B,N
+4/26/2022,El Rinconcito,4.33,0,0,Groceries,P,N
+4/26/2022,ATM,1,0,0,Fees,B,N
+10/14/2022,Deposit,0,10568,0,Revenue,B,Y
+4/26/2022,ATM,403,0,0,Fees,B,N
+4/28/2022,ATM,78.86,0,0,Fees,B,N
+4/29/2022,ATM,500,0,3341,Fees,B,N
+9/9/2022,Adobe AcroPro,16.23,0,718,Software,B,Y
+5/13/2022,ATM,400,0,4969,Fees,B,N
+11/1/2022,Alamo Specialty Pharmacy,25,0,0,Medical,P,N
+5/14/2022,ATM,500,0,4969,Fees,B,N
+5/19/2022,ATM,149.73,0,0,Fees,B,N
+5/24/2022,El Rinconcito,63.58,0,0,Groceries,P,N
+9/21/2022,Diamond Rental,81.19,0,0,Supplies,B,N
+10/1/2022,Apple,15.13,0,0,Software,B,Y
+5/21/2022,ATM,42,0,0,Fees,B,N
+8/20/2022,H Food Mart,41.55,0,0,Groceries,P,N
+5/21/2022,ATM,1,0,0,Fees,B,N
+11/15/2022,7-Eleven,48.87,0,0718,Gas,B,N
+5/25/2022,ATM,100,0,0,Fees,B,N
+10/11/2022,Apple,5.4,0,0,Software,B,Y
+5/31/2022,ATM,30.11,0,0,Fees,B,N
+6/11/2022,ATM,500,0,0,Fees,B,N
+6/26/2022,ATM,1,0,0,Fees,B,N
+6/26/2022,ATM,83.25,0,0,Fees,B,N
+6/27/2022,ATM,60,0,0,Fees,B,N
+4/29/2022,ADP,82.42,0,0,Tax,B,Y
+11/15/2022,7-Eleven,46.67,0,3341,Gas,B,N
+6/28/2022,ATM,66.67,0,0,Fees,B,N
+7/26/2022,ATM,120,0,2675,Fees,B,N
+7/27/2022,ATM,40,0,0,Fees,B,N
+8/27/2022,ATM,500,0,0,Fees,B,N
+8/3/2022,ATM,100,0,2675,Fees,B,N
+9/13/2022,ATM,343.5,0,718,Fees,B,N
+9/13/2022,ATM,1,0,718,Fees,B,N
+9/16/2022,ATM,120.58,0,0,Fees,B,N
+11/15/2022,7-Eleven,5.61,0,2675,Gas,B,N
+11/15/2022,7-Eleven,34.4,0,2675,Gas,B,N
+10/13/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
+10/10/2022,H-E-B #,9.73,0,0,Groceries,P,N
+10/11/2022,Apple,4.32,0,0,Software,B,Y
+9/23/2022,Diamond Rental,162.38,0,0,Supplies,B,N
+9/27/2022,A Plus Outdoor,371.3,0,0,Recreational,P,N
+7/27/2022,Ally,509.98,0,0,Loan,B,N
+11/16/2022,7-Eleven,47.8,0,0001,Gas,B,N
+10/14/2022,Chick-Fil-A,46.8,0,0,Food,P,N
+10/11/2022,Dog Waste Depot,288.94,0,0,Supplies,B,N
+8/29/2022,Ally,509.98,0,0,Loan,B,N
+10/15/2022,Deposit,0,70.36,0,Revenue,B,Y
+10/28/2022,Shell Service,100,0,2675,Auto Maintenance,B,N
+5/24/2022,American Express,2000,0,0,Credit Card,B,Y
+9/7/2022,A Plus Outdoor,367.07,0,0,Recreational,P,N
+10/24/2022,Apple,7.57,0,0,Software,B,Y
+6/27/2022,Car Unlock,89.82,0,0,Professional Services,B,N
+11/3/2022,7-Eleven,100.85,0,0,Gas,B,N
+11/4/2022,7-Eleven,74.55,0,0,Gas,B,N
+5/24/2022,American Express,1700,0,0,Credit Card,B,Y
+10/3/2022,Check,250,0,0,Labor,B,Y
+9/27/2022,Ally,509.98,0,0,Loan,B,N
+10/17/2022,Deposit,0,5462.83,0,Revenue,B,Y
+10/14/2022,withdrawal cash,300,0,0,Withdrawal,B,N
+10/11/2022,H-E-B #,6.9,0,0,Groceries,P,N
+10/3/2022,Check,1160,0,0,Labor,B,Y
+10/11/2022,H-E-B #,185.85,0,4969,Groceries,P,N
+10/3/2022,Check,1442.5,0,0,Labor,B,Y
+10/3/2022,Check,1925,0,0,Labor,B,Y
+10/3/2022,Check,2520,0,0,Labor,B,Y
+10/3/2022,Check,1000,0,0,Labor,B,Y
+10/3/2022,Check,671.59,0,0,Labor,B,Y
+11/5/2022,7-Eleven,90.6,0,0,Gas,B,N
+10/26/2022,Apple,9.99,0,0,Software,B,Y
+11/7/2022,7-Eleven,34.34,0,2675,Gas,B,N
+5/18/2022,AllState,49.23,0,0,Insurance,B,Y
+10/13/2022,H-E-B #,137.31,0,4969,Groceries,P,N
+10/18/2022,Deposit,0,102.59,0,Revenue,B,Y
+10/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
+10/19/2022,Deposit,0,4494.54,0,Revenue,B,Y
+10/14/2022,withdrawal cash,470,0,0,Withdrawal,B,N
+10/18/2022,H-E-B #,61.57,0,3341,Groceries,P,N
+10/9/2022,AVR,1.66,0,0,Fees,B,N
+5/11/2022,Dog Waste Depot,288.94,0,0,Supplies,B,N
+10/31/2022,Check,4025,0,0,Labor,B,Y
+11/7/2022,AVR,2.17,0,0,Fees,B,N
+10/31/2022,Check,4025,0,0,Labor,B,Y
+10/31/2022,Check,4025,0,0,Labor,B,Y
+9/13/2022,Champions School,22,0,0,Professional Services,B,N
+9/13/2022,Dollar-General,14.87,0,0,Supplies,B,N
+10/4/2022,Check,1550,0,0,Labor,B,Y
+10/4/2022,Check,917.5,0,0,Labor,B,Y
+10/4/2022,Check,144,0,0,Labor,B,Y
+10/4/2022,Check,1058.38,0,0,Labor,B,Y
+8/23/2022,AVR,10,0,0,Fees,B,N
+9/14/2022,AVR,0.05,0,0,Fees,B,N
+10/1/2022,Fee,34,0,0,Fees,B,N
+10/1/2022,Fee,34,0,0,Fees,B,N
+10/1/2022,Fee,34,0,0,Fees,B,N
+10/1/2022,Fee,34,0,0,Fees,B,N
+10/1/2022,Fee,34,0,0,Fees,B,N
+10/1/2022,Fee,34,0,0,Fees,B,N
+10/18/2022,H-E-B #,117.46,0,0,Groceries,P,N
+9/16/2022,Dollar-General,27.06,0,0,Supplies,B,N
+10/1/2022,Fee,34,0,0,Fees,B,N
+10/4/2022,Check,545,0,0,Labor,B,Y
+10/1/2022,Fee,34,0,0,Fees,B,N
+6/28/2022,Alamo Specialty Pharmacy,55,0,0,Medical,P,N
+10/4/2022,Check,750,0,0,Labor,B,Y
+10/24/2022,Deposit,0,14377.45,0,Revenue,B,Y
+10/4/2022,Check,1557.67,0,0,Labor,B,Y
+10/26/2022,withdrawal cash,500,0,0,Withdrawal,B,N
+10/25/2022,Deposit,0,1091.16,0,Revenue,B,Y
+10/4/2022,Check,1584,0,0,Labor,B,Y
+10/28/2022,Deposit,0,470.85,0,Revenue,B,Y
+7/26/2022,Alamo Specialty Pharmacy,55,0,0,Medical,P,N
+10/4/2022,Check,3000,0,0,Labor,B,Y
+10/26/2022,H-E-B #,135.76,0,0,Groceries,P,N
+10/3/2022,H-E-B #,226.88,0,718,Groceries,P,N
+10/4/2022,Check,800,0,0,Labor,B,Y
+10/3/2022,Deposit,0,21627.48,0,Revenue,B,Y
+10/5/2022,At&t,286.85,0,4969,Phone/Internet,B,Y
+10/3/2022,H-E-B #,4.88,0,718,Groceries,P,N
+11/9/2022,7-Eleven,53.85,0,0,Gas,B,N
+5/27/2022,ADP,149.79,0,0,Tax,B,Y
+11/9/2022,7-Eleven,38.08,0,3341,Gas,B,N
+5/24/2022,American Express,2133.97,0,0,Credit Card,B,Y
+10/4/2022,Check,1178.47,0,0,Labor,B,Y
+10/5/2022,At&t,52.14,0,4969,Phone/Internet,B,Y
+10/5/2022,Check,6924.12,0,0,Labor,B,Y
+10/4/2022,H-E-B #,140.84,0,0,Groceries,P,N
+11/10/2022,At&t,159.58,0,0,Phone/Internet,B,Y
+10/5/2022,Car Wash,12.75,0,0,Auto Maintenance,B,N
+5/19/2022,AllState,59.53,0,0,Insurance,B,Y
+6/21/2022,AllState,49.23,0,0,Insurance,B,Y
+7/12/2022,American Express,251.43,0,0,Credit Card,B,Y
+10/29/2022,Apple,13.87,0,0,Software,B,Y
+10/5/2022,Check,350,0,0,Labor,B,Y
+10/5/2022,Check,2411.83,0,0,Labor,B,Y
+10/19/2022,Fee,34,0,0,Fees,B,N
+11/1/2022,H-E-B #,148.71,0,4969,Groceries,P,N
+11/10/2022,Chick-Fil-A,12.28,0,0,Food,P,N
+10/31/2022,Deposit,0,150,0,Revenue,B,Y
+7/18/2022,American Express,398,0,0,Credit Card,B,Y
+6/21/2022,AllState,855.75,0,0,Insurance,B,Y
+6/22/2022,AllState,59.53,0,0,Insurance,B,Y
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+4/13/2022,7-Eleven,30.32,0,2675,Gas,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+8/23/2022,Alamo Specialty Pharmacy,25,0,0,Medical,P,N
+9/2/2022,Dollar-General,26.47,0,0,Supplies,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/31/2022,Deposit,0,53575.24,0,Revenue,B,Y
+11/1/2022,H-E-B #,126.61,0,0,Groceries,P,N
+11/11/2022,H-E-B #,139.16,0,0718,Groceries,P,N
+4/5/2022,City of Austin,132.78,0,0,Utilities,P,Y
+11/11/2022,H-E-B #,115.5,0,0,Groceries,P,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+5/10/2022,City of Austin,122.82,0,0,Utilities,P,Y
+4/15/2022,7-Eleven,58.02,0,0,Gas,B,N
+10/30/2022,Apple,15.13,0,0,Software,B,Y
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+11/1/2022,Check,1557.67,0,0,Labor,B,Y
+10/25/2022,Fee,34,0,0,Fees,B,N
+11/1/2022,Check,1557.67,0,0,Labor,B,Y
+10/3/2022,withdrawal cash,2000,0,0,Withdrawal,B,N
+11/1/2022,Check,671.59,0,0,Labor,B,Y
+10/4/2022,Deposit,0,571.56,0,Revenue,B,Y
+11/1/2022,Check,1570.68,0,0,Labor,B,Y
+10/25/2022,Fee,34,0,0,Fees,B,N
+11/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Austin Family Medicine,30,0,1,Medical,P,N
+9/16/2022,Grainger,204.86,0,0,Supplies,B,N
+10/3/2022,Financial Pacific,524.83,0,0,Loan,B,N
+11/1/2022,Check,2400,0,0,Labor,B,Y
+11/1/2022,Check,2411.83,0,0,Labor,B,Y
+10/25/2022,Fee,34,0,0,Fees,B,N
+11/1/2022,Check,1442.5,0,0,Labor,B,Y
+6/12/2022,Academy Sports,139.99,0,4969,Recreational,P,N
+11/1/2022,Check,1440,0,0,Labor,B,Y
+8/3/2022,Crime Rec,3.32,0,0,Professional Services,B,N
+4/21/2022,7-Eleven,5.41,0,718,Gas,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+11/17/2022,H-E-B #,11.27,0,2675,Groceries,P,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/13/2022,Gusto,1893.23,0,0,Tax,B,Y
+8/18/2022,AllState,1740,0,1,Insurance,B,Y
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+10/4/2022,Deposit,0,571.56,0,Revenue,B,Y
+10/25/2022,Fee,34,0,0,Fees,B,N
+11/10/2022,Check,120,0,0,Labor,B,Y
+10/5/2022,Apple,2.99,0,0,Software,B,Y
+10/4/2022,Deposit,0,1299,0,Revenue,B,Y
+11/12/2022,Apple,5.4,0,0,Software,B,Y
+8/24/2022,Academy Sports,138.48,0,4969,Recreational,P,N
+11/12/2022,At&t,28.74,0,0,Phone/Internet,B,Y
+11/14/2022,Chick-Fil-A,18.73,0,0,Food,P,N
+11/2/2022,H-E-B #,16,0,0,Groceries,P,N
+9/3/2022,Grainger,54.52,0,0,Supplies,B,N
+7/21/2022,Derm Partners,148,0,0,Professional Services,B,N
+11/3/2022,H-E-B #,96.96,0,4969,Groceries,P,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+4/22/2022,7-Eleven,13.7,0,3341,Gas,B,N
+11/6/2022,H-E-B #,153.51,0,3341,Groceries,P,N
+11/5/2022,Apple,2.99,0,718,Software,B,Y
+10/25/2022,Fee,34,0,0,Fees,B,N
+11/9/2022,H-E-B #,225.25,0,0718,Groceries,P,N
+11/12/2022,Shell Service,3.98,0,3341,Auto Maintenance,B,N
+10/12/2022,HiTechPower,212.5,0,0,Professional Services,B,N
+4/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
+4/13/2022,H-E-B #,104.12,0,0,Groceries,P,N
+4/5/2022,Apple,2.99,0,0,Software,B,Y
+10/4/2022,Deposit,0,19167.4,0,Revenue,B,Y
+4/30/2022,Chick-Fil-A,37.81,0,0,Food,P,N
+11/17/2022,At&t,80,0,0,Phone/Internet,B,Y
+11/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
+4/22/2022,7-Eleven,74.12,0,4969,Gas,B,N
+10/25/2022,Fee,34,0,0,Fees,B,N
+6/10/2022,Chick-Fil-A,48.4,0,0,Food,P,N
+6/15/2022,City of Austin,189.84,0,0,Utilities,P,Y
+11/17/2022,Grand Donuts,26.53,0,0,Supplies,B,N
+10/11/2022,Home DePot,45.37,0,0,Supplies,B,N
+4/22/2022,7-Eleven,32.03,0,1,Gas,B,N
+4/14/2022,H-E-B #,42.04,0,0,Groceries,P,N
+4/6/2022,CareNow,45,0,0,Medical,P,N
+7/18/2022,American Express,4,0,0,Credit Card,B,Y
+11/14/2022,Check,5544.9,0,0,Labor,B,Y
+11/14/2022,Check,1000,0,0,Labor,B,Y
+9/20/2022,Academy Sports,37.87,0,2675,Recreational,P,N
+4/16/2022,H-E-B #,224.06,0,0,Groceries,P,N
+4/23/2022,7-Eleven,40.04,0,0,Gas,B,N
+7/18/2022,American Express,329,0,0,Credit Card,B,Y
+10/6/2022,Deposit,0,2385,0,Revenue,B,Y
+10/13/2022,Home DePot,28.16,0,0,Supplies,B,N
+10/7/2022,Deposit,0,4011.1,0,Revenue,B,Y
+11/1/2022,Deposit,0,7723.64,0,Revenue,B,Y
+11/1/2022,Deposit,0,1868.4,0,Revenue,B,Y
+8/20/2022,Aggieland,484.88,0,0,Recreational,P,N
+11/14/2022,Check,250.05,0,0,Labor,B,Y
+6/27/2022,Chick-Fil-A,41.86,0,0,Food,P,N
+11/14/2022,Check,290,0,0,Labor,B,Y
+4/25/2022,7-Eleven,59.18,0,0,Gas,B,N
+4/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
+4/26/2022,7-Eleven,40.35,0,2675,Gas,B,N
+4/27/2022,7-Eleven,17.45,0,2675,Gas,B,N
+4/28/2022,7-Eleven,54.55,0,0,Gas,B,N
+8/20/2022,Chick-Fil-A,9.08,0,0,Food,P,N
+11/15/2022,Check,8057.15,0,0,Labor,B,Y
+11/15/2022,Check,800,0,0,Labor,B,Y
+11/15/2022,Check,277.05,0,0,Labor,B,Y
+4/3/2022,7-Eleven,100,0,2675,Gas,B,N
+4/1/2022,Austin Bergstrom,5,0,0,Recreational,P,N
+8/21/2022,Barton Creek Soccer,51.93,0,0,Recreational,P,N
+8/21/2022,Chick-Fil-A,25.04,0,0,Food,P,N
+10/31/2022,withdrawal cash,5000,0,0,Withdrawal,B,N
+11/15/2022,Check,2411.83,0,0,Labor,B,Y
+11/15/2022,Check,763.7,0,0,Labor,B,Y
+7/5/2022,American Express,9097.21,0,0,Credit Card,B,Y
+7/5/2022,American Express,34,0,0,Credit Card,B,Y
+11/15/2022,Check,671.58,0,0,Labor,B,Y
+4/5/2022,Amercian General,44.54,0,0,Insurance,B,Y
+11/1/2022,Gusto,1890.21,0,0,Tax,B,Y
+4/7/2022,Amercian General,60.11,0,0,Insurance,B,Y
+8/28/2022,Chick-Fil-A,32.17,0,0,Food,P,N
+11/15/2022,Check,1584,0,0,Labor,B,Y
+4/3/2022,7-Eleven,27.04,0,2675,Gas,B,N
+11/15/2022,Check,1442.5,0,0,Labor,B,Y
+4/8/2022,7-Eleven,10.85,0,718,Gas,B,N
+9/1/2022,Chick-Fil-A,24.71,0,0,Food,P,N
+11/16/2022,Check,1178.47,0,0,Labor,B,Y
+11/16/2022,Check,548.2,0,0,Labor,B,Y
+11/16/2022,Check,1000,0,0,Labor,B,Y
+11/16/2022,Check,2400,0,0,Labor,B,Y
+4/20/2022,H-E-B #,136.69,0,0,Groceries,P,N
+11/16/2022,Check,2820,0,0,Labor,B,Y
+11/10/2022,Deposit,0,500,0,Revenue,B,Y
+11/16/2022,Check,1000,0,0,Labor,B,Y
+5/13/2022,7-Eleven,10.93,0,718,Gas,B,N
+11/15/2022,Gusto,1883.93,0,0,Tax,B,Y
+10/4/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
+5/13/2022,7-Eleven,40.03,0,718,Gas,B,N
+11/12/2022,Deposit,0,4811.25,0,Revenue,B,Y
+10/18/2022,Home DePot,46.82,0,0,Supplies,B,N
+10/27/2022,Home DePot,6.85,0,0,Supplies,B,N
+11/17/2022,Check,2600,0,0,Labor,B,Y
+10/31/2022,Fee,38.5,0,0,Fees,B,N
+11/11/2022,Home DePot,197.16,0,0,Supplies,B,N
+4/21/2022,H-E-B #,201.36,0,718,Groceries,P,N
+8/19/2022,American Express,464.65,0,0,Credit Card,B,Y
+11/2/2022,At&t,914.62,0,0,Phone/Internet,B,Y
+4/17/2022,China Cafe,43.93,0,0,Food,P,N
+11/2/2022,Check,1100,0,0,Labor,B,Y
+11/2/2022,Check,2400,0,0,Labor,B,Y
+11/3/2022,Home DePot,25.35,0,0,Supplies,B,N
+8/22/2022,American Express,329,0,0,Credit Card,B,Y
+4/21/2022,H-E-B #,20,0,0,Groceries,P,N
+10/31/2022,Fee,6,0,0,Fees,B,N
+11/6/2022,HiTechPower,164.68,0,0,Professional Services,B,N
+5/13/2022,7-Eleven,62.09,0,0,Gas,B,N
+10/4/2022,Fee,34,0,0,Fees,B,N
+9/1/2022,American Express,464.65,0,0,Credit Card,B,Y
+4/15/2022,At&t,101.29,0,0,Phone/Internet,B,Y
+11/2/2022,Check,277.05,0,0,Labor,B,Y
+11/2/2022,Shell Service,100,0,3341,Auto Maintenance,B,N
+11/2/2022,Check,750,0,0,Labor,B,Y
+11/2/2022,Check,2500,0,0,Labor,B,Y
+11/2/2022,Check,1000,0,0,Labor,B,Y
+8/28/2022,CareNow,100,0,0,Medical,P,N
+11/4/2022,Home DePot,40,0,0,Supplies,B,N
+11/3/2022,Check,1525,0,0,Labor,B,Y
+11/3/2022,Shell Service,10.79,0,3341,Auto Maintenance,B,N
+11/3/2022,Shell Service,74.88,0,3341,Auto Maintenance,B,N
+11/9/2022,Home DePot,769.58,0,0,Supplies,B,N
+5/17/2022,7-Eleven,112.87,0,0,Gas,B,N
+9/12/2022,American Express,398,0,0,Credit Card,B,Y
+9/19/2022,American Express,339.56,0,0,Credit Card,B,Y
+5/16/2022,Chipotle,30.31,0,0,Food,P,N
+6/15/2022,Charity,25,0,0,Recreational,P,N
+11/14/2022,Deposit,0,2641.3,0,Revenue,B,Y
+11/3/2022,Check,250,0,0,Labor,B,Y
+11/3/2022,Check,1653.14,0,0,Labor,B,Y
+11/3/2022,Check,1178.47,0,0,Labor,B,Y
+11/3/2022,Check,1094.15,0,0,Labor,B,Y
+5/13/2022,Dairy Queen,13.93,0,0,Food,P,N
+4/26/2022,H-E-B #,150.92,0,0,Groceries,P,N
+5/17/2022,7-Eleven,56.41,0,2675,Gas,B,N
+11/6/2022,HiTechPower,275.62,0,0,Professional Services,B,N
+10/4/2022,Fee,34,0,0,Fees,B,N
+4/1/2022,Home DePot,41.03,0,0,Supplies,B,N
+10/4/2022,Fee,34,0,0,Fees,B,N
+11/14/2022,Deposit,0,545.58,0,Revenue,B,Y
+5/19/2022,7-Eleven,65.68,0,2675,Gas,B,N
+5/23/2022,7-Eleven,125,0,0,Gas,B,N
+4/14/2022,Home DePot,107.17,0,0,Supplies,B,N
+6/18/2022,Charity,15,0,0,Recreational,P,N
+5/23/2022,7-Eleven,80.66,0,718,Gas,B,N
+11/4/2022,Check,2250,0,0,Labor,B,Y
+4/29/2022,Harmony Dental,233,0,0,Medical,P,N
+9/22/2022,American Express,329,0,0,Credit Card,B,Y
+5/4/2022,Amercian General,44.54,0,0,Insurance,B,Y
+11/4/2022,Check,351.81,0,0,Labor,B,Y
+5/24/2022,7-Eleven,68.32,0,0,Gas,B,N
+5/2/2022,Apple,14.06,0,3341,Software,B,Y
+5/3/2022,7-Eleven,26.49,0,0,Gas,B,N
+4/21/2022,Home DePot,82.16,0,0,Supplies,B,N
+4/21/2022,Home DePot,39.41,0,0,Supplies,B,N
+11/6/2022,HiTechPower,244.37,0,0,Professional Services,B,N
+11/6/2022,HiTechPower,302.81,0,0,Professional Services,B,N
+11/6/2022,HiTechPower,265.62,0,0,Professional Services,B,N
+4/19/2022,HiTechPower,159.37,0,0,Professional Services,B,N
+10/15/2022,DashPass,9.99,0,0,Food,P,N
+4/22/2022,Home DePot,49.7,0,0,Supplies,B,N
+4/26/2022,H-E-B #,30.81,0,3341,Groceries,P,N
+4/19/2022,HiTechPower,196.56,0,0,Professional Services,B,N
+9/23/2022,American Express,465.68,0,0,Credit Card,B,Y
+6/3/2022,Amercian General,44.54,0,0,Insurance,B,Y
+7/18/2022,City of Austin,247.52,0,0,Utilities,P,Y
+5/3/2022,7-Eleven,80,0,0,Gas,B,N
+10/4/2022,Fee,34,0,0,Fees,B,N
+8/5/2022,City of Austin,309.56,0,0,Utilities,P,Y
+11/7/2022,Check,155,0,0,Labor,B,Y
+11/14/2022,Deposit,0,545.58,0,Revenue,B,Y
+11/14/2022,Deposit,0,26963.5,0,Revenue,B,Y
+5/28/2022,Apple,14.06,0,3341,Software,B,Y
+7/15/2022,DashPass,9.99,0,0,Food,P,N
+11/1/2022,withdrawal cash,7900,0,0,Withdrawal,B,N
+10/4/2022,Fee,34,0,0,Fees,B,N
+11/13/2022,City of Cedar Park,236,0,0,Utilities,P,Y
+5/3/2022,7-Eleven,62.51,0,0,Gas,B,N
+11/16/2022,Deposit,0,5264.21,0,Revenue,B,Y
+5/5/2022,7-Eleven,1.24,0,0,Gas,B,N
+4/22/2022,Home DePot,10.8,0,0,Supplies,B,N
+11/15/2022,withdrawal cash,1200,0,0,Withdrawal,B,N
+4/23/2022,Home DePot,28.11,0,0,Supplies,B,N
+4/28/2022,H-E-B #,118.58,0,0,Groceries,P,N
+4/29/2022,H-E-B #,150.61,0,3341,Groceries,P,N
+11/16/2022,Deposit,0,1539.84,0,Revenue,B,Y
+10/4/2022,Fee,34,0,0,Fees,B,N
+5/2/2022,Financial Pacific,524.83,0,0,Loan,B,N
+10/16/2022,Cinemark,50.62,0,0,Recreational,P,N
+8/15/2022,DashPass,9.99,0,0,Food,P,N
+9/15/2022,DashPass,9.99,0,0,Food,P,N
+6/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
+4/29/2022,Home DePot,178.15,0,0,Supplies,B,N
+11/3/2022,Deposit,0,487.13,0,Revenue,B,Y
+7/19/2022,Amercian General,44.54,0,0,Insurance,B,Y
+7/19/2022,Financial Pacific,611.93,0,0,Loan,B,N
+10/4/2022,Fee,34,0,0,Fees,B,N
+10/4/2022,Fee,37.92,0,0,Fees,B,N
+10/4/2022,Fee,34,0,0,Fees,B,N
 4/12/2022,Check,3000,0,0,Labor,B,Y
+11/9/2022,withdrawal cash,500,0,0,Withdrawal,B,N
+10/4/2022,Fee,105.53,0,0,Fees,B,N
+10/7/2022,Fee,34,0,0,Fees,B,N
+10/7/2022,Fee,34,0,0,Fees,B,N
+10/7/2022,Fee,34,0,0,Fees,B,N
+10/7/2022,Fee,34,0,0,Fees,B,N
+10/7/2022,Fee,34,0,0,Fees,B,N
+11/1/2022,Fee,34,0,0,Fees,B,N
+11/4/2022,Innovative Urgent Care,35,0,0,Medical,P,N
+11/1/2022,Fee,34,0,0,Fees,B,N
+11/1/2022,Fee,34,0,0,Fees,B,N
+11/1/2022,Fee,34,0,0,Fees,B,N
+6/1/2022,7-Eleven,69.07,0,0,Gas,B,N
+10/10/2022,Doordash,22.3,0,0,Food,P,N
+11/4/2022,Deposit,0,6434.99,0,Revenue,B,Y
+11/1/2022,Fee,34,0,0,Fees,B,N
+9/30/2022,American Express,464.8,0,0,Credit Card,B,Y
+11/8/2022,Deposit,0,1463.54,0,Revenue,B,Y
+11/1/2022,Fee,34,0,0,Fees,B,N
+11/9/2022,withdrawal cash,1200,0,0,Withdrawal,B,N
+11/1/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Check,1442.5,0,0,Labor,B,Y
+11/1/2022,Fee,34,0,0,Fees,B,N
+11/1/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Check,2050,0,0,Labor,B,Y
+11/1/2022,Fee,54.68,0,0,Fees,B,N
+11/1/2022,Fee,34,0,0,Fees,B,N
+11/17/2022,Fee,34,0,0,Fees,B,N
+11/2/2022,Fee,1.64,0,0,Fees,B,N
+11/2/2022,Fee,105.53,0,0,Fees,B,N
+11/4/2022,Fee,34,0,0,Fees,B,N
+11/4/2022,Fee,24,0,0,Fees,B,N
+11/9/2022,Fee,32.67,0,0,Fees,B,N
+4/1/2022,Fee,34,0,0,Fees,B,N
+4/11/2022,Fee,145.33,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+5/1/2022,H-E-B #,43.88,0,718,Groceries,P,N
+5/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
+4/13/2022,Check,2210,0,0,Labor,B,Y
+4/1/2022,Doordash,33.97,0,0,Food,P,N
+11/9/2022,Deposit,0,509.05,0,Revenue,B,Y
+6/11/2022,7-Eleven,77.23,0,0,Gas,B,N
+5/13/2022,H-E-B #,186,0,3341,Groceries,P,N
+6/15/2022,7-Eleven,57.56,0,0,Gas,B,N
+6/14/2022,Gusto,1755.35,0,0,Tax,B,Y
+8/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
+6/15/2022,Gusto,51,0,0,Tax,B,Y
+5/13/2022,H-E-B #,331.39,0,718,Groceries,P,N
+11/9/2022,Deposit,0,8328.06,0,Revenue,B,Y
+5/17/2022,H-E-B #,61.08,0,0,Groceries,P,N
 4/12/2022,withdrawal cash,960,0,0,Withdrawal,B,N
+6/16/2022,7-Eleven,74.19,0,0,Gas,B,N
+9/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
+9/8/2022,American Express,0.01,0,0,Credit Card,B,Y
+10/5/2022,Bank of America,877.05,0,0,Credit Card,B,Y
+5/20/2022,H-E-B #,48.51,0,0,Groceries,P,N
+11/9/2022,Deposit,0,946.35,0,Revenue,B,Y
+10/28/2022,Fortiva,43.85,0,4969,Loan,B,N
+9/29/2022,Amercian General,134.89,0,0,Insurance,B,Y
+4/7/2022,Home DePot,6.47,0,0,Supplies,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/11/2022,Deposit,0,4259.87,0,Revenue,B,Y
+4/11/2022,Blue Cross Blue Shield,174.2,0,0,Insurance,B,Y
+4/8/2022,Home DePot,50,0,0,Supplies,B,N
+4/18/2022,At&t,80,0,0,Phone/Internet,B,Y
+5/16/2022,Home DePot,77.81,0,0,Supplies,B,N
+5/2/2022,Blue Cross Blue Shield,498.66,0,0,Insurance,B,Y
+11/3/2022,Bank of America,877.05,0,0,Credit Card,B,Y
+6/20/2022,7-Eleven,57.63,0,0,Gas,B,N
+6/6/2022,Gusto,0.11,0,0,Tax,B,Y
+4/12/2022,Deposit,0,10425.56,0,Revenue,B,Y
+4/4/2022,Bank of America,877.05,0,0,Credit Card,B,Y
+4/15/2022,Check,1000,0,0,Labor,B,Y
 4/12/2022,Fee,34,0,0,Fees,B,N
 4/12/2022,Fee,34,0,0,Fees,B,N
 4/12/2022,Fee,34,0,0,Fees,B,N
+4/16/2022,Check,2740,0,0,Labor,B,Y
+5/20/2022,H-E-B #,16.71,0,0,Groceries,P,N
+4/23/2022,City of Cedar Park,125.39,0,0,Utilities,P,Y
 4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+6/13/2022,Cinemark,31.67,0,0,Recreational,P,N
+4/21/2022,Doordash,22.02,0,0,Food,P,N
+4/7/2022,City of Cedar Park,259.37,0,0,Utilities,P,Y
 4/12/2022,withdrawal cash,1500,0,0,Withdrawal,B,N
 4/12/2022,Fee,34,0,0,Fees,B,N
 4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,H-E-B Gas,56.42,0,4969,Gas,B,N
-4/12/2022,Rosas Cafe,29.58,0,0,Food,P,N
-4/12/2022,Deposit,0,10425.56,0,Revenue,B,Y
-4/12/2022,Fee,34,0,0,Fees,B,N
-4/12/2022,Austin Family Medicine,30,0,1,Medical,P,N
-4/12/2022,Wells Fargo,972.3,0,0,Credit Card,B,Y
+4/22/2022,Doordash,72.64,0,0,Food,P,N
 4/12/2022,Deposit,0,2048.88,0,Revenue,B,Y
 4/12/2022,Fee,34,0,0,Fees,B,N
-4/13/2022,Deposit,0,1136.63,0,Revenue,B,Y
-4/13/2022,7-Eleven,30.32,0,2675,Gas,B,N
-4/13/2022,withdrawal cash,4000,0,0,Withdrawal,B,N
-4/13/2022,El Rancho,19.14,0,0,Groceries,P,N
-4/13/2022,Loan 00,6000,0,0,Loan,B,N
-4/13/2022,H-E-B #,104.12,0,0,Groceries,P,N
-4/13/2022,Fortiva,175,0,0,Loan,B,N
-4/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
-4/13/2022,Check,2210,0,0,Labor,B,Y
-4/13/2022,SaltGrass,45.68,0,0,Food,P,N
+6/20/2022,Cinemark,31.45,0,0,Recreational,P,N
+5/4/2022,Cinepolis,64.92,0,0,Recreational,P,N
+5/2/2022,Doordash,44.95,0,0,Food,P,N
 4/13/2022,Deposit,0,18127.5,0,Revenue,B,Y
-4/13/2022,Tax,34,0,0,Tax,B,Y
-4/13/2022,Walgreens,20.51,0,0,Groceries,P,N
-4/13/2022,Shell Oil,34.62,0,0,Gas,B,N
-4/13/2022,Shell Oil,20.56,0,0,Gas,B,N
-4/13/2022,Tax,6051.99,0,0,Tax,B,Y
-4/13/2022,Walgreens,68.47,0,0,Groceries,P,N
-4/14/2022,Home DePot,107.17,0,0,Supplies,B,N
-4/14/2022,Farmers,661.91,0,0,Insurance,B,Y
-4/14/2022,LendingClub,498.15,0,0,Loan,B,N
-4/14/2022,Deposit,0,1284.28,0,Revenue,B,Y
-4/14/2022,H-E-B #,42.04,0,0,Groceries,P,N
-4/14/2022,American Express,35,0,0,Credit Card,B,Y
-4/14/2022,American Express,3494.16,0,0,Credit Card,B,Y
-4/15/2022,Capital One,250,0,0,Credit Card,B,Y
-4/15/2022,Check,1000,0,0,Labor,B,Y
-4/15/2022,ADP,64.93,0,0,Tax,B,Y
-4/15/2022,7-Eleven,58.02,0,0,Gas,B,N
-4/15/2022,Deposit,0,8941.54,0,Revenue,B,Y
-4/15/2022,At&t,101.29,0,0,Phone/Internet,B,Y
-4/15/2022,Fee,46.62,0,0,Fees,B,N
-4/15/2022,Deposit,0,1363.95,0,Revenue,B,Y
-4/15/2022,Humana,50.74,0,0,Insurance,B,Y
-4/15/2022,Pro Serve Ent,127.85,0,0,Supplies,B,N
-4/15/2022,Pro Serve Ent,328.56,0,0,Supplies,B,N
-4/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
-4/15/2022,Discover,500,0,0,Credit Card,B,Y
-4/16/2022,withdrawal cash,900,0,0,Withdrawal,B,N
-4/16/2022,Deposit,0,151.55,0,Revenue,B,Y
-4/16/2022,City of San Antonio,121.14,0,0,Utilities,P,Y
-4/16/2022,Smalls,342,0,0,Food,P,N
-4/16/2022,Target,167.38,0,0,Recreational,P,N
-4/16/2022,Fee,34,0,0,Fees,B,N
-4/16/2022,ATM,1,0,0,Fees,B,N
-4/16/2022,ATM,23,0,0,Fees,B,N
-4/16/2022,Texas Gas,112.36,0,0,Utilities,P,Y
-4/16/2022,H-E-B #,224.06,0,0,Groceries,P,N
-4/16/2022,Check,2740,0,0,Labor,B,Y
-4/16/2022,Fee,34,0,0,Fees,B,N
-4/16/2022,Fee,34,0,0,Fees,B,N
-4/16/2022,Fee,34,0,0,Fees,B,N
-4/16/2022,Fee,34,0,0,Fees,B,N
-4/16/2022,Fee,34,0,0,Fees,B,N
-4/16/2022,Estancia Brazilian,1022.5,0,0,Food,P,N
-4/16/2022,Fee,34,0,0,Fees,B,N
-4/17/2022,China Cafe,43.93,0,0,Food,P,N
-4/17/2022,TAMU,153,0,0,Recreational,P,N
-4/17/2022,NinaBerenato,75.78,0,0,Recreational,P,N
-4/18/2022,Deposit,0,3975.21,0,Revenue,B,Y
 4/18/2022,Check,2800,0,0,Labor,B,Y
-4/18/2022,Loan 00,200,0,0,Loan,B,N
+4/13/2022,Deposit,0,1136.63,0,Revenue,B,Y
 4/18/2022,Check,1410,0,0,Labor,B,Y
-4/18/2022,Deposit,0,6000,0,Revenue,B,Y
-4/18/2022,Fee,135.66,0,0,Fees,B,N
-4/18/2022,Chase Credit,200,0,0,Credit Card,B,Y
-4/18/2022,At&t,80,0,0,Phone/Internet,B,Y
-4/18/2022,Randalls,89.42,0,0,Groceries,P,N
-4/18/2022,American Express,449,0,0,Credit Card,B,Y
-4/18/2022,Citi,29,0,0,Credit Card,B,Y
-4/19/2022,HiTechPower,159.37,0,0,Professional Services,B,N
-4/19/2022,AllState,655.76,0,0,Insurance,B,Y
-4/19/2022,AllState,75.73,0,0,Insurance,B,Y
+5/4/2022,Bank of America,877.05,0,0,Credit Card,B,Y
+4/12/2022,Fee,34,0,0,Fees,B,N
+6/3/2022,Bank of America,877.05,0,0,Credit Card,B,Y
+4/21/2022,At&t,92.84,0,718,Phone/Internet,B,Y
+4/13/2022,Fortiva,175,0,0,Loan,B,N
+7/5/2022,Bank of America,877.05,0,0,Credit Card,B,Y
+5/23/2022,H-E-B #,41.85,0,0,Groceries,P,N
+8/3/2022,Bank of America,877.05,0,0,Credit Card,B,Y
+4/23/2022,HiTechPower,212.5,0,0,Professional Services,B,N
+5/2/2022,Blue Cross Blue Shield,866.28,0,0,Insurance,B,Y
+5/31/2022,Blue Cross Blue Shield,498.66,0,0,Insurance,B,Y
 4/19/2022,Check,3405.5,0,0,Labor,B,Y
 4/19/2022,Check,750,0,0,Labor,B,Y
 4/19/2022,Check,1536,0,0,Labor,B,Y
-4/19/2022,HiTechPower,196.56,0,0,Professional Services,B,N
-4/19/2022,El Pollo Rico,37,0,0,Food,P,N
-4/19/2022,Deposit,0,4910.22,0,Revenue,B,Y
-4/19/2022,Capital One,200,0,0,Credit Card,B,Y
-4/19/2022,Chevron,38.99,0,0,Gas,B,N
-4/19/2022,Glorias Restaurant,88.78,0,0,Food,P,N
-4/19/2022,In N Out,17.37,0,0,Food,P,N
-4/20/2022,Deposit,0,4330,0,Revenue,B,Y
-4/20/2022,Fee,1.64,0,0,Fees,B,N
-4/20/2022,ATM,260,0,4969,Fees,B,N
-4/20/2022,AllState,86.03,0,0,Insurance,B,Y
-4/20/2022,Check,277.05,0,0,Labor,B,Y
-4/20/2022,Check,2450,0,0,Labor,B,Y
-4/20/2022,H-E-B #,136.69,0,0,Groceries,P,N
-4/20/2022,Deposit,0,12443.34,0,Revenue,B,Y
-4/20/2022,Murphy Express,51,0,2675,Gas,B,N
-4/20/2022,Loan 00,6000,0,0,Loan,B,N
+4/23/2022,HiTechPower,3000,0,0,Professional Services,B,N
+5/20/2022,Doordash,36.88,0,0,Food,P,N
+4/14/2022,Deposit,0,1284.28,0,Revenue,B,Y
+6/20/2022,7-Eleven,12.31,0,0,Gas,B,N
+5/22/2022,Doordash,31.13,0,0,Food,P,N
+5/27/2022,Doordash,46.29,0,0,Food,P,N
+9/6/2022,Bank of America,877.05,0,0,Credit Card,B,Y
 4/20/2022,Leander Express Lube,18.5,0,0,Auto Maintenance,B,N
-4/20/2022,Walgreens,112.74,0,4969,Groceries,P,N
-4/20/2022,Walgreens,74.99,0,4969,Groceries,P,N
-4/20/2022,Williamson Co,76.25,0,0,Professional Services,B,N
-4/21/2022,H-E-B #,201.36,0,718,Groceries,P,N
-4/21/2022,At&t,92.84,0,718,Phone/Internet,B,Y
+4/27/2022,Fortiva,43.85,0,4969,Loan,B,N
+6/20/2022,7-Eleven,79.67,0,0,Gas,B,N
+5/24/2022,H-E-B #,143.33,0,4969,Groceries,P,N
+4/15/2022,Deposit,0,1363.95,0,Revenue,B,Y
+4/25/2022,HiTechPower,718.75,0,0,Professional Services,B,N
+4/20/2022,Check,2450,0,0,Labor,B,Y
+5/24/2022,H-E-B #,175.56,0,0,Groceries,P,N
+4/15/2022,Deposit,0,8941.54,0,Revenue,B,Y
+4/12/2022,Fee,34,0,0,Fees,B,N
+5/3/2022,H-E-B #,61.52,0,718,Groceries,P,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+7/5/2022,Blue Cross Blue Shield,498.66,0,0,Insurance,B,Y
+4/20/2022,Check,277.05,0,0,Labor,B,Y
+5/3/2022,Doordash,29.23,0,0,Food,P,N
+6/10/2022,Doordash,61.44,0,0,Food,P,N
+10/14/2022,Farmers,661.91,0,0,Insurance,B,Y
+10/17/2022,Capital One,300,0,0,Credit Card,B,Y
+5/17/2022,Home DePot,39.96,0,0,Supplies,B,N
+6/20/2022,7-Eleven,6.91,0,3341,Gas,B,N
+6/22/2022,7-Eleven,7.01,0,4969,Gas,B,N
+5/17/2022,Home DePot,30.58,0,0,Supplies,B,N
+6/12/2022,Doordash,23.82,0,0,Food,P,N
 4/21/2022,Check,1442.5,0,0,Labor,B,Y
-4/21/2022,Doordash,22.02,0,0,Food,P,N
-4/21/2022,Home DePot,39.41,0,0,Supplies,B,N
-4/21/2022,7-Eleven,5.41,0,718,Gas,B,N
-4/21/2022,H-E-B #,20,0,0,Groceries,P,N
-4/21/2022,Home DePot,82.16,0,0,Supplies,B,N
-4/21/2022,Citi,133.34,0,0,Credit Card,B,Y
-4/21/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
-4/21/2022,Circle K,74,0,2675,Gas,B,N
-4/21/2022,Tiffs Treats,55.26,0,0,Food,P,N
-4/21/2022,Lupe Tortilla,375.84,0,0,Food,P,N
-4/22/2022,Home DePot,10.8,0,0,Supplies,B,N
-4/22/2022,Check,3250,0,0,Labor,B,Y
-4/22/2022,7-Eleven,74.12,0,4969,Gas,B,N
-4/22/2022,7-Eleven,13.7,0,3341,Gas,B,N
+4/22/2022,At&t,266.51,0,1,Phone/Internet,B,Y
+5/3/2022,H-E-B #,0.75,0,718,Groceries,P,N
+5/3/2022,H-E-B #,94.67,0,0,Groceries,P,N
+10/4/2022,Capital One,200,0,0,Credit Card,B,Y
+4/16/2022,Deposit,0,151.55,0,Revenue,B,Y
+11/15/2022,Capital One,500,0,0,Credit Card,B,Y
+4/18/2022,Deposit,0,6000,0,Revenue,B,Y
+5/24/2022,Home DePot,269.54,0,0,Supplies,B,N
+6/16/2022,Doordash,27.28,0,0,Food,P,N
 4/22/2022,Check,2400,0,0,Labor,B,Y
 4/22/2022,At&t,164.76,0,4969,Phone/Internet,B,Y
-4/22/2022,At&t,266.51,0,1,Phone/Internet,B,Y
-4/22/2022,Doordash,72.64,0,0,Food,P,N
-4/22/2022,Pizza Hut,18.51,0,0,Food,P,N
-4/22/2022,Home DePot,49.7,0,0,Supplies,B,N
-4/22/2022,Deposit,0,684.36,0,Revenue,B,Y
-4/22/2022,Discover,656.2,0,0,Credit Card,B,Y
-4/22/2022,Home DePot,0,21.59,0,Revenue,B,Y
-4/22/2022,Syncb Payment,354,0,1,Credit Card,B,Y
-4/22/2022,7-Eleven,32.03,0,1,Gas,B,N
-4/22/2022,Deposit,0,16133.98,0,Revenue,B,Y
-4/23/2022,Check,892.5,0,0,Labor,B,Y
-4/23/2022,SaltGrass,298.66,0,0,Food,P,N
-4/23/2022,HiTechPower,3000,0,0,Professional Services,B,N
-4/23/2022,City of Cedar Park,125.39,0,0,Utilities,P,Y
-4/23/2022,El Pollo Rico,27.49,0,0,Food,P,N
-4/23/2022,Home DePot,28.11,0,0,Supplies,B,N
-4/23/2022,Culligan,306.94,0,3341,Utilities,P,Y
-4/23/2022,Lake Line Food,27.35,0,0,Food,P,N
-4/23/2022,HiTechPower,212.5,0,0,Professional Services,B,N
-4/23/2022,7-Eleven,40.04,0,0,Gas,B,N
-4/23/2022,H-E-B Gas,60.68,0,718,Gas,B,N
-4/23/2022,The Cromeens Law,360,0,0,Professional Services,B,N
-4/23/2022,Vivint,39.48,0,0,Software,B,Y
-4/23/2022,Pro Serve Ent,131.07,0,0,Supplies,B,N
-4/23/2022,Kim Paper,2575.56,0,0,Supplies,B,N
-4/23/2022,H-E-B Gas,53.33,0,1,Gas,B,N
-4/24/2022,Mighty Fine Burgers,48.05,0,0,Food,P,N
-4/24/2022,Laundry,35.99,0,0,Professional Services,B,N
-4/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
-4/24/2022,Walgreens,22.32,0,4969,Groceries,P,N
-4/25/2022,M Vince Nail Spa,198,0,0,Professional Services,B,N
-4/25/2022,Kristy R Cortez,605,0,0,Professional Services,B,N
-4/25/2022,Deposit,0,112.19,0,Revenue,B,Y
-4/25/2022,FWB Cedar Park,37.84,0,0,Food,P,N
-4/25/2022,HiTechPower,718.75,0,0,Professional Services,B,N
-4/25/2022,Check,1742.35,0,0,Labor,B,Y
-4/25/2022,7-Eleven,59.18,0,0,Gas,B,N
-4/25/2022,Check,2700,0,0,Labor,B,Y
-4/25/2022,Safe and Lock,138.55,0,0,Professional Services,B,N
-4/25/2022,Check,2700,0,0,Labor,B,Y
-4/26/2022,Jiffy Lube,113.71,0,0,Auto Maintenance,B,N
-4/26/2022,H-E-B #,30.81,0,3341,Groceries,P,N
-4/26/2022,H-E-B #,150.92,0,0,Groceries,P,N
-4/26/2022,Citi,928.1,0,0,Credit Card,B,Y
-4/26/2022,Jimmy Johns,35.97,0,0,Food,P,N
-4/26/2022,Deposit,0,3000,0,Revenue,B,Y
-4/26/2022,Lake Line Food,24.01,0,0,Food,P,N
-4/26/2022,7-Eleven,40.35,0,2675,Gas,B,N
-4/26/2022,Vivint,61.13,0,0,Software,B,Y
-4/26/2022,El Rinconcito,4.33,0,0,Groceries,P,N
-4/26/2022,WhatABurger,20.81,0,0,Food,P,N
-4/26/2022,USCraft LLC,193,0,0,Supplies,B,N
-4/26/2022,El Rinconcito,66.83,0,0,Groceries,P,N
-4/26/2022,ATM,1,0,0,Fees,B,N
-4/26/2022,ATM,403,0,0,Fees,B,N
-4/26/2022,Walgreens,38.26,0,0,Groceries,P,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
 4/27/2022,At&t,732.91,0,0,Phone/Internet,B,Y
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,7-Eleven,17.45,0,2675,Gas,B,N
-4/27/2022,Ally,509.98,0,0,Loan,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/27/2022,Fortiva,43.85,0,4969,Loan,B,N
-4/27/2022,Safe and Lock,15.46,0,0,Professional Services,B,N
-4/27/2022,Fee,34,0,0,Fees,B,N
-4/28/2022,H-E-B #,118.58,0,0,Groceries,P,N
-4/28/2022,ATM,78.86,0,0,Fees,B,N
-4/28/2022,Deposit,0,5980.17,0,Revenue,B,Y
-4/28/2022,7-Eleven,54.55,0,0,Gas,B,N
-4/28/2022,Shell Service,54.18,0,3341,Auto Maintenance,B,N
-4/28/2022,QT,74.7,0,4969,Gas,B,N
-4/28/2022,Chevron,4.18,0,0,Gas,B,N
-4/28/2022,Popeyes,38.42,0,0,Food,P,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,H-E-B #,150.61,0,3341,Groceries,P,N
-4/29/2022,ADP,82.42,0,0,Tax,B,Y
-4/29/2022,ATM,500,0,3341,Fees,B,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/29/2022,Home DePot,178.15,0,0,Supplies,B,N
-4/29/2022,Harmony Dental,233,0,0,Medical,P,N
-4/29/2022,Shell Service,100,0,3341,Auto Maintenance,B,N
-4/29/2022,PintHouse Pizza,10,0,0,Food,P,N
-4/29/2022,PintHouse Pizza,28.01,0,0,Food,P,N
-4/29/2022,Safe and Lock,18.49,0,0,Professional Services,B,N
-4/29/2022,Shell Oil,20.87,0,0,Gas,B,N
-4/29/2022,Blaze Pizza,58.29,0,0,Food,P,N
-4/29/2022,Fee,34,0,0,Fees,B,N
-4/30/2022,Deposit,0,1706.02,0,Revenue,B,Y
-4/30/2022,Lowes,42.2,0,2675,Supplies,B,N
-4/30/2022,Chick-Fil-A,37.81,0,0,Food,P,N
-4/30/2022,Car Wash,35.83,0,0,Auto Maintenance,B,N
-4/30/2022,Fee,6,0,0,Fees,B,N
-4/30/2022,Fee,41.5,0,0,Fees,B,N
-4/30/2022,Buenos Aires Cafe,194.16,0,0,Food,P,N
-5/1/2022,Taco Cabana,50.8,0,0,Food,P,N
-5/1/2022,Lotus Hunan,71.1,0,0,Food,P,N
-5/1/2022,H-E-B #,43.88,0,718,Groceries,P,N
-5/1/2022,The Garden,160.98,0,0,Food,P,N
-5/2/2022,Shell Oil,39.12,0,0,Gas,B,N
-5/2/2022,Financial Pacific,524.83,0,0,Loan,B,N
-5/2/2022,Taco Bell,26.1,0,0,Food,P,N
-5/2/2022,Shell Service,54.32,0,3341,Auto Maintenance,B,N
-5/2/2022,Deposit,0,8871.09,0,Revenue,B,Y
-5/2/2022,Apple,14.06,0,3341,Software,B,Y
-5/2/2022,Blue Cross Blue Shield,866.28,0,0,Insurance,B,Y
-5/2/2022,Check,1280,0,0,Labor,B,Y
-5/2/2022,Navient,204.9,0,0,Loan,B,N
-5/2/2022,Walgreens,62.22,0,0,Groceries,P,N
-5/2/2022,Deposit,0,3000,0,Revenue,B,Y
-5/2/2022,Deposit,0,270.63,0,Revenue,B,Y
-5/2/2022,Blue Cross Blue Shield,498.66,0,0,Insurance,B,Y
-5/2/2022,Doordash,44.95,0,0,Food,P,N
-5/3/2022,Check,1000,0,0,Labor,B,Y
-5/3/2022,Check,2050,0,0,Labor,B,Y
-5/3/2022,7-Eleven,26.49,0,0,Gas,B,N
-5/3/2022,7-Eleven,62.51,0,0,Gas,B,N
-5/3/2022,Check,936,0,0,Labor,B,Y
-5/3/2022,7-Eleven,80,0,0,Gas,B,N
-5/3/2022,Doordash,29.23,0,0,Food,P,N
-5/3/2022,H-E-B #,94.67,0,0,Groceries,P,N
-5/3/2022,Fee,9.67,0,0,Fees,B,N
-5/3/2022,Capital One,100,0,0,Credit Card,B,Y
-5/3/2022,Deposit,0,324.75,0,Revenue,B,Y
-5/3/2022,H-E-B #,0.75,0,718,Groceries,P,N
-5/3/2022,Pedernales Elect,245.85,0,0,Utilities,P,Y
-5/3/2022,Citi,63.76,0,0,Credit Card,B,Y
-5/3/2022,Chevron,53.01,0,0,Gas,B,N
-5/3/2022,Check,2500,0,0,Labor,B,Y
-5/3/2022,La Chaparita,43.08,0,0,Groceries,P,N
-5/3/2022,H-E-B #,61.52,0,718,Groceries,P,N
-5/3/2022,Check,1280,0,0,Labor,B,Y
-5/4/2022,Renken Dentistry,19.22,0,0,Medical,P,N
-5/4/2022,Walgreens,51,0,0,Groceries,P,N
-5/4/2022,Exxon Mobil,41.04,0,0,Gas,B,N
-5/4/2022,At&t,84.19,0,0,Phone/Internet,B,Y
-5/4/2022,Bank of America,877.05,0,0,Credit Card,B,Y
-5/4/2022,Fee,12.81,0,0,Fees,B,N
-5/4/2022,Caporales Meat,75.42,0,0,Food,P,N
-5/4/2022,Deposit,0,433,0,Revenue,B,Y
-5/4/2022,Check,100,0,0,Labor,B,Y
-5/4/2022,City of Leander,262.63,0,0,Utilities,P,Y
-5/4/2022,Check,429.35,0,0,Labor,B,Y
-5/4/2022,Check,1350,0,0,Labor,B,Y
-5/4/2022,Cinepolis,64.92,0,0,Recreational,P,N
-5/4/2022,Randalls,142.37,0,0,Groceries,P,N
-5/4/2022,Municipal Online Payments,1.25,0,0,Fees,B,N
-5/4/2022,Amercian General,44.54,0,0,Insurance,B,Y
-5/5/2022,7-Eleven,1.24,0,0,Gas,B,N
-5/5/2022,McDonalds,13.06,0,0,Food,P,N
-5/5/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
-5/5/2022,Walgreens,39.99,0,0,Groceries,P,N
-5/5/2022,Farmers,1005.33,0,0,Insurance,B,Y
-5/5/2022,WingStop,37.4,0,0,Food,P,N
-5/5/2022,At&t,25.05,0,0,Phone/Internet,B,Y
-5/5/2022,Fee,19.38,0,0,Fees,B,N
-5/5/2022,Great American Cookies,20.96,0,0,Food,P,N
-5/5/2022,Deposit,0,562.74,0,Revenue,B,Y
-5/5/2022,Auto Mechanic,1595.26,0,0,Auto Maintenance,B,N
-5/5/2022,Texaco,54.36,0,0,Gas,B,N
-5/6/2022,Check,892.5,0,0,Labor,B,Y
-5/6/2022,The Cromeens Law,620,0,0,Professional Services,B,N
+6/27/2022,7-Eleven,75.03,0,0,Gas,B,N
+6/28/2022,7-Eleven,71.23,0,0,Gas,B,N
+4/22/2022,Check,3250,0,0,Labor,B,Y
+6/8/2022,7-Eleven,75.51,0,0,Gas,B,N
+6/16/2022,Doordash,46.67,0,0,Food,P,N
+5/26/2022,Home DePot,9.68,0,0,Supplies,B,N
+4/18/2022,Deposit,0,3975.21,0,Revenue,B,Y
+6/11/2022,Home DePot,24.94,0,0,Supplies,B,N
+6/13/2022,Home DePot,18.53,0,0,Supplies,B,N
 5/6/2022,Apple,2.99,0,0,Software,B,Y
-5/6/2022,FYF,89.79,0,0,Food,P,N
-5/6/2022,Fee,34,0,0,Fees,B,N
-5/9/2022,Deposit,0,936.37,0,Revenue,B,Y
-5/10/2022,Deposit,0,454.65,0,Revenue,B,Y
-5/10/2022,IRS,2500,0,0,Tax,B,Y
-5/10/2022,Deposit,0,2048.88,0,Revenue,B,Y
-5/10/2022,Deposit,0,811.88,0,Revenue,B,Y
-5/10/2022,Deposit,0,454.65,0,Revenue,B,Y
-5/10/2022,Deposit,0,2849.14,0,Revenue,B,Y
+5/13/2022,HiTechPower,823.43,0,0,Professional Services,B,N
+7/11/2022,7-Eleven,68.1,0,0,Gas,B,N
+7/11/2022,7-Eleven,70.3,0,718,Gas,B,N
+5/20/2022,HiTechPower,90.31,0,0,Professional Services,B,N
+5/24/2022,City of Cedar Park,141.05,0,0,Utilities,P,Y
+6/18/2022,Doordash,36.68,0,0,Food,P,N
+6/18/2022,Doordash,61.99,0,0,Food,P,N
+5/4/2022,City of Leander,262.63,0,0,Utilities,P,Y
+5/20/2022,HiTechPower,212.5,0,0,Professional Services,B,N
+6/23/2022,Doordash,25.76,0,0,Food,P,N
+4/23/2022,Check,892.5,0,0,Labor,B,Y
+7/13/2022,7-Eleven,47.76,0,3341,Gas,B,N
+7/12/2022,Home DePot,15.11,0,0,Supplies,B,N
+9/1/2022,Innovative Urgent Care,15,0,0,Medical,P,N
+5/20/2022,HiTechPower,180.62,0,0,Professional Services,B,N
+6/11/2022,H-E-B #,62.15,0,718,Groceries,P,N
+6/26/2022,Doordash,36.16,0,0,Food,P,N
+6/26/2022,Doordash,19.9,0,0,Food,P,N
+4/19/2022,Deposit,0,4910.22,0,Revenue,B,Y
+6/12/2022,HiTechPower,345.31,0,0,Professional Services,B,N
+6/12/2022,HiTechPower,159.37,0,0,Professional Services,B,N
+4/25/2022,Check,1742.35,0,0,Labor,B,Y
+7/14/2022,7-Eleven,60.54,0,0,Gas,B,N
+4/25/2022,Check,2700,0,0,Labor,B,Y
+4/25/2022,Check,2700,0,0,Labor,B,Y
+6/12/2022,HiTechPower,212.5,0,0,Professional Services,B,N
+6/12/2022,HiTechPower,584.37,0,0,Professional Services,B,N
+6/11/2022,H-E-B #,5.95,0,0,Groceries,P,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/26/2022,Jiffy Lube,113.71,0,0,Auto Maintenance,B,N
+6/13/2022,H-E-B #,19.98,0,0,Groceries,P,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+6/3/2022,Doordash,36.26,0,0,Food,P,N
+6/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
+6/29/2022,Apple,14.06,0,0,Software,B,Y
+7/15/2022,7-Eleven,45.35,0,3341,Gas,B,N
+7/17/2022,Home DePot,60.02,0,0,Supplies,B,N
+4/20/2022,Deposit,0,12443.34,0,Revenue,B,Y
+6/4/2022,Doordash,20.05,0,0,Food,P,N
+11/3/2022,Capital One,400,0,0,Credit Card,B,Y
+6/13/2022,H-E-B #,63.01,0,0,Groceries,P,N
+6/14/2022,H-E-B #,175,0,0,Groceries,P,N
+6/4/2022,Doordash,41.94,0,0,Food,P,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+7/9/2022,HiTechPower,220,0,0,Professional Services,B,N
+5/28/2022,Fortiva,43.85,0,4969,Loan,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+6/28/2022,Fortiva,43.85,0,4969,Loan,B,N
+7/16/2022,7-Eleven,74.94,0,0,Gas,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+5/13/2022,At&t,124.89,0,4969,Phone/Internet,B,Y
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/12/2022,Fee,34,0,0,Fees,B,N
+4/15/2022,Fee,46.62,0,0,Fees,B,N
+4/16/2022,Fee,34,0,0,Fees,B,N
+4/16/2022,Fee,34,0,0,Fees,B,N
+9/6/2022,Doordash,135.33,0,0,Food,P,N
+7/22/2022,7-Eleven,62.1,0,0,Gas,B,N
+7/25/2022,7-Eleven,50,0,2675,Gas,B,N
+4/28/2022,Shell Service,54.18,0,3341,Auto Maintenance,B,N
+4/20/2022,Deposit,0,4330,0,Revenue,B,Y
+4/16/2022,Fee,34,0,0,Fees,B,N
+6/16/2022,H-E-B #,96.45,0,4969,Groceries,P,N
+7/26/2022,7-Eleven,119.91,0,2675,Gas,B,N
+4/16/2022,Fee,34,0,0,Fees,B,N
+9/1/2022,Dutch Bros,23.4,0,0,Food,P,N
+7/28/2022,7-Eleven,42.71,0,718,Gas,B,N
+7/9/2022,HiTechPower,212.5,0,0,Professional Services,B,N
+11/16/2022,El Pollo Rico,41.21,0,0,Food,P,N
+11/3/2022,El Pollo Rico,14,0,0,Food,P,N
+4/29/2022,Shell Service,100,0,3341,Auto Maintenance,B,N
+9/15/2022,Innovative Urgent Care,35,0,0,Medical,P,N
+7/9/2022,Home DePot,29.36,0,0,Supplies,B,N
+4/16/2022,Fee,34,0,0,Fees,B,N
+4/16/2022,Fee,34,0,0,Fees,B,N
+4/16/2022,Fee,34,0,0,Fees,B,N
+4/18/2022,Fee,135.66,0,0,Fees,B,N
+4/20/2022,Fee,1.64,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+6/6/2022,Gusto,0.1,0,0,Tax,B,Y
+6/17/2022,H-E-B #,70.2,0,718,Groceries,P,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+7/28/2022,7-Eleven,63.11,0,4969,Gas,B,N
+7/9/2022,HiTechPower,249.68,0,0,Professional Services,B,N
+4/3/2022,O Rielly Auto,7.03,0,2675,Auto Maintenance,B,N
+7/5/2022,7-Eleven,72.34,0,0,Gas,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/30/2022,Car Wash,35.83,0,0,Auto Maintenance,B,N
+8/1/2022,Home DePot,22.58,0,0,Supplies,B,N
+4/22/2022,Deposit,0,684.36,0,Revenue,B,Y
+4/19/2022,El Pollo Rico,37,0,0,Food,P,N
+4/23/2022,El Pollo Rico,27.49,0,0,Food,P,N
+4/4/2022,Check,1000,0,0,Labor,B,Y
+4/15/2022,Capital One,250,0,0,Credit Card,B,Y
+4/22/2022,Deposit,0,16133.98,0,Revenue,B,Y
+4/19/2022,Capital One,200,0,0,Credit Card,B,Y
+8/20/2022,City of Leander,272.38,0,0,Utilities,P,Y
+4/5/2022,Check,2620,0,0,Labor,B,Y
+6/19/2022,H-E-B #,290.36,0,3341,Groceries,P,N
+10/5/2022,Farmers,1005.33,0,0,Insurance,B,Y
+4/25/2022,Deposit,0,112.19,0,Revenue,B,Y
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/26/2022,Deposit,0,3000,0,Revenue,B,Y
+4/5/2022,Check,3478,0,0,Labor,B,Y
+6/6/2022,Apple,2.99,0,3341,Software,B,Y
+8/2/2022,Home DePot,55.11,0,0,Supplies,B,N
+4/28/2022,Deposit,0,5980.17,0,Revenue,B,Y
+4/5/2022,Check,1408,0,0,Labor,B,Y
+11/15/2022,Farmers,661.91,0,0,Insurance,B,Y
+4/30/2022,Deposit,0,1706.02,0,Revenue,B,Y
+6/2/2022,H-E-B #,100,0,0,Groceries,P,N
+4/4/2022,Deposit,0,608.3,0,Revenue,B,Y
+6/21/2022,H-E-B #,196.84,0,0,Groceries,P,N
+8/1/2022,7-Eleven,49.15,0,0,Gas,B,N
+9/30/2022,Labcorp,101.15,0,0,Medical,P,N
+6/28/2022,H-E-B #,155.6,0,0,Groceries,P,N
+8/20/2022,Home DePot,4.29,0,0,Supplies,B,N
+8/20/2022,Home DePot,4.29,0,0,Supplies,B,N
+4/16/2022,City of San Antonio,121.14,0,0,Utilities,P,Y
+4/7/2022,Check,892.5,0,0,Labor,B,Y
+4/27/2022,Fee,34,0,0,Fees,B,N
+11/7/2022,Farmers,1005.33,0,0,Insurance,B,Y
+8/1/2022,7-Eleven,55.19,0,0,Gas,B,N
+8/20/2022,Home DePot,12.48,0,0,Supplies,B,N
+8/20/2022,Home DePot,8.63,0,0,Supplies,B,N
+7/9/2022,HiTechPower,743.75,0,0,Professional Services,B,N
+8/23/2022,Clip It,16.18,0,0,Recreational,P,N
+5/18/2022,El Pollo Rico,47.5,0,0,Food,P,N
+7/5/2022,Apple,2.99,0,3341,Software,B,Y
+8/21/2022,Home DePot,7.56,0,0,Supplies,B,N
+8/3/2022,Home DePot,14.32,0,0,Supplies,B,N
+8/30/2022,Home DePot,75.4,0,0,Supplies,B,N
+8/2/2022,El Pollo Rico,12,0,0,Food,P,N
+9/15/2022,El Pollo Rico,22.01,0,0,Food,P,N
+6/8/2022,H-E-B #,225.08,0,718,Groceries,P,N
+9/20/2022,El Pollo Rico,26.99,0,0,Food,P,N
+4/5/2022,Deposit,0,497.95,0,Revenue,B,Y
+4/5/2022,Deposit,0,497.95,0,Revenue,B,Y
+7/18/2022,Gusto,1716.35,0,0,Tax,B,Y
+4/5/2022,Deposit,0,6495,0,Revenue,B,Y
+4/5/2022,Deposit,0,1190.75,0,Revenue,B,Y
+4/6/2022,Deposit,0,1995.13,0,Revenue,B,Y
 5/10/2022,Check,1442.5,0,0,Labor,B,Y
-5/10/2022,City of Austin,122.82,0,0,Utilities,P,Y
+5/18/2022,City of San Antonio,161.9,0,0,Utilities,P,Y
 5/10/2022,Shell Service,69.17,0,2675,Auto Maintenance,B,N
-5/11/2022,Loan 02,24.97,0,0,Loan,B,N
-5/11/2022,Walmart,152.2,0,0,Groceries,P,N
-5/11/2022,Texas Gas,44.57,0,0,Utilities,P,Y
+8/4/2022,Home DePot,271.53,0,0,Supplies,B,N
+8/1/2022,Apple,14.06,0,718,Software,B,Y
+4/13/2022,withdrawal cash,4000,0,0,Withdrawal,B,N
+10/7/2022,LSCC Seton,10,0,0,Medical,P,N
+5/10/2022,Deposit,0,454.65,0,Revenue,B,Y
+4/16/2022,Estancia Brazilian,1022.5,0,0,Food,P,N
+7/19/2022,Fortiva,174.99,0,1,Loan,B,N
+10/23/2022,Culligan,105.32,0,718,Utilities,P,Y
+6/9/2022,H-E-B #,139.42,0,0,Groceries,P,N
+5/10/2022,Deposit,0,454.65,0,Revenue,B,Y
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/27/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+5/10/2022,Deposit,0,2048.88,0,Revenue,B,Y
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,Fee,34,0,0,Fees,B,N
+4/30/2022,Fee,41.5,0,0,Fees,B,N
+4/30/2022,Fee,6,0,0,Fees,B,N
+4/5/2022,Fee,18.33,0,0,Fees,B,N
+4/7/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+4/16/2022,withdrawal cash,900,0,0,Withdrawal,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+7/28/2022,Fortiva,43.85,0,4969,Loan,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/16/2022,At&t,62.76,0,4969,Phone/Internet,B,Y
+5/22/2022,Estancia Brazilian,791.77,0,0,Food,P,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+8/12/2022,7-Eleven,48.93,0,0,Gas,B,N
+7/29/2022,Gusto,1629.33,0,0,Tax,B,Y
+7/12/2022,H-E-B #,87,0,0,Groceries,P,N
+7/13/2022,H-E-B #,38.43,0,3341,Groceries,P,N
+8/13/2022,HiTechPower,664.06,0,0,Professional Services,B,N
+5/13/2022,Shell Service,47.23,0,3341,Auto Maintenance,B,N
+8/12/2022,7-Eleven,56.58,0,2675,Gas,B,N
+8/13/2022,HiTechPower,249.68,0,0,Professional Services,B,N
+7/13/2022,H-E-B #,37.34,0,3341,Groceries,P,N
+7/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
+7/14/2022,H-E-B #,38.6,0,718,Groceries,P,N
+8/14/2022,7-Eleven,50.91,0,718,Gas,B,N
+8/15/2022,7-Eleven,20.11,0,0,Gas,B,N
+4/4/2022,Capital One,100,0,0,Credit Card,B,Y
+7/20/2022,H-E-B #,226.53,0,0,Groceries,P,N
+10/6/2022,Express Food,66.56,0,0,Food,P,N
+8/16/2022,Express Food,56.8,0,0,Food,P,N
+5/10/2022,Deposit,0,811.88,0,Revenue,B,Y
+5/12/2022,Fee,34,0,0,Fees,B,N
+9/30/2022,CSC Servicework,2,0,0,Recreational,P,N
+5/14/2022,Check,3400,0,0,Labor,B,Y
+8/23/2022,Express Food,5.39,0,0,Food,P,N
+8/15/2022,7-Eleven,3.78,0,4969,Gas,B,N
+8/17/2022,7-Eleven,11.28,0,4969,Gas,B,N
+8/23/2022,Express Food,125,0,0,Food,P,N
+8/18/2022,7-Eleven,54.11,0,0,Gas,B,N
+5/14/2022,DSW Cedar Park,38.97,0,0,Recreational,P,N
+5/17/2022,At&t,52.16,0,4969,Phone/Internet,B,Y
+5/16/2022,Check,2520,0,0,Labor,B,Y
+4/14/2022,Farmers,661.91,0,0,Insurance,B,Y
+5/10/2022,Deposit,0,2849.14,0,Revenue,B,Y
+5/11/2022,Deposit,0,920.13,0,Revenue,B,Y
+9/14/2022,Home DePot,12.95,0,0,Supplies,B,N
+5/16/2022,Capital One,300,0,0,Credit Card,B,Y
 5/11/2022,withdrawal cash,5000,0,0,Withdrawal,B,N
 5/11/2022,Deposit,0,23462.1,0,Revenue,B,Y
-5/11/2022,La Mexicana,19.47,0,0,Food,P,N
-5/11/2022,OBGYN,64,0,0,Medical,P,N
-5/11/2022,Dog Waste Depot,288.94,0,0,Supplies,B,N
-5/11/2022,Adobe AcroPro,16.23,0,1,Software,B,Y
-5/11/2022,Deposit,0,920.13,0,Revenue,B,Y
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Deposit,0,3680.5,0,Revenue,B,Y
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Loan 02,422.81,0,0,Loan,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,withdrawal cash,1500,0,0,Withdrawal,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/12/2022,Fee,34,0,0,Fees,B,N
-5/13/2022,Dairy Queen,13.93,0,0,Food,P,N
-5/13/2022,Texas Honey Ham,35.41,0,0,Food,P,N
-5/13/2022,7-Eleven,10.93,0,718,Gas,B,N
-5/13/2022,ATM,400,0,4969,Fees,B,N
-5/13/2022,American Express,685.06,0,0,Credit Card,B,Y
-5/13/2022,7-Eleven,62.09,0,0,Gas,B,N
-5/13/2022,7-Eleven,40.03,0,718,Gas,B,N
-5/13/2022,Copper Ridge Market,73.97,0,0,Groceries,P,N
-5/13/2022,H-E-B #,331.39,0,718,Groceries,P,N
-5/13/2022,H-E-B #,186,0,3341,Groceries,P,N
-5/13/2022,Randalls,100,0,0,Groceries,P,N
-5/13/2022,HiTechPower,823.43,0,0,Professional Services,B,N
-5/13/2022,Shell Service,47.23,0,3341,Auto Maintenance,B,N
-5/13/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
-5/13/2022,Randalls,64.88,0,0,Groceries,P,N
-5/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
-5/13/2022,Tax,6318.8,0,0,Tax,B,Y
-5/13/2022,Shell Oil,50,0,0,Gas,B,N
-5/13/2022,At&t,124.89,0,4969,Phone/Internet,B,Y
-5/14/2022,Deposit,0,1075,0,Revenue,B,Y
-5/14/2022,ATM,500,0,4969,Fees,B,N
-5/14/2022,DSW Cedar Park,38.97,0,0,Recreational,P,N
-5/14/2022,Check,3400,0,0,Labor,B,Y
-5/14/2022,WingStop,16.76,0,0,Food,P,N
-5/14/2022,Whole Foods,61.2,0,0,Food,P,N
-5/14/2022,C Store,45.18,0,0,Gas,B,N
-5/15/2022,Lake Line Food,27.03,0,0,Food,P,N
-5/15/2022,Texaco,4.31,0,0,Gas,B,N
-5/15/2022,Texaco,32.57,0,0,Gas,B,N
-5/15/2022,Expedia,137.2,0,0,Recreational,P,N
-5/16/2022,Check,2520,0,0,Labor,B,Y
-5/16/2022,Humana,50.74,0,0,Insurance,B,Y
-5/16/2022,Deposit,0,8576,0,Revenue,B,Y
-5/16/2022,Deposit,0,5326.75,0,Revenue,B,Y
-5/16/2022,Home DePot,77.81,0,0,Supplies,B,N
-5/16/2022,Deposit,0,3247.5,0,Revenue,B,Y
-5/16/2022,withdrawal cash,3500,0,0,Withdrawal,B,N
-5/16/2022,Fee,181.86,0,0,Fees,B,N
-5/16/2022,TAMU,55,0,0,Recreational,P,N
-5/16/2022,Jimmy Johns,27,0,0,Food,P,N
-5/16/2022,Texas Honey Ham,48.79,0,0,Food,P,N
-5/16/2022,Capital One,300,0,0,Credit Card,B,Y
-5/16/2022,LendingClub,498.15,0,0,Loan,B,N
-5/16/2022,The Guardian,849.54,0,0,Insurance,B,Y
-5/16/2022,Walgreens,40.25,0,0,Groceries,P,N
-5/16/2022,Walgreens,140.76,0,0,Groceries,P,N
+4/5/2022,Farmers,1005.33,0,0,Insurance,B,Y
+7/26/2022,H-E-B #,49.68,0,0,Groceries,P,N
+8/20/2022,Fajita Petes,27.17,0,0,Food,P,N
+8/21/2022,Fish Daddys,109.83,0,0,Food,P,N
+7/27/2022,H-E-B #,38.39,0,718,Groceries,P,N
+7/27/2022,H-E-B #,95,0,0,Groceries,P,N
 5/16/2022,Check,600,0,0,Labor,B,Y
-5/16/2022,Taqueria,23.62,0,0,Food,P,N
-5/16/2022,Chipotle,30.31,0,0,Food,P,N
-5/16/2022,Randalls,161.47,0,0,Groceries,P,N
-5/16/2022,Farmers,661.91,0,0,Insurance,B,Y
-5/16/2022,Discover,500,0,0,Credit Card,B,Y
-5/16/2022,At&t,62.76,0,4969,Phone/Internet,B,Y
-5/17/2022,Check,1000,0,0,Labor,B,Y
-5/17/2022,Texaco,32.24,0,0,Gas,B,N
-5/17/2022,Deposit,0,3312.45,0,Revenue,B,Y
-5/17/2022,7-Eleven,56.41,0,2675,Gas,B,N
-5/17/2022,7-Eleven,112.87,0,0,Gas,B,N
-5/17/2022,QT,37.96,0,0,Gas,B,N
-5/17/2022,H-E-B #,61.08,0,0,Groceries,P,N
-5/17/2022,Check,500,0,0,Labor,B,Y
-5/17/2022,At&t,52.16,0,4969,Phone/Internet,B,Y
-5/17/2022,Check,1408,0,0,Labor,B,Y
-5/17/2022,Home DePot,30.58,0,0,Supplies,B,N
-5/17/2022,Lambs Tire,154.58,0,4969,Auto Maintenance,B,N
-5/17/2022,Home DePot,39.96,0,0,Supplies,B,N
-5/17/2022,Chase Credit,500,0,0,Credit Card,B,Y
-5/17/2022,Citi,100,0,0,Credit Card,B,Y
-5/17/2022,Hp Ink,27.05,0,1,Supplies,B,N
-5/17/2022,Check,1650,0,0,Labor,B,Y
-5/18/2022,AllState,352.23,0,0,Insurance,B,Y
-5/18/2022,Lowes,48.63,0,2675,Supplies,B,N
-5/18/2022,Sunoco,23.74,0,0,Professional Services,B,N
-5/18/2022,Citi,29,0,0,Credit Card,B,Y
-5/18/2022,City of San Antonio,161.9,0,0,Utilities,P,Y
-5/18/2022,Lake Line Food,19.47,0,0,Food,P,N
-5/18/2022,El Pollo Rico,47.5,0,0,Food,P,N
-5/18/2022,AllState,49.23,0,0,Insurance,B,Y
-5/18/2022,Loan 00,200,0,0,Loan,B,N
-5/18/2022,Deposit,0,299.77,0,Revenue,B,Y
-5/19/2022,Walgreens,107.12,0,4969,Groceries,P,N
-5/19/2022,SaltGrass,127.12,0,0,Food,P,N
-5/19/2022,Deposit,0,102.44,0,Revenue,B,Y
-5/19/2022,At&t,80.42,0,0,Phone/Internet,B,Y
-5/19/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
-5/19/2022,Check,2400,0,0,Labor,B,Y
-5/19/2022,7-Eleven,65.68,0,2675,Gas,B,N
-5/19/2022,Check,1350,0,0,Labor,B,Y
-5/19/2022,Check,1200,0,0,Labor,B,Y
+8/28/2022,Fortiva,43.85,0,4969,Loan,B,N
 5/19/2022,Capital One,200,0,0,Credit Card,B,Y
-5/19/2022,AllState,59.53,0,0,Insurance,B,Y
-5/19/2022,ATM,149.73,0,0,Fees,B,N
-5/19/2022,Check,3750,0,0,Labor,B,Y
+11/12/2022,Forever Briar Fore,12.98,0,0,Food,P,N
+4/25/2022,FWB Cedar Park,37.84,0,0,Food,P,N
+5/15/2022,Expedia,137.2,0,0,Recreational,P,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/16/2022,Farmers,661.91,0,0,Insurance,B,Y
+9/17/2022,Home DePot,120.89,0,0,Supplies,B,N
+5/17/2022,Check,500,0,0,Labor,B,Y
+5/17/2022,Lambs Tire,154.58,0,4969,Auto Maintenance,B,N
+9/18/2022,Home DePot,100,0,0,Supplies,B,N
+5/17/2022,Check,1408,0,0,Labor,B,Y
 5/19/2022,At&t,25.93,0,4969,Phone/Internet,B,Y
-5/20/2022,Deposit,0,342.68,0,Revenue,B,Y
-5/20/2022,LakeLine Xpress Mart,12.97,0,0,Groceries,P,N
-5/20/2022,HiTechPower,180.62,0,0,Professional Services,B,N
-5/20/2022,HiTechPower,90.31,0,0,Professional Services,B,N
-5/20/2022,HiTechPower,212.5,0,0,Professional Services,B,N
-5/20/2022,Doordash,36.88,0,0,Food,P,N
-5/20/2022,H-E-B #,16.71,0,0,Groceries,P,N
-5/20/2022,H-E-B #,48.51,0,0,Groceries,P,N
+7/30/2022,H-E-B #,12,0,0,Groceries,P,N
+9/21/2022,Home DePot,17.7,0,0,Supplies,B,N
+8/18/2022,7-Eleven,6.55,0,2675,Gas,B,N
+8/19/2022,7-Eleven,13.41,0,3341,Gas,B,N
+5/12/2022,Deposit,0,3680.5,0,Revenue,B,Y
+8/20/2022,7-Eleven,67.23,0,0,Gas,B,N
+5/17/2022,Check,1000,0,0,Labor,B,Y
+5/17/2022,Check,1650,0,0,Labor,B,Y
+5/3/2022,Capital One,100,0,0,Credit Card,B,Y
+8/23/2022,7-Eleven,50.3,0,718,Gas,B,N
+6/15/2022,Capital One,300,0,0,Credit Card,B,Y
+5/27/2022,Farmers,94.8,0,0,Insurance,B,Y
+9/27/2022,Home DePot,75.75,0,0,Supplies,B,N
+8/13/2022,HiTechPower,175.31,0,0,Professional Services,B,N
+6/21/2022,Capital One,200,0,0,Credit Card,B,Y
+4/23/2022,Culligan,306.94,0,3341,Utilities,P,Y
+5/6/2022,FYF,89.79,0,0,Food,P,N
+8/16/2022,Gigem Food,67.06,0,0,Food,P,N
+5/5/2022,Farmers,1005.33,0,0,Insurance,B,Y
+9/28/2022,Fortiva,43.85,0,4969,Loan,B,N
+5/14/2022,Deposit,0,1075,0,Revenue,B,Y
+6/14/2022,Farmers,661.91,0,0,Insurance,B,Y
+5/19/2022,At&t,80.42,0,0,Phone/Internet,B,Y
+5/19/2022,Check,3750,0,0,Labor,B,Y
+5/12/2022,Fee,34,0,0,Fees,B,N
+6/3/2022,Capital One,200,0,0,Credit Card,B,Y
+5/19/2022,Check,1200,0,0,Labor,B,Y
+8/24/2022,7-Eleven,11.36,0,3341,Gas,B,N
+5/19/2022,Check,1350,0,0,Labor,B,Y
+6/7/2022,Farmers,1005.33,0,0,Insurance,B,Y
+5/23/2022,At&t,128.81,0,4969,Phone/Internet,B,Y
+5/16/2022,Deposit,0,8576,0,Revenue,B,Y
+4/19/2022,Glorias Restaurant,88.78,0,0,Food,P,N
+7/30/2022,H-E-B #,119.68,0,0,Groceries,P,N
+5/19/2022,Check,2400,0,0,Labor,B,Y
+7/14/2022,Farmers,1005.33,0,0,Insurance,B,Y
+5/16/2022,Deposit,0,5326.75,0,Revenue,B,Y
+5/16/2022,Deposit,0,3247.5,0,Revenue,B,Y
+7/31/2022,H-E-B #,17,0,0,Groceries,P,N
+5/2/2022,Check,1280,0,0,Labor,B,Y
+7/14/2022,Farmers,661.91,0,0,Insurance,B,Y
+5/2/2022,Shell Service,54.32,0,3341,Auto Maintenance,B,N
+5/17/2022,Deposit,0,3312.45,0,Revenue,B,Y
+10/20/2022,Golden Chick,16.84,0,0,Food,P,N
+10/14/2022,LendingClub,498.15,0,0,Loan,B,N
+8/25/2022,7-Eleven,52.72,0,0,Gas,B,N
+8/26/2022,Apple,5.4,0,4969,Software,B,Y
+11/15/2022,Golden Chick,11.79,0,0,Food,P,N
+11/15/2022,LendingClub,498.15,0,0,Loan,B,N
+8/13/2022,HiTechPower,212.5,0,0,Professional Services,B,N
+8/13/2022,HiTechPower,196.56,0,0,Professional Services,B,N
+9/27/2022,Home DePot,15.98,0,0,Supplies,B,N
+8/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
+5/5/2022,Great American Cookies,20.96,0,0,Food,P,N
+8/16/2022,H-E-B #,183.52,0,0,Groceries,P,N
+8/19/2022,H-E-B #,14.47,0,0,Groceries,P,N
+6/12/2022,Guaco Taco,44.99,0,0,Food,P,N
+8/16/2022,HiTechPower,584.37,0,0,Professional Services,B,N
+8/27/2022,H-E-B #,101.47,0,3341,Groceries,P,N
+8/25/2022,7-Eleven,31.43,0,0,Gas,B,N
+9/7/2022,Home DePot,10.79,0,0,Supplies,B,N
+8/16/2022,HiTechPower,345.31,0,0,Professional Services,B,N
+8/28/2022,H-E-B #,103.77,0,0,Groceries,P,N
+5/18/2022,Deposit,0,299.77,0,Revenue,B,Y
 5/20/2022,Hopdoddy,34.91,0,0,Food,P,N
-5/20/2022,Walgreens,19.99,0,0,Groceries,P,N
-5/20/2022,Amazon,159.6,0,0,Supplies,B,N
-5/20/2022,The Cromeens Law,535,0,0,Professional Services,B,N
-5/20/2022,Surf and Turf,76.25,0,0,Food,P,N
-5/20/2022,Kerbey Lane Cafe,53.25,0,0,Food,P,N
-5/20/2022,Randalls,122.27,0,0,Groceries,P,N
-5/20/2022,H-E-B Gas,81.71,0,4969,Gas,B,N
-5/20/2022,Amazon,309.67,0,0,Supplies,B,N
-5/21/2022,Shell Service,31.78,0,3341,Auto Maintenance,B,N
-5/21/2022,ATM,1,0,0,Fees,B,N
-5/21/2022,ATM,42,0,0,Fees,B,N
-5/21/2022,Blaze Pizza,52.3,0,0,Food,P,N
+11/6/2022,Ilarios Italian,78.45,0,0,Food,P,Y
 5/21/2022,Check,1003,0,0,Labor,B,Y
-5/21/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
-5/21/2022,Deposit,0,16020.03,0,Revenue,B,Y
-5/21/2022,Mi Tiendita,2.7,0,0,Fees,B,N
+10/16/2022,In N Out,29.39,0,0,Food,P,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+8/4/2022,H-E-B #,12,0,0,Groceries,P,N
+5/21/2022,Shell Service,31.78,0,3341,Auto Maintenance,B,N
+9/7/2022,Home DePot,34.17,0,0,Supplies,B,N
 5/21/2022,Shell Service,41.1,0,3341,Auto Maintenance,B,N
-5/21/2022,Pro Serve Ent,86.69,0,0,Supplies,B,N
-5/21/2022,Randalls,126.07,0,4969,Groceries,P,N
+5/12/2022,withdrawal cash,1500,0,0,Withdrawal,B,N
+5/19/2022,Deposit,0,102.44,0,Revenue,B,Y
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Fee,34,0,0,Fees,B,N
+5/16/2022,Fee,181.86,0,0,Fees,B,N
 5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Shell Oil,63.49,0,0,Gas,B,N
+4/19/2022,In N Out,17.37,0,0,Food,P,N
 5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Estancia Brazilian,791.77,0,0,Food,P,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Doordash,31.13,0,0,Food,P,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
-5/22/2022,Fee,34,0,0,Fees,B,N
+8/25/2022,7-Eleven,3.41,0,0,Gas,B,N
 5/22/2022,Fee,34,0,0,Fees,B,N
 5/22/2022,Fee,34,0,0,Fees,B,N
+6/19/2022,In N Out,34.32,0,0,Food,P,N
 5/22/2022,Fee,34,0,0,Fees,B,N
-5/23/2022,withdrawal cash,500,0,0,Withdrawal,B,N
-5/23/2022,7-Eleven,125,0,0,Gas,B,N
-5/23/2022,H-E-B #,41.85,0,0,Groceries,P,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/2/2022,Deposit,0,270.63,0,Revenue,B,Y
+5/16/2022,withdrawal cash,3500,0,0,Withdrawal,B,N
+8/25/2022,7-Eleven,39.85,0,0,Gas,B,N
+8/4/2022,H-E-B #,7.76,0,0,Groceries,P,N
 5/23/2022,Check,1442.5,0,0,Labor,B,Y
+9/14/2022,H-E-B #,208.09,0,0,Groceries,P,N
 5/23/2022,Check,3000,0,0,Labor,B,Y
 5/23/2022,Check,1100,0,0,Labor,B,Y
+9/23/2022,In N Out,12.18,0,0,Food,P,N
+8/25/2022,7-Eleven,2.26,0,0,Gas,B,N
+4/26/2022,Jimmy Johns,35.97,0,0,Food,P,N
+5/26/2022,At&t,42.95,0,0,Phone/Internet,B,Y
+5/2/2022,Deposit,0,3000,0,Revenue,B,Y
+8/29/2022,7-Eleven,11.36,0,3341,Gas,B,N
 5/23/2022,Culligan,97.32,0,3341,Utilities,P,Y
-5/23/2022,Deposit,0,3680.5,0,Revenue,B,Y
-5/23/2022,Deposit,0,2392.7,0,Revenue,B,Y
-5/23/2022,Randalls,116.7,0,4969,Groceries,P,N
-5/23/2022,Raising Canes,10.91,0,0,Food,P,N
-5/23/2022,Fuel Maxx,3.98,0,0,Gas,B,N
-5/23/2022,Short Stop,25.03,0,0,Food,P,N
-5/23/2022,At&t,128.81,0,4969,Phone/Internet,B,Y
-5/23/2022,7-Eleven,80.66,0,718,Gas,B,N
-5/24/2022,Walgreens,8.1,0,4969,Groceries,P,N
-5/24/2022,7-Eleven,68.32,0,0,Gas,B,N
-5/24/2022,American Express,2133.97,0,0,Credit Card,B,Y
-5/24/2022,El Rinconcito,63.58,0,0,Groceries,P,N
-5/24/2022,Vivint,39.48,0,0,Software,B,Y
-5/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+9/14/2022,H-E-B #,19.99,0,0,Groceries,P,N
+7/15/2022,Capital One,300,0,0,Credit Card,B,Y
+7/5/2022,Capital One,200,0,0,Credit Card,B,Y
+10/23/2022,Formula1,160,0,0,Recreational,B,N
+8/16/2022,Capital One,300,0,0,Credit Card,B,Y
+6/23/2022,Culligan,97.32,0,3341,Utilities,P,Y
+9/18/2022,H-E-B #,73.25,0,0,Groceries,P,N
+9/18/2022,H-E-B #,31.79,0,0,Groceries,P,N
+11/13/2022,Marcos Pizza,29.77,0,0,Medical,P,N
+9/8/2022,Home DePot,50.86,0,0,Supplies,B,N
+8/3/2022,7-Eleven,57.78,0,0,Gas,B,N
 5/24/2022,Check,850,0,0,Labor,B,Y
-5/24/2022,H-E-B Gas,66.4,0,4969,Gas,B,N
-5/24/2022,Home DePot,269.54,0,0,Supplies,B,N
-5/24/2022,Costco,57.77,0,718,Groceries,P,N
-5/24/2022,H-E-B #,175.56,0,0,Groceries,P,N
-5/24/2022,H-E-B #,143.33,0,4969,Groceries,P,N
-5/24/2022,City of Cedar Park,141.05,0,0,Utilities,P,Y
-5/24/2022,Discover,656.2,0,0,Credit Card,B,Y
-5/24/2022,Target,271.93,0,0,Recreational,P,N
-5/24/2022,American Express,1700,0,0,Credit Card,B,Y
-5/24/2022,American Express,2000,0,0,Credit Card,B,Y
-5/25/2022,Texas Roadhouse,63.3,0,0,Food,P,N
+8/26/2022,Apple,7.1,0,0,Software,B,Y
+9/23/2022,H-E-B #,118.66,0,718,Groceries,P,N
+8/3/2022,Capital One,127.45,0,0,Credit Card,B,Y
+9/25/2022,H-E-B #,65.27,0,718,Groceries,P,N
+8/31/2022,7-Eleven,58.53,0,0,Gas,B,N
+5/25/2022,Shell Service,55.61,0,1,Auto Maintenance,B,N
+8/5/2022,7-Eleven,64.89,0,0,Gas,B,N
+10/4/2022,Hp Ink,12.98,0,1,Supplies,B,N
+8/26/2022,Apple,9.73,0,4969,Software,B,Y
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/25/2022,Check,2842.13,0,0,Labor,B,Y
+5/16/2022,Jimmy Johns,27,0,0,Food,P,N
 5/25/2022,Discount Tire,99.14,0,0,Auto Maintenance,B,N
 5/25/2022,Jimmy Johns,9.39,0,0,Food,P,N
-5/25/2022,Check,2842.13,0,0,Labor,B,Y
-5/25/2022,LongHorn Trailers,45,0,0,Supplies,B,N
-5/25/2022,Vivint,61.13,0,0,Software,B,Y
 5/25/2022,Check,240,0,0,Labor,B,Y
-5/25/2022,ATM,100,0,0,Fees,B,N
-5/25/2022,Buc-ees,29.14,0,0,Gas,B,N
-5/25/2022,Shell Service,55.61,0,1,Auto Maintenance,B,N
-5/26/2022,At&t,42.95,0,0,Phone/Internet,B,Y
-5/26/2022,QT,25.3,0,0,Gas,B,N
-5/26/2022,Home DePot,9.68,0,0,Supplies,B,N
-5/27/2022,Deposit,0,70,0,Revenue,B,Y
-5/27/2022,Farmers,94.8,0,0,Insurance,B,Y
-5/27/2022,Jiffy Lube,89.14,0,0,Auto Maintenance,B,N
-5/27/2022,Doordash,46.29,0,0,Food,P,N
-5/27/2022,ADP,149.79,0,0,Tax,B,Y
-5/28/2022,Deposit,0,378.88,0,Revenue,B,Y
-5/28/2022,Apple,14.06,0,3341,Software,B,Y
-5/28/2022,Fortiva,43.85,0,4969,Loan,B,N
-5/31/2022,Walmart,86.02,0,4969,Groceries,P,N
-5/31/2022,Blue Cross Blue Shield,498.66,0,0,Insurance,B,Y
-5/31/2022,Ally,509.98,0,0,Loan,B,N
-5/31/2022,ATM,30.11,0,0,Fees,B,N
-5/31/2022,Deposit,0,5144.04,0,Revenue,B,Y
-5/31/2022,Fee,45.5,0,0,Fees,B,N
-5/31/2022,Fee,6,0,0,Fees,B,N
 5/31/2022,At&t,789.34,0,0,Phone/Internet,B,Y
-6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,7-Eleven,69.07,0,0,Gas,B,N
-6/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
-6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,Navient,204.9,0,0,Loan,B,N
-6/1/2022,Fee,34,0,0,Fees,B,N
+8/6/2022,7-Eleven,68.75,0,0,Gas,B,N
+11/1/2022,Hp Ink,12.98,0,1,Supplies,B,N
+8/16/2022,Farmers,661.91,0,0,Insurance,B,Y
+7/8/2022,Gusto,1728.33,0,0,Tax,B,Y
+6/27/2022,Jimmy Johns,37.93,0,0,Food,P,N
+5/27/2022,Jiffy Lube,89.14,0,0,Auto Maintenance,B,N
+5/2/2022,Deposit,0,8871.09,0,Revenue,B,Y
+8/28/2022,Apple,21.64,0,0,Software,B,Y
+4/14/2022,LendingClub,498.15,0,0,Loan,B,N
+5/20/2022,Deposit,0,342.68,0,Revenue,B,Y
+5/3/2022,Check,2500,0,0,Labor,B,Y
+9/26/2022,H-E-B #,25.4,0,0,Groceries,P,N
+9/27/2022,H-E-B #,42.54,0,3341,Groceries,P,N
+5/3/2022,Check,1280,0,0,Labor,B,Y
+9/12/2022,7-Eleven,57.09,0,0,Gas,B,N
+9/15/2022,Capital One,300,0,0,Credit Card,B,Y
+7/28/2022,Culligan,152.69,0,718,Utilities,P,Y
+9/27/2022,H-E-B #,135.03,0,0,Groceries,P,N
+5/21/2022,Deposit,0,16020.03,0,Revenue,B,Y
+9/6/2022,Capital One,200,0,0,Credit Card,B,Y
+8/2/2022,Jimmy Johns,65.26,0,0,Food,P,N
+9/7/2022,H-E-B #,104.02,0,0,Groceries,P,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/3/2022,Check,2050,0,0,Labor,B,Y
+9/13/2022,7-Eleven,1.61,0,0,Gas,B,N
+5/3/2022,Check,1000,0,0,Labor,B,Y
+5/3/2022,Check,936,0,0,Labor,B,Y
+9/13/2022,7-Eleven,34.32,0,2675,Gas,B,N
+9/17/2022,7-Eleven,54.03,0,718,Gas,B,N
+9/8/2022,H-E-B #,26.4,0,0,Groceries,P,N
+8/5/2022,Farmers,1005.33,0,0,Insurance,B,Y
+5/16/2022,LendingClub,498.15,0,0,Loan,B,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/4/2022,At&t,84.19,0,0,Phone/Internet,B,Y
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/23/2022,Deposit,0,2392.7,0,Revenue,B,Y
+9/14/2022,Farmers,661.91,0,0,Insurance,B,Y
+5/22/2022,Fee,34,0,0,Fees,B,N
+9/8/2022,H-E-B #,8,0,0,Groceries,P,N
+6/7/2022,IH 35 Lots,3,0,0,Recreational,P,N
+5/4/2022,Check,1350,0,0,Labor,B,Y
+8/23/2022,Culligan,105.32,0,718,Utilities,P,Y
+5/4/2022,Check,100,0,0,Labor,B,Y
+9/26/2022,Juanitas College,120.89,0,0,Food,P,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+10/17/2022,Chase Credit,400,0,0,Credit Card,B,Y
+5/5/2022,At&t,25.05,0,0,Phone/Internet,B,Y
+9/19/2022,7-Eleven,50,0,2675,Gas,B,N
+9/5/2022,H-E-B Online,126.93,0,0,Groceries,P,N
+6/2/2022,MDVIP,450,0,0,Medical,P,N
+5/4/2022,Check,429.35,0,0,Labor,B,Y
+5/23/2022,Deposit,0,3680.5,0,Revenue,B,Y
+9/2/2022,7-Eleven,115.52,0,718,Gas,B,N
+5/5/2022,Auto Mechanic,1595.26,0,0,Auto Maintenance,B,N
+5/27/2022,Deposit,0,70,0,Revenue,B,Y
+5/20/2022,Kerbey Lane Cafe,53.25,0,0,Food,P,N
+5/3/2022,La Chaparita,43.08,0,0,Groceries,P,N
+6/17/2022,At&t,80.42,0,0,Phone/Internet,B,Y
+6/9/2022,La Margarita,21.21,0,0,Food,P,N
+9/7/2022,Farmers,1005.33,0,0,Insurance,B,Y
+10/5/2022,Health Care Serv,3563.84,0,0,Insurance,B,Y
+5/11/2022,La Mexicana,19.47,0,0,Food,P,N
+9/24/2022,7-Eleven,97.45,0,0,Gas,B,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+8/29/2022,Apple,13.87,0,0,Software,B,Y
+5/6/2022,Check,892.5,0,0,Labor,B,Y
+8/18/2022,HiTechPower,249.68,0,0,Professional Services,B,N
+4/23/2022,Lake Line Food,27.35,0,0,Food,P,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/28/2022,Deposit,0,378.88,0,Revenue,B,Y
+9/27/2022,7-Eleven,13.12,0,0,Gas,B,N
+5/17/2022,Hp Ink,27.05,0,1,Supplies,B,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/22/2022,Fee,34,0,0,Fees,B,N
+5/3/2022,Fee,9.67,0,0,Fees,B,N
+5/31/2022,Fee,6,0,0,Fees,B,N
+9/27/2022,7-Eleven,37.72,0,2675,Gas,B,N
+6/14/2022,LendingClub,498.15,0,0,Loan,B,N
+5/31/2022,Fee,45.5,0,0,Fees,B,N
+5/4/2022,Fee,12.81,0,0,Fees,B,N
+7/14/2022,LendingClub,498.15,0,0,Loan,B,N
+5/5/2022,Fee,19.38,0,0,Fees,B,N
+5/6/2022,Fee,34,0,0,Fees,B,N
 6/1/2022,Fee,34,0,0,Fees,B,N
 6/1/2022,Fee,34,0,0,Fees,B,N
 6/1/2022,Fee,34,0,0,Fees,B,N
 6/1/2022,Check,1000,0,0,Labor,B,Y
 6/1/2022,Fee,34,0,0,Fees,B,N
 6/1/2022,Fee,34,0,0,Fees,B,N
+5/3/2022,Deposit,0,324.75,0,Revenue,B,Y
+6/10/2022,Check,1442.5,0,0,Labor,B,Y
+4/6/2022,LakeLine Xpress Mart,11.14,0,0,Groceries,P,N
+4/26/2022,Lake Line Food,24.01,0,0,Food,P,N
+5/15/2022,Lake Line Food,27.03,0,0,Food,P,N
+5/20/2022,LakeLine Xpress Mart,12.97,0,0,Groceries,P,N
 6/1/2022,Fee,34,0,0,Fees,B,N
-6/1/2022,Chevron,6.7,0,2675,Gas,B,N
+9/29/2022,7-Eleven,56.8,0,718,Gas,B,N
+9/29/2022,7-Eleven,1.07,0,0,Gas,B,N
+6/1/2022,Fee,34,0,0,Fees,B,N
+6/1/2022,Fee,34,0,0,Fees,B,N
+5/31/2022,Deposit,0,5144.04,0,Revenue,B,Y
+6/1/2022,Fee,34,0,0,Fees,B,N
+6/1/2022,Fee,34,0,0,Fees,B,N
+6/1/2022,Fee,34,0,0,Fees,B,N
 6/1/2022,Fee,34,0,0,Fees,B,N
 6/1/2022,Hp Ink,27.05,0,1,Supplies,B,N
-6/2/2022,withdrawal courtesy pay-ach,34,0,0,Fees,B,N
-6/2/2022,Deposit,0,476.3,0,Revenue,B,Y
-6/2/2022,H-E-B #,100,0,0,Groceries,P,N
-6/2/2022,Deposit,0,3031,0,Revenue,B,Y
-6/2/2022,At&t,182.77,0,0,Phone/Internet,B,Y
-6/2/2022,At&t,82.5,0,0,Phone/Internet,B,Y
+6/1/2022,Fee,34,0,0,Fees,B,N
+6/1/2022,Fee,34,0,0,Fees,B,N
+6/1/2022,Fee,34,0,0,Fees,B,N
+6/1/2022,Fee,34,0,0,Fees,B,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+8/19/2022,LakeLine Xpress Mart,12.39,0,0,Groceries,P,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+8/16/2022,LendingClub,498.15,0,0,Loan,B,N
+5/18/2022,Lake Line Food,19.47,0,0,Food,P,N
 6/2/2022,At&t,199.83,0,0,Phone/Internet,B,Y
-6/2/2022,Check,205.65,0,0,Labor,B,Y
-6/2/2022,At&t,139.83,0,0,Phone/Internet,B,Y
-6/2/2022,Check,2400,0,0,Labor,B,Y
-6/2/2022,MDVIP,450,0,0,Medical,P,N
-6/2/2022,Deposit,0,1190.75,0,Revenue,B,Y
-6/2/2022,Deposit,0,476.3,0,Revenue,B,Y
-6/2/2022,Deposit,0,757.75,0,Revenue,B,Y
-6/2/2022,Fee,35.03,0,0,Fees,B,N
-6/2/2022,Citi,63.76,0,0,Credit Card,B,Y
-6/2/2022,Check,1280,0,0,Labor,B,Y
-6/3/2022,The Cromeens Law,395,0,0,Professional Services,B,N
-6/3/2022,Deposit,0,1993.53,0,Revenue,B,Y
-6/3/2022,Capital One,200,0,0,Credit Card,B,Y
+6/12/2022,Lake Line Food,31.24,0,0,Food,P,N
+6/8/2022,IH 35 Lots,3,0,0,Recreational,P,N
+8/18/2022,HiTechPower,743.75,0,0,Professional Services,B,N
+8/18/2022,HiTechPower,212.5,0,0,Professional Services,B,N
+9/27/2022,HiTechPower,239.06,0,0,Professional Services,B,N
+7/14/2022,Lake Line Food,49.09,0,0,Food,P,N
+7/31/2022,Lake Line Food,54.73,0,0,Food,P,N
+8/10/2022,Jack Brown Cleaners,17.86,0,0,Professional Services,B,N
+11/10/2022,Lake Austin,104.56,0,0,Recreational,P,N
+9/5/2022,7-Eleven,55.94,0,0,Gas,B,N
+7/15/2022,Hp Ink,27.05,0,1,Supplies,B,N
+9/29/2022,Leander Stores,72.69,0,2675,Groceries,P,N
+5/4/2022,Deposit,0,433,0,Revenue,B,Y
+8/2/2022,Hp Ink,12.98,0,1,Supplies,B,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/13/2022,Check,350,0,0,Labor,B,Y
+5/5/2022,Deposit,0,562.74,0,Revenue,B,Y
+6/13/2022,Check,2800,0,0,Labor,B,Y
+6/27/2022,R Grocery,143.16,0,3341,Groceries,P,N
+6/27/2022,R Grocery,59.57,0,3341,Groceries,P,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+9/23/2022,Culligan,105.32,0,718,Utilities,P,Y
+9/14/2022,LendingClub,498.15,0,0,Loan,B,N
+7/20/2022,Health Care Serv,7127.68,0,0,Insurance,B,Y
+6/14/2022,Check,1060,0,0,Labor,B,Y
+7/15/2022,R Grocery,20.56,0,0,Groceries,P,N
+8/18/2022,Gusto,1629.35,0,0,Tax,B,Y
+5/9/2022,Deposit,0,936.37,0,Revenue,B,Y
+9/5/2022,7-Eleven,16.34,0,0,Gas,B,N
+6/10/2022,Deposit,0,9022.89,0,Revenue,B,Y
+6/11/2022,Deposit,0,4436.09,0,Revenue,B,Y
+8/30/2022,Health Care Serv,3563.84,0,0,Insurance,B,Y
+5/3/2022,Pedernales Elect,245.85,0,0,Utilities,P,Y
+7/7/2022,R Grocery,70.42,0,2675,Groceries,P,N
+11/17/2022,Chase Credit,400,0,0,Credit Card,B,Y
+4/18/2022,Chase Credit,200,0,0,Credit Card,B,Y
+6/13/2022,Deposit,0,1426.58,0,Revenue,B,Y
+8/22/2022,Lake Austin,50.11,0,0,Recreational,P,N
+8/30/2022,Gusto,1893.21,0,0,Tax,B,Y
+9/20/2022,Gusto,1893.23,0,0,Tax,B,Y
+4/15/2022,Humana,50.74,0,0,Insurance,B,Y
+8/14/2022,Lake Line Food,11.9,0,0,Food,P,N
+9/6/2022,7-Eleven,55.53,0,4969,Gas,B,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+5/1/2022,Lotus Hunan,71.1,0,0,Food,P,N
+9/8/2022,7-Eleven,49.41,0,2675,Gas,B,N
+6/13/2022,Deposit,0,922.91,0,Revenue,B,Y
+6/16/2022,Check,2640,0,0,Labor,B,Y
+6/16/2022,Check,1536,0,0,Labor,B,Y
+10/16/2022,Randalls,97.27,0,0,Groceries,P,N
+6/14/2022,Deposit,0,665.74,0,Revenue,B,Y
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+5/21/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
+6/15/2022,Lotus Hunan,78.92,0,0,Food,P,N
 6/3/2022,Lotus Hunan,71.85,0,0,Food,P,N
-6/3/2022,Pro Serve Ent,147.84,0,0,Supplies,B,N
-6/3/2022,Check,1350,0,0,Labor,B,Y
+9/24/2022,Jack Brown Cleaners,8.55,0,0,Professional Services,B,N
+5/17/2022,Chase Credit,500,0,0,Credit Card,B,Y
+6/2/2022,At&t,139.83,0,0,Phone/Internet,B,Y
+6/17/2022,Check,2925,0,0,Labor,B,Y
+6/17/2022,Check,1000,0,0,Labor,B,Y
+6/17/2022,Check,250,0,0,Labor,B,Y
+5/16/2022,Humana,50.74,0,0,Insurance,B,Y
+10/16/2022,Randalls,100.95,0,4969,Groceries,P,N
+6/17/2022,Check,1620,0,0,Labor,B,Y
+6/15/2022,Deposit,0,185,0,Revenue,B,Y
+8/13/2022,Lotus Hunan,29.76,0,0,Food,P,N
+6/15/2022,Deposit,0,5536.41,0,Revenue,B,Y
+8/26/2022,Lotus Hunan,21.72,0,0,Food,P,N
+9/17/2022,Lubys,83,0,0,Food,P,N
+4/21/2022,Lupe Tortilla,375.84,0,0,Food,P,N
+10/18/2022,Loan 00,200,0,0,Loan,B,N
+8/3/2022,Lake Austin,7.39,0,0,Recreational,P,N
+10/18/2022,Randalls,4.29,0,0,Groceries,P,N
+4/24/2022,Laundry,35.99,0,0,Recreational,B,N
+10/24/2022,Randalls,60.73,0,0,Groceries,P,N
+5/5/2022,McDonalds,13.06,0,0,Food,P,N
+9/2/2022,Hp Ink,12.98,0,1,Supplies,B,N
+5/25/2022,Buc-ees,29.14,0,0,Gas,B,N
+8/20/2022,Buc-ees,55.9,0,0,Gas,B,N
+6/27/2022,Chase Credit,350,0,0,Credit Card,B,Y
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/15/2022,Deposit,0,320,0,Revenue,B,Y
+6/16/2022,Deposit,0,15050.94,0,Revenue,B,Y
+6/16/2022,Deposit,0,1688.7,0,Revenue,B,Y
+7/19/2022,MDVIP,450,0,0,Medical,P,N
+6/2/2022,Check,2400,0,0,Labor,B,Y
+6/2/2022,At&t,182.77,0,0,Phone/Internet,B,Y
+6/2/2022,Check,205.65,0,0,Labor,B,Y
+6/2/2022,Check,1280,0,0,Labor,B,Y
+6/17/2022,Deposit,0,1194.72,0,Revenue,B,Y
+10/25/2022,Randalls,74.66,0,0,Groceries,P,N
+6/18/2022,Deposit,0,3231.26,0,Revenue,B,Y
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/2/2022,At&t,82.5,0,0,Phone/Internet,B,Y
+6/28/2022,At&t,74.15,0,0,Phone/Internet,B,Y
+7/19/2022,At&t,80.42,0,0,Phone/Internet,B,Y
+8/20/2022,Buc-ees,16.22,0,3341,Gas,B,N
+5/14/2022,C Store,45.18,0,0,Gas,B,N
+7/19/2022,Laundry,125.03,0,0,Recreational,B,N
+8/15/2022,C Store,17.88,0,0,Gas,B,N
+8/15/2022,CefCo,93.24,0,718,Gas,B,N
+6/21/2022,Check,2050,0,0,Labor,B,Y
+6/15/2022,Humana,50.74,0,0,Insurance,B,Y
+6/2/2022,Deposit,0,757.75,0,Revenue,B,Y
+9/24/2022,Laz Parking,10.45,0,0,Recreational,P,N
+8/30/2022,McDonalds,6.15,0,0,Food,P,N
+9/25/2022,Laz Parking,2.7,0,0,Recreational,P,N
+7/18/2022,Chase Credit,350,0,0,Credit Card,B,Y
+10/29/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
+6/2/2022,Deposit,0,476.3,0,Revenue,B,Y
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/21/2022,Check,550,0,0,Labor,B,Y
+7/15/2022,Humana,50.74,0,0,Insurance,B,Y
+10/4/2022,Randalls,47.3,0,0,Groceries,P,N
+9/29/2022,Gusto,1893.21,0,0,Tax,B,Y
+5/23/2022,withdrawal cash,500,0,0,Withdrawal,B,N
+8/17/2022,Chase Credit,400,0,0,Credit Card,B,Y
+6/2/2022,Deposit,0,1190.75,0,Revenue,B,Y
+9/19/2022,Chase Credit,400,0,0,Credit Card,B,Y
+8/16/2022,CefCo,2.56,0,0,Gas,B,N
+8/15/2022,Humana,50.74,0,0,Insurance,B,Y
+10/11/2022,Chevron,38.64,0,0,Gas,B,N
+8/5/2022,Apple,2.99,0,0,Software,B,Y
+10/26/2022,Chevron,135.27,0,3341,Gas,B,N
+9/24/2022,McDonalds,6.48,0,0,Food,P,N
+10/8/2022,Texas Gas,27.4,0,0,Utilities,P,Y
+6/2/2022,Deposit,0,3031,0,Revenue,B,Y
+6/16/2022,withdrawal cash,3100,0,0,Withdrawal,B,N
+6/11/2022,Fee,34,0,0,Fees,B,N
+6/13/2022,Fee,31.63,0,0,Fees,B,N
+6/13/2022,Fee,48.75,0,0,Fees,B,N
+6/16/2022,Fee,34,0,0,Fees,B,N
+6/16/2022,Fee,49.22,0,0,Fees,B,N
+6/16/2022,Fee,34,0,0,Fees,B,N
+6/16/2022,Fee,34,0,0,Fees,B,N
+6/2/2022,Fee,35.03,0,0,Fees,B,N
+6/21/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+11/12/2022,Randalls,110.14,0,0,Groceries,P,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/17/2022,Mi Tradicion,20.78,0,0,Food,P,N
+11/14/2022,Randalls,221.24,0,0,Groceries,P,N
+4/24/2022,Mighty Fine Burgers,48.05,0,0,Food,P,N
+8/31/2022,MDVIP,450,0,0,Medical,P,N
+6/27/2022,Check,277.05,0,0,Labor,B,Y
+6/27/2022,Check,1650,0,0,Labor,B,Y
+6/27/2022,Check,1925,0,0,Labor,B,Y
+6/25/2022,Fee,34,0,0,Fees,B,N
+11/17/2022,Mini Mania,169.67,0,0,Food,P,N
+6/27/2022,Check,671.58,0,0,Labor,B,Y
+4/25/2022,Kristy R Cortez,605,0,0,Professional Services,B,N
+11/16/2022,Randalls,246.52,0,0,Groceries,P,N
+11/9/2022,Randalls,96.19,0,0,Groceries,P,N
+4/18/2022,Randalls,89.42,0,0,Groceries,P,N
+6/21/2022,withdrawal cash,260,0,0,Withdrawal,B,N
+6/27/2022,Check,2400,0,0,Labor,B,Y
+10/17/2022,Citi,1292.87,0,0,Credit Card,B,Y
+4/6/2022,Randalls,81.32,0,0,Groceries,P,N
+10/27/2022,Mod Pizza,30.08,0,0,Food,P,N
+11/15/2022,Chevron,49.07,0,0,Gas,B,N
+10/18/2022,Citi,29,0,0,Credit Card,B,Y
+7/21/2022,At&t,135.94,0,4969,Phone/Internet,B,Y
+4/7/2022,Randalls,10.49,0,2675,Groceries,P,N
+4/13/2022,Loan 00,6000,0,0,Loan,B,N
+11/15/2022,Chevron,6.87,0,0,Gas,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+5/11/2022,OBGYN,64,0,0,Medical,P,N
+9/18/2022,Apple,21.64,0,0,Software,B,Y
+9/24/2022,Apple,32.45,0,0,Software,B,Y
+5/13/2022,Randalls,64.88,0,0,Groceries,P,N
+5/13/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
+6/2/2022,Deposit,0,476.3,0,Revenue,B,Y
+9/15/2022,Humana,50.74,0,0,Insurance,B,Y
+10/19/2022,Citi,133.34,0,0,Credit Card,B,Y
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/18/2022,Mod Pizza,29.35,0,0,Food,P,N
 6/3/2022,Mod Pizza,64.62,0,0,Food,P,N
-6/3/2022,Doordash,36.26,0,0,Food,P,N
-6/3/2022,Fee,58.32,0,0,Fees,B,N
-6/3/2022,Bank of America,877.05,0,0,Credit Card,B,Y
-6/3/2022,Amercian General,44.54,0,0,Insurance,B,Y
-6/4/2022,Randalls,32.61,0,0,Groceries,P,N
-6/4/2022,Doordash,41.94,0,0,Food,P,N
-6/4/2022,Doordash,20.05,0,0,Food,P,N
-6/5/2022,Randalls,164.57,0,0,Groceries,P,N
-6/6/2022,Fee,125.57,0,0,Fees,B,N
-6/6/2022,Gusto,0.11,0,0,Tax,B,Y
+6/3/2022,Check,1350,0,0,Labor,B,Y
+4/23/2022,Kim Paper,2575.56,0,0,Supplies,B,N
+9/15/2022,Mod Pizza,27.34,0,0,Food,P,N
+10/3/2022,Citi,63.76,0,0,Credit Card,B,Y
+5/13/2022,Randalls,100,0,0,Groceries,P,N
+9/23/2022,Mod Pizza,15.03,0,0,Food,P,N
+9/29/2022,Mod Pizza,30.07,0,0,Food,P,N
+5/16/2022,Randalls,161.47,0,0,Groceries,P,N
+6/21/2022,Deposit,0,1835.4,0,Revenue,B,Y
+6/21/2022,Deposit,0,98.96,0,Revenue,B,Y
+6/22/2022,Deposit,0,262.47,0,Revenue,B,Y
+9/26/2022,Apple,9.99,0,0,Software,B,Y
+6/25/2022,Fee,34,0,0,Fees,B,N
+10/4/2022,IRS,500,0,0,Tax,B,Y
 6/6/2022,Check,300,0,0,Labor,B,Y
-6/6/2022,Gusto,0.1,0,0,Tax,B,Y
-6/6/2022,Apple,2.99,0,3341,Software,B,Y
-6/6/2022,Deposit,0,3685.91,0,Revenue,B,Y
-6/6/2022,Deposit,0,0.11,0,Revenue,B,Y
-6/6/2022,Deposit,0,0.1,0,Revenue,B,Y
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Farmers,1005.33,0,0,Insurance,B,Y
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,IH 35 Lots,3,0,0,Recreational,P,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Taco Blvd,40.25,0,0,Food,P,N
-6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
-6/7/2022,Fee,34,0,0,Fees,B,N
+5/10/2022,IRS,2500,0,0,Tax,B,Y
+6/7/2022,Car Wash,73.7,0,0,Auto Maintenance,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+10/28/2022,Leander ISD,26,0,4969,Recreational,P,N
+6/25/2022,Fee,34,0,0,Fees,B,N
+11/13/2022,Municipal Court,20,0,0,Food,P,N
+6/3/2022,Fee,58.32,0,0,Fees,B,N
+10/20/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
+6/6/2022,Fee,125.57,0,0,Fees,B,N
 6/7/2022,Fee,34,0,0,Fees,B,N
 6/7/2022,Check,892.5,0,0,Labor,B,Y
 6/7/2022,Fee,34,0,0,Fees,B,N
@@ -739,213 +1435,218 @@ Post Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/7/2022,Fee,34,0,0,Fees,B,N
 6/7/2022,Fee,34,0,0,Fees,B,N
 6/7/2022,Fee,34,0,0,Fees,B,N
-6/7/2022,Car Wash,73.7,0,0,Auto Maintenance,B,N
-6/8/2022,H-E-B #,225.08,0,718,Groceries,P,N
-6/8/2022,IH 35 Lots,3,0,0,Recreational,P,N
-6/8/2022,Fee,34,0,0,Fees,B,N
+6/7/2022,Fee,34,0,0,Fees,B,N
+6/7/2022,Fee,34,0,0,Fees,B,N
+6/7/2022,Fee,34,0,0,Fees,B,N
+6/7/2022,Fee,34,0,0,Fees,B,N
+10/6/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
+6/7/2022,Fee,34,0,0,Fees,B,N
+6/7/2022,Fee,34,0,0,Fees,B,N
+6/7/2022,Fee,34,0,0,Fees,B,N
+6/7/2022,Fee,34,0,0,Fees,B,N
+8/14/2022,Leander ISD,70,0,0,Recreational,P,N
+6/7/2022,Fee,34,0,0,Fees,B,N
 6/8/2022,Check,1450,0,0,Labor,B,Y
 6/8/2022,Check,892.5,0,0,Labor,B,Y
-6/8/2022,7-Eleven,75.51,0,0,Gas,B,N
-6/8/2022,Deposit,0,2048.88,0,Revenue,B,Y
-6/8/2022,Check,3450,0,0,Labor,B,Y
-6/8/2022,Deposit,0,5683.13,0,Revenue,B,Y
-6/9/2022,H-E-B #,139.42,0,0,Groceries,P,N
-6/9/2022,La Margarita,21.21,0,0,Food,P,N
-6/9/2022,Adobe AcroPro,16.23,0,1,Software,B,Y
-6/10/2022,Doordash,61.44,0,0,Food,P,N
-6/10/2022,Chick-Fil-A,48.4,0,0,Food,P,N
-6/10/2022,Check,1442.5,0,0,Labor,B,Y
-6/10/2022,Deposit,0,9022.89,0,Revenue,B,Y
-6/10/2022,Sams Club,53.22,0,2675,Groceries,P,N
-6/11/2022,H-E-B #,62.15,0,718,Groceries,P,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Home DePot,24.94,0,0,Supplies,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,H-E-B #,5.95,0,0,Groceries,P,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Deposit,0,4436.09,0,Revenue,B,Y
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,H-E-B Gas,61.34,0,4969,Gas,B,N
-6/11/2022,Loan 02,447.78,0,0,Loan,B,N
-6/11/2022,7-Eleven,77.23,0,0,Gas,B,N
-6/11/2022,Fee,34,0,0,Fees,B,N
-6/11/2022,ATM,500,0,0,Fees,B,N
-6/12/2022,Academy Sports,139.99,0,4969,Recreational,P,N
-6/12/2022,HiTechPower,345.31,0,0,Professional Services,B,N
-6/12/2022,HiTechPower,159.37,0,0,Professional Services,B,N
-6/12/2022,HiTechPower,584.37,0,0,Professional Services,B,N
-6/12/2022,Lake Line Food,31.24,0,0,Food,P,N
-6/12/2022,Raising Canes,18.38,0,0,Food,P,N
-6/12/2022,Cricket,98.33,0,0,Phone/Internet,B,Y
-6/12/2022,Doordash,23.82,0,0,Food,P,N
-6/12/2022,HiTechPower,212.5,0,0,Professional Services,B,N
-6/12/2022,Guaco Taco,44.99,0,0,Food,P,N
-6/13/2022,H-E-B #,63.01,0,0,Groceries,P,N
-6/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
-6/13/2022,Check,2800,0,0,Labor,B,Y
-6/13/2022,Deposit,0,922.91,0,Revenue,B,Y
-6/13/2022,Check,350,0,0,Labor,B,Y
-6/13/2022,Fee,31.63,0,0,Fees,B,N
-6/13/2022,Fee,48.75,0,0,Fees,B,N
-6/13/2022,Deposit,0,1426.58,0,Revenue,B,Y
-6/13/2022,H-E-B #,19.98,0,0,Groceries,P,N
-6/13/2022,Pro Serve Ent,30.7,0,0,Supplies,B,N
-6/13/2022,Home DePot,18.53,0,0,Supplies,B,N
-6/13/2022,QT,166.31,0,2675,Gas,B,N
-6/13/2022,Cinemark,31.67,0,0,Recreational,P,N
-6/14/2022,Gusto,1755.35,0,0,Tax,B,Y
-6/14/2022,H-E-B #,175,0,0,Groceries,P,N
-6/14/2022,Check,1060,0,0,Labor,B,Y
-6/14/2022,Deposit,0,665.74,0,Revenue,B,Y
-6/14/2022,Farmers,661.91,0,0,Insurance,B,Y
-6/14/2022,LendingClub,498.15,0,0,Loan,B,N
-6/14/2022,Texas Gas,29.07,0,0,Utilities,P,Y
-6/15/2022,7-Eleven,57.56,0,0,Gas,B,N
-6/15/2022,Deposit,0,185,0,Revenue,B,Y
-6/15/2022,Deposit,0,5536.41,0,Revenue,B,Y
-6/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
-6/15/2022,City of Austin,189.84,0,0,Utilities,P,Y
-6/15/2022,Randalls,110.46,0,0,Groceries,P,N
-6/15/2022,Discover,500,0,0,Credit Card,B,Y
-6/15/2022,Lotus Hunan,78.92,0,0,Food,P,N
-6/15/2022,Deposit,0,320,0,Revenue,B,Y
-6/15/2022,Capital One,300,0,0,Credit Card,B,Y
-6/15/2022,Charity,25,0,0,Recreational,P,N
-6/15/2022,Gusto,51,0,0,Tax,B,Y
-6/15/2022,IRS,2500,0,0,Tax,B,Y
-6/15/2022,Humana,50.74,0,0,Insurance,B,Y
-6/16/2022,withdrawal cash,3100,0,0,Withdrawal,B,N
-6/16/2022,Fee,34,0,0,Fees,B,N
-6/16/2022,Fee,34,0,0,Fees,B,N
-6/16/2022,Deposit,0,1688.7,0,Revenue,B,Y
-6/16/2022,H-E-B #,96.45,0,4969,Groceries,P,N
-6/16/2022,Check,1536,0,0,Labor,B,Y
-6/16/2022,Doordash,46.67,0,0,Food,P,N
-6/16/2022,Deposit,0,15050.94,0,Revenue,B,Y
-6/16/2022,7-Eleven,74.19,0,0,Gas,B,N
-6/16/2022,Doordash,27.28,0,0,Food,P,N
-6/16/2022,Fee,49.22,0,0,Fees,B,N
-6/16/2022,Check,2640,0,0,Labor,B,Y
-6/16/2022,Fee,34,0,0,Fees,B,N
-6/16/2022,Chevron,52.2,0,0,Gas,B,N
-6/17/2022,Deposit,0,1194.72,0,Revenue,B,Y
-6/17/2022,H-E-B #,70.2,0,718,Groceries,P,N
-6/17/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
-6/17/2022,Check,250,0,0,Labor,B,Y
-6/17/2022,Check,2925,0,0,Labor,B,Y
-6/17/2022,Check,1000,0,0,Labor,B,Y
-6/17/2022,Check,1620,0,0,Labor,B,Y
-6/17/2022,At&t,80.42,0,0,Phone/Internet,B,Y
-6/17/2022,Citi,441.08,0,0,Credit Card,B,Y
-6/17/2022,The Cromeens Law,905,0,0,Professional Services,B,N
-6/17/2022,Mi Tradicion,20.78,0,0,Food,P,N
-6/18/2022,Mod Pizza,29.35,0,0,Food,P,N
-6/18/2022,Walgreens,4.49,0,0,Groceries,P,N
-6/18/2022,ParkWhiz,12.12,0,0,Recreational,P,N
-6/18/2022,Loan 00,200,0,0,Loan,B,N
-6/18/2022,Charity,15,0,0,Recreational,P,N
-6/18/2022,Doordash,61.99,0,0,Food,P,N
-6/18/2022,Deposit,0,3231.26,0,Revenue,B,Y
-6/18/2022,Bella Sera,200.27,0,0,Food,P,N
-6/18/2022,Doordash,36.68,0,0,Food,P,N
-6/19/2022,H-E-B #,290.36,0,3341,Groceries,P,N
-6/19/2022,In N Out,34.32,0,0,Food,P,N
-6/19/2022,Lowes,110.72,0,0,Supplies,B,N
-6/19/2022,QT,21.13,0,4969,Gas,B,N
-6/19/2022,QT,7.77,0,0,Gas,B,N
-6/20/2022,7-Eleven,12.31,0,0,Gas,B,N
-6/20/2022,7-Eleven,57.63,0,0,Gas,B,N
-6/20/2022,Cinemark,31.45,0,0,Recreational,P,N
-6/20/2022,7-Eleven,79.67,0,0,Gas,B,N
-6/20/2022,7-Eleven,6.91,0,3341,Gas,B,N
-6/21/2022,Star Stop,16.33,0,0,Recreational,P,N
-6/21/2022,Sky Asian Fusion,67.25,0,0,Food,P,N
-6/21/2022,Star Stop,47.13,0,0,Recreational,P,N
-6/21/2022,Citi,29,0,0,Credit Card,B,Y
-6/21/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
-6/21/2022,Deposit,0,98.96,0,Revenue,B,Y
-6/21/2022,Fee,34,0,0,Fees,B,N
-6/21/2022,Check,550,0,0,Labor,B,Y
-6/21/2022,Capital One,200,0,0,Credit Card,B,Y
-6/21/2022,withdrawal cash,260,0,0,Withdrawal,B,N
-6/21/2022,H-E-B #,196.84,0,0,Groceries,P,N
-6/21/2022,AllState,855.75,0,0,Insurance,B,Y
-6/21/2022,Deposit,0,1835.4,0,Revenue,B,Y
-6/21/2022,AllState,49.23,0,0,Insurance,B,Y
-6/21/2022,Check,2050,0,0,Labor,B,Y
-6/21/2022,Tax,7689.32,0,0,Tax,B,Y
-6/22/2022,AllState,59.53,0,0,Insurance,B,Y
-6/22/2022,Deposit,0,262.47,0,Revenue,B,Y
-6/22/2022,Discover,656.2,0,0,Credit Card,B,Y
-6/22/2022,7-Eleven,7.01,0,4969,Gas,B,N
-6/22/2022,Exxon Mobil,155.31,0,0,Gas,B,N
-6/23/2022,Doordash,25.76,0,0,Food,P,N
-6/23/2022,Culligan,97.32,0,3341,Utilities,P,Y
-6/23/2022,Circle K,74,0,2675,Gas,B,N
-6/23/2022,Vivint,39.48,0,0,Software,B,Y
-6/24/2022,withdrawal cash,3000,0,0,Withdrawal,B,N
+11/4/2022,Chevron,11.9,0,3341,Gas,B,N
 6/24/2022,Deposit,0,16393.6,0,Revenue,B,Y
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/25/2022,Fee,34,0,0,Fees,B,N
-6/26/2022,Doordash,36.16,0,0,Food,P,N
-6/26/2022,ATM,83.25,0,0,Fees,B,N
-6/26/2022,ATM,1,0,0,Fees,B,N
-6/26/2022,Walgreens,110,0,4969,Groceries,P,N
-6/26/2022,Doordash,19.9,0,0,Food,P,N
-6/26/2022,Walgreens,63.28,0,4969,Groceries,P,N
-6/26/2022,Sana Vida Wellness,238.4,0,0,Medical,P,N
-6/27/2022,Check,277.05,0,0,Labor,B,Y
-6/27/2022,Check,1650,0,0,Labor,B,Y
-6/27/2022,Check,671.58,0,0,Labor,B,Y
-6/27/2022,Check,1925,0,0,Labor,B,Y
-6/27/2022,ATM,60,0,0,Fees,B,N
-6/27/2022,Chick-Fil-A,41.86,0,0,Food,P,N
-6/27/2022,Car Unlock,89.82,0,0,Professional Services,B,N
-6/27/2022,7-Eleven,75.03,0,0,Gas,B,N
-6/27/2022,Jimmy Johns,37.93,0,0,Food,P,N
-6/27/2022,Chase Credit,350,0,0,Credit Card,B,Y
-6/27/2022,Check,2400,0,0,Labor,B,Y
-6/27/2022,withdrawal cash,3000,0,0,Withdrawal,B,N
-6/27/2022,R Grocery,59.57,0,3341,Groceries,P,N
-6/27/2022,R Grocery,143.16,0,3341,Groceries,P,N
-6/27/2022,Sams Club,430.53,0,3341,Groceries,P,N
-6/27/2022,Walmart,89.42,0,0,Groceries,P,N
-6/28/2022,Crate & Barrel,352,0,0,Credit Card,B,Y
-6/28/2022,At&t,74.15,0,0,Phone/Internet,B,Y
-6/28/2022,H-E-B #,155.6,0,0,Groceries,P,N
-6/28/2022,Fortiva,43.85,0,4969,Loan,B,N
-6/28/2022,7-Eleven,71.23,0,0,Gas,B,N
-6/28/2022,ATM,66.67,0,0,Fees,B,N
-6/28/2022,Alamo Specialty Pharmacy,55,0,0,Medical,P,N
-6/29/2022,Vivint,61.13,0,0,Software,B,Y
+6/8/2022,Check,3450,0,0,Labor,B,Y
+6/3/2022,Deposit,0,1993.53,0,Revenue,B,Y
+5/20/2022,Randalls,122.27,0,0,Groceries,P,N
+5/21/2022,Randalls,126.07,0,4969,Groceries,P,N
+9/25/2022,NWS 2nd Street,53.37,0,0,Food,P,N
+9/28/2022,Apple,13.87,0,718,Software,B,Y
+6/6/2022,Deposit,0,0.1,0,Revenue,B,Y
+4/18/2022,Loan 00,200,0,0,Loan,B,N
+6/6/2022,Deposit,0,0.11,0,Revenue,B,Y
+7/11/2022,Check,400.53,0,0,Labor,B,Y
+7/11/2022,Check,277.05,0,0,Labor,B,Y
+7/11/2022,Check,2411.83,0,0,Labor,B,Y
+11/4/2022,Chevron,12,0,3341,Gas,B,N
+4/19/2022,Chevron,38.99,0,0,Gas,B,N
+6/6/2022,Deposit,0,3685.91,0,Revenue,B,Y
+6/7/2022,Fee,34,0,0,Fees,B,N
+8/4/2022,Kim Paper,1731.45,0,718,Supplies,B,N
+6/21/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
+6/8/2022,Deposit,0,5683.13,0,Revenue,B,Y
+4/28/2022,Chevron,4.18,0,0,Gas,B,N
+5/23/2022,Randalls,116.7,0,4969,Groceries,P,N
+11/2/2022,Citi,63.76,0,0,Credit Card,B,Y
+7/26/2022,Kristy R Cortez,2625,0,0,Professional Services,B,N
+8/5/2022,Kim Paper,1731.46,0,718,Supplies,B,N
+5/4/2022,Randalls,142.37,0,0,Groceries,P,N
+9/5/2022,Apple,2.99,0,718,Software,B,Y
+10/11/2022,BBB,80,0,0,Software,B,Y
+4/6/2022,Chevron,2.57,0,0,Gas,B,N
+6/15/2022,Randalls,110.46,0,0,Groceries,P,N
 6/29/2022,Randalls,27.86,0,0,Groceries,P,N
-6/29/2022,Apple,14.06,0,0,Software,B,Y
-7/1/2022,Blue Cross Blue Shield,0,33.25,0,Revenue,B,Y
+6/4/2022,Randalls,32.61,0,0,Groceries,P,N
+11/11/2022,BBB,80,0,0,Software,B,Y
+9/22/2022,Kim Paper,3000,0,718,Supplies,B,N
+5/3/2022,Chevron,53.01,0,0,Gas,B,N
+9/16/2022,P Terrys,12.07,0,0,Food,P,N
+6/5/2022,Randalls,164.57,0,0,Groceries,P,N
+6/8/2022,Deposit,0,2048.88,0,Revenue,B,Y
+4/20/2022,Loan 00,6000,0,0,Loan,B,N
+7/30/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
+7/14/2022,Check,520,0,0,Labor,B,Y
+7/14/2022,Check,1000,0,0,Labor,B,Y
+11/4/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
+6/7/2022,Fee,34,0,0,Fees,B,N
+4/21/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
+7/14/2022,Check,892.5,0,0,Labor,B,Y
+6/7/2022,Fee,34,0,0,Fees,B,N
+4/29/2022,PintHouse Pizza,28.01,0,0,Food,P,N
+11/7/2022,Texas Gas,33.24,0,0,Utilities,P,Y
+6/7/2022,Fee,34,0,0,Fees,B,N
+7/11/2022,Deposit,0,4567.4,0,Revenue,B,Y
+6/1/2022,Chevron,6.7,0,2675,Gas,B,N
+4/18/2022,Citi,29,0,0,Credit Card,B,Y
+7/11/2022,Deposit,0,2232.12,0,Revenue,B,Y
+6/24/2022,withdrawal cash,3000,0,0,Withdrawal,B,N
+5/19/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
+7/13/2022,Randalls,76.87,0,0,Groceries,P,N
+7/15/2022,Check,2411.83,0,0,Labor,B,Y
+6/8/2022,Fee,34,0,0,Fees,B,N
+7/11/2022,Fee,155.79,0,0,Fees,B,N
+5/5/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
+4/2/2022,Citi,63.76,0,0,Credit Card,B,Y
+7/18/2022,Randalls,112.32,0,0,Groceries,P,N
+4/29/2022,PintHouse Pizza,10,0,0,Food,P,N
+7/12/2022,Deposit,0,1539.84,0,Revenue,B,Y
+9/22/2022,Kim Paper,3000,0,4969,Supplies,B,N
+9/13/2022,Kristy R Cortez,706.5,0,0,Professional Services,B,N
+7/14/2022,Fee,34,0,0,Fees,B,N
+7/15/2022,Check,1408,0,0,Labor,B,Y
+7/16/2022,Check,200,0,0,Labor,B,Y
+9/15/2022,Left Hand Design,557.49,0,0,Recreational,P,N
+6/16/2022,Chevron,52.2,0,0,Gas,B,N
+7/4/2022,Randalls,99.31,0,0,Groceries,P,N
+5/25/2022,LongHorn Trailers,45,0,0,Supplies,B,N
+7/15/2022,Fee,34,0,0,Fees,B,N
+7/12/2022,Chevron,91.37,0,0,Gas,B,N
+8/28/2022,Chevron,21.64,0,0,Gas,B,N
+7/16/2022,Check,1442.5,0,0,Labor,B,Y
+7/16/2022,Check,2725,0,0,Labor,B,Y
+7/14/2022,Deposit,0,4705.63,0,Revenue,B,Y
+7/15/2022,Fee,34,0,0,Fees,B,N
+7/12/2022,LongHorn Trailers,45,0,0,Supplies,B,N
+7/17/2022,Shell Service,90.08,0,3341,Auto Maintenance,B,N
+7/18/2022,Check,2120,0,0,Labor,B,Y
+8/30/2022,Chevron,150.14,0,0,Gas,B,N
+7/18/2022,Check,671.58,0,0,Labor,B,Y
+7/18/2022,Check,1550,0,0,Labor,B,Y
+7/18/2022,Check,1557.67,0,0,Labor,B,Y
+7/18/2022,Check,2085,0,0,Labor,B,Y
+7/18/2022,Shell Service,100,0,3341,Auto Maintenance,B,N
+8/1/2022,Randalls,13.93,0,2675,Groceries,P,N
+4/21/2022,Citi,133.34,0,0,Credit Card,B,Y
+5/18/2022,Loan 00,200,0,0,Loan,B,N
+7/18/2022,Shell Service,52.19,0,3341,Auto Maintenance,B,N
+7/18/2022,Shell Service,62.13,0,2675,Auto Maintenance,B,N
+6/15/2022,IRS,2500,0,0,Tax,B,Y
+4/26/2022,Citi,928.1,0,0,Credit Card,B,Y
+5/17/2022,Citi,100,0,0,Credit Card,B,Y
+7/18/2022,Check,1620,0,0,Labor,B,Y
+7/18/2022,Check,250,0,0,Labor,B,Y
+7/18/2022,Check,277.05,0,0,Labor,B,Y
+4/16/2022,Texas Gas,112.36,0,0,Utilities,P,Y
+5/18/2022,Citi,29,0,0,Credit Card,B,Y
+5/3/2022,Citi,63.76,0,0,Credit Card,B,Y
+9/15/2022,IRS,2500,0,0,Tax,B,Y
+7/15/2022,Deposit,0,33457.81,0,Revenue,B,Y
+10/4/2022,Pharmacy,60,0,0,Medical,P,N
+7/15/2022,Deposit,0,8943.34,0,Revenue,B,Y
+7/19/2022,Check,1450,0,0,Labor,B,Y
+7/19/2022,Check,5865,0,0,Labor,B,Y
+7/15/2022,Deposit,0,926.86,0,Revenue,B,Y
+7/16/2022,Deposit,0,5696.58,0,Revenue,B,Y
+6/17/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
+7/22/2022,At&t,132.4,0,4969,Phone/Internet,B,Y
+6/18/2022,Loan 00,200,0,0,Loan,B,N
+7/18/2022,Deposit,0,5092.08,0,Revenue,B,Y
+7/18/2022,Loan 00,200,0,0,Loan,B,N
 7/2/2022,Deposit,0,7848.13,0,Revenue,B,Y
-7/2/2022,QT,71.29,0,2675,Gas,B,N
+7/19/2022,Check,800,0,0,Labor,B,Y
+7/19/2022,Check,500,0,0,Labor,B,Y
+9/30/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
+7/19/2022,Shell Service,91.6,0,3341,Auto Maintenance,B,N
+7/19/2022,Check,1340,0,0,Labor,B,Y
+7/20/2022,Deposit,0,102.29,0,Revenue,B,Y
+8/31/2022,Chevron,13.26,0,0,Gas,B,N
+6/27/2022,withdrawal cash,3000,0,0,Withdrawal,B,N
+8/4/2022,Chevron,11.15,0,4969,Gas,B,N
+7/20/2022,Check,250,0,0,Labor,B,Y
+7/20/2022,Check,2400,0,0,Labor,B,Y
+6/7/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
+11/11/2022,Kroger,92.3,0,3341,Groceries,B,N
+7/20/2022,Check,250,0,0,Labor,B,Y
+7/20/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
+7/21/2022,Deposit,0,1299,0,Revenue,B,Y
+8/14/2022,Randalls,205.95,0,0,Groceries,P,N
+6/17/2022,Citi,441.08,0,0,Credit Card,B,Y
+7/22/2022,Deposit,0,3000,0,Revenue,B,Y
+7/27/2022,At&t,98.26,0,0,Phone/Internet,B,Y
+11/12/2022,Kroger,73.56,0,3341,Groceries,B,N
+7/15/2022,Fee,34,0,0,Fees,B,N
+7/22/2022,Car Wash,73.8,0,0,Auto Maintenance,B,N
+10/1/2022,Landfill,90,0,2675,Professional Services,B,N
+7/22/2022,Deposit,0,15985.41,0,Revenue,B,Y
+7/29/2022,At&t,207.02,0,0,Phone/Internet,B,Y
+7/22/2022,Deposit,0,70.36,0,Revenue,B,Y
+6/2/2022,Citi,63.76,0,0,Credit Card,B,Y
+9/13/2022,Chevron,51.25,0,0,Gas,B,N
+7/29/2022,Deposit,0,6000,0,Revenue,B,Y
+7/15/2022,Fee,31.76,0,0,Fees,B,N
+7/15/2022,Fee,34,0,0,Fees,B,N
+10/10/2022,Microsoft,13.54,0,0,Software,B,Y
+9/16/2022,Chevron,52.19,0,0,Gas,B,N
+7/16/2022,Fee,34,0,0,Fees,B,N
+9/25/2022,Chevron,73.22,0,0,Gas,B,N
+7/16/2022,Fee,34,0,0,Fees,B,N
+7/21/2022,Fee,37.92,0,0,Fees,B,N
+7/23/2022,Fee,34,0,0,Fees,B,N
+7/23/2022,Fee,34,0,0,Fees,B,N
+7/23/2022,Fee,34,0,0,Fees,B,N
+7/23/2022,Fee,34,0,0,Fees,B,N
+9/27/2022,Platinum Research,146.97,0,0,Medical,P,N
+9/27/2022,Chevron,15.14,0,0,Gas,B,N
+9/8/2022,Chevron,97.78,0,0,Gas,B,N
+7/23/2022,Fee,34,0,0,Fees,B,N
+8/18/2022,Randalls,149.67,0,0,Groceries,P,N
+10/10/2022,Lowes,19.46,0,4969,Supplies,B,N
+10/10/2022,Microsoft,25.58,0,0,Software,B,Y
+10/15/2022,Lowes,62.24,0,3341,Supplies,B,N
+7/26/2022,Check,1800,0,0,Labor,B,Y
+10/12/2022,Landfill,150,0,0,Professional Services,B,N
+5/4/2022,Renken Dentistry,19.22,0,0,Medical,P,N
+10/26/2022,Circle K,29.09,0,4969,Gas,B,N
+8/2/2022,Randalls,44.64,0,4969,Groceries,P,N
+7/27/2022,Check,115,0,0,Labor,B,Y
+8/13/2022,At&t,55.56,0,718,Phone/Internet,B,Y
+8/28/2022,Randalls,171.55,0,4969,Groceries,P,N
+7/23/2022,Fee,34,0,0,Fees,B,N
+8/18/2022,Loan 00,200,0,0,Loan,B,N
+10/4/2022,Circle K,49.7,0,718,Gas,B,N
+10/16/2022,Lowes,14.68,0,4969,Supplies,B,N
+11/4/2022,Landfill,114.8,0,0,Professional Services,B,N
+7/28/2022,Check,120,0,0,Labor,B,Y
+11/11/2022,Circle K,68.47,0,2675,Gas,B,N
+9/19/2022,Loan 00,200,0,0,Loan,B,N
+11/2/2022,Circle K,109.37,0,4969,Gas,B,N
+5/11/2022,Texas Gas,44.57,0,0,Utilities,P,Y
+7/8/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
+7/29/2022,Austin Tire Man,150,0,0,Auto Maintenance,B,N
+7/15/2022,withdrawal cash,2000,0,0,Withdrawal,B,N
+7/29/2022,Check,671.59,0,0,Labor,B,Y
+7/5/2022,Deposit,0,6475.52,0,Revenue,B,Y
+8/16/2022,At&t,124.4,0,0,Phone/Internet,B,Y
+11/10/2022,Microsoft,25.58,0,0001,Software,B,Y
+9/30/2022,Llano Co,155.75,0,0,Tax,B,Y
+10/2/2022,Lowes,45.4,0,4969,Supplies,B,N
+7/23/2022,Fee,34,0,0,Fees,B,N
+7/23/2022,Fee,34,0,0,Fees,B,N
+7/23/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
@@ -960,362 +1661,140 @@ Post Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
-7/3/2022,Fee,34,0,0,Fees,B,N
-7/3/2022,Fee,34,0,0,Fees,B,N
-7/3/2022,Fee,6,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,32,0,0,Fees,B,N
+7/3/2022,Fee,6,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
 7/3/2022,Fee,34,0,0,Fees,B,N
+7/30/2022,Check,1557.67,0,0,Labor,B,Y
+8/29/2022,Randalls,51.11,0,4969,Groceries,P,N
+8/3/2022,Randalls,47.08,0,0,Groceries,P,N
+7/30/2022,Car Wash,70,0,0,Auto Maintenance,B,N
+11/4/2022,Circle K,48.06,0,718,Gas,B,N
+4/21/2022,Circle K,74,0,2675,Gas,B,N
+4/3/2022,Landfill,168.5,0,2675,Professional Services,B,N
+7/30/2022,Check,2411.83,0,0,Labor,B,Y
+6/23/2022,Circle K,74,0,2675,Gas,B,N
+7/27/2022,Circle K,50.19,0,2675,Gas,B,N
+4/22/2022,Pizza Hut,18.51,0,0,Food,P,N
+8/6/2022,Randalls,89.68,0,0,Groceries,P,N
 7/3/2022,Fee,34,0,0,Fees,B,N
-7/4/2022,Randalls,99.31,0,0,Groceries,P,N
-7/5/2022,American Express,34,0,0,Credit Card,B,Y
-7/5/2022,American Express,9097.21,0,0,Credit Card,B,Y
-7/5/2022,Deposit,0,6475.52,0,Revenue,B,Y
-7/5/2022,7-Eleven,72.34,0,0,Gas,B,N
-7/5/2022,Blue Cross Blue Shield,498.66,0,0,Insurance,B,Y
-7/5/2022,Bank of America,877.05,0,0,Credit Card,B,Y
-7/5/2022,Capital One,200,0,0,Credit Card,B,Y
-7/5/2022,withdrawal cash,3484,0,0,Withdrawal,B,N
-7/5/2022,Citi,63.76,0,0,Credit Card,B,Y
+7/3/2022,Fee,34,0,0,Fees,B,N
+9/1/2022,Randalls,27.57,0,3341,Groceries,P,N
+11/10/2022,Microsoft,13.54,0,0,Software,B,Y
 7/5/2022,Check,1000,0,0,Labor,B,Y
-7/5/2022,Fee,19.09,0,0,Fees,B,N
-7/5/2022,Fee,9.67,0,0,Fees,B,N
+6/21/2022,Citi,29,0,0,Credit Card,B,Y
+7/18/2022,Citi,29,0,0,Credit Card,B,Y
+7/20/2022,withdrawal cash,3000,0,0,Withdrawal,B,N
+7/21/2022,Citi,266.68,0,0,Credit Card,B,Y
 7/5/2022,Deposit,0,476.3,0,Revenue,B,Y
-7/5/2022,Deposit,0,476.3,0,Revenue,B,Y
-7/5/2022,Apple,2.99,0,3341,Software,B,Y
+7/3/2022,Fee,34,0,0,Fees,B,N
+8/18/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
+7/31/2022,Fee,32.25,0,0,Fees,B,N
 7/5/2022,Deposit,0,649.5,0,Revenue,B,Y
 7/5/2022,Deposit,0,324.75,0,Revenue,B,Y
-7/5/2022,H-E-B Gas,138.75,0,2675,Gas,B,N
-7/7/2022,Fee,4,0,0,Fees,B,N
-7/7/2022,Check,3650,0,0,Labor,B,Y
-7/7/2022,Check,1442.5,0,0,Labor,B,Y
-7/7/2022,R Grocery,70.42,0,2675,Groceries,P,N
-7/7/2022,Deposit,0,20000,0,Revenue,B,Y
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Deposit,0,957.25,0,Revenue,B,Y
-7/8/2022,Check,671.59,0,0,Labor,B,Y
-7/8/2022,Check,400,0,0,Labor,B,Y
-7/8/2022,Gusto,1728.33,0,0,Tax,B,Y
-7/8/2022,Check,1410,0,0,Labor,B,Y
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Navient,204.9,0,0,Loan,B,N
-7/8/2022,Circle K,39.29,0,2675,Gas,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Fee,34,0,0,Fees,B,N
-7/8/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
-7/9/2022,Exxon Mobil,12.82,0,0,Gas,B,N
-7/9/2022,Adobe AcroPro,16.23,0,1,Software,B,Y
-7/9/2022,HiTechPower,220,0,0,Professional Services,B,N
-7/9/2022,HiTechPower,212.5,0,0,Professional Services,B,N
-7/9/2022,HiTechPower,249.68,0,0,Professional Services,B,N
-7/9/2022,HiTechPower,743.75,0,0,Professional Services,B,N
-7/9/2022,Home DePot,29.36,0,0,Supplies,B,N
-7/9/2022,withdrawal cash,7000,0,0,Withdrawal,B,N
-7/11/2022,Loan 02,447.78,0,0,Loan,B,N
-7/11/2022,Fee,155.79,0,0,Fees,B,N
-7/11/2022,Deposit,0,2232.12,0,Revenue,B,Y
-7/11/2022,7-Eleven,70.3,0,718,Gas,B,N
-7/11/2022,7-Eleven,68.1,0,0,Gas,B,N
-7/11/2022,Check,2411.83,0,0,Labor,B,Y
-7/11/2022,Check,277.05,0,0,Labor,B,Y
-7/11/2022,Check,400.53,0,0,Labor,B,Y
-7/11/2022,Deposit,0,4567.4,0,Revenue,B,Y
-7/12/2022,American Express,251.43,0,0,Credit Card,B,Y
-7/12/2022,H-E-B #,87,0,0,Groceries,P,N
-7/12/2022,Chevron,91.37,0,0,Gas,B,N
-7/12/2022,Deposit,0,1539.84,0,Revenue,B,Y
-7/12/2022,LongHorn Trailers,45,0,0,Supplies,B,N
-7/12/2022,The Cromeens Law,1000,0,0,Professional Services,B,N
-7/12/2022,The Cromeens Law,1500,0,0,Professional Services,B,N
-7/12/2022,Home DePot,15.11,0,0,Supplies,B,N
-7/13/2022,Pro Serve Ent,46.18,0,0,Supplies,B,N
-7/13/2022,Microsoft,10,0,1,Software,B,Y
-7/13/2022,Microsoft,27.08,0,0,Software,B,Y
-7/13/2022,7-Eleven,47.76,0,3341,Gas,B,N
-7/13/2022,H-E-B #,37.34,0,3341,Groceries,P,N
-7/13/2022,Randalls,76.87,0,0,Groceries,P,N
-7/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
-7/13/2022,Microsoft,89.52,0,0,Software,B,Y
-7/13/2022,H-E-B #,38.43,0,3341,Groceries,P,N
-7/14/2022,Farmers,1005.33,0,0,Insurance,B,Y
-7/14/2022,Sunoco,64.22,0,2675,Professional Services,B,N
-7/14/2022,Check,1000,0,0,Labor,B,Y
-7/14/2022,Check,520,0,0,Labor,B,Y
-7/14/2022,Farmers,661.91,0,0,Insurance,B,Y
-7/14/2022,LendingClub,498.15,0,0,Loan,B,N
-7/14/2022,Deposit,0,4705.63,0,Revenue,B,Y
-7/14/2022,H-E-B #,38.6,0,718,Groceries,P,N
-7/14/2022,7-Eleven,60.54,0,0,Gas,B,N
-7/14/2022,Check,892.5,0,0,Labor,B,Y
-7/14/2022,Fee,34,0,0,Fees,B,N
-7/14/2022,Lake Line Food,49.09,0,0,Food,P,N
-7/15/2022,Fee,34,0,0,Fees,B,N
-7/15/2022,The Cromeens Law,165,0,0,Professional Services,B,N
-7/15/2022,Fee,34,0,0,Fees,B,N
-7/15/2022,Hp Ink,27.05,0,1,Supplies,B,N
-7/15/2022,Deposit,0,926.86,0,Revenue,B,Y
-7/15/2022,Vazquez Tacos,47.68,0,0,Food,P,N
-7/15/2022,Walgreens,105.95,0,0,Groceries,P,N
-7/15/2022,Discover,500,0,0,Credit Card,B,Y
-7/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
-7/15/2022,Fee,31.76,0,0,Fees,B,N
-7/15/2022,Check,1408,0,0,Labor,B,Y
-7/15/2022,Check,2411.83,0,0,Labor,B,Y
-7/15/2022,R Grocery,20.56,0,0,Groceries,P,N
-7/15/2022,Fee,34,0,0,Fees,B,N
-7/15/2022,Humana,50.74,0,0,Insurance,B,Y
-7/15/2022,withdrawal cash,2000,0,0,Withdrawal,B,N
-7/15/2022,Deposit,0,8943.34,0,Revenue,B,Y
-7/15/2022,Capital One,300,0,0,Credit Card,B,Y
-7/15/2022,7-Eleven,45.35,0,3341,Gas,B,N
-7/15/2022,Deposit,0,33457.81,0,Revenue,B,Y
-7/15/2022,DashPass,9.99,0,0,Food,P,N
-7/15/2022,Fee,34,0,0,Fees,B,N
-7/15/2022,Texas Gas,31.62,0,0,Utilities,P,Y
-7/16/2022,Deposit,0,5696.58,0,Revenue,B,Y
-7/16/2022,7-Eleven,74.94,0,0,Gas,B,N
-7/16/2022,Check,2725,0,0,Labor,B,Y
-7/16/2022,Check,1442.5,0,0,Labor,B,Y
-7/16/2022,H-E-B Gas,49.72,0,3341,Gas,B,N
-7/16/2022,Fee,34,0,0,Fees,B,N
-7/16/2022,Fee,34,0,0,Fees,B,N
-7/16/2022,Check,200,0,0,Labor,B,Y
-7/16/2022,Pro Serve Ent,40.92,0,0,Supplies,B,N
-7/16/2022,Walgreens,63.69,0,0,Groceries,P,N
-7/16/2022,QT,41.23,0,3341,Gas,B,N
-7/16/2022,A Plus Outdoor,777.19,0,0,Recreational,P,N
-7/17/2022,Home DePot,60.02,0,0,Supplies,B,N
-7/17/2022,Shell Service,90.08,0,3341,Auto Maintenance,B,N
-7/18/2022,Check,2085,0,0,Labor,B,Y
-7/18/2022,Check,1620,0,0,Labor,B,Y
-7/18/2022,Check,250,0,0,Labor,B,Y
-7/18/2022,Check,277.05,0,0,Labor,B,Y
-7/18/2022,City of Austin,247.52,0,0,Utilities,P,Y
-7/18/2022,American Express,4,0,0,Credit Card,B,Y
-7/18/2022,American Express,329,0,0,Credit Card,B,Y
-7/18/2022,Tax,7010.23,0,0,Tax,B,Y
-7/18/2022,Deposit,0,5092.08,0,Revenue,B,Y
-7/18/2022,Gusto,1716.35,0,0,Tax,B,Y
-7/18/2022,American Express,398,0,0,Credit Card,B,Y
-7/18/2022,Chase Credit,350,0,0,Credit Card,B,Y
-7/18/2022,Loan 00,200,0,0,Loan,B,N
-7/18/2022,Citi,29,0,0,Credit Card,B,Y
-7/18/2022,Randalls,112.32,0,0,Groceries,P,N
-7/18/2022,Shell Service,100,0,3341,Auto Maintenance,B,N
-7/18/2022,Shell Service,62.13,0,2675,Auto Maintenance,B,N
-7/18/2022,Check,1557.67,0,0,Labor,B,Y
-7/18/2022,H-E-B Gas,77.64,0,3341,Gas,B,N
-7/18/2022,Check,1550,0,0,Labor,B,Y
-7/18/2022,Check,671.58,0,0,Labor,B,Y
-7/18/2022,Check,2120,0,0,Labor,B,Y
-7/18/2022,Shell Service,52.19,0,3341,Auto Maintenance,B,N
-7/19/2022,Check,5865,0,0,Labor,B,Y
-7/19/2022,Check,1340,0,0,Labor,B,Y
-7/19/2022,Blue Cross Blue Shield,0,1407.74,0,Revenue,B,Y
-7/19/2022,Amercian General,44.54,0,0,Insurance,B,Y
-7/19/2022,At&t,80.42,0,0,Phone/Internet,B,Y
-7/19/2022,Fortiva,174.99,0,1,Loan,B,N
-7/19/2022,Blue Cross Blue Shield,0,866.28,0,Revenue,B,Y
-7/19/2022,Financial Pacific,611.93,0,0,Loan,B,N
-7/19/2022,Blue Cross Blue Shield,0,174.2,0,Revenue,B,Y
-7/19/2022,Check,800,0,0,Labor,B,Y
-7/19/2022,Check,500,0,0,Labor,B,Y
-7/19/2022,Laundry,125.03,0,0,Professional Services,B,N
-7/19/2022,MDVIP,450,0,0,Medical,P,N
-7/19/2022,Shell Service,91.6,0,3341,Auto Maintenance,B,N
-7/19/2022,Blue Cross Blue Shield,0,1407.74,0,Revenue,B,Y
-7/19/2022,Check,1450,0,0,Labor,B,Y
-7/19/2022,Blue Cross Blue Shield,0,388.1,0,Revenue,B,Y
-7/20/2022,withdrawal cash,3000,0,0,Withdrawal,B,N
-7/20/2022,Exxon Mobil,45.66,0,0,Gas,B,N
-7/20/2022,Check,250,0,0,Labor,B,Y
-7/20/2022,Check,2400,0,0,Labor,B,Y
-7/20/2022,Health Care Serv,7127.68,0,0,Insurance,B,Y
-7/20/2022,ABC Home,136.35,0,0,Professional Services,B,N
-7/20/2022,Check,250,0,0,Labor,B,Y
-7/20/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
-7/20/2022,Deposit,0,102.29,0,Revenue,B,Y
-7/20/2022,H-E-B #,226.53,0,0,Groceries,P,N
-7/21/2022,Derm Partners,148,0,0,Professional Services,B,N
-7/21/2022,At&t,135.94,0,4969,Phone/Internet,B,Y
-7/21/2022,Fee,37.92,0,0,Fees,B,N
-7/21/2022,Citi,266.68,0,0,Credit Card,B,Y
-7/21/2022,Deposit,0,1299,0,Revenue,B,Y
-7/22/2022,Car Wash,73.8,0,0,Auto Maintenance,B,N
-7/22/2022,The Cromeens Law,707.5,0,0,Professional Services,B,N
-7/22/2022,Deposit,0,3000,0,Revenue,B,Y
-7/22/2022,At&t,132.4,0,4969,Phone/Internet,B,Y
-7/22/2022,Deposit,0,15985.41,0,Revenue,B,Y
-7/22/2022,Discover,656.2,0,0,Credit Card,B,Y
-7/22/2022,7-Eleven,62.1,0,0,Gas,B,N
-7/22/2022,Deposit,0,70.36,0,Revenue,B,Y
-7/23/2022,Exxon Mobil,44.04,0,0,Gas,B,N
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/23/2022,QT,54.47,0,4969,Gas,B,N
-7/23/2022,Vivint,39.48,0,0,Software,B,Y
-7/23/2022,Fee,34,0,0,Fees,B,N
-7/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
-7/25/2022,7-Eleven,50,0,2675,Gas,B,N
-7/26/2022,Check,1800,0,0,Labor,B,Y
-7/26/2022,Tennant Company,112.09,0,0,Supplies,B,N
-7/26/2022,Office Max,9.31,0,0,Supplies,B,N
-7/26/2022,Vivint,61.13,0,0,Software,B,Y
-7/26/2022,Kristy R Cortez,2625,0,0,Professional Services,B,N
-7/26/2022,H-E-B #,49.68,0,0,Groceries,P,N
-7/26/2022,ATM,120,0,2675,Fees,B,N
-7/26/2022,7-Eleven,119.91,0,2675,Gas,B,N
-7/26/2022,Alamo Specialty Pharmacy,55,0,0,Medical,P,N
-7/27/2022,Ally,509.98,0,0,Loan,B,N
-7/27/2022,ATM,40,0,0,Fees,B,N
-7/27/2022,H-E-B #,95,0,0,Groceries,P,N
-7/27/2022,At&t,98.26,0,0,Phone/Internet,B,Y
-7/27/2022,Check,115,0,0,Labor,B,Y
-7/27/2022,Circle K,50.19,0,2675,Gas,B,N
+7/5/2022,Deposit,0,476.3,0,Revenue,B,Y
 7/27/2022,Circle K,64.52,0,2675,Gas,B,N
-7/27/2022,H-E-B #,38.39,0,718,Groceries,P,N
-7/28/2022,Texas Mutual,990.6,0,0,Insurance,B,Y
-7/28/2022,Office DePot,18.62,0,2675,Supplies,B,N
-7/28/2022,S and S Computer,305.27,0,0,Professional Services,B,N
-7/28/2022,Check,120,0,0,Labor,B,Y
-7/28/2022,7-Eleven,42.71,0,718,Gas,B,N
-7/28/2022,Fortiva,43.85,0,4969,Loan,B,N
-7/28/2022,7-Eleven,63.11,0,4969,Gas,B,N
-7/28/2022,Culligan,152.69,0,718,Utilities,P,Y
-7/29/2022,Pro Serve Ent,51.38,0,0,Supplies,B,N
-7/29/2022,Gusto,1629.33,0,0,Tax,B,Y
-7/29/2022,Vivint,1110.09,0,0,Software,B,Y
-7/29/2022,At&t,207.02,0,0,Phone/Internet,B,Y
-7/29/2022,Deposit,0,6000,0,Revenue,B,Y
-7/29/2022,Check,671.59,0,0,Labor,B,Y
-7/29/2022,withdrawal cash,1600,0,0,Withdrawal,B,N
-7/29/2022,Austin Tire Man,150,0,0,Auto Maintenance,B,N
-7/30/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
-7/30/2022,QT,15.14,0,4969,Gas,B,N
-7/30/2022,Check,2411.83,0,0,Labor,B,Y
-7/30/2022,Check,1557.67,0,0,Labor,B,Y
-7/30/2022,H-E-B #,12,0,0,Groceries,P,N
-7/30/2022,H-E-B #,119.68,0,0,Groceries,P,N
-7/30/2022,Car Wash,70,0,0,Auto Maintenance,B,N
-7/30/2022,QT,70.56,0,4969,Gas,B,N
-7/31/2022,Exxon Mobil,64.39,0,0,Gas,B,N
-7/31/2022,Exxon Mobil,83.24,0,0,Gas,B,N
-7/31/2022,Fee,32.25,0,0,Fees,B,N
-7/31/2022,Fee,6,0,0,Fees,B,N
-7/31/2022,Lake Line Food,54.73,0,0,Food,P,N
-7/31/2022,H-E-B #,17,0,0,Groceries,P,N
-8/1/2022,Check,277.05,0,0,Labor,B,Y
-8/1/2022,7-Eleven,55.19,0,0,Gas,B,N
-8/1/2022,Home DePot,22.58,0,0,Supplies,B,N
-8/1/2022,Check,1408,0,0,Labor,B,Y
-8/1/2022,Check,1377.88,0,0,Labor,B,Y
-8/1/2022,Check,2625,0,0,Labor,B,Y
-8/1/2022,Office Max,18.62,0,0,Supplies,B,N
-8/1/2022,withdrawal cash,500,0,0,Withdrawal,B,N
-8/1/2022,Apple,14.06,0,718,Software,B,Y
+7/5/2022,Citi,63.76,0,0,Credit Card,B,Y
 8/1/2022,Citi,1356.71,0,0,Credit Card,B,Y
-8/1/2022,Randalls,13.93,0,2675,Groceries,P,N
-8/1/2022,Deposit,0,18387.5,0,Revenue,B,Y
-8/1/2022,7-Eleven,49.15,0,0,Gas,B,N
-8/1/2022,Deposit,0,2906.51,0,Revenue,B,Y
-8/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
-8/1/2022,Check,7003,0,0,Labor,B,Y
-8/2/2022,Deposit,0,545.58,0,Revenue,B,Y
-8/2/2022,Jimmy Johns,65.26,0,0,Food,P,N
-8/2/2022,Deposit,0,545.58,0,Revenue,B,Y
-8/2/2022,Deposit,0,600,0,Revenue,B,Y
-8/2/2022,Blue Cross Blue Shield,0,498.66,0,Revenue,B,Y
-8/2/2022,Deposit,0,1623.75,0,Revenue,B,Y
-8/2/2022,Citi,63.76,0,0,Credit Card,B,Y
-8/2/2022,Hp Ink,12.98,0,1,Supplies,B,N
-8/2/2022,Randalls,44.64,0,4969,Groceries,P,N
-8/2/2022,Exxon Mobil,130.61,0,0,Gas,B,N
-8/2/2022,Fee,47.59,0,0,Fees,B,N
-8/2/2022,Check,2520,0,0,Labor,B,Y
-8/2/2022,Fee,92.75,0,0,Fees,B,N
-8/2/2022,El Pollo Rico,12,0,0,Food,P,N
-8/2/2022,Check,1000,0,0,Labor,B,Y
-8/2/2022,Check,2490,0,0,Labor,B,Y
-8/2/2022,Check,300,0,0,Labor,B,Y
-8/2/2022,At&t,28.12,0,0,Phone/Internet,B,Y
-8/2/2022,Home DePot,55.11,0,0,Supplies,B,N
-8/3/2022,At&t,75.76,0,718,Phone/Internet,B,Y
-8/3/2022,Bank of America,877.05,0,0,Credit Card,B,Y
-8/3/2022,7-Eleven,57.78,0,0,Gas,B,N
-8/3/2022,Crime Rec,3.32,0,0,Professional Services,B,N
-8/3/2022,Home DePot,14.32,0,0,Supplies,B,N
-8/3/2022,Capital One,127.45,0,0,Credit Card,B,Y
-8/3/2022,Randalls,47.08,0,0,Groceries,P,N
-8/3/2022,Lake Austin,7.39,0,0,Recreational,P,N
-8/3/2022,Check,1400,0,0,Labor,B,Y
-8/3/2022,Tires,563.28,0,0,Auto Maintenance,B,N
-8/3/2022,withdrawal cash,500,0,0,Withdrawal,B,N
-8/3/2022,Landfill,90,0,2675,Professional Services,B,N
-8/3/2022,ATM,100,0,2675,Fees,B,N
-8/3/2022,Deposit,0,198.21,0,Revenue,B,Y
-8/4/2022,At&t,19.49,0,0,Phone/Internet,B,Y
-8/4/2022,Home DePot,271.53,0,0,Supplies,B,N
-8/4/2022,Chevron,11.15,0,4969,Gas,B,N
-8/4/2022,Check,150,0,0,Labor,B,Y
-8/4/2022,Check,910,0,0,Labor,B,Y
-8/4/2022,H-E-B #,7.76,0,0,Groceries,P,N
-8/4/2022,H-E-B #,12,0,0,Groceries,P,N
-8/4/2022,Check,1550,0,0,Labor,B,Y
-8/4/2022,Deposit,0,1497.1,0,Revenue,B,Y
-8/4/2022,Kim Paper,1731.45,0,718,Supplies,B,N
-8/5/2022,Deposit,0,378.88,0,Revenue,B,Y
-8/5/2022,City of Austin,309.56,0,0,Utilities,P,Y
-8/5/2022,Farmers,1005.33,0,0,Insurance,B,Y
-8/5/2022,Kim Paper,1731.46,0,718,Supplies,B,N
+7/7/2022,Deposit,0,20000,0,Revenue,B,Y
+7/8/2022,Circle K,39.29,0,2675,Gas,B,N
+7/7/2022,Check,1442.5,0,0,Labor,B,Y
+7/31/2022,Fee,6,0,0,Fees,B,N
+7/7/2022,Check,3650,0,0,Labor,B,Y
+9/17/2022,Randalls,66.62,0,0,Groceries,P,N
+7/8/2022,Deposit,0,957.25,0,Revenue,B,Y
+7/5/2022,Fee,19.09,0,0,Fees,B,N
+7/5/2022,Fee,9.67,0,0,Fees,B,N
+7/8/2022,Check,400,0,0,Labor,B,Y
+7/7/2022,Fee,4,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+10/11/2022,Loan 02,447.78,0,0,Loan,B,N
+9/20/2022,Circle K,43.35,0,2675,Gas,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
 8/5/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
-8/5/2022,UPS Store,20.85,0,0,Professional Services,B,N
-8/5/2022,Apple,2.99,0,0,Software,B,Y
-8/5/2022,7-Eleven,64.89,0,0,Gas,B,N
-8/6/2022,7-Eleven,68.75,0,0,Gas,B,N
-8/6/2022,Randalls,89.68,0,0,Groceries,P,N
-8/6/2022,Pro Serve Ent,38.94,0,0,Supplies,B,N
-8/8/2022,Fee,16.15,0,0,Fees,B,N
-8/8/2022,Deposit,0,467.64,0,Revenue,B,Y
-8/8/2022,Crate & Barrel,350,0,0,Credit Card,B,Y
-8/9/2022,Check,120,0,0,Labor,B,Y
-8/9/2022,Deposit,0,920.13,0,Revenue,B,Y
-8/10/2022,Adobe AcroPro,16.23,0,718,Software,B,Y
-8/10/2022,Jack Brown Cleaners,17.86,0,0,Professional Services,B,N
-8/10/2022,Microsoft,13.54,0,0,Software,B,Y
-8/10/2022,Microsoft,21.88,0,0,Software,B,Y
+7/8/2022,Check,671.59,0,0,Labor,B,Y
+8/1/2022,Deposit,0,18387.5,0,Revenue,B,Y
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+10/25/2022,Tax,7874.64,0,0,Tax,B,Y
+7/8/2022,Check,1410,0,0,Labor,B,Y
+7/29/2022,withdrawal cash,1600,0,0,Withdrawal,B,N
+11/16/2022,Exxon Mobil,62.67,0,0,Gas,B,N
+7/13/2022,Microsoft,10,0,1,Software,B,Y
+8/3/2022,Landfill,90,0,2675,Professional Services,B,N
+9/1/2022,Landfill,90,0,2675,Professional Services,B,N
+9/1/2022,Landfill,90,0,2675,Professional Services,B,N
+9/23/2022,Landfill,150,0,0,Professional Services,B,N
+11/13/2022,Lowes,75.75,0,2675,Supplies,B,N
+8/1/2022,Check,7003,0,0,Labor,B,Y
+11/12/2022,Loan 02,447.78,0,0,Loan,B,N
+5/4/2022,Exxon Mobil,41.04,0,0,Gas,B,N
+8/1/2022,Deposit,0,2906.51,0,Revenue,B,Y
+9/21/2022,Randalls,79.6,0,0,Groceries,P,N
+8/18/2022,Citi,29,0,0,Credit Card,B,Y
+7/13/2022,Microsoft,27.08,0,0,Software,B,Y
+7/5/2022,withdrawal cash,3484,0,0,Withdrawal,B,N
 8/11/2022,Deposit,0,786.98,0,Revenue,B,Y
-8/11/2022,Check,500,0,0,Labor,B,Y
-8/12/2022,7-Eleven,48.93,0,0,Gas,B,N
+8/1/2022,Check,2625,0,0,Labor,B,Y
+8/1/2022,Check,1377.88,0,0,Labor,B,Y
+8/1/2022,Check,1408,0,0,Labor,B,Y
+11/13/2022,Lowes,43.26,0,0,Supplies,B,N
+6/22/2022,Exxon Mobil,155.31,0,0,Gas,B,N
+8/1/2022,Check,277.05,0,0,Labor,B,Y
+11/2/2022,Lowes,85.47,0,718,Supplies,B,N
+7/13/2022,Microsoft,89.52,0,0,Software,B,Y
+8/10/2022,Microsoft,13.54,0,0,Software,B,Y
+9/7/2022,Landfill,90,0,2675,Professional Services,B,N
+8/10/2022,Microsoft,21.88,0,0,Software,B,Y
 8/12/2022,Deposit,0,7087.29,0,Revenue,B,Y
-8/12/2022,7-Eleven,56.58,0,2675,Gas,B,N
+8/11/2022,Check,500,0,0,Labor,B,Y
+8/12/2022,Deposit,0,9266.94,0,Revenue,B,Y
+7/20/2022,Exxon Mobil,45.66,0,0,Gas,B,N
+7/23/2022,Exxon Mobil,44.04,0,0,Gas,B,N
 8/12/2022,Check,1010,0,0,Labor,B,Y
 8/12/2022,Deposit,0,1807.77,0,Revenue,B,Y
-8/12/2022,H-E-B Gas,60.63,0,4969,Gas,B,N
-8/12/2022,Loan 02,447.78,0,0,Loan,B,N
-8/12/2022,Deposit,0,9266.94,0,Revenue,B,Y
-8/12/2022,withdrawal cash,1400,0,0,Withdrawal,B,N
+7/31/2022,Exxon Mobil,83.24,0,0,Gas,B,N
+4/11/2022,Loan 02,447.78,0,0,Loan,B,N
+7/9/2022,withdrawal cash,7000,0,0,Withdrawal,B,N
+8/16/2022,Deposit,0,5668.98,0,Revenue,B,Y
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+7/8/2022,Fee,34,0,0,Fees,B,N
+9/21/2022,Poco Loco,97.61,0,0,Food,P,N
+8/17/2022,At&t,79.58,0,0,Phone/Internet,B,Y
+11/9/2022,Popeyes,13.61,0,0,Food,P,N
+8/2/2022,At&t,28.12,0,0,Phone/Internet,B,Y
 8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+4/17/2022,NinaBerenato,75.78,0,0,Recreational,P,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+6/18/2022,ParkWhiz,12.12,0,0,Recreational,P,N
+4/25/2022,M Vince Nail Spa,198,0,0,Professional Services,B,N
+7/28/2022,S and S Computer,305.27,0,0,Professional Services,B,N
+4/25/2022,Safe and Lock,138.55,0,0,Professional Services,B,N
+9/23/2022,Randalls,59.6,0,0,Groceries,P,N
+4/28/2022,Popeyes,38.42,0,0,Food,P,N
 8/13/2022,Fee,34,0,0,Fees,B,N
 8/13/2022,Fee,34,0,0,Fees,B,N
 8/13/2022,Fee,34,0,0,Fees,B,N
@@ -1324,941 +1803,586 @@ Post Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 8/13/2022,Fee,34,0,0,Fees,B,N
 8/13/2022,Fee,34,0,0,Fees,B,N
 8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,HiTechPower,664.06,0,0,Professional Services,B,N
-8/13/2022,Cricket,102,0,0,Phone/Internet,B,Y
-8/13/2022,Taco Cabana,23.2,0,0,Food,P,N
 8/13/2022,Fee,34,0,0,Fees,B,N
 8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,BBQ,178.62,0,0,Food,P,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,At&t,55.56,0,718,Phone/Internet,B,Y
-8/13/2022,Lotus Hunan,29.76,0,0,Food,P,N
-8/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
-8/13/2022,HiTechPower,196.56,0,0,Professional Services,B,N
-8/13/2022,HiTechPower,212.5,0,0,Professional Services,B,N
-8/13/2022,HiTechPower,175.31,0,0,Professional Services,B,N
-8/13/2022,HiTechPower,249.68,0,0,Professional Services,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/13/2022,Fee,34,0,0,Fees,B,N
-8/14/2022,7-Eleven,50.91,0,718,Gas,B,N
-8/14/2022,Lake Line Food,11.9,0,0,Food,P,N
-8/14/2022,Leander ISD,70,0,0,Recreational,P,N
-8/14/2022,Randalls,205.95,0,0,Groceries,P,N
-8/14/2022,Costco,246.01,0,0,Groceries,P,N
-8/14/2022,Randall Fuel,43.72,0,0,Gas,B,N
-8/15/2022,C Store,17.88,0,0,Gas,B,N
-8/15/2022,Target,142.69,0,0,Recreational,P,N
+8/24/2022,Real Estate,185,0,0,Recreational,P,N
+9/28/2022,Randalls,106.57,0,0,Groceries,P,N
+9/30/2022,Randalls,50.82,0,0,Groceries,P,N
+7/31/2022,Exxon Mobil,64.39,0,0,Gas,B,N
+4/8/2022,Popeyes,28.22,0,0,Food,P,N
+7/9/2022,Exxon Mobil,12.82,0,0,Gas,B,N
+8/19/2022,Exxon Mobil,36.51,0,0,Gas,B,N
+8/2/2022,Citi,63.76,0,0,Credit Card,B,Y
+9/20/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
 8/15/2022,Check,2500,0,0,Labor,B,Y
-8/15/2022,Humana,50.74,0,0,Insurance,B,Y
-8/15/2022,Discover,500,0,0,Credit Card,B,Y
-8/15/2022,7-Eleven,20.11,0,0,Gas,B,N
-8/15/2022,7-Eleven,3.78,0,4969,Gas,B,N
-8/15/2022,Check,1000,0,0,Labor,B,Y
+11/4/2022,Southside Market,38.98,0,0,Recreational,P,N
+8/2/2022,Exxon Mobil,130.61,0,0,Gas,B,N
 8/15/2022,Car Wash,8,0,0,Auto Maintenance,B,N
-8/15/2022,CefCo,93.24,0,718,Gas,B,N
 8/15/2022,Check,1280,0,0,Labor,B,Y
-8/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
-8/15/2022,DashPass,9.99,0,0,Food,P,N
-8/16/2022,Check,2725,0,0,Labor,B,Y
-8/16/2022,Capital One,300,0,0,Credit Card,B,Y
-8/16/2022,A Plus Outdoor,147.12,0,0,Recreational,P,N
-8/16/2022,Deposit,0,5668.98,0,Revenue,B,Y
-8/16/2022,H-E-B #,183.52,0,0,Groceries,P,N
-8/16/2022,HiTechPower,584.37,0,0,Professional Services,B,N
-8/16/2022,HiTechPower,345.31,0,0,Professional Services,B,N
-8/16/2022,Express Food,56.8,0,0,Food,P,N
-8/16/2022,LendingClub,498.15,0,0,Loan,B,N
+9/8/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
+5/23/2022,Raising Canes,10.91,0,0,Food,P,N
+8/15/2022,Check,1000,0,0,Labor,B,Y
+9/23/2022,Exxon Mobil,72.85,0,0,Gas,B,N
+9/8/2022,Exxon Mobil,30.33,0,0,Gas,B,N
 8/16/2022,Check,250,0,0,Labor,B,Y
+9/19/2022,Citi,29,0,0,Credit Card,B,Y
+4/8/2022,Star Stop,125,0,0,Recreational,P,N
 8/16/2022,Deposit,0,4570.07,0,Revenue,B,Y
-8/16/2022,Fee,155.88,0,0,Fees,B,N
-8/16/2022,Farmers,661.91,0,0,Insurance,B,Y
-8/16/2022,Gigem Food,67.06,0,0,Food,P,N
-8/16/2022,Check,2900,0,0,Labor,B,Y
-8/16/2022,At&t,124.4,0,0,Phone/Internet,B,Y
-8/16/2022,CefCo,2.56,0,0,Gas,B,N
-8/16/2022,Check,1905,0,0,Labor,B,Y
+9/6/2022,Randalls,98.05,0,0,Groceries,P,N
+4/27/2022,Safe and Lock,15.46,0,0,Professional Services,B,N
+4/29/2022,Safe and Lock,18.49,0,0,Professional Services,B,N
+6/12/2022,Raising Canes,18.38,0,0,Food,P,N
+5/11/2022,Loan 02,24.97,0,0,Loan,B,N
 8/16/2022,Check,250,0,0,Labor,B,Y
-8/17/2022,Check,2411.83,0,0,Labor,B,Y
 8/17/2022,Deposit,0,27049.32,0,Revenue,B,Y
+8/13/2022,Fee,34,0,0,Fees,B,N
+5/12/2022,Loan 02,422.81,0,0,Loan,B,N
+9/17/2022,Raising Canes,14.8,0,0,Food,P,N
+8/16/2022,Check,2900,0,0,Labor,B,Y
+8/20/2022,At&t,478.45,0,4969,Phone/Internet,B,Y
+8/16/2022,Check,2725,0,0,Labor,B,Y
+5/23/2022,Fuel Maxx,3.98,0,0,Gas,B,N
+8/16/2022,Check,1905,0,0,Labor,B,Y
+8/17/2022,Check,2411.83,0,0,Labor,B,Y
 8/17/2022,Check,1557.67,0,0,Labor,B,Y
-8/17/2022,Check,1442.5,0,0,Labor,B,Y
-8/17/2022,Pro Serve Ent,29.41,0,0,Supplies,B,N
-8/17/2022,Amazon,16.18,0,0,Supplies,B,N
-8/17/2022,Rockdale Valero,2.91,0,0,Gas,B,N
-8/17/2022,7-Eleven,11.28,0,4969,Gas,B,N
-8/17/2022,Chase Credit,400,0,0,Credit Card,B,Y
-8/17/2022,At&t,79.58,0,0,Phone/Internet,B,Y
 8/17/2022,Check,671.58,0,0,Labor,B,Y
+8/20/2022,At&t,40.04,0,4969,Phone/Internet,B,Y
+9/2/2022,Citi,63.76,0,0,Credit Card,B,Y
 8/17/2022,Check,1100,0,0,Labor,B,Y
-8/18/2022,Gusto,1629.35,0,0,Tax,B,Y
-8/18/2022,CVS,25.97,0,0,Groceries,P,N
-8/18/2022,Texas Gas,27.91,0,0,Utilities,P,Y
-8/18/2022,Randalls,149.67,0,0,Groceries,P,N
-8/18/2022,Citi,29,0,0,Credit Card,B,Y
-8/18/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
-8/18/2022,Loan 00,200,0,0,Loan,B,N
-8/18/2022,withdrawal cash,1100,0,0,Withdrawal,B,N
-8/18/2022,Check,120,0,0,Labor,B,Y
-8/18/2022,Check,277.05,0,0,Labor,B,Y
+8/25/2022,Fuel Maxx,4.52,0,0,Gas,B,N
+11/4/2022,Lowes,100.08,0,3341,Supplies,B,N
+11/5/2022,Lowes,107.12,0,3341,Supplies,B,N
+8/17/2022,Check,1442.5,0,0,Labor,B,Y
+10/13/2022,H-E-B Gas,52.03,0,4969,Gas,B,N
 8/18/2022,Deposit,0,6122.62,0,Revenue,B,Y
-8/18/2022,AllState,1740,0,1,Insurance,B,Y
-8/18/2022,HiTechPower,743.75,0,0,Professional Services,B,N
-8/18/2022,HiTechPower,212.5,0,0,Professional Services,B,N
-8/18/2022,HiTechPower,249.68,0,0,Professional Services,B,N
-8/18/2022,7-Eleven,6.55,0,2675,Gas,B,N
-8/18/2022,7-Eleven,54.11,0,0,Gas,B,N
-8/18/2022,Taqueria,43.49,0,0,Food,P,N
-8/19/2022,7-Eleven,13.41,0,3341,Gas,B,N
-8/19/2022,Check,1600,0,0,Labor,B,Y
-8/19/2022,LakeLine Xpress Mart,12.39,0,0,Groceries,P,N
+11/16/2022,Tax,5332.23,0,0,Tax,B,Y
+9/9/2022,Randalls,39.01,0,0,Groceries,P,N
+6/14/2022,Texas Gas,29.07,0,0,Utilities,P,Y
+6/10/2022,Sams Club,53.22,0,2675,Groceries,P,N
+10/6/2022,Crate & Barrel,149,0,0,Credit Card,B,Y
+10/10/2022,SP Choice,210.77,0,0,Insurance,B,Y
+6/11/2022,Loan 02,447.78,0,0,Loan,B,N
+8/1/2022,withdrawal cash,500,0,0,Withdrawal,B,N
+8/18/2022,Check,277.05,0,0,Labor,B,Y
+9/20/2022,Randall Fuel,45.32,0,0,Food,P,N
+10/18/2022,H-E-B Gas,59.25,0,4969,Gas,B,N
+11/13/2022,H-E-B Gas,62.94,0,0001,Gas,B,N
+10/31/2022,Sunoco,2.19,0,0,Professional Services,B,N
+8/18/2022,Check,120,0,0,Labor,B,Y
+5/18/2022,Sunoco,23.74,0,0,Professional Services,B,N
+10/14/2022,SP Choice,615.71,0,0,Insurance,B,Y
+8/2/2022,Deposit,0,545.58,0,Revenue,B,Y
+7/14/2022,Sunoco,64.22,0,2675,Professional Services,B,N
+4/12/2022,H-E-B Gas,56.42,0,4969,Gas,B,N
+11/7/2022,Crate & Barrel,144,0,0,Credit Card,B,Y
+6/27/2022,Sams Club,430.53,0,3341,Groceries,P,N
 8/19/2022,Check,1550,0,0,Labor,B,Y
 8/19/2022,Check,1170,0,0,Labor,B,Y
-8/19/2022,Exxon Mobil,36.51,0,0,Gas,B,N
-8/19/2022,H-E-B #,14.47,0,0,Groceries,P,N
+4/23/2022,H-E-B Gas,60.68,0,718,Gas,B,N
+9/20/2022,Samsclub,180.6,0,0,Groceries,P,N
 8/19/2022,Check,2400,0,0,Labor,B,Y
-8/19/2022,Walgreens,10.81,0,0,Groceries,P,N
+10/1/2022,Walgreens,60.04,0,4969,Groceries,P,N
 8/19/2022,Check,216.5,0,0,Labor,B,Y
-8/19/2022,American Express,464.65,0,0,Credit Card,B,Y
-8/20/2022,City of Leander,272.38,0,0,Utilities,P,Y
-8/20/2022,Home DePot,0,4.29,0,Revenue,B,Y
-8/20/2022,Municipal Online Payments,1.25,0,0,Fees,B,N
-8/20/2022,Aggieland,484.88,0,0,Recreational,P,N
-8/20/2022,At&t,478.45,0,4969,Phone/Internet,B,Y
-8/20/2022,At&t,40.04,0,4969,Phone/Internet,B,Y
-8/20/2022,Buc-ees,55.9,0,0,Gas,B,N
-8/20/2022,Buc-ees,16.22,0,3341,Gas,B,N
-8/20/2022,Home DePot,8.63,0,0,Supplies,B,N
-8/20/2022,Home DePot,12.48,0,0,Supplies,B,N
-8/20/2022,Home DePot,4.29,0,0,Supplies,B,N
-8/20/2022,H Food Mart,41.55,0,0,Groceries,P,N
-8/20/2022,7-Eleven,67.23,0,0,Gas,B,N
-8/20/2022,Fajita Petes,27.17,0,0,Food,P,N
-8/20/2022,Chick-Fil-A,9.08,0,0,Food,P,N
-8/20/2022,Home DePot,4.29,0,0,Supplies,B,N
-8/21/2022,Chick-Fil-A,25.04,0,0,Food,P,N
-8/21/2022,El Rancho,149.37,0,0,Groceries,P,N
-8/21/2022,Fish Daddys,109.83,0,0,Food,P,N
-8/21/2022,Barton Creek Soccer,51.93,0,0,Recreational,P,N
-8/21/2022,Home DePot,7.56,0,0,Supplies,B,N
-8/21/2022,Snack Vending,2.1,0,0,Food,P,N
-8/22/2022,withdrawal cash,600,0,0,Withdrawal,B,N
-8/22/2022,Check,750,0,0,Labor,B,Y
-8/22/2022,American Express,329,0,0,Credit Card,B,Y
-8/22/2022,Lake Austin,50.11,0,0,Recreational,P,N
-8/22/2022,Tax,6132.98,0,0,Tax,B,Y
-8/22/2022,Thrall Food,38.31,0,0,Food,P,N
-8/22/2022,Burpy Market,43.18,0,0,Groceries,P,N
-8/22/2022,Amazon,12.98,0,0,Supplies,B,N
-8/22/2022,Target,100.89,0,0,Recreational,P,N
-8/23/2022,Alamo Specialty Pharmacy,25,0,0,Medical,P,N
-8/23/2022,7-Eleven,50.3,0,718,Gas,B,N
-8/23/2022,Culligan,105.32,0,718,Utilities,P,Y
-8/23/2022,Amazon,145.1,0,0,Supplies,B,N
-8/23/2022,AVR,10,0,0,Fees,B,N
-8/23/2022,Express Food,125,0,0,Food,P,N
-8/23/2022,Clip It,16.18,0,0,Recreational,P,N
-8/23/2022,Express Food,5.39,0,0,Food,P,N
-8/23/2022,Check,250,0,0,Labor,B,Y
+8/19/2022,Check,1600,0,0,Labor,B,Y
+8/2/2022,Check,300,0,0,Labor,B,Y
+11/6/2022,Lowes,0,48.69,0,Supplies,B,N
+4/12/2022,Rosas Cafe,29.58,0,0,Food,P,N
+8/2/2022,Deposit,0,600,0,Revenue,B,Y
+8/2/2022,Deposit,0,1623.75,0,Revenue,B,Y
+8/2/2022,Deposit,0,545.58,0,Revenue,B,Y
 8/23/2022,Deposit,0,2048.88,0,Revenue,B,Y
-8/23/2022,Water Service,200,0,0,Utilities,P,Y
-8/23/2022,Vivint,45.97,0,0,Software,B,Y
-8/23/2022,Vivint,39.48,0,0,Software,B,Y
-8/23/2022,Discover,656.2,0,0,Credit Card,B,Y
-8/23/2022,Check,750,0,0,Labor,B,Y
-8/24/2022,Real Estate,185,0,0,Recreational,P,N
-8/24/2022,Urgent Care,35,0,0,Medical,P,N
-8/24/2022,Academy Sports,138.48,0,4969,Recreational,P,N
-8/24/2022,7-Eleven,11.36,0,3341,Gas,B,N
-8/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
-8/24/2022,Walgreens,102.8,0,4969,Groceries,P,N
-8/25/2022,Vivint,61.13,0,0,Software,B,Y
-8/25/2022,Jiffy Lube,127.03,0,0,Auto Maintenance,B,N
-8/25/2022,7-Eleven,31.43,0,0,Gas,B,N
-8/25/2022,7-Eleven,3.41,0,0,Gas,B,N
-8/25/2022,7-Eleven,39.85,0,0,Gas,B,N
-8/25/2022,7-Eleven,2.26,0,0,Gas,B,N
-8/25/2022,7-Eleven,52.72,0,0,Gas,B,N
-8/25/2022,Fuel Maxx,4.52,0,0,Gas,B,N
-8/25/2022,Shell Oil,14.6,0,0,Gas,B,N
-8/26/2022,WhatABurger,27.08,0,0,Food,P,N
+6/28/2022,Crate & Barrel,352,0,0,Credit Card,B,Y
+11/6/2022,Lowes,186.96,0,3341,Supplies,B,N
+10/10/2022,Walgreens,102.8,0,4969,Groceries,P,N
 8/26/2022,Deposit,0,588.88,0,Revenue,B,Y
-8/26/2022,Apple,9.73,0,4969,Software,B,Y
-8/26/2022,Apple,7.1,0,0,Software,B,Y
-8/26/2022,Shell Oil,82.57,0,0,Gas,B,N
-8/26/2022,Lotus Hunan,21.72,0,0,Food,P,N
-8/26/2022,Shell Service,64.44,0,3341,Auto Maintenance,B,N
-8/26/2022,Target,82.89,0,0,Recreational,P,N
-8/26/2022,Apple,5.4,0,4969,Software,B,Y
-8/27/2022,H-E-B #,101.47,0,3341,Groceries,P,N
-8/27/2022,Murphy Express,37.78,0,3341,Gas,B,N
-8/27/2022,ATM,500,0,0,Fees,B,N
-8/27/2022,Walgreens,25.42,0,4969,Groceries,P,N
-8/28/2022,Fortiva,43.85,0,4969,Loan,B,N
-8/28/2022,H-E-B #,103.77,0,0,Groceries,P,N
-8/28/2022,Apple,21.64,0,0,Software,B,Y
-8/28/2022,Chevron,21.64,0,0,Gas,B,N
-8/28/2022,CareNow,100,0,0,Medical,P,N
-8/28/2022,QT,34.54,0,4969,Gas,B,N
-8/28/2022,Chick-Fil-A,32.17,0,0,Food,P,N
-8/28/2022,Randalls,171.55,0,4969,Groceries,P,N
-8/29/2022,Target,5.17,0,0,Recreational,P,N
-8/29/2022,Office DePot,25.6,0,2675,Supplies,B,N
-8/29/2022,Shell Service,58.07,0,2675,Auto Maintenance,B,N
-8/29/2022,Apple,13.87,0,0,Software,B,Y
-8/29/2022,Pro Serve Ent,28.25,0,0,Supplies,B,N
-8/29/2022,Ally,509.98,0,0,Loan,B,N
-8/29/2022,Deposit,0,16512.67,0,Revenue,B,Y
-8/29/2022,Randalls,51.11,0,4969,Groceries,P,N
-8/29/2022,7-Eleven,11.36,0,3341,Gas,B,N
-8/30/2022,At&t,111.01,0,1,Phone/Internet,B,Y
-8/30/2022,Gusto,1893.21,0,0,Tax,B,Y
-8/30/2022,McDonalds,6.15,0,0,Food,P,N
-8/30/2022,Health Care Serv,3563.84,0,0,Insurance,B,Y
-8/30/2022,Home DePot,75.4,0,0,Supplies,B,N
-8/30/2022,At&t,39.12,0,1,Phone/Internet,B,Y
-8/30/2022,At&t,181.8,0,4969,Phone/Internet,B,Y
-8/30/2022,Chevron,150.14,0,0,Gas,B,N
-8/31/2022,Amazon,7.57,0,0,Supplies,B,N
-8/31/2022,Deposit,0,20726.62,0,Revenue,B,Y
-8/31/2022,Walgreens,54.41,0,4969,Groceries,P,N
-8/31/2022,7-Eleven,58.53,0,0,Gas,B,N
-8/31/2022,At&t,91.4,0,4969,Phone/Internet,B,Y
-8/31/2022,MDVIP,450,0,0,Medical,P,N
-8/31/2022,Chevron,13.26,0,0,Gas,B,N
-8/31/2022,At&t,30.82,0,4969,Phone/Internet,B,Y
-8/31/2022,Check,1584,0,0,Labor,B,Y
-8/31/2022,WingStop,25.82,0,0,Food,P,N
-8/31/2022,Fee,49.5,0,0,Fees,B,N
-8/31/2022,Fee,6,0,0,Fees,B,N
+8/13/2022,Fee,34,0,0,Fees,B,N
+8/2/2022,Check,2520,0,0,Labor,B,Y
+8/13/2022,Fee,34,0,0,Fees,B,N
+4/13/2022,SaltGrass,45.68,0,0,Food,P,N
+8/2/2022,Check,1000,0,0,Labor,B,Y
+8/2/2022,Check,2490,0,0,Labor,B,Y
+8/3/2022,At&t,75.76,0,718,Phone/Internet,B,Y
+4/23/2022,H-E-B Gas,53.33,0,1,Gas,B,N
+4/30/2022,Lowes,42.2,0,2675,Supplies,B,N
+4/23/2022,SaltGrass,298.66,0,0,Food,P,N
+5/19/2022,SaltGrass,127.12,0,0,Food,P,N
+5/20/2022,H-E-B Gas,81.71,0,4969,Gas,B,N
+10/10/2022,Walgreens,25.49,0,4969,Groceries,P,N
+5/18/2022,Lowes,48.63,0,2675,Supplies,B,N
+6/19/2022,Lowes,110.72,0,0,Supplies,B,N
 8/31/2022,Lowes,23.77,0,2675,Supplies,B,N
-8/31/2022,Walgreens,52.22,0,4969,Groceries,P,N
+8/30/2022,At&t,181.8,0,4969,Phone/Internet,B,Y
+5/24/2022,H-E-B Gas,66.4,0,4969,Gas,B,N
+8/30/2022,At&t,39.12,0,1,Phone/Internet,B,Y
+6/21/2022,Star Stop,16.33,0,0,Recreational,P,N
+8/16/2022,Fee,155.88,0,0,Fees,B,N
+8/29/2022,Deposit,0,16512.67,0,Revenue,B,Y
+7/15/2022,Texas Gas,31.62,0,0,Utilities,P,Y
+6/11/2022,H-E-B Gas,61.34,0,4969,Gas,B,N
+11/15/2022,Short Stop,30.16,0,0,Food,P,N
+9/3/2022,Lowes,124.03,0,3341,Supplies,B,N
+5/23/2022,Short Stop,25.03,0,0,Food,P,N
+6/21/2022,Star Stop,47.13,0,0,Recreational,P,N
+9/7/2022,Short Stop,16.22,0,0,Food,P,N
+10/19/2022,Walgreens,28.43,0,718,Groceries,P,N
+10/21/2022,Sunbit,204.42,0,0,Recreational,P,N
+9/5/2022,Lowes,104.92,0,4969,Supplies,B,N
+10/11/2022,Sky Asian Fusion,90.35,0,0,Food,P,N
+4/13/2022,Tax,6051.99,0,0,Tax,B,Y
+10/4/2022,Walgreens,25.94,0,4969,Groceries,P,N
+8/8/2022,Crate & Barrel,350,0,0,Credit Card,B,Y
+8/22/2022,Check,750,0,0,Labor,B,Y
+8/12/2022,withdrawal cash,1400,0,0,Withdrawal,B,N
+11/14/2022,Synchrony Bank,192,0,0,Loan,P,N
+8/23/2022,Check,750,0,0,Labor,B,Y
+9/6/2022,Crate & Barrel,350,0,0,Credit Card,B,Y
+9/12/2022,Microsoft,25.58,0,0,Software,B,Y
+9/12/2022,Microsoft,13.54,0,0,Software,B,Y
+8/18/2022,Texas Gas,27.91,0,0,Utilities,P,Y
+8/3/2022,Deposit,0,198.21,0,Revenue,B,Y
+6/21/2022,Sky Asian Fusion,67.25,0,0,Food,P,N
+8/23/2022,Check,250,0,0,Labor,B,Y
+4/16/2022,Smalls,342,0,0,Food,P,N
+8/2/2022,Fee,47.59,0,0,Fees,B,N
+9/4/2022,Northern Tool,79,0,0,Supplies,B,N
+9/14/2022,Texas Gas,32.58,0,0,Utilities,P,Y
+7/16/2022,H-E-B Gas,49.72,0,3341,Gas,B,N
+10/2/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+4/17/2022,TAMU,153,0,0,Recreational,P,N
+10/5/2022,Walgreens,26.23,0,4969,Groceries,P,N
+10/25/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+7/18/2022,H-E-B Gas,77.64,0,3341,Gas,B,N
+11/2/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+5/16/2022,TAMU,55,0,0,Recreational,P,N
+11/1/2022,Target,100,0,0,Recreational,P,N
+7/5/2022,H-E-B Gas,138.75,0,2675,Gas,B,N
+10/25/2022,Vivint,45.97,0,0,Software,B,Y
+8/25/2022,Jiffy Lube,127.03,0,0,Auto Maintenance,B,N
+8/12/2022,H-E-B Gas,60.63,0,4969,Gas,B,N
+9/19/2022,H-E-B Gas,59.41,0,4969,Gas,B,N
+4/20/2022,Murphy Express,51,0,2675,Gas,B,N
+8/27/2022,Murphy Express,37.78,0,3341,Gas,B,N
+10/18/2022,QT,14.45,0,0,Gas,B,N
+10/24/2022,QT,60.27,0,4969,Gas,B,N
+10/25/2022,QT,14.22,0,0,Gas,B,N
+8/26/2022,Shell Service,64.44,0,3341,Auto Maintenance,B,N
+11/15/2022,Target,46.55,0,0,Recreational,P,N
+10/25/2022,Vivint,61.8,0,0,Software,B,Y
+10/25/2022,Vivint,40.15,0,0,Software,B,Y
+8/21/2022,Snack Vending,2.1,0,0,Food,P,N
+8/31/2022,Deposit,0,20726.62,0,Revenue,B,Y
+4/23/2022,Vivint,39.48,0,0,Software,B,Y
+10/24/2022,Snax Max,47.09,0,0,Food,P,N
+10/8/2022,Walgreens,79,0,4969,Groceries,P,N
+10/29/2022,QT,12.11,0,0,Gas,B,N
+11/12/2022,Walgreens,21.97,0,0,Groceries,P,N
+8/2/2022,Fee,92.75,0,0,Fees,B,N
+7/11/2022,Loan 02,447.78,0,0,Loan,B,N
+11/12/2022,Walgreens,247.05,0,0,Groceries,P,N
+4/26/2022,Vivint,61.13,0,0,Software,B,Y
+4/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+10/30/2022,QT,20.62,0,4969,Gas,B,N
+10/30/2022,QT,58.57,0,4969,Gas,B,N
+4/13/2022,Walgreens,68.47,0,0,Groceries,P,N
+5/20/2022,Surf and Turf,76.25,0,0,Food,P,N
+10/4/2022,Office DePot,197.53,0,0,Supplies,B,N
+8/29/2022,Shell Service,58.07,0,2675,Auto Maintenance,B,N
+5/24/2022,Vivint,39.48,0,0,Software,B,Y
+11/9/2022,Office DePot,31.03,0,0718,Supplies,B,N
+8/12/2022,Loan 02,447.78,0,0,Loan,B,N
+8/4/2022,Deposit,0,1497.1,0,Revenue,B,Y
+4/13/2022,Walgreens,20.51,0,0,Groceries,P,N
+11/13/2022,QT,58.41,0,0,Gas,B,N
+11/15/2022,Target,66.36,0,0,Recreational,P,N
+10/13/2022,Discover,209.4,0,0,Credit Card,B,Y
+7/28/2022,Office DePot,18.62,0,2675,Supplies,B,N
+9/2/2022,Sunoco,44.02,0,0,Professional Services,B,N
+11/14/2022,QT,16.38,0,0,Gas,B,N
+4/20/2022,Walgreens,74.99,0,4969,Groceries,P,N
+11/3/2022,Target,97.37,0,0,Recreational,P,N
+8/3/2022,Check,1400,0,0,Labor,B,Y
+8/3/2022,Tires,563.28,0,0,Auto Maintenance,B,N
+8/18/2022,withdrawal cash,1100,0,0,Withdrawal,B,N
+4/23/2022,The Cromeens Law,360,0,0,Professional Services,B,N
+8/31/2022,Fee,49.5,0,0,Fees,B,N
+8/5/2022,Deposit,0,378.88,0,Revenue,B,Y
+10/17/2022,Discover,500,0,0,Credit Card,B,Y
+8/30/2022,At&t,111.01,0,1,Phone/Internet,B,Y
+11/15/2022,QT,90.22,0,2675,Gas,B,N
+8/31/2022,At&t,30.82,0,4969,Phone/Internet,B,Y
+8/31/2022,At&t,91.4,0,4969,Phone/Internet,B,Y
+8/29/2022,Office DePot,25.6,0,2675,Supplies,B,N
+7/28/2022,Texas Mutual,990.6,0,0,Insurance,B,Y
+9/28/2022,Surf and Turf,140.05,0,0,Food,P,N
+4/13/2022,Tax,34,0,0,Tax,B,Y
+8/4/2022,At&t,19.49,0,0,Phone/Internet,B,Y
+9/17/2022,At&t,31.94,0,4969,Phone/Internet,B,Y
+4/28/2022,QT,74.7,0,4969,Gas,B,N
+8/8/2022,Deposit,0,467.64,0,Revenue,B,Y
+4/20/2022,Walgreens,112.74,0,4969,Groceries,P,N
+5/17/2022,QT,37.96,0,0,Gas,B,N
+9/17/2022,At&t,18.39,0,4969,Phone/Internet,B,Y
+5/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+7/26/2022,Office Max,9.31,0,0,Supplies,B,N
+8/31/2022,Check,1584,0,0,Labor,B,Y
+5/2/2022,Taco Bell,26.1,0,0,Food,P,N
+8/31/2022,Fee,6,0,0,Fees,B,N
+8/8/2022,Fee,16.15,0,0,Fees,B,N
+8/1/2022,Office Max,18.62,0,0,Supplies,B,N
+4/24/2022,Walgreens,22.32,0,4969,Groceries,P,N
 8/31/2022,Check,671.59,0,0,Labor,B,Y
-9/1/2022,Landfill,90,0,2675,Professional Services,B,N
-9/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
-9/1/2022,Dutch Bros,23.4,0,0,Food,P,N
-9/1/2022,Innovative Urgent Care,15,0,0,Medical,P,N
-9/1/2022,Check,2411.83,0,0,Labor,B,Y
-9/1/2022,Landfill,90,0,2675,Professional Services,B,N
-9/1/2022,Check,2942.5,0,0,Labor,B,Y
-9/1/2022,withdrawal cash,500,0,0,Withdrawal,B,N
+10/15/2022,Pro Serve Ent,151.99,0,0,Supplies,B,N
+8/4/2022,Check,1550,0,0,Labor,B,Y
+8/9/2022,Deposit,0,920.13,0,Revenue,B,Y
+10/31/2022,Pro Serve Ent,74.28,0,0,Supplies,B,N
+8/4/2022,Check,910,0,0,Labor,B,Y
+8/4/2022,Check,150,0,0,Labor,B,Y
+5/26/2022,QT,25.3,0,0,Gas,B,N
+4/26/2022,Walgreens,38.26,0,0,Groceries,P,N
+9/19/2022,At&t,80,0,0,Phone/Internet,B,Y
+4/5/2022,Walgreens,30.06,0,4969,Groceries,P,N
+9/12/2022,Deposit,0,5519.2,0,Revenue,B,Y
+10/9/2022,Water Service,33.17,0,0,Utilities,P,Y
+10/17/2022,The Guardian,849.54,0,0,Insurance,B,Y
+11/14/2022,Pro Serve Ent,27.12,0,0,Supplies,B,N
+10/6/2022,The Guardian,653.38,0,0,Insurance,B,Y
+4/8/2022,The Cromeens Law,75,0,0,Professional Services,B,N
+5/25/2022,Vivint,61.13,0,0,Software,B,Y
+6/13/2022,QT,166.31,0,2675,Gas,B,N
+5/16/2022,Walgreens,140.76,0,0,Groceries,P,N
+6/19/2022,QT,21.13,0,4969,Gas,B,N
+11/17/2022,Pro Serve Ent,109.91,0,0,Supplies,B,N
+9/12/2022,Fee,188.16,0,0,Fees,B,N
+10/24/2022,Discover,656.2,0,0,Credit Card,B,Y
+9/13/2022,Deposit,0,1194.72,0,Revenue,B,Y
+9/13/2022,Deposit,0,324.43,0,Revenue,B,Y
+8/9/2022,Check,120,0,0,Labor,B,Y
+6/7/2022,Taco Blvd,40.25,0,0,Food,P,N
 9/1/2022,Check,2520,0,0,Labor,B,Y
-9/1/2022,Randalls,27.57,0,3341,Groceries,P,N
+5/16/2022,Walgreens,40.25,0,0,Groceries,P,N
+9/1/2022,Check,2942.5,0,0,Labor,B,Y
 9/1/2022,Check,2725,0,0,Labor,B,Y
-9/1/2022,Shell Oil,57.01,0,0,Gas,B,N
-9/1/2022,WingStop,28.87,0,0,Food,P,N
-9/1/2022,Chick-Fil-A,24.71,0,0,Food,P,N
-9/1/2022,American Express,464.65,0,0,Credit Card,B,Y
+9/12/2022,Loan 02,447.78,0,0,Loan,B,N
+5/1/2022,Taco Cabana,50.8,0,0,Food,P,N
+6/26/2022,Sana Vida Wellness,238.4,0,0,Medical,P,N
+5/20/2022,The Cromeens Law,535,0,0,Professional Services,B,N
+6/19/2022,QT,7.77,0,0,Gas,B,N
 9/1/2022,Check,1000,0,0,Labor,B,Y
-9/2/2022,7-Eleven,115.52,0,718,Gas,B,N
-9/2/2022,Deposit,0,2168.25,0,Revenue,B,Y
-9/2/2022,Dollar-General,26.47,0,0,Supplies,B,N
-9/2/2022,El Rancho,17.34,0,0,Groceries,P,N
+11/15/2022,Discover,500,0,0,Credit Card,B,Y
+8/13/2022,Taco Cabana,23.2,0,0,Food,P,N
+5/6/2022,The Cromeens Law,620,0,0,Professional Services,B,N
+9/1/2022,Check,2411.83,0,0,Labor,B,Y
+8/22/2022,withdrawal cash,600,0,0,Withdrawal,B,N
+11/2/2022,Pro Serve Ent,46.18,0,0,Supplies,B,N
+9/14/2022,Deposit,0,2048.88,0,Revenue,B,Y
+9/12/2022,Check,250,0,0,Labor,B,Y
+4/16/2022,Target,167.38,0,0,Recreational,P,N
+9/27/2022,National Bank,1458.45,0,1,Loan,B,Y
+6/23/2022,Vivint,39.48,0,0,Software,B,Y
+9/13/2022,Fee,34,0,0,Fees,B,N
+7/16/2022,QT,41.23,0,3341,Gas,B,N
+11/4/2022,Discover,220.39,0,0,Credit Card,B,Y
+6/29/2022,Vivint,61.13,0,0,Software,B,Y
+9/12/2022,Check,100,0,0,Labor,B,Y
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/15/2022,Deposit,0,10100.56,0,Revenue,B,Y
+7/2/2022,QT,71.29,0,2675,Gas,B,N
+4/15/2022,Pro Serve Ent,127.85,0,0,Supplies,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+6/17/2022,The Cromeens Law,905,0,0,Professional Services,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/16/2022,Deposit,0,9102.01,0,Revenue,B,Y
+9/13/2022,Fee,34,0,0,Fees,B,N
+4/15/2022,Pro Serve Ent,328.56,0,0,Supplies,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+4/23/2022,Pro Serve Ent,131.07,0,0,Supplies,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+7/23/2022,QT,54.47,0,4969,Gas,B,N
+6/3/2022,The Cromeens Law,395,0,0,Professional Services,B,N
+7/30/2022,QT,70.56,0,4969,Gas,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/13/2022,Fee,34,0,0,Fees,B,N
+9/16/2022,Fee,34,0,0,Fees,B,N
+9/16/2022,Fee,34,0,0,Fees,B,N
+4/15/2022,Discover,500,0,0,Credit Card,B,Y
+9/16/2022,Fee,34,0,0,Fees,B,N
+9/16/2022,Fee,34,0,0,Fees,B,N
+11/7/2022,Water Service,43.35,0,0,Utilities,P,Y
+5/19/2022,Walgreens,107.12,0,4969,Groceries,P,N
+7/12/2022,The Cromeens Law,1000,0,0,Professional Services,B,N
+9/17/2022,Deposit,0,19026.01,0,Revenue,B,Y
+8/23/2022,Water Service,200,0,0,Utilities,P,Y
+4/1/2022,Navient,204.9,0,0,Loan,B,N
+9/14/2022,Check,420,0,0,Labor,B,Y
+11/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
+5/21/2022,Pro Serve Ent,86.69,0,0,Supplies,B,N
+5/2/2022,Walgreens,62.22,0,0,Groceries,P,N
+5/13/2022,Tax,6318.8,0,0,Tax,B,Y
+5/16/2022,Taqueria,23.62,0,0,Food,P,N
+4/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
+4/22/2022,Discover,656.2,0,0,Credit Card,B,Y
+9/23/2022,At&t,43.29,0,4969,Phone/Internet,B,Y
+7/30/2022,QT,15.14,0,4969,Gas,B,N
+8/18/2022,Taqueria,43.49,0,0,Food,P,N
+9/27/2022,Taquitos West,85.23,0,0,Food,P,N
+5/16/2022,The Guardian,849.54,0,0,Insurance,B,Y
+5/16/2022,Discover,500,0,0,Credit Card,B,Y
+9/15/2022,Check,1584,0,0,Labor,B,Y
+7/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+9/19/2022,Deposit,0,22182.35,0,Revenue,B,Y
+5/24/2022,Target,271.93,0,0,Recreational,P,N
+9/2/2022,Fee,47.59,0,0,Fees,B,N
+9/2/2022,Fee,105.53,0,0,Fees,B,N
+8/28/2022,QT,34.54,0,4969,Gas,B,N
+9/30/2022,Fee,6,0,0,Fees,B,N
+9/16/2022,Check,1000,0,0,Labor,B,Y
 9/2/2022,Deposit,0,509.05,0,Revenue,B,Y
+6/13/2022,Pro Serve Ent,30.7,0,0,Supplies,B,N
+9/16/2022,Check,2560,0,0,Labor,B,Y
+11/15/2022,Texas Honey Ham,15.39,0,0,Food,P,N
+9/30/2022,Fee,4.67,0,0,Fees,B,N
+6/3/2022,Pro Serve Ent,147.84,0,0,Supplies,B,N
+9/30/2022,Fee,52,0,0,Fees,B,N
+4/1/2022,Texas Honey Ham,46.44,0,0,Food,P,N
+8/14/2022,Randall Fuel,43.72,0,0,Gas,B,N
+9/2/2022,Deposit,0,2168.25,0,Revenue,B,Y
+9/28/2022,At&t,129.42,0,0,Phone/Internet,B,Y
+5/20/2022,Walgreens,19.99,0,0,Groceries,P,N
+7/13/2022,Pro Serve Ent,46.18,0,0,Supplies,B,N
+5/13/2022,Texas Honey Ham,35.41,0,0,Food,P,N
+9/17/2022,Check,1442.5,0,0,Labor,B,Y
+5/24/2022,Walgreens,8.1,0,4969,Groceries,P,N
+8/15/2022,Target,142.69,0,0,Recreational,P,N
+9/17/2022,Shell Service,30,0,3341,Auto Maintenance,B,N
+8/3/2022,withdrawal cash,500,0,0,Withdrawal,B,N
+5/16/2022,Texas Honey Ham,48.79,0,0,Food,P,N
+9/30/2022,At&t,1967.53,0,4969,Phone/Internet,B,Y
+5/4/2022,Walgreens,51,0,0,Groceries,P,N
+9/18/2022,Car Wash,70.8,0,0,Auto Maintenance,B,N
+5/5/2022,Walgreens,39.99,0,0,Groceries,P,N
+7/23/2022,Vivint,39.48,0,0,Software,B,Y
+7/16/2022,Pro Serve Ent,40.92,0,0,Supplies,B,N
+6/18/2022,Walgreens,4.49,0,0,Groceries,P,N
+9/19/2022,Check,1550,0,0,Labor,B,Y
+9/19/2022,Check,2520,0,0,Labor,B,Y
+9/19/2022,Check,2411.83,0,0,Labor,B,Y
+5/24/2022,Discover,656.2,0,0,Credit Card,B,Y
+9/19/2022,Check,1200,0,0,Labor,B,Y
+9/19/2022,Check,679.63,0,0,Labor,B,Y
+9/6/2022,At&t,69.25,0,4969,Phone/Internet,B,Y
+6/15/2022,Discover,500,0,0,Credit Card,B,Y
+9/19/2022,Check,1160,0,0,Labor,B,Y
+6/22/2022,Discover,656.2,0,0,Credit Card,B,Y
+9/30/2022,Refuel,54.32,0,2675,Gas,B,N
+9/2/2022,Deposit,0,1623.75,0,Revenue,B,Y
+9/27/2022,Deposit,0,1905.88,0,Revenue,B,Y
+9/30/2022,Refuel,74,0,2675,Gas,B,N
+9/1/2022,withdrawal cash,500,0,0,Withdrawal,B,N
+5/2/2022,Navient,204.9,0,0,Loan,B,N
+9/19/2022,Check,671.58,0,0,Labor,B,Y
 9/2/2022,Check,5665,0,0,Labor,B,Y
-9/2/2022,Check,1557.67,0,0,Labor,B,Y
+9/30/2022,Deposit,0,1677.88,0,Revenue,B,Y
+9/30/2022,Deposit,0,99.58,0,Revenue,B,Y
+6/26/2022,Walgreens,110,0,4969,Groceries,P,N
 9/2/2022,Check,350,0,0,Labor,B,Y
 9/2/2022,Check,1200,0,0,Labor,B,Y
-9/2/2022,Deposit,0,1623.75,0,Revenue,B,Y
-9/2/2022,Citi,63.76,0,0,Credit Card,B,Y
-9/2/2022,Sunoco,44.02,0,0,Professional Services,B,N
-9/2/2022,Fee,105.53,0,0,Fees,B,N
-9/2/2022,Fee,47.59,0,0,Fees,B,N
-9/2/2022,Target,124.13,0,0,Recreational,P,N
+7/29/2022,Pro Serve Ent,51.38,0,0,Supplies,B,N
+9/6/2022,Deposit,0,597.54,0,Revenue,B,Y
+7/15/2022,Discover,500,0,0,Credit Card,B,Y
+8/17/2022,Rockdale Valero,2.91,0,0,Gas,B,N
+7/12/2022,The Cromeens Law,1500,0,0,Professional Services,B,N
+9/7/2022,Fee,34.65,0,0,Fees,B,N
+8/22/2022,Target,100.89,0,0,Recreational,P,N
 9/2/2022,Check,277.05,0,0,Labor,B,Y
 9/2/2022,Check,1785.53,0,0,Labor,B,Y
-9/2/2022,Hp Ink,12.98,0,1,Supplies,B,N
+8/17/2022,Pro Serve Ent,29.41,0,0,Supplies,B,N
 9/2/2022,Texas Honey Ham,36.4,0,0,Food,P,N
-9/3/2022,Texaco,53.8,0,0,Gas,B,N
-9/3/2022,Walgreens,105.95,0,0,Groceries,P,N
-9/3/2022,Lowes,124.03,0,3341,Supplies,B,N
-9/3/2022,Grainger,54.52,0,0,Supplies,B,N
-9/4/2022,Northern Tool,79,0,0,Supplies,B,N
-9/4/2022,Shell Service,72.32,0,4969,Auto Maintenance,B,N
-9/5/2022,H-E-B Online,126.93,0,0,Groceries,P,N
-9/5/2022,Apple,2.99,0,718,Software,B,Y
-9/5/2022,7-Eleven,16.34,0,0,Gas,B,N
-9/5/2022,7-Eleven,55.94,0,0,Gas,B,N
-9/5/2022,Lowes,104.92,0,4969,Supplies,B,N
-9/6/2022,withdrawal cash,1500,0,0,Withdrawal,B,N
+5/21/2022,Mi Tiendita,2.7,0,0,Fees,B,N
+9/2/2022,Check,1557.67,0,0,Labor,B,Y
+4/13/2022,Shell Oil,34.62,0,0,Gas,B,N
+6/21/2022,Tax,7689.32,0,0,Tax,B,Y
+5/25/2022,Texas Roadhouse,63.3,0,0,Food,P,N
+7/18/2022,Tax,7010.23,0,0,Tax,B,Y
+9/20/2022,Check,1178.47,0,0,Labor,B,Y
+9/17/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
+9/20/2022,Check,250,0,0,Labor,B,Y
+9/20/2022,Check,350,0,0,Labor,B,Y
+8/26/2022,Target,82.89,0,0,Recreational,P,N
+5/1/2022,The Garden,160.98,0,0,Food,P,N
+9/19/2022,withdrawal cash,35,0,0,Withdrawal,B,N
+6/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
+9/20/2022,Check,1557.67,0,0,Labor,B,Y
+6/26/2022,Walgreens,63.28,0,4969,Groceries,P,N
+9/20/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
+9/21/2022,Check,615,0,0,Labor,B,Y
+7/15/2022,Walgreens,105.95,0,0,Groceries,P,N
+9/21/2022,Check,795,0,0,Labor,B,Y
+8/29/2022,Pro Serve Ent,28.25,0,0,Supplies,B,N
+9/21/2022,Check,2400,0,0,Labor,B,Y
+9/21/2022,Check,375,0,0,Labor,B,Y
+8/22/2022,Thrall Food,38.31,0,0,Food,P,N
+8/6/2022,Pro Serve Ent,38.94,0,0,Supplies,B,N
+7/22/2022,Discover,656.2,0,0,Credit Card,B,Y
+9/10/2022,Pro Serve Ent,12.08,0,0,Supplies,B,N
+9/22/2022,Pro Serve Ent,73.59,0,0,Supplies,B,N
+9/22/2022,Shell Service,6.83,0,2675,Auto Maintenance,B,N
+9/29/2022,Pro Serve Ent,43.9,0,0,Supplies,B,N
+8/15/2022,Discover,500,0,0,Credit Card,B,Y
+9/22/2022,Shell Service,42.37,0,2675,Auto Maintenance,B,N
+10/19/2022,RMA Toll,14.8,0,0,Supplies,B,N
+4/13/2022,Shell Oil,20.56,0,0,Gas,B,N
 9/6/2022,Deposit,0,597.54,0,Revenue,B,Y
-9/6/2022,Check,1160,0,0,Labor,B,Y
+10/19/2022,RMA Toll,131.65,0,0,Supplies,B,N
+9/23/2022,Check,470,0,0,Labor,B,Y
+8/29/2022,Target,5.17,0,0,Recreational,P,N
+9/14/2022,Water Service,1.09,0,0,Utilities,P,Y
+7/26/2022,Vivint,61.13,0,0,Software,B,Y
+7/29/2022,Vivint,1110.09,0,0,Software,B,Y
+7/16/2022,Walgreens,63.69,0,0,Groceries,P,N
+8/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+9/7/2022,At&t,30.3,0,4969,Phone/Internet,B,Y
+8/23/2022,Discover,656.2,0,0,Credit Card,B,Y
+4/21/2022,Tiffs Treats,55.26,0,0,Food,P,N
+9/27/2022,Tiffs Treats,88.42,0,0,Food,P,N
+7/15/2022,The Cromeens Law,165,0,0,Professional Services,B,N
+7/26/2022,Tennant Company,112.09,0,0,Supplies,B,N
+8/19/2022,Walgreens,10.81,0,0,Groceries,P,N
+7/22/2022,The Cromeens Law,707.5,0,0,Professional Services,B,N
+7/15/2022,Vazquez Tacos,47.68,0,0,Food,P,N
+9/23/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+11/3/2022,WhatABurger,49.63,0,0,Food,P,N
+8/23/2022,Vivint,39.48,0,0,Software,B,Y
+4/29/2022,Shell Oil,20.87,0,0,Gas,B,N
+8/24/2022,Walgreens,102.8,0,4969,Groceries,P,N
+9/12/2022,Target,32.47,0,0,Recreational,P,N
+9/25/2022,Car Wash,1.75,0,0,Auto Maintenance,B,N
+9/25/2022,Car Wash,13.75,0,0,Auto Maintenance,B,N
+4/26/2022,WhatABurger,20.81,0,0,Food,P,N
+9/17/2022,Target,102.74,0,0,Recreational,P,N
+5/13/2022,Shell Oil,50,0,0,Gas,B,N
+8/27/2022,Walgreens,25.42,0,4969,Groceries,P,N
+9/26/2022,Check,277.05,0,0,Labor,B,Y
+9/26/2022,Shell Service,52.44,0,3341,Auto Maintenance,B,N
+9/26/2022,withdrawal cash,1200,0,0,Withdrawal,B,N
+8/31/2022,Walgreens,54.41,0,4969,Groceries,P,N
+8/26/2022,WhatABurger,27.08,0,0,Food,P,N
+9/26/2022,Shell Service,60.33,0,2675,Auto Maintenance,B,N
+8/31/2022,Walgreens,52.22,0,4969,Groceries,P,N
+8/23/2022,Vivint,45.97,0,0,Software,B,Y
+9/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
+6/1/2022,Navient,204.9,0,0,Loan,B,N
+5/2/2022,Shell Oil,39.12,0,0,Gas,B,N
+8/25/2022,Vivint,61.13,0,0,Software,B,Y
+9/2/2022,Target,124.13,0,0,Recreational,P,N
+7/8/2022,Navient,204.9,0,0,Loan,B,N
+9/17/2022,Walgreens,7.03,0,0,Groceries,P,N
+5/14/2022,WingStop,16.76,0,0,Food,P,N
+10/19/2022,Texas Tag,20,0,0,Supplies,B,N
+9/23/2022,Target,185.02,0,0,Recreational,P,N
+5/22/2022,Shell Oil,63.49,0,0,Gas,B,N
+8/5/2022,UPS Store,20.85,0,0,Professional Services,B,N
+9/18/2022,Walgreens,20.27,0,3341,Groceries,P,N
+9/27/2022,Target,70.76,0,0,Recreational,P,N
+9/26/2022,Walgreens,28,0,0,Groceries,P,N
+9/6/2022,Deposit,0,2956.01,0,Revenue,B,Y
+10/25/2022,Texas Tag,20,0,0,Supplies,B,N
+4/7/2022,Texas Tag,40,0,0,Supplies,B,N
+8/25/2022,Shell Oil,14.6,0,0,Gas,B,N
+5/5/2022,WingStop,37.4,0,0,Food,P,N
+9/7/2022,At&t,33.49,0,4969,Phone/Internet,B,Y
+11/1/2022,SBA Loan,700,0,0,Loan,B,Y
+9/23/2022,Vivint,39.48,0,0,Software,B,Y
+9/3/2022,Walgreens,105.95,0,0,Groceries,P,N
+8/26/2022,Shell Oil,82.57,0,0,Gas,B,N
+9/30/2022,Walgreens,10,0,0,Groceries,P,N
+8/31/2022,WingStop,25.82,0,0,Food,P,N
+4/9/2022,Texas Tag,40,0,0,Supplies,B,N
+8/22/2022,Tax,6132.98,0,0,Tax,B,Y
+9/1/2022,Shell Oil,57.01,0,0,Gas,B,N
+9/29/2022,Tasco Auto,51.9,0,0,Auto Maintenance,B,N
+9/13/2022,Texas Tag,15,0,0,Supplies,B,N
+7/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
+10/29/2022,Texaco,57.43,0,0,Gas,B,N
+9/7/2022,Walgreens,101.65,0,0,Groceries,P,N
+9/13/2022,Texas Tag,45,0,0,Supplies,B,N
+9/22/2022,Texas Tag,100,0,0,Supplies,B,N
+9/20/2022,Tax,6319.49,0,0,Tax,B,Y
+10/15/2022,Cricket,117,0,0,Phone/Internet,B,Y
+8/24/2022,Urgent Care,35,0,0,Medical,P,N
+9/27/2022,Target,10.07,0,0,Recreational,P,N
+10/13/2022,Walmart,54,0,0,Groceries,P,N
+11/2/2022,Williamson Co,76.25,0,0,Professional Services,B,N
+11/13/2022,Municipal Online Payments,1.5,0,0,Fees,B,N
+9/13/2022,Discover,204.18,0,0,Credit Card,B,Y
+11/5/2022,Texaco,105.8,0,0,Gas,B,N
+9/30/2022,Check,115,0,0,Labor,B,Y
+5/4/2022,Municipal Online Payments,1.25,0,0,Fees,B,N
+9/7/2022,Deposit,0,1011.65,0,Revenue,B,Y
+8/20/2022,Municipal Online Payments,1.25,0,0,Fees,B,N
+9/7/2022,Deposit,0,99,0,Revenue,B,Y
+5/15/2022,Texaco,4.31,0,0,Gas,B,N
+10/25/2022,Walmart,138.41,0,0,Groceries,P,N
+9/29/2022,Texas Tag,100,0,0,Supplies,B,N
+9/4/2022,Shell Service,72.32,0,4969,Auto Maintenance,B,N
+9/8/2022,Texas Tag,18.28,0,0,Supplies,B,N
+5/15/2022,Texaco,32.57,0,0,Gas,B,N
+9/23/2022,Vivint,45.97,0,0,Software,B,Y
+10/31/2022,Walmart,67.61,0,0,Groceries,P,N
+5/17/2022,Texaco,32.24,0,0,Gas,B,N
+4/22/2022,Home DePot,0,21.59,0,Revenue,B,Y
+9/6/2022,withdrawal cash,1500,0,0,Withdrawal,B,N
+8/20/2022,Home DePot,0,4.29,0,Revenue,B,Y
 9/6/2022,Check,1780,0,0,Labor,B,Y
 9/6/2022,Check,750,0,0,Labor,B,Y
 9/6/2022,Check,496.13,0,0,Labor,B,Y
 9/6/2022,Check,750,0,0,Labor,B,Y
-9/6/2022,Deposit,0,597.54,0,Revenue,B,Y
-9/6/2022,Randalls,98.05,0,0,Groceries,P,N
-9/6/2022,Capital One,200,0,0,Credit Card,B,Y
-9/6/2022,Bank of America,877.05,0,0,Credit Card,B,Y
-9/6/2022,At&t,69.25,0,4969,Phone/Internet,B,Y
-9/6/2022,Deposit,0,2956.01,0,Revenue,B,Y
-9/6/2022,Doordash,135.33,0,0,Food,P,N
-9/6/2022,Advance Auto,36.79,0,0,Auto Maintenance,B,N
-9/6/2022,7-Eleven,55.53,0,4969,Gas,B,N
-9/6/2022,Crate & Barrel,350,0,0,Credit Card,B,Y
-9/7/2022,Walgreens,101.65,0,0,Groceries,P,N
-9/7/2022,Deposit,0,99,0,Revenue,B,Y
-9/7/2022,Fee,34.65,0,0,Fees,B,N
-9/7/2022,H-E-B #,104.02,0,0,Groceries,P,N
-9/7/2022,Check,1037.5,0,0,Labor,B,Y
-9/7/2022,Check,50,0,0,Labor,B,Y
-9/7/2022,Landfill,90,0,2675,Professional Services,B,N
-9/7/2022,Home DePot,34.17,0,0,Supplies,B,N
-9/7/2022,Home DePot,10.79,0,0,Supplies,B,N
-9/7/2022,Deposit,0,1011.65,0,Revenue,B,Y
-9/7/2022,A Plus Outdoor,367.07,0,0,Recreational,P,N
-9/7/2022,Farmers,1005.33,0,0,Insurance,B,Y
-9/7/2022,At&t,30.3,0,4969,Phone/Internet,B,Y
-9/7/2022,Check,825.75,0,0,Labor,B,Y
-9/7/2022,At&t,33.49,0,4969,Phone/Internet,B,Y
-9/7/2022,Check,250,0,0,Labor,B,Y
-9/7/2022,Short Stop,16.22,0,0,Food,P,N
-9/8/2022,H-E-B #,26.4,0,0,Groceries,P,N
-9/8/2022,Home DePot,50.86,0,0,Supplies,B,N
-9/8/2022,Chevron,97.78,0,0,Gas,B,N
-9/8/2022,American Express,0.01,0,0,Credit Card,B,Y
-9/8/2022,Exxon Mobil,30.33,0,0,Gas,B,N
-9/8/2022,Check,1178.47,0,0,Labor,B,Y
-9/8/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
-9/8/2022,Texas Tag,18.28,0,0,Supplies,B,N
-9/8/2022,Home DePot,0,50.86,0,Revenue,B,Y
-9/8/2022,H-E-B #,8,0,0,Groceries,P,N
-9/8/2022,Check,100,0,0,Labor,B,Y
-9/8/2022,7-Eleven,49.41,0,2675,Gas,B,N
-9/9/2022,Adobe AcroPro,16.23,0,718,Software,B,Y
-9/9/2022,Randalls,39.01,0,0,Groceries,P,N
-9/10/2022,Pro Serve Ent,12.08,0,0,Supplies,B,N
-9/12/2022,Target,32.47,0,0,Recreational,P,N
-9/12/2022,Loan 02,447.78,0,0,Loan,B,N
-9/12/2022,Microsoft,25.58,0,0,Software,B,Y
-9/12/2022,Fee,188.16,0,0,Fees,B,N
-9/12/2022,7-Eleven,57.09,0,0,Gas,B,N
-9/12/2022,American Express,398,0,0,Credit Card,B,Y
-9/12/2022,Microsoft,13.54,0,0,Software,B,Y
-9/12/2022,Check,100,0,0,Labor,B,Y
-9/12/2022,Check,250,0,0,Labor,B,Y
-9/12/2022,Deposit,0,5519.2,0,Revenue,B,Y
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Champions School,22,0,0,Professional Services,B,N
-9/13/2022,Deposit,0,324.43,0,Revenue,B,Y
-9/13/2022,Texas Tag,15,0,0,Supplies,B,N
-9/13/2022,7-Eleven,1.61,0,0,Gas,B,N
-9/13/2022,Deposit,0,1194.72,0,Revenue,B,Y
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Dollar-General,14.87,0,0,Supplies,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Discover,204.18,0,0,Credit Card,B,Y
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Texas Tag,45,0,0,Supplies,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,ATM,343.5,0,718,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Chevron,51.25,0,0,Gas,B,N
-9/13/2022,Kristy R Cortez,706.5,0,0,Professional Services,B,N
-9/13/2022,7-Eleven,34.32,0,2675,Gas,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/13/2022,ATM,1,0,718,Fees,B,N
-9/13/2022,Fee,34,0,0,Fees,B,N
-9/14/2022,H-E-B #,208.09,0,0,Groceries,P,N
-9/14/2022,Bolt,56.07,0,0,Professional Services,B,N
-9/14/2022,Deposit,0,2048.88,0,Revenue,B,Y
-9/14/2022,Texas Gas,32.58,0,0,Utilities,P,Y
-9/14/2022,Home DePot,12.95,0,0,Supplies,B,N
-9/14/2022,Water Service,1.09,0,0,Utilities,P,Y
-9/14/2022,LendingClub,498.15,0,0,Loan,B,N
-9/14/2022,H-E-B #,19.99,0,0,Groceries,P,N
-9/14/2022,AVR,0.05,0,0,Fees,B,N
-9/14/2022,Farmers,661.91,0,0,Insurance,B,Y
-9/14/2022,Check,420,0,0,Labor,B,Y
-9/15/2022,Check,1584,0,0,Labor,B,Y
-9/15/2022,IRS,2500,0,0,Tax,B,Y
-9/15/2022,Mod Pizza,27.34,0,0,Food,P,N
-9/15/2022,Humana,50.74,0,0,Insurance,B,Y
-9/15/2022,Capital One,300,0,0,Credit Card,B,Y
-9/15/2022,Innovative Urgent Care,35,0,0,Medical,P,N
-9/15/2022,Texaco,47.58,0,0,Gas,B,N
-9/15/2022,El Pollo Rico,22.01,0,0,Food,P,N
-9/15/2022,DashPass,9.99,0,0,Food,P,N
-9/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
-9/15/2022,Cricket,72,0,0,Phone/Internet,B,Y
-9/15/2022,Discover,500,0,0,Credit Card,B,Y
-9/15/2022,Deposit,0,10100.56,0,Revenue,B,Y
-9/15/2022,Left Hand Design,557.49,0,0,Recreational,P,N
-9/16/2022,Grainger,204.86,0,0,Supplies,B,N
-9/16/2022,Deposit,0,9102.01,0,Revenue,B,Y
-9/16/2022,Check,1000,0,0,Labor,B,Y
-9/16/2022,Fee,34,0,0,Fees,B,N
-9/16/2022,Fee,34,0,0,Fees,B,N
-9/16/2022,Fee,34,0,0,Fees,B,N
-9/16/2022,Fee,34,0,0,Fees,B,N
-9/16/2022,P Terrys,12.07,0,0,Food,P,N
-9/16/2022,Chevron,52.19,0,0,Gas,B,N
-9/16/2022,Check,2560,0,0,Labor,B,Y
-9/16/2022,ATM,120.58,0,0,Fees,B,N
-9/16/2022,Dollar-General,27.06,0,0,Supplies,B,N
-9/17/2022,Bushs Chicken,27.61,0,0,Food,P,N
-9/17/2022,7-Eleven,54.03,0,718,Gas,B,N
-9/17/2022,Deposit,0,19026.01,0,Revenue,B,Y
-9/17/2022,At&t,31.94,0,4969,Phone/Internet,B,Y
-9/17/2022,Walgreens,7.03,0,0,Groceries,P,N
-9/17/2022,Home DePot,120.89,0,0,Supplies,B,N
-9/17/2022,Lubys,83,0,0,Food,P,N
-9/17/2022,Raising Canes,14.8,0,0,Food,P,N
-9/17/2022,At&t,18.39,0,4969,Phone/Internet,B,Y
-9/17/2022,Check,1442.5,0,0,Labor,B,Y
-9/17/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
-9/17/2022,Shell Service,30,0,3341,Auto Maintenance,B,N
-9/17/2022,Target,102.74,0,0,Recreational,P,N
-9/17/2022,Randalls,66.62,0,0,Groceries,P,N
-9/18/2022,Walgreens,20.27,0,3341,Groceries,P,N
-9/18/2022,Home DePot,100,0,0,Supplies,B,N
-9/18/2022,Apple,21.64,0,0,Software,B,Y
-9/18/2022,H-E-B #,31.79,0,0,Groceries,P,N
-9/18/2022,Car Wash,70.8,0,0,Auto Maintenance,B,N
-9/18/2022,H-E-B #,73.25,0,0,Groceries,P,N
-9/19/2022,Loan 00,200,0,0,Loan,B,N
-9/19/2022,withdrawal cash,35,0,0,Withdrawal,B,N
-9/19/2022,H-E-B Gas,59.41,0,4969,Gas,B,N
-9/19/2022,Home DePot,0,15.35,0,Revenue,B,Y
-9/19/2022,Deposit,0,22182.35,0,Revenue,B,Y
-9/19/2022,7-Eleven,50,0,2675,Gas,B,N
-9/19/2022,Check,671.58,0,0,Labor,B,Y
-9/19/2022,Citi,29,0,0,Credit Card,B,Y
-9/19/2022,American Express,339.56,0,0,Credit Card,B,Y
-9/19/2022,At&t,80,0,0,Phone/Internet,B,Y
-9/19/2022,Check,679.63,0,0,Labor,B,Y
-9/19/2022,Check,1550,0,0,Labor,B,Y
-9/19/2022,Check,1200,0,0,Labor,B,Y
-9/19/2022,Chase Credit,400,0,0,Credit Card,B,Y
-9/19/2022,Check,2411.83,0,0,Labor,B,Y
-9/19/2022,Check,1160,0,0,Labor,B,Y
-9/19/2022,Check,2520,0,0,Labor,B,Y
-9/20/2022,Randall Fuel,45.32,0,0,Food,P,N
-9/20/2022,Tax,6319.49,0,0,Tax,B,Y
-9/20/2022,Check,1178.47,0,0,Labor,B,Y
-9/20/2022,ATM,300,0,0,Withdrawal,B,N
-9/20/2022,Check,250,0,0,Labor,B,Y
-9/20/2022,Check,350,0,0,Labor,B,Y
-9/20/2022,Academy Sports,37.87,0,2675,Recreational,P,N
-9/20/2022,El Pollo Rico,26.99,0,0,Food,P,N
-9/20/2022,Gusto,1893.23,0,0,Tax,B,Y
-9/20/2022,Circle K,43.35,0,2675,Gas,B,N
-9/20/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
-9/20/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
-9/20/2022,Samsclub,180.6,0,0,Groceries,P,N
-9/20/2022,Check,1557.67,0,0,Labor,B,Y
-9/21/2022,Randalls,79.6,0,0,Groceries,P,N
-9/21/2022,Check,615,0,0,Labor,B,Y
-9/21/2022,Check,795,0,0,Labor,B,Y
-9/21/2022,Home DePot,17.7,0,0,Supplies,B,N
-9/21/2022,Check,2400,0,0,Labor,B,Y
-9/21/2022,Check,375,0,0,Labor,B,Y
-9/21/2022,Venmo,300,0,0,Withdrawal,B,N
-9/21/2022,Poco Loco,97.61,0,0,Food,P,N
-9/21/2022,Diamond Rental,81.19,0,0,Supplies,B,N
-9/22/2022,Kim Paper,3000,0,4969,Supplies,B,N
-9/22/2022,Shell Service,42.37,0,2675,Auto Maintenance,B,N
-9/22/2022,Kim Paper,3000,0,718,Supplies,B,N
-9/22/2022,Pro Serve Ent,73.59,0,0,Supplies,B,N
-9/22/2022,Shell Service,6.83,0,2675,Auto Maintenance,B,N
-9/22/2022,Texas Tag,100,0,0,Supplies,B,N
-9/22/2022,Discover,656.2,0,0,Credit Card,B,Y
-9/22/2022,American Express,329,0,0,Credit Card,B,Y
-9/23/2022,Amazon,193.77,0,1,Supplies,B,N
-9/23/2022,Landfill,0,78.86,0,Revenue,B,Y
-9/23/2022,In N Out,12.18,0,0,Food,P,N
-9/23/2022,Diamond Rental,162.38,0,0,Supplies,B,N
-9/23/2022,Landfill,150,0,0,Professional Services,B,N
-9/23/2022,Mod Pizza,15.03,0,0,Food,P,N
-9/23/2022,Exxon Mobil,72.85,0,0,Gas,B,N
-9/23/2022,American Express,465.68,0,0,Credit Card,B,Y
-9/23/2022,At&t,43.29,0,4969,Phone/Internet,B,Y
-9/23/2022,Randalls,59.6,0,0,Groceries,P,N
-9/23/2022,H-E-B #,118.66,0,718,Groceries,P,N
-9/23/2022,Vivint,45.97,0,0,Software,B,Y
-9/23/2022,Vivint,39.48,0,0,Software,B,Y
-9/23/2022,Culligan,105.32,0,718,Utilities,P,Y
-9/23/2022,Sana Vida Wellness,149,0,0,Medical,P,N
-9/23/2022,Target,185.02,0,0,Recreational,P,N
-9/23/2022,Check,470,0,0,Labor,B,Y
-9/24/2022,CVS,19.78,0,3341,Groceries,P,N
-9/24/2022,7-Eleven,97.45,0,0,Gas,B,N
-9/24/2022,McDonalds,6.48,0,0,Food,P,N
-9/24/2022,Apple,32.45,0,0,Software,B,Y
-9/24/2022,Laz Parking,10.45,0,0,Recreational,P,N
-9/24/2022,Sana Vida Wellness,149,0,0,Medical,P,N
-9/24/2022,WingStop,25.2,0,0,Food,P,N
-9/24/2022,Jack Brown Cleaners,8.55,0,0,Professional Services,B,N
-9/25/2022,NWS 2nd Street,53.37,0,0,Food,P,N
-9/25/2022,Chevron,73.22,0,0,Gas,B,N
-9/25/2022,Laz Parking,2.7,0,0,Recreational,P,N
-9/25/2022,H-E-B #,65.27,0,718,Groceries,P,N
-9/25/2022,Car Wash,13.75,0,0,Auto Maintenance,B,N
-9/25/2022,Car Wash,1.75,0,0,Auto Maintenance,B,N
-9/26/2022,H-E-B #,25.4,0,0,Groceries,P,N
-9/26/2022,Shell Service,60.33,0,2675,Auto Maintenance,B,N
-9/26/2022,Juanitas College,120.89,0,0,Food,P,N
-9/26/2022,Apple,9.99,0,0,Software,B,Y
-9/26/2022,withdrawal cash,1200,0,0,Withdrawal,B,N
-9/26/2022,Shell Service,52.44,0,3341,Auto Maintenance,B,N
-9/26/2022,Check,277.05,0,0,Labor,B,Y
-9/26/2022,Walgreens,28,0,0,Groceries,P,N
-9/27/2022,Breed &amp,21.64,0,0,Supplies,B,N
-9/27/2022,Home DePot,15.98,0,0,Supplies,B,N
-9/27/2022,Target,10.07,0,0,Recreational,P,N
-9/27/2022,Deposit,0,1905.88,0,Revenue,B,Y
-9/27/2022,H-E-B #,135.03,0,0,Groceries,P,N
-9/27/2022,A Plus Outdoor,371.3,0,0,Recreational,P,N
-9/27/2022,H-E-B #,42.54,0,3341,Groceries,P,N
-9/27/2022,HiTechPower,239.06,0,0,Professional Services,B,N
-9/27/2022,7-Eleven,37.72,0,2675,Gas,B,N
-9/27/2022,Chevron,15.14,0,0,Gas,B,N
-9/27/2022,Home DePot,75.75,0,0,Supplies,B,N
-9/27/2022,Platinum Research,146.97,0,0,Medical,P,N
-9/27/2022,Taquitos West,85.23,0,0,Food,P,N
-9/27/2022,Tiffs Treats,88.42,0,0,Food,P,N
-9/27/2022,National Bank,1458.45,0,1,Loan,B,Y
-9/27/2022,Target,70.76,0,0,Recreational,P,N
-9/27/2022,Vivint,61.13,0,0,Software,B,Y
-9/27/2022,7-Eleven,13.12,0,0,Gas,B,N
-9/27/2022,Ally,509.98,0,0,Loan,B,N
-9/28/2022,Fortiva,43.85,0,4969,Loan,B,N
-9/28/2022,Apple,13.87,0,718,Software,B,Y
-9/28/2022,Randalls,106.57,0,0,Groceries,P,N
-9/28/2022,At&t,129.42,0,0,Phone/Internet,B,Y
-9/28/2022,Surf and Turf,140.05,0,0,Food,P,N
-9/29/2022,Texas Tag,100,0,0,Supplies,B,N
-9/29/2022,Tasco Auto,51.9,0,0,Auto Maintenance,B,N
-9/29/2022,Gusto,1893.21,0,0,Tax,B,Y
-9/29/2022,7-Eleven,1.07,0,0,Gas,B,N
-9/29/2022,Amercian General,134.89,0,0,Insurance,B,Y
-9/29/2022,Pro Serve Ent,43.9,0,0,Supplies,B,N
-9/29/2022,Mod Pizza,30.07,0,0,Food,P,N
-9/29/2022,Leander Stores,72.69,0,2675,Groceries,P,N
-9/29/2022,7-Eleven,56.8,0,718,Gas,B,N
-9/30/2022,Deposit,0,1677.88,0,Revenue,B,Y
-9/30/2022,Fee,52,0,0,Fees,B,N
-9/30/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
-9/30/2022,Deposit,0,99.58,0,Revenue,B,Y
-9/30/2022,Refuel,74,0,2675,Gas,B,N
-9/30/2022,Fee,4.67,0,0,Fees,B,N
-9/30/2022,Check,115,0,0,Labor,B,Y
-9/30/2022,Refuel,54.32,0,2675,Gas,B,N
-9/30/2022,American Express,464.8,0,0,Credit Card,B,Y
-9/30/2022,Fee,6,0,0,Fees,B,N
-9/30/2022,Randalls,50.82,0,0,Groceries,P,N
-9/30/2022,Walgreens,10,0,0,Groceries,P,N
-9/30/2022,Llano Co,155.75,0,0,Tax,B,Y
-9/30/2022,CSC Servicework,2,0,0,Recreational,P,N
-9/30/2022,Labcorp,101.15,0,0,Medical,P,N
-9/30/2022,At&t,1967.53,0,4969,Phone/Internet,B,Y
-10/1/2022,Fee,34,0,0,Fees,B,N
-10/1/2022,Fee,34,0,0,Fees,B,N
-10/1/2022,Fee,34,0,0,Fees,B,N
-10/1/2022,Fee,34,0,0,Fees,B,N
-10/1/2022,Fee,34,0,0,Fees,B,N
-10/1/2022,Fee,34,0,0,Fees,B,N
-10/1/2022,Fee,34,0,0,Fees,B,N
-10/1/2022,Fee,34,0,0,Fees,B,N
-10/1/2022,Walgreens,60.04,0,4969,Groceries,P,N
-10/1/2022,Apple,15.13,0,0,Software,B,Y
-10/1/2022,Landfill,90,0,2675,Professional Services,B,N
-10/2/2022,Lowes,45.4,0,4969,Supplies,B,N
-10/2/2022,Sana Vida Wellness,149,0,0,Medical,P,N
-10/2/2022,7-Eleven,62.64,0,0,Gas,B,N
-10/3/2022,Financial Pacific,524.83,0,0,Loan,B,N
-10/3/2022,Deposit,0,21627.48,0,Revenue,B,Y
-10/3/2022,H-E-B #,4.88,0,718,Groceries,P,N
-10/3/2022,H-E-B #,226.88,0,718,Groceries,P,N
-10/3/2022,Check,1160,0,0,Labor,B,Y
-10/3/2022,Check,1442.5,0,0,Labor,B,Y
-10/3/2022,Check,1925,0,0,Labor,B,Y
-10/3/2022,Check,2520,0,0,Labor,B,Y
-10/3/2022,withdrawal cash,2000,0,0,Withdrawal,B,N
-10/3/2022,Check,250,0,0,Labor,B,Y
-10/3/2022,Check,671.59,0,0,Labor,B,Y
-10/3/2022,Check,1000,0,0,Labor,B,Y
-10/3/2022,Citi,63.76,0,0,Credit Card,B,Y
-10/4/2022,Capital One,200,0,0,Credit Card,B,Y
-10/4/2022,Circle K,49.7,0,718,Gas,B,N
-10/4/2022,IRS,500,0,0,Tax,B,Y
-10/4/2022,7-Eleven,105.18,0,0,Gas,B,N
-10/4/2022,H-E-B #,140.84,0,0,Groceries,P,N
-10/4/2022,Check,1178.47,0,0,Labor,B,Y
-10/4/2022,Deposit,0,19167.4,0,Revenue,B,Y
-10/4/2022,Alamo Specialty Pharmacy,25,0,0,Medical,P,N
-10/4/2022,Office DePot,197.53,0,0,Supplies,B,N
-10/4/2022,Check,1550,0,0,Labor,B,Y
-10/4/2022,Check,917.5,0,0,Labor,B,Y
-10/4/2022,Check,800,0,0,Labor,B,Y
-10/4/2022,Check,1058.38,0,0,Labor,B,Y
 10/4/2022,Walmart,155.25,0,0,Groceries,P,N
-10/4/2022,Walgreens,25.94,0,4969,Groceries,P,N
-10/4/2022,Check,3000,0,0,Labor,B,Y
-10/4/2022,Check,144,0,0,Labor,B,Y
-10/4/2022,Deposit,0,1299,0,Revenue,B,Y
-10/4/2022,Check,1584,0,0,Labor,B,Y
-10/4/2022,Deposit,0,571.56,0,Revenue,B,Y
-10/4/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
-10/4/2022,Check,1557.67,0,0,Labor,B,Y
-10/4/2022,Deposit,0,571.56,0,Revenue,B,Y
-10/4/2022,Check,750,0,0,Labor,B,Y
-10/4/2022,Pharmacy,60,0,0,Medical,P,N
-10/4/2022,Fee,105.53,0,0,Fees,B,N
-10/4/2022,Check,545,0,0,Labor,B,Y
-10/4/2022,Fee,34,0,0,Fees,B,N
-10/4/2022,Hp Ink,12.98,0,1,Supplies,B,N
-10/4/2022,Randalls,47.3,0,0,Groceries,P,N
-10/4/2022,Fee,37.92,0,0,Fees,B,N
-10/4/2022,Fee,34,0,0,Fees,B,N
-10/4/2022,Fee,34,0,0,Fees,B,N
-10/4/2022,Fee,34,0,0,Fees,B,N
-10/4/2022,Fee,34,0,0,Fees,B,N
-10/4/2022,At&t,20.71,0,4969,Phone/Internet,B,Y
-10/4/2022,Fee,34,0,0,Fees,B,N
-10/4/2022,Fee,34,0,0,Fees,B,N
-10/4/2022,Fee,34,0,0,Fees,B,N
-10/5/2022,Apple,2.99,0,0,Software,B,Y
-10/5/2022,Burpy Market,51.32,0,0,Groceries,P,N
-10/5/2022,ATM,100,0,0,Fees,B,N
-10/5/2022,Bank of America,877.05,0,0,Credit Card,B,Y
-10/5/2022,Car Wash,12.75,0,0,Auto Maintenance,B,N
-10/5/2022,Farmers,1005.33,0,0,Insurance,B,Y
-10/5/2022,Check,350,0,0,Labor,B,Y
-10/5/2022,At&t,52.14,0,4969,Phone/Internet,B,Y
-10/5/2022,Walgreens,26.23,0,4969,Groceries,P,N
-10/5/2022,Check,6924.12,0,0,Labor,B,Y
-10/5/2022,At&t,286.85,0,4969,Phone/Internet,B,Y
-10/5/2022,Health Care Serv,3563.84,0,0,Insurance,B,Y
-10/5/2022,Check,2411.83,0,0,Labor,B,Y
-10/6/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
-10/6/2022,The Guardian,653.38,0,0,Insurance,B,Y
-10/6/2022,Crate & Barrel,149,0,0,Credit Card,B,Y
-10/6/2022,Deposit,0,2385,0,Revenue,B,Y
-10/6/2022,Express Food,66.56,0,0,Food,P,N
-10/7/2022,Deposit,0,4011.1,0,Revenue,B,Y
-10/7/2022,Amazon,389.2,0,0,Supplies,B,N
-10/7/2022,LSCC Seton,10,0,0,Medical,P,N
-10/7/2022,Fee,34,0,0,Fees,B,N
-10/7/2022,Fee,34,0,0,Fees,B,N
-10/7/2022,Fee,34,0,0,Fees,B,N
-10/7/2022,7-Eleven,115.78,0,2675,Gas,B,N
-10/7/2022,Fee,34,0,0,Fees,B,N
-10/7/2022,Fee,34,0,0,Fees,B,N
-10/8/2022,Walmart,184.53,0,0,Groceries,P,N
-10/8/2022,Walgreens,79,0,4969,Groceries,P,N
-10/8/2022,Texas Gas,27.4,0,0,Utilities,P,Y
-10/8/2022,Copper Ridge Market,18.78,0,0,Groceries,P,N
-10/9/2022,Water Service,33.17,0,0,Utilities,P,Y
-10/9/2022,7-Eleven,56.34,0,0,Gas,B,N
-10/9/2022,Adobe AcroPro,16.23,0,718,Software,B,Y
-10/9/2022,AVR,1.66,0,0,Fees,B,N
-10/10/2022,H-E-B #,9.73,0,0,Groceries,P,N
-10/10/2022,Amazon,26.58,0,0,Supplies,B,N
-10/10/2022,Doordash,22.3,0,0,Food,P,N
-10/10/2022,Microsoft,25.58,0,0,Software,B,Y
-10/10/2022,Lowes,19.46,0,4969,Supplies,B,N
-10/10/2022,Microsoft,13.54,0,0,Software,B,Y
-10/10/2022,Walgreens,25.49,0,4969,Groceries,P,N
-10/10/2022,Walgreens,102.8,0,4969,Groceries,P,N
-10/10/2022,SP Choice,210.77,0,0,Insurance,B,Y
-10/11/2022,Loan 02,447.78,0,0,Loan,B,N
-10/11/2022,Amazon,14.97,0,0,Supplies,B,N
-10/11/2022,Dog Waste Depot,288.94,0,0,Supplies,B,N
-10/11/2022,American Express,398,0,0,Credit Card,B,Y
-10/11/2022,H-E-B #,185.85,0,4969,Groceries,P,N
-10/11/2022,7-Eleven,120.33,0,2675,Gas,B,N
-10/11/2022,Chevron,38.64,0,0,Gas,B,N
-10/11/2022,Apple,4.32,0,0,Software,B,Y
-10/11/2022,Apple,5.4,0,0,Software,B,Y
-10/11/2022,BBB,80,0,0,Software,B,Y
-10/11/2022,Sky Asian Fusion,90.35,0,0,Food,P,N
-10/11/2022,H-E-B #,6.9,0,0,Groceries,P,N
-10/11/2022,Home DePot,45.37,0,0,Supplies,B,N
-10/12/2022,Deposit,0,2048.88,0,Revenue,B,Y
-10/12/2022,Burpy Market,59.32,0,0,Groceries,P,N
-10/12/2022,Landfill,150,0,0,Professional Services,B,N
-10/12/2022,Landfill,0,97.32,0,Revenue,B,Y
-10/12/2022,Deposit,0,5893.64,0,Revenue,B,Y
-10/12/2022,HiTechPower,212.5,0,0,Professional Services,B,N
-10/13/2022,H-E-B Gas,52.03,0,4969,Gas,B,N
-10/13/2022,H-E-B #,137.31,0,4969,Groceries,P,N
-10/13/2022,H-E-B #,19.99,0,0,Groceries,P,N
-10/13/2022,Custom Trailers,46.6,0,0,Supplies,B,N
-10/13/2022,withdrawal cash,1000,0,0,Withdrawal,B,N
-10/13/2022,Walmart,54,0,0,Groceries,P,N
-10/13/2022,Gusto,1893.23,0,0,Tax,B,Y
-10/13/2022,Deposit,0,811.88,0,Revenue,B,Y
-10/13/2022,Home DePot,28.16,0,0,Supplies,B,N
-10/13/2022,Discover,209.4,0,0,Credit Card,B,Y
-10/14/2022,Check,671.58,0,0,Labor,B,Y
-10/14/2022,withdrawal cash,470,0,0,Withdrawal,B,N
-10/14/2022,Deposit,0,10568,0,Revenue,B,Y
-10/14/2022,SP Choice,615.71,0,0,Insurance,B,Y
-10/14/2022,7-Eleven,40.82,0,3341,Gas,B,N
-10/14/2022,7-Eleven,40.2,0,2675,Gas,B,N
-10/14/2022,7-Eleven,44.97,0,718,Gas,B,N
-10/14/2022,withdrawal cash,300,0,0,Withdrawal,B,N
-10/14/2022,LendingClub,498.15,0,0,Loan,B,N
-10/14/2022,Deposit,0,1426.52,0,Revenue,B,Y
-10/14/2022,Chick-Fil-A,46.8,0,0,Food,P,N
-10/14/2022,Burpy Market,37.06,0,0,Groceries,P,N
-10/14/2022,Farmers,661.91,0,0,Insurance,B,Y
-10/15/2022,Shell Service,65.09,0,3341,Auto Maintenance,B,N
-10/15/2022,DashPass,9.99,0,0,Food,P,N
-10/15/2022,Pro Serve Ent,151.99,0,0,Supplies,B,N
-10/15/2022,Cricket,117,0,0,Phone/Internet,B,Y
-10/15/2022,Lowes,62.24,0,3341,Supplies,B,N
-10/15/2022,Deposit,0,70.36,0,Revenue,B,Y
-10/16/2022,In N Out,29.39,0,0,Food,P,N
-10/16/2022,Cinemark,50.62,0,0,Recreational,P,N
-10/16/2022,Randalls,97.27,0,0,Groceries,P,N
-10/16/2022,Lowes,14.68,0,4969,Supplies,B,N
-10/16/2022,Randalls,100.95,0,4969,Groceries,P,N
-10/17/2022,The Guardian,849.54,0,0,Insurance,B,Y
-10/17/2022,Check,2325,0,0,Labor,B,Y
-10/17/2022,Discover,500,0,0,Credit Card,B,Y
-10/17/2022,Check,1000,0,0,Labor,B,Y
-10/17/2022,Check,1472,0,0,Labor,B,Y
-10/17/2022,Check,1307.72,0,0,Labor,B,Y
-10/17/2022,Check,1584,0,0,Labor,B,Y
-10/17/2022,Check,2520,0,0,Labor,B,Y
-10/17/2022,7-Eleven,105.76,0,0,Gas,B,N
-10/17/2022,Chase Credit,400,0,0,Credit Card,B,Y
-10/17/2022,Capital One,300,0,0,Credit Card,B,Y
-10/17/2022,Deposit,0,5462.83,0,Revenue,B,Y
-10/17/2022,Citi,1292.87,0,0,Credit Card,B,Y
-10/18/2022,H-E-B Gas,59.25,0,4969,Gas,B,N
-10/18/2022,QT,14.45,0,0,Gas,B,N
-10/18/2022,Citi,29,0,0,Credit Card,B,Y
-10/18/2022,Home DePot,46.82,0,0,Supplies,B,N
-10/18/2022,Check,1557.67,0,0,Labor,B,Y
-10/18/2022,Loan 00,200,0,0,Loan,B,N
-10/18/2022,H-E-B #,61.57,0,3341,Groceries,P,N
-10/18/2022,H-E-B #,117.46,0,0,Groceries,P,N
-10/18/2022,At&t,84.19,0,0,Phone/Internet,B,Y
-10/18/2022,Check,700,0,0,Labor,B,Y
-10/18/2022,Randalls,4.29,0,0,Groceries,P,N
-10/18/2022,Check,277.05,0,0,Labor,B,Y
-10/18/2022,Check,1178.47,0,0,Labor,B,Y
-10/18/2022,Check,250,0,0,Labor,B,Y
-10/18/2022,Check,1160,0,0,Labor,B,Y
-10/18/2022,Check,650,0,0,Labor,B,Y
-10/18/2022,Check,853.14,0,0,Labor,B,Y
-10/18/2022,Check,1094.15,0,0,Labor,B,Y
-10/18/2022,Deposit,0,102.59,0,Revenue,B,Y
-10/19/2022,7-Eleven,20.9,0,0,Gas,B,N
-10/19/2022,Check,2411.83,0,0,Labor,B,Y
-10/19/2022,Texas Tag,20,0,0,Supplies,B,N
-10/19/2022,Walgreens,28.43,0,718,Groceries,P,N
-10/19/2022,RMA Toll,131.65,0,0,Supplies,B,N
-10/19/2022,RMA Toll,14.8,0,0,Supplies,B,N
-10/19/2022,Citi,133.34,0,0,Credit Card,B,Y
-10/19/2022,Fee,34,0,0,Fees,B,N
-10/19/2022,Deposit,0,4494.54,0,Revenue,B,Y
-10/20/2022,At&t,80,0,0,Phone/Internet,B,Y
-10/20/2022,Lincoln Natural,316.91,0,0,Insurance,B,Y
-10/20/2022,Golden Chick,16.84,0,0,Food,P,N
-10/21/2022,Sunbit,204.42,0,0,Recreational,P,N
-10/22/2022,Valero,24.62,0,0,Gas,B,N
-10/23/2022,Formula1,160,0,0,Recreational,B,N
-10/23/2022,Culligan,105.32,0,718,Utilities,P,Y
-10/23/2022,7-Eleven,107.8,0,0,Gas,B,N
-10/24/2022,American Express,329,0,0,Credit Card,B,Y
-10/24/2022,Check,1550,0,0,Labor,B,Y
-10/24/2022,Deposit,0,14377.45,0,Revenue,B,Y
-10/24/2022,Apple,7.57,0,0,Software,B,Y
-10/24/2022,Discover,656.2,0,0,Credit Card,B,Y
-10/24/2022,Snax Max,47.09,0,0,Food,P,N
-10/24/2022,QT,60.27,0,4969,Gas,B,N
-10/24/2022,Randalls,60.73,0,0,Groceries,P,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,QT,14.22,0,0,Gas,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Vivint,40.15,0,0,Software,B,Y
-10/25/2022,Tax,7874.64,0,0,Tax,B,Y
-10/25/2022,7-Eleven,58.78,0,718,Gas,B,N
-10/25/2022,Texas Tag,20,0,0,Supplies,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Deposit,0,1091.16,0,Revenue,B,Y
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Vivint,45.97,0,0,Software,B,Y
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Randalls,74.66,0,0,Groceries,P,N
-10/25/2022,Sana Vida Wellness,149,0,0,Medical,P,N
-10/25/2022,Vivint,61.8,0,0,Software,B,Y
-10/25/2022,Fee,34,0,0,Fees,B,N
-10/25/2022,Walmart,138.41,0,0,Groceries,P,N
-10/26/2022,Apple,9.99,0,0,Software,B,Y
-10/26/2022,H-E-B #,135.76,0,0,Groceries,P,N
-10/26/2022,Amazon,62.9,0,0,Supplies,B,N
-10/26/2022,withdrawal cash,500,0,0,Withdrawal,B,N
-10/26/2022,Circle K,29.09,0,4969,Gas,B,N
-10/26/2022,Chevron,135.27,0,3341,Gas,B,N
+9/6/2022,Check,1160,0,0,Labor,B,Y
+9/15/2022,Discover,500,0,0,Credit Card,B,Y
+6/12/2022,Cricket,98.33,0,0,Phone/Internet,B,Y
+9/19/2022,Home DePot,0,15.35,0,Revenue,B,Y
+9/1/2022,WingStop,28.87,0,0,Food,P,N
+9/6/2022,Advance Auto,36.79,0,0,Auto Maintenance,B,N
+5/5/2022,Texaco,54.36,0,0,Gas,B,N
+9/22/2022,Discover,656.2,0,0,Credit Card,B,Y
+4/22/2022,Syncb Payment,354,0,1,Loan,B,Y
+9/7/2022,Check,250,0,0,Labor,B,Y
+9/24/2022,WingStop,25.2,0,0,Food,P,N
+9/7/2022,Check,825.75,0,0,Labor,B,Y
+8/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
 10/27/2022,Titan School Solutions,2.6,0,0,Recreational,B,N
-10/27/2022,Ally,509.98,0,0,Loan,B,N
-10/27/2022,7-Eleven,45.88,0,3341,Gas,B,N
-10/27/2022,Mod Pizza,30.08,0,0,Food,P,N
-10/27/2022,Home DePot,6.85,0,0,Supplies,B,N
-10/28/2022,Deposit,0,470.85,0,Revenue,B,Y
-10/28/2022,Shell Service,100,0,2675,Auto Maintenance,B,N
-10/28/2022,Leander ISD,26,0,4969,Recreational,P,N
-10/28/2022,Fortiva,43.85,0,4969,Loan,B,N
-10/28/2022,American Express,485.25,0,0,Credit Card,B,Y
-10/29/2022,Texaco,57.43,0,0,Gas,B,N
-10/29/2022,QT,12.11,0,0,Gas,B,N
-10/29/2022,Apple,13.87,0,0,Software,B,Y
-10/29/2022,Kristy R Cortez,750,0,0,Professional Services,B,N
-10/30/2022,Apple,15.13,0,0,Software,B,Y
-10/30/2022,QT,20.62,0,4969,Gas,B,N
-10/30/2022,QT,58.57,0,4969,Gas,B,N
-10/31/2022,Check,4025,0,0,Labor,B,Y
-10/31/2022,Check,4025,0,0,Labor,B,Y
-10/31/2022,Fee,6,0,0,Fees,B,N
-10/31/2022,Check,4025,0,0,Labor,B,Y
-10/31/2022,Sunoco,2.19,0,0,Professional Services,B,N
-10/31/2022,AllState,1807.33,0,1,Insurance,B,Y
-10/31/2022,Costco,11.3,0,0,Groceries,P,N
-10/31/2022,withdrawal cash,5000,0,0,Withdrawal,B,N
-10/31/2022,Deposit,0,53575.24,0,Revenue,B,Y
-10/31/2022,Burpy Market,26.5,0,0,Groceries,P,N
-10/31/2022,Deposit,0,150,0,Revenue,B,Y
-10/31/2022,Walmart,67.61,0,0,Groceries,P,N
-10/31/2022,Fee,38.5,0,0,Fees,B,N
-10/31/2022,Pro Serve Ent,74.28,0,0,Supplies,B,N
-11/1/2022,Check,1557.67,0,0,Labor,B,Y
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,Hp Ink,12.98,0,1,Supplies,B,N
-11/1/2022,ABC Home,136.41,0,0,Professional Services,B,N
-11/1/2022,Financial Pacific,524.83,0,0,Loan,B,N
-11/1/2022,Deposit,0,1868.4,0,Revenue,B,Y
-11/1/2022,Fee,54.68,0,0,Fees,B,N
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,SBA Loan,700,0,0,Insurance,B,Y
-11/1/2022,Gusto,1890.21,0,0,Tax,B,Y
-11/1/2022,ATM,43,0,0,Fees,B,N
-11/1/2022,H-E-B #,126.61,0,0,Groceries,P,N
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,7-Eleven,12.44,0,3341,Gas,B,N
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,Check,1440,0,0,Labor,B,Y
-11/1/2022,Target,100,0,0,Recreational,P,N
-11/1/2022,Check,1442.5,0,0,Labor,B,Y
-11/1/2022,ATM,200,0,0,Fees,B,N
-11/1/2022,Check,2411.83,0,0,Labor,B,Y
-11/1/2022,Check,2400,0,0,Labor,B,Y
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,Alamo Specialty Pharmacy,25,0,0,Medical,P,N
-11/1/2022,Check,1557.67,0,0,Labor,B,Y
-11/1/2022,withdrawal cash,7900,0,0,Withdrawal,B,N
-11/1/2022,Check,671.59,0,0,Labor,B,Y
-11/1/2022,Deposit,0,7723.64,0,Revenue,B,Y
-11/1/2022,Check,1570.68,0,0,Labor,B,Y
-11/1/2022,Fee,34,0,0,Fees,B,N
-11/1/2022,H-E-B #,148.71,0,4969,Groceries,P,N
-11/1/2022,ATM,1,0,0,Fees,B,N
-11/2/2022,Circle K,109.37,0,4969,Gas,B,N
-11/2/2022,Check,2500,0,0,Labor,B,Y
-11/2/2022,Sana Vida Wellness,149,0,0,Medical,P,N
-11/2/2022,Lowes,85.47,0,718,Supplies,B,N
-11/2/2022,Shell Service,100,0,3341,Auto Maintenance,B,N
-11/2/2022,Check,277.05,0,0,Labor,B,Y
-11/2/2022,At&t,914.62,0,0,Phone/Internet,B,Y
-11/2/2022,American Express,485.25,0,0,Credit Card,B,Y
-11/2/2022,Fee,105.53,0,0,Fees,B,N
-11/2/2022,Williamson Co,76.25,0,0,Professional Services,B,N
-11/2/2022,Fee,1.64,0,0,Fees,B,N
-11/2/2022,H-E-B #,16,0,0,Groceries,P,N
-11/2/2022,Citi,63.76,0,0,Credit Card,B,Y
-11/2/2022,Pro Serve Ent,46.18,0,0,Supplies,B,N
-11/2/2022,Check,2400,0,0,Labor,B,Y
-11/2/2022,Check,1100,0,0,Labor,B,Y
-11/2/2022,Check,750,0,0,Labor,B,Y
-11/2/2022,Check,1000,0,0,Labor,B,Y
-11/3/2022,WhatABurger,49.63,0,0,Food,P,N
-11/3/2022,Check,1094.15,0,0,Labor,B,Y
-11/3/2022,Check,1178.47,0,0,Labor,B,Y
-11/3/2022,Check,1653.14,0,0,Labor,B,Y
-11/3/2022,Check,250,0,0,Labor,B,Y
-11/3/2022,Check,1525,0,0,Labor,B,Y
-11/3/2022,Target,97.37,0,0,Recreational,P,N
-11/3/2022,Deposit,0,487.13,0,Revenue,B,Y
-11/3/2022,H-E-B #,96.96,0,4969,Groceries,P,N
-11/3/2022,Shell Service,10.79,0,3341,Auto Maintenance,B,N
-11/3/2022,Shell Service,74.88,0,3341,Auto Maintenance,B,N
-11/3/2022,Home DePot,25.35,0,0,Supplies,B,N
-11/3/2022,7-Eleven,100.85,0,0,Gas,B,N
-11/3/2022,Bank of America,877.05,0,0,Credit Card,B,Y
-11/3/2022,Capital One,400,0,0,Credit Card,B,Y
-11/3/2022,El Pollo Rico,14,0,0,Food,P,N
-11/4/2022,Check,351.81,0,0,Labor,B,Y
-11/4/2022,Deposit,0,6434.99,0,Revenue,B,Y
-11/4/2022,Chevron,11.9,0,3341,Gas,B,N
-11/4/2022,Chevron,12,0,3341,Gas,B,N
-11/4/2022,Lowes,100.08,0,3341,Supplies,B,N
-11/4/2022,Southside Market,38.98,0,0,Recreational,P,N
-11/4/2022,Circle K,48.06,0,718,Gas,B,N
-11/4/2022,Check,2250,0,0,Labor,B,Y
-11/4/2022,Innovative Urgent Care,35,0,0,Medical,P,N
-11/4/2022,Discover,220.39,0,0,Credit Card,B,Y
-11/4/2022,Lincoln Natural,105.2,0,0,Insurance,B,Y
-11/4/2022,Fee,24,0,0,Fees,B,N
-11/4/2022,Home DePot,40,0,0,Supplies,B,N
-11/4/2022,7-Eleven,74.55,0,0,Gas,B,N
-11/4/2022,Landfill,114.8,0,0,Professional Services,B,N
-11/4/2022,Fee,34,0,0,Fees,B,N
-11/5/2022,Texaco,105.8,0,0,Gas,B,N
-11/5/2022,Lowes,107.12,0,3341,Supplies,B,N
-11/5/2022,Apple,2.99,0,718,Software,B,Y
-11/5/2022,7-Eleven,90.6,0,0,Gas,B,N
-11/6/2022,Lowes,0,48.69,0,Supplies,B,N
-11/6/2022,HiTechPower,164.68,0,0,Professional Services,B,N
-11/6/2022,HiTechPower,265.62,0,0,Professional Services,B,N
-11/6/2022,HiTechPower,275.62,0,0,Professional Services,B,N
-11/6/2022,HiTechPower,244.37,0,0,Professional Services,B,N
-11/6/2022,HiTechPower,302.81,0,0,Professional Services,B,N
-11/6/2022,Ilarios Italian,78.45,0,0,Food,P,Y
-11/6/2022,Lowes,186.96,0,3341,Supplies,B,N
-11/6/2022,H-E-B #,153.51,0,3341,Groceries,P,N
+9/8/2022,Home DePot,0,50.86,0,Revenue,B,Y
+4/26/2022,USCraft LLC,193,0,0,Supplies,B,N
+8/13/2022,Cricket,102,0,0,Phone/Internet,B,Y
+4/20/2022,Williamson Co,76.25,0,0,Professional Services,B,N
+10/8/2022,Walmart,184.53,0,0,Groceries,P,N
+10/12/2022,Landfill,0,97.32,0,Revenue,B,Y
+4/8/2022,Whittlesey,64,0,0,Supplies,B,N
+9/15/2022,Cricket,72,0,0,Phone/Internet,B,Y
+9/7/2022,Check,50,0,0,Labor,B,Y
+9/7/2022,Check,1037.5,0,0,Labor,B,Y
+5/11/2022,Walmart,152.2,0,0,Groceries,P,N
+6/2/2022,withdrawal courtesy pay-ach,34,0,0,Fees,B,N
+9/8/2022,Check,1178.47,0,0,Labor,B,Y
+5/31/2022,Walmart,86.02,0,4969,Groceries,P,N
+4/9/2022,Whittlesey,52.8,0,0,Supplies,B,N
+9/15/2022,Texaco,47.58,0,0,Gas,B,N
+4/12/2022,Wells Fargo,972.3,0,0,Credit Card,B,Y
+4/9/2022,Whittlesey,52.8,0,0,Supplies,B,N
+9/15/2022,The Guardian,849.54,0,0,Insurance,B,Y
+9/23/2022,Landfill,0,78.86,0,Revenue,B,Y
+6/27/2022,Walmart,89.42,0,0,Groceries,P,N
+9/8/2022,Check,100,0,0,Labor,B,Y
+9/3/2022,Texaco,53.8,0,0,Gas,B,N
+10/22/2022,Valero,24.62,0,0,Gas,B,N
+9/27/2022,Vivint,61.13,0,0,Software,B,Y
+5/14/2022,Whole Foods,61.2,0,0,Groceries,P,N
