@@ -1,0 +1,49 @@
+Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
+1/3/2023,7-eleven,0.22,0,2675,Gas,B,N
+1/3/2023,7-eleven,51.82,0,2675,Gas,B,N
+1/3/2023,7-eleven,12.44,0,3341,Gas,B,N
+1/1/2023,7-eleven,52.03,0,0001,Gas,B,N
+1/1/2023,Apple,14.06,0,0718,Software,B,Y
+1/3/2023,ATM,700,0,9031,Withdrawl,B,N
+1/3/2023,Capital One,400,0,0,Credit Card,B,Y
+1/4/2023,Check,1750,0,0,Labor,B,N
+1/4/2023,Check,933.14,0,0,Labor,B,N
+1/3/2023,Check,150,0,0,Labor,B,N
+1/3/2023,Check,1557.67,0,0,Labor,B,N
+1/3/2023,Check,2411.83,0,0,Labor,B,N
+1/3/2023,Check,1302,0,0,Labor,B,N
+1/3/2023,Check,848,0,0,Labor,B,N
+1/3/2023,Check,2072,0,0,Labor,B,N
+1/3/2023,Check,277.05,0,0,Labor,B,N
+1/3/2023,Check,1584,0,0,Labor,B,N
+1/3/2023,Check,2000,0,0,Labor,B,N
+1/2/2023,Chevron,52.09,0,2675,Gas,B,N
+1/4/2023,Circle K,16.63,0,9031,Gas,B,N
+1/4/2023,Crossroads Utilities,37.69,0,0718,Utilities,B,Y
+1/4/2023,Deposit,0,893.06,0,Revenue,B,N
+1/4/2023,Deposit,0,571.56,0,Revenue,B,N
+1/4/2023,Deposit,0,571.56,0,Revenue,B,N
+1/4/2023,Deposit,0,2048.88,0,Revenue,B,N
+1/3/2023,Deposit,0,2054.59,0,Revenue,B,N
+1/4/2023,eBay,238.1,0,9031,Supplies,B,N
+1/4/2023,Fee,118.33,0,0,Fee,B,N
+1/4/2023,Fee,1.88,0,0718,Fee,B,Y
+1/3/2023,Financial Pacific,524.83,0,0,Supplies,B,Y
+1/4/2023,HEB Online,24.73,0,0718,Groceries,P,N
+1/1/2023,HP Instant Ink,12.98,0,0001,Supplies,B,Y
+1/4/2023,Jack Brown Cleaners,33.07,0,9031,Professional Service,P,N
+1/1/2023,Newks Eatery,12.99,0,9031,Food,P,N
+1/4/2023,Outdoor Power Equipment,184.01,0,2675,Supplies,B,N
+1/1/2023,Ranasar LLC,21.59,0,9031,Recreational,P,N
+1/4/2023,Randalls,129.19,0,9031,Groceries,P,N
+1/4/2023,Randalls,53.55,0,9031,Groceries,P,N
+1/3/2023,Randalls,113.45,0,9031,Groceries,P,N
+1/3/2023,Randalls Fuel,52.96,0,9031,Gas,B,N
+1/4/2023,Sana Vida Wellness,149,0,9031,Medical,P,Y
+1/2/2023,Target,188.23,0,9031,Groceries,P,N
+1/3/2023,Tax,10951.89,0,0,Tax,B,N
+1/4/2023,Texas Gas Service,123.97,0,0718,Utilities,B,Y
+1/4/2023,Venmo,300,0,0,Withdrawl,B,N
+1/2/2023,Villa Fresh Itali,25.11,0,9031,Food,P,N
+1/3/2023,Walgreens,36.39,0,9031,Groceries,P,N
+1/2/2023,Whataburger,40.5,0,9031,Food,P,N
