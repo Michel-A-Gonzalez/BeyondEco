@@ -1,26 +1,27 @@
 Barcode ID,Item ID,Supply Name,Quantity Per Case, Base Price ,Instock,Cap
-10036000177135,0102100,"Cottonelle® Professional 2-Ply Toilet Paper - 4.09"" x 4.0""",60, $72.92 ,10,25
-10036000018049,0102200,"Scott® Essential Multi-Fold Towels - 9.2"" x 9.4""",16, $38.75 ,22,30
-10036000256373,0102325,"Scott® Pro™ Plus Hard Roll Towel - 7.5"" x 700', White",6, $97.86 ,8,10
-10073310296163,0103500,GP Pro™ Brawny® 1/8 Fold Yellow Dusting Cloth,4, $23.62 ,5,3
-088639005009,0109011,"Roses® Southwest Antigua Bath Tissue - 3.9"" x 3.1""",96, $46.95 ,4,5
-10075289022231,0117000,HOSPECO® Health Gards® Waxed Paper Liner,250, $37.94 ,2,4
-NA,0201202,"High Density Can Liner - 30 x 37, 10 mic, Natural",10, $24.95 ,19,15
-NA,0201454,"High Density Can Liner - 38 x 60, 16 mic, Black",16, $34.50 ,20,15
-850038024123,0315041,Fresh Wave 3D Urinal Screen - Cucumber Melon,10, $22.50 ,5,5
-079920542259,0409006,Inopak White Pearl Hand Soap - Gal,4, $7.50 ,4,4
-071206009012,0304066,Stearns® ONE PACKS Mark E II Disinfectant/Deodorizer - 1 fl oz.,144, $74.95 ,2,3
-071206009975,0304101,Stearns® ONE PACKS Restroom & Bowl Liquid - 2 fl oz.,72, $65.98 ,3,3
-071206084002,0304125,Stearns® ONE PACKS GS Window Cleaner Concentrate - 2 fl oz.,48, $25.95 ,2,4
-071206084507,0304131,Stearns® ONE PACKS GS Neutral Cleaner Concentrate -1 fl oz,144, $58.95 ,2,3
-NA,0316010,MaxxPro Stainless Steel Cleaner Oil Based - 20 oz. Aerosol,12, $73.56 ,1,1
-727351400036,0324001,Pure Bright® Germicidal Ultra Bleach - 128 oz.,6, $24.00 ,1,2
-NA,0346063,MaxxPro Mild Acid Cleaner - 32 oz.,12, $39.00 ,1,1
-NA,0346263,MaxxPro Blue HDC No-Rinse Cleaner - Gal.,4, $12.50 ,2,2
-021883521154,0351213,Nilodor® Encapsulating Shampoo & Bonnet Cleaner - Gal.,4, $83.80 ,1,2
-021883031066,0351350,"Nilodor® Nilium™ Water Soluble Deodorizer-Original, Qt.",6, $67.50 ,0,2
-10072627001569,0501310,"O Cedar® MaxiClean® Loop-End Mop - Medium, Wide, Blue",12, $71.40 ,4,2
-M915107B,05041151,"Monarch SmartChoice™ Microfiber Cloth 12 pack - Blue, 45 gram",15, $147.00 ,1,1
-M915107Y,05041181,"Monarch SmartChoice™ Microfiber Cloth - Yellow, 45 gram",15, $180.00 ,1,1
-0100097604925037,0707103,Tronex® 9250 Nitrile Powder-Free Blue Exam Glove - Large,10, $60.00 ,3,2
-0100097604938822,0707202,Tronex® 9388 Nitrile Powder-Free Black Exam Glove - Medium,10, $70.00 ,2,2
+10036000177135,0102100,Cottonellel | Toilet Paper,60, $72.92 ,10,25
+10036000018049,0102200,Scott |Multi-Fold,16, $38.75 ,22,30
+10036000256373,0102325,Scott |  Plus Hard Roll Towel,6, $97.86 ,8,10
+10073310296163,0103500,Brawny | Yellow Dusting Cloth,4, $23.62 ,5,3
+088639005009,0109011,Roses | Bath Tissue,96, $46.95 ,4,0
+10075289022231,0117000,HOSPECO | Waxed Paper Liner,250, $37.94 ,2,4
+NA,0201202,High Density Can Liner 30 x 37 | Natural,10, $24.95 ,19,15
+NA,0201454,High Density Can Liner 38 x 60 | Black,16, $34.50 ,20,15
+850038024123,0315041,Fresh Wave | Urinal Screen,10, $22.50 ,5,5
+079920542259,0409006,White Pearl | Hand Soap,4, $30.00 ,4,4
+071206009012,0304066,Stearns | Mark E II Disinfectant,144, $74.95 ,2,3
+071206009975,0304101,Stearns | Restroom & Bowl Liquid,72, $65.98 ,3,3
+071206084002,0304125,Stearns | Window Cleaner Concentrate,48, $25.95 ,2,4
+071206084507,0304131,Stearns | Neutral Cleaner Concentrate,144, $58.95 ,2,3
+NA,0316010,MaxxPro| Stainless Steel Cleaner,12, $73.56 ,1,1
+727351400036,0324001,Pure Bright | Germicidal Ultra Bleach,6, $24.00 ,1,2
+NA,0346063,MaxxPro | Mild Acid Cleaner,12, $39.00 ,1,1
+NA,0346263,MaxxPro | Blue HDC Cleaner ,4, $50.00 ,2,2
+021883521154,0351213,Nilodor | Shampoo & Bonnet Cleaner,4, $83.80 ,1,2
+021883031066,0351350,Nilodor | Deodorizer Original,6, $67.50 ,0,2
+10072627001569,0501310,O Cedar |End Mop Medium,12, $71.40 ,4,2
+M915107B,05041151,Monarch SmartChoice | Microfiber Cloth Blue,15, $147.00 ,1,1
+M915107Y,05041181,Monarch SmartChoice | Microfiber Cloth Yellow,15, $180.00 ,1,1
+0100097604925037,0707103,Tronex |Large Blue Exam Glove ,10, $60.00 ,3,0
+0100097604938822,0707202,Tronex | Medium Black Exam Glove,10, $70.00 ,2,2
+NA,0707203,Tronex | Large Black Exam Glove,10, $70.00 ,0,2
