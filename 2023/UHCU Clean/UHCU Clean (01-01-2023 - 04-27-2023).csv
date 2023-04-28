@@ -100,7 +100,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/11/2023,American Express,495.64,0,0,Credit Card,B,Y
 1/11/2023,American Express,398,0,0,Credit Card,B,Y
 3/29/2023,American General,134.89,0,0,Insurance,B,Y
-4/26/2023,Amtrust North America Inc,1831,0,0718,Supplies,P,N
+4/26/2023,Amtrust North America Inc,1831,0,0718,Insurance,B,N
 2/22/2023,Apple,0,10.81,9031,Revenue,B,Y
 4/6/2023,Apple,96.34,0,9031,Software,B,Y
 4/5/2023,Apple,2.99,0,0718,Software,B,Y
@@ -393,7 +393,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/25/2023,Citizens,191.28,0,0,Loan,B,Y
 1/5/2023,City of Austin,133.88,0,0,Utilities,B,Y
 4/25/2023,City of Cedar Park,70.44,0,0001,Utilities,B,Y
-3/14/2023,City of Cedar Park,215.52,0,1,Utilities,P,Y
+3/14/2023,City of Cedar Park,215.52,0,1,Utilities,B,Y
 1/11/2023,Colorado County,16.8,0,3341,Fee,B,N
 1/11/2023,Colorado County,336,0,3341,Fee,B,N
 4/6/2023,Costco,90.93,0,0718,Groceries,P,N
@@ -538,7 +538,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/13/2023,Discover,186.56,0,0,Credit Card,B,Y
 3/21/2023,Domain Name,265,0,1,Software,B,Y
 1/15/2023,Doordash Dashpass,9.99,0,9031,Food,P,N
-3/29/2023,Dog Waste Depot,286.94,0,3341,Food,P,N
+3/29/2023,Dog Waste Depot,286.94,0,3341,Supplies,B,N
 1/4/2023,eBay,238.1,0,9031,Supplies,B,N
 4/16/2023,Express Food Mart,41.33,0,3341,Food,P,N
 4/13/2023,Express Food Mart,58.37,0,3341,Food,P,N
@@ -833,7 +833,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 2/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N
 1/3/2023,Financial Pacific,524.83,0,0,Supplies,B,Y
 4/4/2023,Firmspace,209.9,0,0,Marketing,B,Y
-4/21/2023,FM 1626 NTI,95.81,0,3341,Food,P,N
+4/21/2023,FM 1626 NTI,95.81,0,3341,Gas,B,N
 4/14/2023,Food Works,40.79,0,2675,Food,P,N
 4/10/2023,Food Works,74,0,2675,Food,P,N
 3/30/2023,Food Works,50.18,0,2675,Food,P,N
@@ -881,7 +881,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 4/5/2023,H-E-B Gas,61.13,0,2675,Gas,B,N
 4/20/2023,H-E-B Gas,51.29,0,9031,Gas,B,N
 4/15/2023,H-E-B Gas,63.37,0,9031,Gas,B,N
-3/9/2023,H-E-B Gas,59.28,0,9031,Gas,P,N
+3/9/2023,H-E-B Gas,59.28,0,9031,Gas,B,N
 2/21/2023,H-E-B Gas,40.62,0,3341,Gas,B,N
 1/12/2023,H-E-B Gas,56.82,0,1,Gas,B,N
 4/14/2023,HEB Online,77.78,0,9031,Groceries,P,N
@@ -955,7 +955,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 2/18/2023,Landfill,77.24,0,2675,Professional Service,B,N
 2/18/2023,Landfill,73.98,0,2675,Professional Service,B,N
 2/18/2023,Landfill,53.77,0,2675,Professional Service,B,N
-2/14/2023,Leander Express lube,139.82,0,2675,Auto Maintenance,P,N
+2/14/2023,Leander Express lube,139.82,0,2675,Auto Maintenance,B,N
 3/7/2023,Leander Laundry,10,0,2675,Professional Service,P,N
 4/27/2023,Leander Stores LLC,60.74,0,0001,Recreational,P,N
 3/17/2023,Leander Stores LLC,74,0,2675,Recreational,P,N
@@ -1109,7 +1109,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/3/2023,Signature 12,51.3,0,9031,Gas,B,N
 3/3/2023,Signature 12,8.11,0,9031,Gas,B,N
 3/31/2023,Snax Max,50,0,2679,Gas,B,N
-3/20/2023,Square Space,337.74,0,1,Software,B,N
+3/20/2023,Square Space,337.74,0,1,Software,B,Y
 3/20/2023,Sunbit,204.42,0,9031,Gas,B,N
 4/7/2023,Sunbit,416.35,0,9031,Medical,B,N
 4/21/2023,Sunbit,204.42,0,9031,Medical,B,N
@@ -1119,7 +1119,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 2/22/2023,Sunoco,22.06,0,3341,Gas,B,N
 3/27/2023,Super Valle,9.24,0,9031,Groceries,P,N
 3/27/2023,Super Valle,25.72,0,9031,Groceries,P,N
-4/22/2023,Synchrony Bank,177,0,9031,Loan,P,N
+4/22/2023,Synchrony Bank,177,0,9031,Loan,B,N
 4/24/2023,Tacos Las Amazonas,19.42,0,3341,Food,P,N
 4/1/2023,Target,79.74,0,9031,Groceries,P,N
 2/18/2023,Target,111.79,0,9031,Groceries,P,N
@@ -1192,15 +1192,15 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/16/2023,Venmo,300,0,0,Withdrawal,B,N
 1/4/2023,Venmo,300,0,0,Withdrawal,B,N
 1/2/2023,Villa Fresh Itali,25.11,0,9031,Food,P,N
-4/25/2023,Vivint,40.15,0,9031,Software,P,Y
-4/25/2023,Vivint,46.64,0,0718,Software,P,Y
-3/28/2023,Vivint,40.15,0,9031,Software,P,Y
-3/28/2023,Vivint,46.64,0,0718,Software,P,Y
+4/25/2023,Vivint,40.15,0,9031,Software,B,Y
+4/25/2023,Vivint,46.64,0,0718,Software,B,Y
+3/28/2023,Vivint,40.15,0,9031,Software,B,Y
+3/28/2023,Vivint,46.64,0,0718,Software,B,Y
 2/28/2023,Vivint,46.64,0,718,Software,B,Y
 2/28/2023,Vivint,40.15,0,9031,Software,B,Y
 1/28/2023,Vivint,46.64,0,718,Software,B,Y
 1/26/2023,Vivint,40.15,0,9031,Software,B,Y
-3/20/2023,"VKC, LLP",2610,0,2679,Professional Service,P,N
+3/20/2023,"VKC, LLP",2610,0,2679,Professional Service,B,N
 4/26/2023,Walgreens,225.06,0,9031,Medical,B,N
 4/25/2023,Walgreens,35.98,0,3341,Medical,B,N
 4/15/2023,Walgreens,118.57,0,9031,Medical,B,N
