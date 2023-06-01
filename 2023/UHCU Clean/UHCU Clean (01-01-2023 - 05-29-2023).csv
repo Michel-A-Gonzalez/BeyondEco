@@ -88,7 +88,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/12/2023,7-eleven,88.64,0,2675,Gas,B,N
 1/11/2023,7-eleven,15.89,0,3341,Gas,B,N
 1/1/2023,7-eleven,52.03,0,1,Gas,B,N
-4/6/2023,ABC,181.88,0,2679,Professional Service,P,N
+4/6/2023,ABC,181.88,0,2679,Professional Service,B,N
 5/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
 4/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
 3/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
@@ -1419,7 +1419,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/14/2023,RMA Toll,38.52,0,3341,Toll,B,N
 1/13/2023,RMA Toll,34.38,0,9031,Toll,B,N
 1/31/2023,Robin Brown,260,0,1,Recreational,P,N
-5/28/2023,Rubbish Inc,490.91,0,2679,Supplies,P,N
+5/28/2023,Rubbish Inc,490.91,0,2679,Supplies,B,N
 5/6/2023,Rutland Food Store,12.98,0,3341,Groceries,P,N
 4/13/2023,Innovative Urgent Care,185,0,9031,Medical,B,N
 5/3/2023,Phc Urgent Care For Kids,150,0,9031,Medical,B,N
