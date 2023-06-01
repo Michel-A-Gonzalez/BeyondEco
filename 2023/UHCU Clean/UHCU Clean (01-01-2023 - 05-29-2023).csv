@@ -242,7 +242,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/3/2023,Bank of America,877.05,0,0,Credit Card,B,Y
 2/3/2023,Bank of America,877.05,0,0,Credit Card,B,Y
 1/5/2023,Bank of America,877.05,0,0,Credit Card,B,Y
-5/28/2023,Barton Creek Mall,7.83,0,0,Recreational,P,Y
+5/28/2023,Barton Creek Mall,7.83,0,3341,Recreational,P,N
 5/7/2023,Bath and Body Works,65.21,0,9031,Recreational,P,N
 1/10/2023,Fortiva,116.66,0,0,Loan,B,Y
 5/11/2023,BBB,80,0,3341,Marketing,B,Y
