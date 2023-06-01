@@ -233,8 +233,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/14/2023,ATM,303.75,0,3341,Withdrawal,B,N
 1/14/2023,ATM,200,0,2675,Withdrawal,B,N
 5/17/2023,Austin Community College,256,0,3341,Recreational,P,N
-5/24/2023,Automechanic Service,841.44,0,0,Auto Maintenance,B,N
-2/28/2023,Automechanic Service,1609.56,0,3341,Auto Maintenance,B,N
+5/24/2023,Automechanic Service,841.44,0,1,Auto Maintenance,P,N
+2/28/2023,Automechanic Service,1609.56,0,3341,Auto Maintenance,P,N
 1/10/2023,Autozone,54.1,0,2675,Auto Maintenance,B,N
 5/21/2023,Bahama Bucks,11.89,0,9031,Food,P,N
 5/3/2023,Bank of America,877.05,0,0,Credit Card,B,Y
@@ -1287,7 +1287,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 2/21/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
 1/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
 1/30/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
-1/14/2023,Llano Co Tx Motor,574.75,0,3341,Auto Maintenance,B,N
+1/14/2023,Llano Co Tx Motor,574.75,0,3341,Auto Maintenance,P,N
 1/30/2023,SBA Loan,700,0,0,Loan,B,Y
 4/22/2023,Synchrony Bank,177,0,9031,Loan,B,N
 2/3/2023,Alamo Specialty Pharmacy,37.99,0,9031,Medical,P,N
@@ -1311,7 +1311,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/28/2023,Lowes,16.19,0,2675,Supplies,B,N
 1/18/2023,Lowes,11.89,0,3341,Supplies,B,N
 1/14/2023,Lowes,28.08,0,2675,Supplies,B,N
-1/5/2023,Luxury Auto Works,3639.34,0,1,Auto Maintenance,B,N
+1/5/2023,Luxury Auto Works,3639.34,0,1,Auto Maintenance,P,N
 1/19/2023,Maudies Cafe,47.88,0,3341,Food,P,N
 1/9/2023,McDonalds,26.23,0,9031,Food,P,N
 1/16/2023,McDonalds,29.89,0,9031,Food,P,N
