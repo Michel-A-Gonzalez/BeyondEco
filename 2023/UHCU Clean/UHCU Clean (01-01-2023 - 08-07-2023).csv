@@ -46,11 +46,11 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/4/2023,Randalls,53.55,0,9031,Groceries,P,N
 1/4/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
 1/4/2023,Texas Gas Service,123.97,0,718,Utilities,B,Y
-1/4/2023,Venmo,300,0,9031,Loan,P,Y
+1/4/2023,Venmo,300,0,9031,Loan,P,N
 1/5/2023,7-eleven,61.35,0,3341,Gas,B,N
 1/5/2023,Apple,2.99,0,718,Software,B,Y
-1/5/2023,AT&T,74.15,0,0,Phones/Internet,B,Y
-1/5/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+1/5/2023,AT&T,74.15,0,1,Phones/Internet,B,Y
+1/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y
 1/5/2023,Check,7900,0,0,Labor,B,N
 1/5/2023,Check,1660,0,0,Labor,B,N
 1/5/2023,Chick-Fil-A,52.18,0,9031,Food,P,N
@@ -84,7 +84,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/9/2023,McDonalds,26.23,0,9031,Food,P,N
 1/10/2023,Amercian Bolt Company,79.73,0,3341,Professional Service,B,N
 1/10/2023,Autozone,54.1,0,2675,Auto Maintenance,B,N
-1/10/2023,Business Insurance,1982.5,0,0,Insurance,B,Y
+1/10/2023,Business Insurance,1982.5,0,1,Insurance,B,Y
 1/10/2023,Deposit,0,963.34,0,Revenue,B,N
 1/10/2023,Express Food Mart,45.99,0,2675,Gas,B,N
 1/10/2023,Fee,33,0,0,Fee,B,N
@@ -98,7 +98,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/10/2023,Randalls,144.32,0,9031,Groceries,P,N
 1/10/2023,Randalls Fuel,44.96,0,9031,Gas,B,N
 1/11/2023,7-eleven,15.89,0,3341,Gas,B,N
-1/11/2023,American Express,398,0,0,Credit Card,B,Y
+1/11/2023,American Express,398,0,1,Credit Card,B,Y
 1/11/2023,American Express,495.64,0,9031,Credit Card,P,Y
 1/11/2023,Apple,7.57,0,9031,Software,P,Y
 1/11/2023,BBB,80,0,3341,Marketing,B,Y
@@ -160,7 +160,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/16/2023,TxTag,20,0,9031,Toll,B,N
 1/17/2023,7-eleven,34.81,0,3341,Gas,B,N
 1/17/2023,Amazon,21.63,0,9031,Supplies,B,N
-1/17/2023,AT&T,80,0,0,Phones/Internet,B,Y
+1/17/2023,AT&T,80,0,1,Phones/Internet,B,Y
 1/17/2023,Big Red Express,15,0,3341,Auto Maintenance,B,N
 1/17/2023,Capital One,500,0,0,Credit Card,B,Y
 1/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
@@ -256,7 +256,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 1/26/2023,Vivint,40.15,0,9031,Software,B,Y
 1/27/2023,7-eleven,15.82,0,9031,Gas,B,N
 1/27/2023,Ally,509.98,0,0,Loan,B,Y
-1/27/2023,AT&T,796.55,0,0,Phones/Internet,B,Y
+1/27/2023,AT&T,796.55,0,1,Phones/Internet,B,Y
 1/27/2023,Deposit,0,70.36,0,Revenue,B,N
 1/27/2023,Deposit,0,15865.3,0,Revenue,B,N
 1/27/2023,Pro Serve Enterprise,243.76,0,3341,Supplies,B,N
@@ -311,7 +311,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 2/2/2023,Tax,53,0,9031,Tax,B,N
 2/3/2023,7-eleven,56.36,0,3341,Gas,B,N
 2/3/2023,Alamo Specialty Pharmacy,37.99,0,9031,Medical,P,N
-2/3/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+2/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y
 2/3/2023,Capital One,400,0,0,Credit Card,B,Y
 2/3/2023,Check,848,0,0,Labor,B,N
 2/3/2023,Check,1550,0,0,Labor,B,N
@@ -400,7 +400,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 2/12/2023,Randalls,64.62,0,9031,Groceries,P,N
 2/12/2023,TxTag,20,0,9031,Toll,B,N
 2/13/2023,7-eleven,28.94,0,3341,Gas,B,N
-2/13/2023,American Express,398,0,0,Credit Card,B,Y
+2/13/2023,American Express,398,0,1,Credit Card,B,Y
 2/13/2023,American Express,520.03,0,9031,Credit Card,P,Y
 2/13/2023,Deposit,0,3620.96,0,Revenue,B,N
 2/13/2023,Discover,287.83,0,9031,Credit Card,P,Y
@@ -425,7 +425,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 2/15/2023,Discover,500,0,9031,Credit Card,P,Y
 2/15/2023,Randalls,95.76,0,9031,Groceries,P,N
 2/16/2023,Lake Austin Inc,91.54,0,2675,Gas,B,N
-2/17/2023,AT&T,80.42,0,0,Phones/Internet,B,Y
+2/17/2023,AT&T,80.42,0,1,Phones/Internet,B,Y
 2/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
 2/17/2023,Check,2016,0,0,Labor,B,N
 2/17/2023,Check,848,0,0,Labor,B,N
@@ -556,7 +556,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 2/27/2023,Deposit,0,9934.1,0,Revenue,B,N
 2/27/2023,Randalls,7.24,0,9031,Groceries,P,N
 2/28/2023,Ally,509.98,0,0,Loan,B,Y
-2/28/2023,AT&T,803.56,0,0,Phones/Internet,B,Y
+2/28/2023,AT&T,803.56,0,1,Phones/Internet,B,Y
 2/28/2023,Automechanic Service,1609.56,0,3341,Auto Maintenance,B,N
 2/28/2023,Check,1000,0,0,Labor,B,N
 2/28/2023,Check,500,0,0,Labor,B,N
@@ -594,7 +594,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/2/2023,Fedex,12.06,0,1,Professional Service,B,N
 3/2/2023,Fee,131.11,0,0,Fee,B,N
 3/2/2023,Withdrawal Courtesy Pay-CK,34,0,0,Fee,B,N
-3/3/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+3/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y
 3/3/2023,Capital One,400,0,0,Credit Card,B,Y
 3/3/2023,Check,250.11,0,0,Labor,B,N
 3/3/2023,Check,1858.21,0,0,Labor,B,N
@@ -648,7 +648,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/5/2023,Fedex,8.11,0,1,Professional Service,B,N
 3/5/2023,H20 Carwash,75.52,0,9031,Auto Maintenance,B,N
 3/6/2023,Apple,2.99,0,718,Software,B,Y
-3/6/2023,Business Insurance,672.5,0,0,Insurance,B,Y
+3/6/2023,Business Insurance,672.5,0,1,Insurance,B,Y
 3/6/2023,Check,2432.98,0,0,Labor,B,N
 3/6/2023,Check,450,0,0,Labor,B,N
 3/6/2023,Check,2500,0,0,Labor,B,N
@@ -668,7 +668,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/7/2023,H-E-B #,88.63,0,9031,Groceries,P,N
 3/7/2023,Leander Laundry,10,0,2675,Recreational,P,N
 3/7/2023,TxTag,30,0,3341,Toll,B,N
-3/8/2023,AT&T,174.68,0,0,Phones/Internet,B,Y
+3/8/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
 3/8/2023,Deposit,0,1244.88,0,Revenue,B,N
 3/8/2023,Deposit,0,467.64,0,Revenue,B,N
 3/8/2023,Fee,16.15,0,0,Fee,B,N
@@ -723,11 +723,11 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/12/2023,Crossroads Utilities,222.54,0,718,Utilities,B,Y
 3/12/2023,Fee,11.13,0,718,Fee,B,N
 3/12/2023,Walgreens,195.13,0,9031,Medical,P,N
-3/13/2023,American Express,398,0,0,Credit Card,B,Y
+3/13/2023,American Express,398,0,1,Credit Card,B,Y
 3/13/2023,American Express,495.74,0,9031,Credit Card,P,Y
 3/13/2023,Check,260,0,0,Labor,B,N
 3/13/2023,Deposit,0,3476.98,0,Revenue,B,N
-3/13/2023,H-E-B #,308.29,0,2679,Groceries,P,N
+3/13/2023,H-E-B #,308.29,0,2679,Groceries,B,N
 3/13/2023,Tax,34,0,0,Tax,B,N
 3/13/2023,Withdrawal Cash,1300,0,0,Withdrawal,B,N
 3/14/2023,City of Cedar Park,215.52,0,1,Utilities,B,Y
@@ -757,7 +757,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/16/2023,Randalls Fuel,57.36,0,9031,Gas,B,N
 3/16/2023,Shell Service,45.62,0,2679,Gas,B,N
 3/16/2023,TxTag,100,0,1,Toll,B,N
-3/16/2023,Venmo,300,0,9031,Loan,P,Y
+3/16/2023,Venmo,300,0,9031,Loan,P,N
 3/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
 3/17/2023,Check,1309.49,0,0,Labor,B,N
 3/17/2023,Check,1512,0,0,Labor,B,N
@@ -812,7 +812,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/20/2023,TxTag,30,0,3341,Toll,B,N
 3/20/2023,"VKC, LLP",2610,0,2679,Professional Service,B,N
 3/21/2023,American Express,292.55,0,9031,Credit Card,P,Y
-3/21/2023,AT&T,80.42,0,0,Phones/Internet,B,Y
+3/21/2023,AT&T,80.42,0,1,Phones/Internet,B,Y
 3/21/2023,Check,1750,0,0,Labor,B,N
 3/21/2023,Check,425,0,0,Labor,B,N
 3/21/2023,Circle K,74,0,2675,Gas,B,N
@@ -890,9 +890,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 3/28/2023,Tax,513.77,0,0,Tax,B,N
 3/28/2023,Vivint,40.15,0,9031,Software,B,Y
 3/28/2023,Vivint,46.64,0,718,Software,B,Y
-3/29/2023,American General,134.89,0,0,Insurance,B,Y
+3/29/2023,American General,134.89,0,1,Insurance,B,Y
 3/29/2023,Apple,14.06,0,718,Software,B,Y
-3/29/2023,AT&T,805.48,0,0,Phones/Internet,B,Y
+3/29/2023,AT&T,805.48,0,1,Phones/Internet,B,Y
 3/29/2023,Buc-ees,33.12,0,9031,Gas,B,N
 3/29/2023,Buc-ees,25.8,0,9031,Gas,B,N
 3/29/2023,Check,1103,0,0,Labor,B,N
@@ -988,10 +988,10 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 4/4/2023,The Hospital at Westlake,2630.9,0,3341,Medical,P,N
 4/4/2023,TxTag,100,0,1,Toll,B,N
 4/5/2023,Apple,2.99,0,718,Software,B,Y
-4/5/2023,AT&T,174.68,0,0,Phones/Internet,B,Y
+4/5/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
 4/5/2023,ATM,200,0,2675,Withdrawal,B,N
-4/5/2023,Bank of America,877.05,0,0,Credit Card,B,Y
-4/5/2023,Business Insurance,672.5,0,0,Insurance,B,Y
+4/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+4/5/2023,Business Insurance,672.5,0,1,Insurance,B,Y
 4/5/2023,Check,1409.07,0,0,Labor,B,N
 4/5/2023,Check,770.04,0,0,Labor,B,N
 4/5/2023,Deposit,0,549.91,0,Revenue,B,N
@@ -1030,7 +1030,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 4/10/2023,Kim Paper,4960.88,0,3341,Supplies,B,N
 4/11/2023,7-eleven,48.83,0,9031,Gas,B,N
 4/11/2023,7-eleven,58.94,0,9031,Gas,B,N
-4/11/2023,American Express,398,0,0,Credit Card,B,Y
+4/11/2023,American Express,398,0,1,Credit Card,B,Y
 4/11/2023,American Express,492.98,0,9031,Credit Card,P,Y
 4/11/2023,Apple,7.57,0,9031,Software,P,Y
 4/11/2023,BBB,80,0,3341,Marketing,B,Y
@@ -1072,7 +1072,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 4/13/2023,Deposit,0,0.01,0,Revenue,B,N
 4/13/2023,Deposit,0,2048.88,1,Revenue,B,N
 4/13/2023,Discover,500,0,9031,Credit Card,P,Y
-4/13/2023,Express Food Mart,58.37,0,3341,Gas,P,N
+4/13/2023,Express Food Mart,58.37,0,3341,Gas,B,N
 4/13/2023,Gusto,2155.62,0,0,Tax,B,N
 4/13/2023,Innovative Urgent Care,185,0,9031,Medical,P,N
 4/13/2023,Murphy Express,47.65,0,1,Gas,B,N
@@ -1098,7 +1098,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 4/15/2023,Walgreens,118.57,0,9031,Medical,P,N
 4/15/2023,Walgreens,33.99,0,9031,Medical,P,N
 4/16/2023,7-eleven,31.84,0,1,Gas,B,N
-4/16/2023,Express Food Mart,41.33,0,3341,Gas,P,N
+4/16/2023,Express Food Mart,41.33,0,3341,Gas,B,N
 4/17/2023,Capital One,500,0,0,Credit Card,B,Y
 4/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
 4/17/2023,Check,1550,0,0,Labor,B,N
@@ -1109,7 +1109,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 4/17/2023,Randalls,114.57,0,9031,Groceries,P,N
 4/17/2023,The Guardian,849.54,0,0,Insurance,B,Y
 4/18/2023,7-eleven,38.99,0,2675,Gas,B,N
-4/18/2023,AT&T,80,0,0,Phones/Internet,B,Y
+4/18/2023,AT&T,80,0,1,Phones/Internet,B,Y
 4/18/2023,Check,1322.53,0,0,Labor,B,N
 4/18/2023,Citi,29,0,0,Credit Card,B,Y
 4/18/2023,Citi,408.23,0,0,Credit Card,B,Y
@@ -1190,7 +1190,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 4/21/2023,Sana Vida Wellness,197.56,0,9031,Medical,P,N
 4/21/2023,Seoteric,750,0,718,Marketing,B,Y
 4/21/2023,Sunbit,204.42,0,9031,Medical,P,N
-4/21/2023,Venmo,250,0,9031,Loan,P,Y
+4/21/2023,Venmo,250,0,9031,Loan,P,N
 4/21/2023,Withdrawal Cash,500,0,0,Withdrawal,B,N
 4/21/2023,Withdrawal Cash,6000,0,0,Withdrawal,B,N
 4/21/2023,Withdrawal Cash,2500,0,0,Withdrawal,B,N
@@ -1254,7 +1254,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 4/26/2023,Home Depot,33.37,0,3341,Supplies,B,N
 4/26/2023,Walgreens,225.06,0,9031,Medical,P,N
 4/27/2023,Ally,509.98,0,0,Loan,B,Y
-4/27/2023,AT&T,831.91,0,0,Phones/Internet,B,Y
+4/27/2023,AT&T,831.91,0,1,Phones/Internet,B,Y
 4/27/2023,Credit One,300,0,9031,Credit Card,P,Y
 4/27/2023,Deposit,0,98.96,0,Revenue,B,N
 4/27/2023,H-E-B #,28.23,0,3341,Groceries,P,N
@@ -1328,7 +1328,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 5/2/2023,Jimmy Johns,95.21,0,9031,Food,P,N
 5/2/2023,Shell Service,7.51,0,3341,Gas,B,N
 5/3/2023,Amazon,16.23,0,9031,Supplies,B,N
-5/3/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+5/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y
 5/3/2023,Capital One,400,0,0,Credit Card,B,Y
 5/3/2023,Check,425,0,0,Labor,B,N
 5/3/2023,Check,1322.53,0,0,Labor,B,N
@@ -1348,8 +1348,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 5/4/2023,7-eleven,55.85,0,2679,Gas,B,N
 5/4/2023,Check,1247.73,0,0,Labor,B,N
 5/4/2023,Check,1459.07,0,0,Labor,B,N
-5/4/2023,Clear Choice Eyecare,107,0,2675,Medical,P,N
 5/4/2023,Clear Choice Eyecare,458,0,1,Medical,P,N
+5/4/2023,Clear Choice Eyecare,107,0,2675,Medical,P,N
 5/4/2023,Crossroads Utilities,35.43,0,718,Utilities,B,Y
 5/4/2023,Deposit,0,1337.08,0,Revenue,B,N
 5/4/2023,Deposit,0,920.13,0,Revenue,B,N
@@ -1370,7 +1370,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 5/5/2023,7-eleven,103.61,0,2675,Gas,B,N
 5/5/2023,7-eleven,56.57,0,9031,Gas,B,N
 5/5/2023,Apple,2.99,0,718,Software,B,Y
-5/5/2023,Business Insurance,672.5,0,0,Insurance,B,Y
+5/5/2023,Business Insurance,672.5,0,1,Insurance,B,Y
 5/5/2023,Check,311.23,0,0,Labor,B,N
 5/5/2023,Check,1750,0,0,Labor,B,N
 5/5/2023,Check,675.34,0,0,Labor,B,N
@@ -1407,7 +1407,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 5/7/2023,H-E-B #,158.01,0,3341,Groceries,P,N
 5/7/2023,Sunbit,117.47,0,9031,Medical,P,N
 5/7/2023,TxTag,100,0,1,Toll,B,N
-5/8/2023,AT&T,174.68,0,0,Phones/Internet,B,Y
+5/8/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
 5/8/2023,Chick-Fil-A,54.6,0,9031,Food,P,N
 5/8/2023,Collectors Crossroads,71.42,0,9031,Fee,B,N
 5/8/2023,Crate & Barrel,140,0,0,Credit Card,B,Y
@@ -1449,7 +1449,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 5/11/2023,Amazon,8.61,0,9031,Supplies,B,N
 5/11/2023,Amazon,37.76,0,9031,Supplies,B,N
 5/11/2023,Amazon,11.9,0,9031,Supplies,B,N
-5/11/2023,American Express,398,0,0,Credit Card,B,Y
+5/11/2023,American Express,398,0,1,Credit Card,B,Y
 5/11/2023,American Express,572.02,0,9031,Credit Card,P,Y
 5/11/2023,Apple,7.57,0,9031,Software,P,Y
 5/11/2023,BBB,80,0,3341,Marketing,B,Y
@@ -1481,7 +1481,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 5/16/2023,Lending Club,498.15,0,0,Loan,B,Y
 5/16/2023,Loan 02,447.78,0,1,Loan,P,Y
 5/17/2023,7-eleven,30.83,0,3341,Gas,B,N
-5/17/2023,AT&T,80,0,0,Phones/Internet,B,Y
+5/17/2023,AT&T,80,0,1,Phones/Internet,B,Y
 5/17/2023,Austin Community College,256,0,3341,Recreational,P,N
 5/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
 5/17/2023,Check,1680,0,0,Labor,B,N
@@ -1557,7 +1557,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 5/19/2023,Deposit,0,44121,0,Revenue,B,N
 5/19/2023,Fee,1501.74,0,0,Fee,B,N
 5/19/2023,Sales Tax,12640,0,0,Tax,B,N
-5/19/2023,Venmo,150,0,9031,Loan,P,Y
+5/19/2023,Venmo,150,0,9031,Loan,P,N
 5/20/2023,7-eleven,12.89,0,2679,Gas,B,N
 5/20/2023,7-eleven,33.91,0,0,Gas,B,N
 5/20/2023,Apple,5.4,0,718,Software,B,Y
@@ -1654,7 +1654,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 5/30/2023,7-eleven,29.66,0,0,Gas,B,N
 5/30/2023,Ally,509.98,0,0,Loan,B,Y
 5/30/2023,Apple,33.35,0,9031,Software,P,Y
-5/30/2023,AT&T,818.41,0,0,Phones/Internet,B,Y
+5/30/2023,AT&T,818.41,0,1,Phones/Internet,B,Y
 5/30/2023,Check,130,0,0,Labor,B,N
 5/30/2023,Credit One,317.11,0,9031,Credit Card,P,Y
 5/30/2023,SBA Loan,700,0,0,Loan,B,Y
@@ -1691,7 +1691,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/2/2023,Fee,34,0,0,Fee,B,N
 6/2/2023,Fee,34,0,0,Fee,B,N
 6/2/2023,Firmspace,150,0,0,Marketing,B,Y
-6/2/2023,H-E-B #,32.04,0,0,Groceries,P,N
+6/2/2023,H-E-B #,32.04,0,3341,Groceries,P,N
 6/2/2023,TxTag,20,0,9031,Toll,B,N
 6/2/2023,Withdrawal Cash,1540,0,0,Withdrawal,B,N
 6/3/2023,Amazon,16.23,0,9031,Supplies,B,N
@@ -1699,7 +1699,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/4/2023,Transfer to Payroll,1153.28,0,0,Savings,B,N
 6/5/2023,Amazon,47.88,0,9031,Supplies,B,N
 6/5/2023,American Express,584.97,0,9031,Credit Card,P,Y
-6/5/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+6/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y
 6/5/2023,Capital One,400,0,0,Credit Card,B,Y
 6/5/2023,Check,150,0,0,Labor,B,N
 6/5/2023,Check,1860,0,0,Labor,B,N
@@ -1715,9 +1715,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/6/2023,Amazon,84.39,0,9031,Supplies,B,N
 6/6/2023,Amazon,33.54,0,9031,Supplies,B,N
 6/6/2023,Apple,2.99,0,718,Software,B,Y
-6/6/2023,AT&T,174.68,0,0,Phones/Internet,B,Y
+6/6/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
 6/6/2023,Berrett Pest Control,107.17,0,1,Professional Service,P,Y
-6/6/2023,Business Insurance,672.5,0,0,Insurance,B,Y
+6/6/2023,Business Insurance,672.5,0,1,Insurance,B,Y
 6/6/2023,Crate & Barrel,140,0,0,Credit Card,B,Y
 6/6/2023,Crossroads Utilities,37.44,0,718,Utilities,B,Y
 6/6/2023,Deposit,0,460.07,0,Revenue,B,N
@@ -1807,17 +1807,17 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/11/2023,Microsoft,38.38,0,1,Software,B,Y
 6/11/2023,Microsoft,10,0,1,Software,B,Y
 6/11/2023,Microsoft,13.54,0,1,Software,B,Y
+6/12/2023,American Express,398,0,1,Credit Card,B,Y
 6/12/2023,American Express,585.87,0,9031,Credit Card,P,Y
-6/12/2023,American Express,398,0,0,Credit Card,B,Y
 6/12/2023,Check,225,0,0,Labor,B,N
 6/12/2023,Check,1196.55,0,0,Labor,B,N
 6/12/2023,Deposit,0,0.29,0,Revenue,B,N
 6/12/2023,Deposit,0,0.21,0,Revenue,B,N
-6/12/2023,Loan 02,116.81,0,0,Loan,P,Y
+6/12/2023,Loan 02,116.81,0,1,Loan,P,Y
 6/12/2023,Shell Service,73.5,0,0,Gas,B,N
 6/12/2023,TxTag,20,0,9031,Toll,B,N
-6/12/2023,Venmo,0.29,0,9031,Loan,P,Y
-6/12/2023,Venmo,0.21,0,9031,Loan,P,Y
+6/12/2023,Venmo,0.29,0,9031,Loan,P,N
+6/12/2023,Venmo,0.21,0,9031,Loan,P,N
 6/12/2023,Whataburger,32.76,0,9031,Food,P,N
 6/13/2023,7-eleven,22.42,0,2679,Gas,B,N
 6/13/2023,Check,450,0,0,Labor,B,N
@@ -1852,7 +1852,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/14/2023,Fee,34,0,0,Fee,B,N
 6/14/2023,H-E-B #,164.74,0,2679,Groceries,P,N
 6/14/2023,Lending Club,498.15,0,0,Loan,B,Y
-6/14/2023,Loan 02,330.97,0,0,Loan,P,Y
+6/14/2023,Loan 02,330.97,0,1,Loan,P,Y
 6/14/2023,Pro Serve Enterprise,305.07,0,2675,Supplies,B,N
 6/14/2023,Pro Serve Enterprise,189.18,0,2675,Supplies,B,N
 6/14/2023,TxTag,20,0,9031,Toll,B,N
@@ -1878,7 +1878,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/16/2023,Shell Oil,86.38,0,0,Gas,B,N
 6/16/2023,TxTag,20,0,9031,Toll,B,N
 6/17/2023,Deposit,0,2093.56,0,Revenue,B,N
-6/17/2023,Donut Taco Palace,32.9,0,0,Food,P,N
+6/17/2023,Donut Taco Palace,32.9,0,3341,Food,P,N
 6/17/2023,Financial Pacific,601.93,0,2679,Supplies,B,N
 6/17/2023,H-E-B #,28.69,0,9031,Groceries,P,N
 6/17/2023,Pro Serve Enterprise,0,13.42,2675,Supplies,B,N
@@ -1893,7 +1893,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/18/2023,Fee,34,0,0,Fee,B,N
 6/18/2023,Fee,34,0,0,Fee,B,N
 6/18/2023,Fee,34,0,0,Fee,B,N
-6/18/2023,H-E-B #,8,0,0,Groceries,P,N
+6/18/2023,H-E-B #,8,0,3341,Groceries,P,N
 6/18/2023,Sunbit,128.37,0,9031,Medical,P,N
 6/18/2023,TxTag,20,0,9031,Toll,B,N
 6/18/2023,Walgreens,110.27,0,9031,Medical,P,N
@@ -1902,13 +1902,13 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/19/2023,Lowes,116.82,0,9031,Supplies,B,N
 6/19/2023,Shell Service,100,0,2675,Gas,B,N
 6/20/2023,Alamo Specialty Pharmacy,25,0,9031,Medical,P,N
+6/20/2023,Apple,5.4,0,718,Software,B,Y
 6/20/2023,Apple,4.32,0,9031,Software,P,Y
 6/20/2023,Apple,11.9,0,9031,Software,P,Y
-6/20/2023,Apple,5.4,0,718,Software,B,Y
-6/20/2023,AT&T,80.42,0,0,Phones/Internet,B,Y
-6/20/2023,BBB,80,0,0,Marketing,B,Y
+6/20/2023,AT&T,80.42,0,1,Phones/Internet,B,Y
+6/20/2023,BBB,80,0,2679,Marketing,B,Y
 6/20/2023,Chase Credit,400,0,9031,Credit Card,P,Y
-6/20/2023,Cheba Hut,54.58,0,0,Food,P,N
+6/20/2023,Cheba Hut,54.58,0,3341,Food,P,N
 6/20/2023,Citi,29,0,0,Credit Card,B,Y
 6/20/2023,Clements Paint,127.25,0,0,Utilities,B,Y
 6/20/2023,Llantera Ibarra,67.78,0,2675,Auto Maintenance,B,N
@@ -1944,13 +1944,13 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/21/2023,Fee,1821,0,0,Fee,B,N
 6/21/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
 6/21/2023,Loan 00,200,0,0,Loan,B,Y
-6/21/2023,P Terrys,42.43,0,0,Food,P,N
+6/21/2023,P Terrys,42.43,0,3341,Food,P,N
 6/21/2023,Pro Serve Enterprise,232.88,0,2675,Supplies,B,N
 6/21/2023,TxTag,20,0,9031,Toll,B,N
 6/22/2023,7-eleven,35.36,0,2675,Gas,B,N
 6/22/2023,7-eleven,51.84,0,2679,Gas,B,N
-6/22/2023,American Express,803.03,0,9031,Credit Card,P,Y
 6/22/2023,American Express,329,0,1,Credit Card,P,Y
+6/22/2023,American Express,803.03,0,9031,Credit Card,P,Y
 6/22/2023,ATM,60,0,9031,Withdrawal,B,N
 6/22/2023,Check,5611.5,0,0,Labor,B,N
 6/22/2023,Check,800,0,0,Labor,B,N
@@ -2038,18 +2038,18 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/26/2023,H-E-B #,218.46,0,9031,Groceries,P,N
 6/26/2023,Home Depot,35.66,0,2675,Supplies,B,N
 6/26/2023,TxTag,20,0,9031,Toll,B,N
-6/26/2023,Venmo,500,0,9031,Loan,P,Y
+6/26/2023,Venmo,500,0,9031,Loan,P,N
 6/28/2023,Aircraft Spruce and Spec,84.95,0,2675,Supplies,B,N
 6/28/2023,Check,425,0,0,Labor,B,N
 6/28/2023,Check,425,0,0,Labor,B,N
 6/28/2023,Deposit,0,757.75,0,Revenue,B,N
 6/28/2023,Deposit,0,2078.3,0,Revenue,B,N
 6/28/2023,Deposit,0,1293.6,0,Revenue,B,N
-6/29/2023,American General,134.89,0,0,Insurance,B,Y
+6/29/2023,American General,134.89,0,1,Insurance,B,Y
 6/29/2023,Apple,1.99,0,9031,Software,P,Y
 6/29/2023,Apple,9.73,0,9031,Software,P,Y
 6/29/2023,Apple,5.4,0,9031,Software,P,Y
-6/29/2023,AT&T,880.63,0,0,Phones/Internet,B,Y
+6/29/2023,AT&T,880.63,0,1,Phones/Internet,B,Y
 6/29/2023,Berrett Pest Control,60.62,0,1,Professional Service,P,Y
 6/29/2023,Fee,34,0,0,Fee,B,N
 6/29/2023,Fee,34,0,0,Fee,B,N
@@ -2068,14 +2068,14 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 6/29/2023,Shell Service,58.17,0,2675,Gas,B,N
 6/30/2023,Ally,509.98,0,0,Loan,B,Y
 6/30/2023,Apple,14.06,0,718,Software,B,Y
+6/30/2023,Deposit,0,51.96,0,Revenue,B,N
 6/30/2023,H-E-B #,134,0,9031,Groceries,P,N
 6/30/2023,Shell Service,32.48,0,0,Gas,B,N
-6/30/2023,Target,0,51.96,9031,Groceries,P,N
 7/1/2023,Deposit,0,1497.1,0,Revenue,B,N
 7/2/2023,H-E-B #,54.1,0,9031,Groceries,P,N
 7/2/2023,Sams Club,165.31,0,9031,Groceries,P,N
 7/3/2023,7-eleven,51.56,0,2675,Gas,B,N
-7/3/2023,C Store,75.72,0,0,Gas,B,N
+7/3/2023,C Store,75.72,0,2675,Gas,B,N
 7/3/2023,Check,2100,0,0,Labor,B,N
 7/3/2023,Check,2750,0,0,Labor,B,N
 7/3/2023,Check,848,0,0,Labor,B,N
@@ -2091,8 +2091,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/3/2023,Financial Pacific,524.83,0,0,Supplies,B,N
 7/3/2023,Firmspace,150,0,0,Marketing,B,Y
 7/3/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
-7/3/2023,Randalls,28.13,0,0,Groceries,P,N
-7/3/2023,Randalls,200.89,0,0,Groceries,P,N
+7/3/2023,Randalls,28.13,0,3341,Groceries,P,N
+7/3/2023,Randalls,200.89,0,3341,Groceries,P,N
 7/3/2023,Withdrawal Courtesy Pay-CK,34,0,0,Fee,B,N
 7/4/2023,Amazon,16.23,0,9031,Supplies,B,N
 7/4/2023,Apple,16.23,0,9031,Software,P,Y
@@ -2108,17 +2108,17 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/6/2023,7-eleven,40.95,0,2679,Gas,B,N
 7/6/2023,7-eleven,11.59,0,2679,Gas,B,N
 7/6/2023,American Express,380.68,0,9031,Credit Card,P,Y
-7/6/2023,AT&T,174.68,0,0,Phones/Internet,B,Y
-7/6/2023,Bank of America,877.05,0,0,Credit Card,B,Y
-7/6/2023,Business Insurance,672.5,0,0,Insurance,B,Y
+7/6/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
+7/6/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+7/6/2023,Business Insurance,672.5,0,1,Insurance,B,Y
 7/6/2023,Check,1564.64,0,0,Labor,B,N
 7/6/2023,Crate & Barrel,141,0,0,Credit Card,B,Y
 7/6/2023,Deposit,0,4650,0,Revenue,B,N
 7/6/2023,Fee,131.12,0,0,Fee,B,N
 7/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
 7/6/2023,Randalls,91.97,0,9031,Groceries,P,N
-7/6/2023,Walgreens,27.99,0,0,Medical,P,N
 7/6/2023,Walgreens,102.09,0,1,Medical,P,N
+7/6/2023,Walgreens,27.99,0,3341,Medical,P,N
 7/6/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N
 7/6/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
 7/6/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
@@ -2133,7 +2133,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/7/2023,Credit One,304.95,0,9031,Credit Card,P,Y
 7/7/2023,Deposit,0,15132.48,0,Revenue,B,N
 7/7/2023,Deposit,0,1077.4,0,Revenue,B,N
-7/7/2023,H and R Grocery,75.92,0,0,Groceries,P,N
+7/7/2023,H and R Grocery,75.92,0,3341,Groceries,P,N
 7/7/2023,Rent a Car,127.29,0,0,Auto Maintenance,B,N
 7/7/2023,Savings,800,0,0,Savings,B,N
 7/7/2023,Shell Service,60.02,0,2675,Gas,B,N
@@ -2189,7 +2189,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/8/2023,Fee,34,0,0,Fee,B,N
 7/8/2023,Fee,34,0,0,Fee,B,N
 7/8/2023,H-E-B #,69.2,0,9031,Groceries,P,N
-7/8/2023,Lake Line Food,28.13,0,0,Professional Service,P,N
+7/8/2023,Lake Line Food,28.13,0,3341,Professional Service,P,N
 7/8/2023,Taco Blvd,5.58,0,9031,Food,P,N
 7/8/2023,Taco Blvd,77.68,0,9031,Food,P,N
 7/8/2023,TxTag,20,0,9031,Toll,B,N
@@ -2199,7 +2199,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/9/2023,7-eleven,67,0,9031,Gas,B,N
 7/9/2023,7-eleven,36.73,0,718,Gas,B,N
 7/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
-7/9/2023,AT&T,45.89,0,0,Phones/Internet,B,Y
+7/9/2023,AT&T,45.89,0,1,Phones/Internet,B,Y
 7/9/2023,Mod Pizza,46.26,0,9031,Food,P,N
 7/9/2023,QT,51.53,0,0,Gas,B,N
 7/9/2023,Sunbit,117.47,0,9031,Medical,P,N
@@ -2215,12 +2215,12 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/10/2023,Doordash,28.9,0,9031,Food,P,N
 7/10/2023,Go Carwash,15.99,0,9031,Auto Maintenance,B,N
 7/10/2023,Shell Service,10.78,0,0,Gas,B,N
-7/10/2023,Taco Cabana,129.88,0,0,Food,P,N
+7/10/2023,Taco Cabana,129.88,0,3341,Food,P,N
 7/10/2023,Withdrawal Cash,1087,0,0,Withdrawal,B,N
+7/11/2023,American Express,398,0,1,Credit Card,B,Y
 7/11/2023,American Express,401.53,0,9031,Credit Card,P,Y
-7/11/2023,American Express,398,0,0,Credit Card,B,Y
 7/11/2023,Crossroads Utilities,36.68,0,718,Utilities,B,Y
-7/11/2023,DJS Food and Gas,10.74,0,2675,Gas,P,N
+7/11/2023,DJS Food and Gas,10.74,0,2675,Gas,B,N
 7/11/2023,Fee,1.83,0,718,Fee,B,N
 7/11/2023,H-E-B #,217,0,9031,Groceries,P,N
 7/11/2023,Hitechpower,743.75,0,718,Professional Service,B,N
@@ -2242,7 +2242,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/13/2023,Deposit,0,82.48,0,Revenue,B,N
 7/13/2023,Discover,465.99,0,9031,Credit Card,P,Y
 7/13/2023,Doordash,27,0,9031,Food,P,N
-7/13/2023,Loan 02,447.78,0,0,Loan,P,Y
+7/13/2023,Loan 02,447.78,0,1,Loan,P,Y
 7/13/2023,Pedrosos Pizza,10.66,0,9031,Food,P,N
 7/13/2023,QT,13.29,0,9031,Gas,B,N
 7/13/2023,QT,47.62,0,9031,Gas,B,N
@@ -2283,7 +2283,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/14/2023,QT,18.27,0,9031,Gas,B,N
 7/14/2023,TxTag,20,0,9031,Toll,B,N
 7/15/2023,Amazon,19.45,0,9031,Supplies,B,N
-7/15/2023,C Store,67.97,0,0,Gas,B,N
+7/15/2023,C Store,67.97,0,2675,Gas,B,N
 7/15/2023,Check,500,0,0,Labor,B,N
 7/15/2023,Deposit,0,500,0,Revenue,B,N
 7/15/2023,Deposit,0,3800.75,0,Revenue,B,N
@@ -2310,7 +2310,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/17/2023,Deposit,0,1244.88,0,Revenue,B,N
 7/17/2023,Doordash,13.39,0,9031,Food,P,N
 7/17/2023,Fee,34,0,0,Fee,B,N
-7/17/2023,H-E-B #,25,0,0,Groceries,P,N
+7/17/2023,H-E-B #,25,0,3341,Groceries,P,N
 7/17/2023,Home Depot,21.73,0,0,Supplies,B,N
 7/17/2023,Home Depot,139.25,0,9031,Supplies,B,N
 7/17/2023,Sana Vida Wellness,75,0,9031,Medical,P,N
@@ -2324,7 +2324,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/18/2023,7-eleven,53.48,0,2679,Gas,B,N
 7/18/2023,7-eleven,11.89,0,2679,Gas,B,N
 7/18/2023,Amazon,193.99,0,9031,Supplies,B,N
-7/18/2023,AT&T,80,0,0,Phones/Internet,B,Y
+7/18/2023,AT&T,80,0,1,Phones/Internet,B,Y
 7/18/2023,Berrett Pest Control,107.17,0,1,Professional Service,P,Y
 7/18/2023,Check,1051.02,0,0,Labor,B,N
 7/18/2023,Check,3000,0,0,Labor,B,N
@@ -2434,8 +2434,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/24/2023,Costco,218.37,0,9031,Groceries,P,N
 7/24/2023,Discover,656.2,0,0,Credit Card,B,Y
 7/24/2023,Express Food Mart,110.3,0,2675,Gas,B,N
-7/24/2023,H-E-B #,507.66,0,2679,Groceries,P,N
-7/24/2023,Mr Cooper,186.2,0,0,Medical,P,N
+7/24/2023,H-E-B #,507.66,0,2679,Groceries,B,N
+7/24/2023,Mr Cooper,186.2,0,2675,Medical,P,N
 7/24/2023,Savings,1000,0,0,Savings,B,N
 7/24/2023,Seoteric,750,0,718,Marketing,B,Y
 7/24/2023,Sunbit,204.42,0,9031,Medical,P,N
@@ -2456,7 +2456,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/27/2023,7-eleven,77.92,0,9031,Gas,B,N
 7/27/2023,7-eleven,106.94,0,9031,Gas,B,N
 7/27/2023,Ally,509.98,0,0,Loan,B,Y
-7/27/2023,AT&T,812.67,0,0,Phones/Internet,B,Y
+7/27/2023,AT&T,812.67,0,1,Phones/Internet,B,Y
 7/27/2023,Check,425,0,0,Labor,B,N
 7/27/2023,Credit One,474.95,0,9031,Credit Card,P,Y
 7/27/2023,Deposit,0,2165,0,Revenue,B,N
@@ -2467,7 +2467,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/28/2023,7-eleven,58.99,0,2675,Gas,B,N
 7/28/2023,7-eleven,116.22,0,2675,Gas,B,N
 7/28/2023,Amazon,16.18,0,9031,Supplies,B,N
-7/28/2023,Ascension Personalized Care,771.18,0,9031,Medical,B,Y
+7/28/2023,Ascension Personalized Care,771.18,0,9031,Medical,P,Y
 7/28/2023,AT&T,25.03,0,9031,Phones/Internet,B,Y
 7/28/2023,Deposit,0,378.88,0,Revenue,B,N
 7/28/2023,Deposit,0,2382.95,0,Revenue,B,N
@@ -2504,8 +2504,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/29/2023,Landfill,56.49,0,2675,Professional Service,B,N
 7/29/2023,McDonalds,28.56,0,2675,Food,P,N
 7/29/2023,Randalls,94.71,0,9031,Groceries,P,N
-7/30/2023,Apple,34.43,0,9031,Software,P,Y
 7/30/2023,Apple,14.06,0,718,Software,B,Y
+7/30/2023,Apple,34.43,0,9031,Software,P,Y
 7/30/2023,ATM,600,0,9031,Withdrawal,B,N
 7/30/2023,ATM,800,0,2675,Withdrawal,B,N
 7/30/2023,Spectrum,233.16,0,1,Phones/Internet,B,Y
@@ -2514,7 +2514,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 7/31/2023,Deposit,0,4479.39,0,Revenue,B,N
 7/31/2023,Fee,48,0,0,Fee,B,N
 7/31/2023,Fee,6,0,0,Fee,B,N
-7/31/2023,H-E-B #,40.59,0,0,Groceries,P,N
+7/31/2023,H-E-B #,40.59,0,3341,Groceries,P,N
 7/31/2023,QT,71.19,0,9031,Gas,B,N
 7/31/2023,Shell Service,59.57,0,2679,Gas,B,N
 7/31/2023,Walgreens,172.57,0,9031,Medical,P,N
@@ -2531,7 +2531,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 8/2/2023,H-E-B #,145.57,0,9031,Groceries,P,N
 8/3/2023,7-eleven,61.36,0,9031,Gas,B,N
 8/3/2023,Amazon,16.23,0,9031,Supplies,B,N
-8/3/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+8/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y
 8/3/2023,Capital One,400,0,0,Credit Card,B,Y
 8/3/2023,Check,3675,0,0,Labor,B,N
 8/3/2023,Check,5850,0,0,Labor,B,N
@@ -2546,7 +2546,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 8/3/2023,Withdrawal Cash,6985,0,0,Withdrawal,B,N
 8/4/2023,7-eleven,119.92,0,2675,Gas,B,N
 8/4/2023,7-eleven,38.78,0,0,Gas,B,N
-8/4/2023,AT&T,174.68,0,0,Phones/Internet,B,Y
+8/4/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
 8/4/2023,Check,200,0,0,Labor,B,N
 8/4/2023,Check,500,0,0,Labor,B,N
 8/4/2023,Check,300,0,0,Labor,B,N
@@ -2567,7 +2567,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
 8/6/2023,Air California Adventure,17.35,0,9031,Recreational,P,N
 8/6/2023,Park and Zoom,4.95,0,9031,Recreational,P,N
 8/6/2023,The Lot - Liberty Station,85.31,0,9031,Recreational,P,N
-8/7/2023,Adobe Inc,21.64,0,9031,Software,B,Y
+8/7/2023,Adobe Inc,21.64,0,718,Software,B,Y
 8/7/2023,Apple,100,0,9031,Software,P,Y
 8/7/2023,Calitea,26.5,0,9031,Food,P,N
 8/7/2023,Pro Serve Enterprise,141.2,0,2675,Supplies,B,N
