@@ -8,7 +8,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/2/2023,Whataburger,40.5,0,9031,Food,P,N,Celi
 1/2/2023,Chevron,52.09,0,2675,Gas,B,N,Blake
 1/2/2023,Target,188.23,0,9031,Groceries,P,N,Celi
-1/11/2023,American Express,495.64,0,9031,Credit Card,P,Y,Celi
 1/3/2023,7-eleven,0.22,0,2675,Gas,B,N,Blake
 1/3/2023,7-eleven,51.82,0,2675,Gas,B,N,Blake
 1/3/2023,7-eleven,12.44,0,3341,Gas,B,N,Salvador
@@ -28,6 +27,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/3/2023,Financial Pacific,524.83,0,0,Supplies,B,N,Na
 1/3/2023,Tax,10951.89,0,0,Tax,B,N,Na
 1/3/2023,ATM,700,0,9031,Withdrawal,B,N,Celi
+1/3/2023,Capital One,400,0,9031,Credit Card,P,Y,Celi
 1/4/2023,Fee,118.33,0,0,Fee,B,N,Na
 1/4/2023,Fee,1.88,0,718,Fee,B,N,Symantha
 1/4/2023,Circle K,16.63,0,9031,Gas,B,N,Celi
@@ -48,7 +48,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/4/2023,Crossroads Utilities,37.69,0,718,Utilities,B,Y,Symantha
 1/4/2023,Texas Gas Service,123.97,0,718,Utilities,B,Y,Symantha
 1/5/2023,Luxury Auto Works,3639.34,0,1,Auto Maintenance,B,N,Martha
-1/11/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 1/5/2023,Chick-Fil-A,52.18,0,9031,Food,P,N,Celi
 1/5/2023,7-eleven,61.35,0,3341,Gas,B,N,Salvador
 1/5/2023,Farmers Insurance,666,0,0,Insurance,B,Y,Na
@@ -60,10 +59,11 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/5/2023,Home Depot,12.18,0,2675,Supplies,B,N,Blake
 1/5/2023,Lowes,102.79,0,2675,Supplies,B,N,Blake
 1/5/2023,City of Austin,133.88,0,0,Utilities,B,Y,Na
-1/24/2023,American Express,329,0,1,Credit Card,P,Y,Martha
+1/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
 1/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y,Na
 1/6/2023,Home Depot,53,0,9031,Supplies,B,N,Celi
 1/6/2023,Jifiti American Greet,150,0,1,Supplies,B,N,Martha
+1/6/2023,Crate & Barrel,147,0,0,Credit Card,B,Y,Na
 1/7/2023,Walgreens,21.98,0,9031,Medical,P,N,Celi
 1/7/2023,Deposit,0,6029.53,0,Revenue,B,N,Na
 1/8/2023,Fee,34,0,0,Fee,B,N,Na
@@ -97,8 +97,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/10/2023,Microsoft,29.84,0,1,Software,B,Y,Martha
 1/10/2023,Microsoft 365,13.54,0,1,Software,B,Y,Martha
 1/10/2023,Home Depot,44.9,0,2675,Supplies,B,N,Blake
-1/25/2023,American Express,535.8,0,9031,Credit Card,P,Y,Celi
-2/1/2023,American Express,519.5,0,9031,Credit Card,P,Y,Celi
+1/11/2023,American Express,495.64,0,9031,Credit Card,P,Y,Celi
+1/11/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 1/11/2023,Colorado County,16.8,0,3341,Fee,B,N,Salvador
 1/11/2023,Colorado County,336,0,3341,Fee,B,N,Salvador
 1/11/2023,7-eleven,15.89,0,3341,Gas,B,N,Salvador
@@ -115,7 +115,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/12/2023,Green Clean Certified,580,0,1,Professional Service,B,N,Martha
 1/12/2023,Deposit,0,6973.44,0,Revenue,B,N,Na
 1/12/2023,Gusto,2371.77,0,0,Tax,B,N,Na
-2/13/2023,American Express,520.03,0,9031,Credit Card,P,Y,Celi
 1/13/2023,7-eleven,39.36,0,3341,Gas,B,N,Salvador
 1/13/2023,Circle K,17.79,0,9031,Gas,B,N,Celi
 1/13/2023,Check,675.33,0,0,Labor,B,N,Na
@@ -126,6 +125,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/13/2023,TxTag,71.63,0,9031,Toll,B,N,Celi
 1/13/2023,TxTag,20,0,9031,Toll,B,N,Celi
 1/13/2023,TxTag,10,0,9031,Toll,B,N,Celi
+1/13/2023,Discover,186.56,0,9031,Credit Card,P,Y,Celi
 1/14/2023,Llano Co Tx Motor,574.75,0,3341,Auto Maintenance,B,N,Salvador
 1/14/2023,Fee,1,0,3341,Fee,B,N,Salvador
 1/14/2023,Fee,17.24,0,3341,Fee,B,N,Salvador
@@ -159,9 +159,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/16/2023,Home Depot,28.11,0,2675,Supplies,B,N,Blake
 1/16/2023,TxTag,20,0,9031,Toll,B,N,Celi
 1/17/2023,Big Red Express,15,0,3341,Auto Maintenance,B,N,Salvador
-2/13/2023,American Express,398,0,1,Credit Card,B,Y,Martha
-2/22/2023,American Express,495.74,0,9031,Credit Card,P,Y,Celi
-2/22/2023,American Express,329,0,1,Credit Card,P,Y,Martha
 1/17/2023,7-eleven,34.81,0,3341,Gas,B,N,Salvador
 1/17/2023,Farmers Insurance,682.74,0,0,Insurance,B,Y,Na
 1/17/2023,The Guardian,849.54,0,0,Insurance,B,Y,Na
@@ -178,6 +175,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/17/2023,Deposit,0,15904.67,0,Revenue,B,N,Na
 1/17/2023,Amazon,21.63,0,9031,Supplies,B,N,Celi
 1/17/2023,Tax,2500,0,0,Tax,B,N,Na
+1/17/2023,Capital One,500,0,9031,Credit Card,P,Y,Celi
+1/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
+1/17/2023,Discover,500,0,9031,Credit Card,P,Y,Celi
 1/18/2023,Overdrawn Fee,34,0,0,Fee,B,N,Na
 1/18/2023,7-eleven,0.77,0,2675,Gas,B,N,Blake
 1/18/2023,Lake Austin Inc,16.97,0,3341,Gas,B,N,Salvador
@@ -205,12 +205,12 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/20/2023,Pro Serve Enterprise,90.15,0,3341,Supplies,B,N,Salvador
 1/21/2023,TxTag,30,0,3341,Toll,B,N,Salvador
 1/23/2023,Walmart,53.66,0,9031,Groceries,P,N,Celi
-3/1/2023,American Express,495.74,0,9031,Credit Card,P,Y,Celi
+1/24/2023,American Express,329,0,1,Credit Card,P,Y,Martha
 1/24/2023,7-eleven,29.47,0,9031,Gas,B,N,Celi
 1/24/2023,Check,6066,0,0,Labor,B,N,Na
 1/24/2023,Deposit,0,23483.06,0,Revenue,B,N,Na
 1/24/2023,Deposit,0,857.34,1,Revenue,B,N,Martha
-3/13/2023,American Express,495.74,0,9031,Credit Card,P,Y,Celi
+1/25/2023,American Express,535.8,0,9031,Credit Card,P,Y,Celi
 1/25/2023,Fee,34,0,0,Fee,B,N,Na
 1/25/2023,Fee,34,0,0,Fee,B,N,Na
 1/25/2023,Fee,34,0,0,Fee,B,N,Na
@@ -241,8 +241,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/25/2023,Sunbit,204.42,0,9031,Medical,P,N,Celi
 1/25/2023,Vegamour,109.73,0,9031,Recreational,P,N,Celi
 1/25/2023,Deposit,0,1714.68,0,Revenue,B,N,Na
-3/13/2023,American Express,398,0,1,Credit Card,B,Y,Martha
-3/21/2023,American Express,292.55,0,9031,Credit Card,P,Y,Celi
 1/26/2023,7-eleven,81.67,0,3341,Gas,B,N,Salvador
 1/26/2023,Target,59.1,0,9031,Groceries,P,N,Celi
 1/26/2023,Check,2500,0,0,Labor,B,N,Na
@@ -254,6 +252,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/26/2023,Outdoor Power Equipment,681.96,0,2675,Supplies,B,N,Blake
 1/26/2023,RMA Toll,719.15,0,9031,Toll,B,N,Celi
 1/26/2023,ATM,520,0,9031,Withdrawal,B,N,Celi
+1/26/2023,Citi,1306.23,0,0,Credit Card,B,Y,Na
+1/26/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 1/27/2023,7-eleven,15.82,0,9031,Gas,B,N,Celi
 1/27/2023,The Guardian,1522.46,0,0,Insurance,B,Y,Na
 1/27/2023,Ally,509.98,0,0,Loan,B,Y,Na
@@ -273,7 +273,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/29/2023,7-eleven,28.82,0,9031,Gas,B,N,Celi
 1/29/2023,Shell Service,31.55,0,1,Gas,B,N,Martha
 1/29/2023,Walmart,235.99,0,2675,Groceries,B,N,Blake
-3/23/2023,American Express,329,0,1,Credit Card,P,Y,Martha
 1/30/2023,7-eleven,95.73,0,2675,Gas,B,N,Blake
 1/30/2023,Walmart,153.38,0,9031,Groceries,P,N,Celi
 1/30/2023,Allstate,1402.26,0,1,Insurance,P,Y,Martha
@@ -286,7 +285,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/30/2023,Deposit,0,571.56,0,Revenue,B,N,Na
 1/30/2023,Deposit,0,571.56,0,Revenue,B,N,Na
 1/30/2023,Gusto,2404.59,0,0,Tax,B,N,Na
-4/3/2023,American Express,492.64,0,9031,Credit Card,P,Y,Celi
+1/30/2023,Credit One,100,0,9031,Credit Card,P,Y,Celi
 1/31/2023,Fee,45.25,0,0,Fee,B,N,Na
 1/31/2023,Fee,6,0,0,Fee,B,N,Na
 1/31/2023,Jimmy Johns,65.76,0,9031,Food,P,N,Celi
@@ -298,7 +297,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 1/31/2023,Kristy R Cortez,750,0,1,Professional Service,B,N,Martha
 1/31/2023,Robin Brown,260,0,1,Recreational,P,N,Martha
 1/31/2023,Apple,31.36,0,9031,Software,P,Y,Celi
-4/11/2023,American Express,492.98,0,9031,Credit Card,P,Y,Celi
+1/31/2023,Credit One,100,0,9031,Credit Card,P,Y,Celi
+2/1/2023,American Express,519.5,0,9031,Credit Card,P,Y,Celi
 2/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N,Na
 2/1/2023,HP Instant Ink,12.98,0,1,Supplies,B,N,Martha
 2/2/2023,Randalls,144.57,0,9031,Groceries,P,N,Celi
@@ -309,8 +309,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/2/2023,Deposit,0,135.31,0,Revenue,B,N,Na
 2/2/2023,Apple,14.06,0,718,Software,B,Y,Symantha
 2/2/2023,Tax,53,0,9031,Tax,B,N,Celi
-4/11/2023,American Express,398,0,1,Credit Card,B,Y,Martha
-4/24/2023,American Express,554.27,0,9031,Credit Card,P,Y,Celi
 2/3/2023,Fee,1.95,0,718,Fee,B,N,Symantha
 2/3/2023,Fee,34,0,0,Fee,B,N,Na
 2/3/2023,7-eleven,56.36,0,3341,Gas,B,N,Salvador
@@ -323,6 +321,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/3/2023,Tax,6232.25,0,0,Tax,B,N,Na
 2/3/2023,Crossroads Utilities,38.94,0,718,Utilities,B,Y,Symantha
 2/3/2023,Texas Gas Service,152.67,0,718,Utilities,B,Y,Symantha
+2/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
+2/3/2023,Capital One,400,0,9031,Credit Card,P,Y,Celi
 2/4/2023,QT,14.01,0,9031,Gas,B,N,Celi
 2/4/2023,Home Depot,55.27,0,3341,Supplies,B,N,Salvador
 2/8/2023,Fee,131.11,0,0,Fee,B,N,Na
@@ -399,14 +399,14 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/12/2023,Randalls,64.62,0,9031,Groceries,P,N,Celi
 2/12/2023,Hitechpower,1859.38,0,718,Professional Service,B,N,Symantha
 2/12/2023,TxTag,20,0,9031,Toll,B,N,Celi
-4/24/2023,American Express,329,0,1,Credit Card,P,Y,Martha
-5/11/2023,American Express,572.02,0,9031,Credit Card,P,Y,Celi
-5/11/2023,American Express,398,0,1,Credit Card,B,Y,Martha
+2/13/2023,American Express,520.03,0,9031,Credit Card,P,Y,Celi
+2/13/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 2/13/2023,7-eleven,28.94,0,3341,Gas,B,N,Salvador
 2/13/2023,Murphy Express,93.85,0,2675,Gas,B,N,Blake
 2/13/2023,H-E-B #,89.85,0,9031,Groceries,P,N,Celi
 2/13/2023,Deposit,0,3620.96,0,Revenue,B,N,Na
 2/13/2023,TxTag,20,0,9031,Toll,B,N,Celi
+2/13/2023,Discover,287.83,0,9031,Credit Card,P,Y,Celi
 2/14/2023,Leander Express lube,139.82,0,2675,Auto Maintenance,B,N,Blake
 2/14/2023,Fee,34,0,0,Fee,B,N,Na
 2/14/2023,Fee,34,0,0,Fee,B,N,Na
@@ -421,12 +421,10 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/14/2023,Hitechpower,637.5,0,718,Professional Service,B,N,Symantha
 2/14/2023,Hitechpower,212.5,0,718,Professional Service,B,N,Symantha
 2/14/2023,TDLR Parent Taught,20,0,9031,Professional Service,P,N,Celi
-5/22/2023,American Express,575.89,0,9031,Credit Card,P,Y,Celi
-5/22/2023,American Express,329,0,1,Credit Card,P,Y,Martha
 2/15/2023,Randalls,95.76,0,9031,Groceries,P,N,Celi
+2/15/2023,Capital One,500,0,9031,Credit Card,P,Y,Celi
+2/15/2023,Discover,500,0,9031,Credit Card,P,Y,Celi
 2/16/2023,Lake Austin Inc,91.54,0,2675,Gas,B,N,Blake
-6/5/2023,American Express,584.97,0,9031,Credit Card,P,Y,Celi
-6/12/2023,American Express,585.87,0,9031,Credit Card,P,Y,Celi
 2/17/2023,Fee,112,0,0,Fee,B,N,Na
 2/17/2023,Withdrawal Courtesy Pay-ACH,8.7,0,0,Fee,B,N,Na
 2/17/2023,QT,106.66,0,2675,Gas,B,N,Blake
@@ -438,6 +436,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/17/2023,Deposit,0,1920,0,Revenue,B,N,Na
 2/17/2023,Deposit,0,3844.75,0,Revenue,B,N,Na
 2/17/2023,TxTag,20,0,9031,Toll,B,N,Celi
+2/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
+2/17/2023,Citi,1306.23,0,0,Credit Card,B,Y,Na
 2/18/2023,Costco Gas,31.18,0,2679,Gas,B,N,Michel
 2/18/2023,Target,111.79,0,9031,Groceries,P,N,Celi
 2/18/2023,Check,3087.5,0,0,Labor,B,N,Na
@@ -476,7 +476,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/20/2023,7-eleven,38.15,0,718,Gas,B,N,Symantha
 2/20/2023,Sunbit,204.42,0,9031,Medical,P,N,Celi
 2/20/2023,Apple,22.71,0,9031,Software,P,Y,Celi
-6/12/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 2/21/2023,Overdrawn Fee,34,0,0,Fee,B,N,Na
 2/21/2023,7-eleven,51.96,0,1,Gas,B,N,Martha
 2/21/2023,H-E-B Gas,40.62,0,3341,Gas,B,N,Salvador
@@ -494,9 +493,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/21/2023,Deposit,0,243.56,0,Revenue,B,N,Na
 2/21/2023,Deposit,0,3832.05,0,Revenue,B,N,Na
 2/21/2023,Deposit,0,9203.42,0,Revenue,B,N,Na
-6/22/2023,American Express,803.03,0,9031,Credit Card,P,Y,Celi
-6/22/2023,American Express,329,0,1,Credit Card,P,Y,Martha
-7/6/2023,American Express,380.68,0,9031,Credit Card,P,Y,Celi
+2/21/2023,Citi,29,0,0,Credit Card,B,Y,Na
+2/22/2023,American Express,495.74,0,9031,Credit Card,P,Y,Celi
+2/22/2023,American Express,329,0,1,Credit Card,P,Y,Martha
 2/22/2023,Sunoco,22.06,0,3341,Gas,B,N,Salvador
 2/22/2023,Wholefoods,127.72,0,9031,Groceries,P,N,Celi
 2/22/2023,Check,680.21,0,0,Labor,B,N,Na
@@ -507,6 +506,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/22/2023,Deposit,0,85.99,0,Revenue,B,N,Na
 2/22/2023,Outdoor Power Equipment,100,0,2675,Supplies,B,N,Blake
 2/22/2023,Gusto,1716.62,0,0,Tax,B,N,Na
+2/22/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 2/23/2023,Fee,28.38,0,0,Fee,B,N,Na
 2/23/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N,Na
 2/23/2023,7-eleven,95.64,0,2675,Gas,B,N,Blake
@@ -573,7 +573,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 2/28/2023,Vivint,40.15,0,9031,Software,B,Y,Celi
 2/28/2023,Gusto,2383.59,0,0,Tax,B,N,Na
 2/28/2023,Tax,1007.96,0,0,Tax,B,N,Na
-7/7/2023,American Express,401.5,0,9031,Credit Card,P,Y,Celi
+3/1/2023,American Express,495.74,0,9031,Credit Card,P,Y,Celi
 3/1/2023,Fee,3.19,0,0,Fee,B,N,Na
 3/1/2023,7-eleven,56.14,0,2679,Gas,B,N,Michel
 3/1/2023,Shell Oil,42.36,0,1,Gas,B,N,Martha
@@ -585,7 +585,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/1/2023,Home Depot,19.99,0,2679,Supplies,B,N,Michel
 3/1/2023,Lowes,57.87,0,2675,Supplies,B,N,Blake
 3/1/2023,RMA Toll,239.72,0,9031,Toll,B,N,Celi
-7/11/2023,American Express,401.53,0,9031,Credit Card,P,Y,Celi
 3/2/2023,Fee,131.11,0,0,Fee,B,N,Na
 3/2/2023,Withdrawal Courtesy Pay-CK,34,0,0,Fee,B,N,Na
 3/2/2023,Check,1860,0,0,Labor,B,N,Na
@@ -594,8 +593,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/2/2023,Fedex,12.06,0,1,Professional Service,B,N,Martha
 3/2/2023,Deposit,0,3351.42,0,Revenue,B,N,Na
 3/2/2023,Deposit,0,2961.72,0,Revenue,B,N,Na
-7/11/2023,American Express,398,0,1,Credit Card,B,Y,Martha
-7/24/2023,American Express,485.52,0,9031,Credit Card,P,Y,Celi
+3/2/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
 3/3/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N,Na
 3/3/2023,Signature 12,51.3,0,9031,Gas,B,N,Celi
 3/3/2023,Signature 12,8.11,0,9031,Gas,B,N,Celi
@@ -608,6 +606,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/3/2023,Check,848,0,0,Labor,B,N,Na
 3/3/2023,Deposit,0,15354.71,0,Revenue,B,N,Na
 3/3/2023,Deposit,0,2165,0,Revenue,B,N,Na
+3/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
+3/3/2023,Capital One,400,0,9031,Credit Card,P,Y,Celi
 3/4/2023,Jiffy Lube,97.04,0,2675,Auto Maintenance,B,N,Blake
 3/4/2023,Fee,34,0,0,Fee,B,N,Na
 3/4/2023,Fee,34,0,0,Fee,B,N,Na
@@ -647,7 +647,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/4/2023,HP Instant Ink,12.98,0,1,Supplies,B,N,Martha
 3/5/2023,H20 Carwash,75.52,0,9031,Auto Maintenance,B,N,Celi
 3/5/2023,Fedex,8.11,0,1,Professional Service,B,N,Martha
-1/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
 3/6/2023,H-E-B #,13.15,0,9031,Groceries,P,N,Celi
 3/6/2023,H-E-B #,102.69,0,9031,Groceries,P,N,Celi
 3/6/2023,Business Insurance,672.5,0,1,Insurance,B,Y,Martha
@@ -663,6 +662,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/6/2023,Deposit,0,487.13,0,Revenue,B,N,Na
 3/6/2023,Apple,2.99,0,718,Software,B,Y,Symantha
 3/6/2023,TxTag,100,0,1,Toll,B,N,Martha
+3/6/2023,Crate & Barrel,313,0,0,Credit Card,B,Y,Na
 3/7/2023,7-eleven,30.81,0,2679,Gas,B,N,Michel
 3/7/2023,H-E-B #,88.63,0,9031,Groceries,P,N,Celi
 3/7/2023,Check,1000,0,0,Labor,B,N,Na
@@ -723,8 +723,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/12/2023,Walgreens,195.13,0,9031,Medical,P,N,Celi
 3/12/2023,AT&T,37.87,0,9031,Phones/Internet,B,Y,Celi
 3/12/2023,Crossroads Utilities,222.54,0,718,Utilities,B,Y,Symantha
-2/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
-3/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
+3/13/2023,American Express,495.74,0,9031,Credit Card,P,Y,Celi
+3/13/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 3/13/2023,H-E-B #,308.29,0,2679,Groceries,B,N,Michel
 3/13/2023,Check,260,0,0,Labor,B,N,Na
 3/13/2023,Deposit,0,3476.98,0,Revenue,B,N,Na
@@ -741,14 +741,14 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/14/2023,Deposit,0,2302.48,0,Revenue,B,N,Na
 3/14/2023,Deposit,0,1169.1,0,Revenue,B,N,Na
 3/14/2023,City of Cedar Park,215.52,0,1,Utilities,B,Y,Martha
-4/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
-5/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
-6/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
 3/15/2023,The Guardian,849.54,0,0,Insurance,B,Y,Na
 3/15/2023,Deposit,0,2048.88,1,Revenue,B,N,Martha
 3/15/2023,Gusto,2251.67,0,0,Tax,B,N,Na
 3/15/2023,TxTag,30,0,3341,Toll,B,N,Salvador
 3/15/2023,Withdrawal Cash,1100,0,0,Withdrawal,B,N,Na
+3/15/2023,Capital One,500,0,9031,Credit Card,P,Y,Celi
+3/15/2023,Discover,484.86,0,9031,Credit Card,P,Y,Celi
+3/15/2023,Discover,486.32,0,9031,Credit Card,P,Y,Celi
 3/16/2023,Jimmy Johns,7.78,0,9031,Food,P,N,Celi
 3/16/2023,Randalls Fuel,57.36,0,9031,Gas,B,N,Celi
 3/16/2023,Shell Service,45.62,0,2679,Gas,B,N,Michel
@@ -758,7 +758,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/16/2023,Hitechpower,212.5,0,718,Professional Service,B,N,Symantha
 3/16/2023,Deposit,0,243.56,0,Revenue,B,N,Na
 3/16/2023,TxTag,100,0,1,Toll,B,N,Martha
-7/6/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
 3/17/2023,Withdrawal Courtesy Pay-CK,34,0,0,Fee,B,N,Na
 3/17/2023,Popeyes,20.1,0,9031,Food,P,N,Celi
 3/17/2023,Leander Stores LLC,74,0,2675,Gas,B,N,Blake
@@ -769,6 +768,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/17/2023,Check,848,0,0,Labor,B,N,Na
 3/17/2023,Check,115,0,0,Labor,B,N,Na
 3/17/2023,Deposit,0,4784,0,Revenue,B,N,Na
+3/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
 3/18/2023,Pedrosos Pizza,45.46,0,9031,Food,P,N,Celi
 3/18/2023,Buc-ees,25.53,0,9031,Gas,B,N,Celi
 3/18/2023,H-E-B #,45.75,0,9031,Groceries,P,N,Celi
@@ -790,7 +790,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/19/2023,Fee,34,0,0,Fee,B,N,Na
 3/19/2023,Fee,34,0,0,Fee,B,N,Na
 3/19/2023,Fee,34,0,0,Fee,B,N,Na
-8/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
 3/20/2023,Fee,658.77,0,0,Fee,B,N,Na
 3/20/2023,7-eleven,66.01,0,9031,Gas,B,N,Celi
 3/20/2023,7-eleven,38.26,0,2679,Gas,B,N,Michel
@@ -811,8 +810,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/20/2023,Deposit,0,19316.82,0,Revenue,B,N,Na
 3/20/2023,Square Space,337.74,0,1,Software,B,Y,Martha
 3/20/2023,TxTag,30,0,3341,Toll,B,N,Salvador
-1/3/2023,Capital One,400,0,9031,Credit Card,B,Y,Na
-1/17/2023,Capital One,500,0,9031,Credit Card,B,Y,Na
+3/20/2023,Citi,29,0,0,Credit Card,B,Y,Na
+3/21/2023,American Express,292.55,0,9031,Credit Card,P,Y,Celi
 3/21/2023,Fee,2.12,0,1,Fee,B,N,Martha
 3/21/2023,Circle K,74,0,2675,Gas,B,N,Blake
 3/21/2023,Costco,146.16,0,9031,Groceries,P,N,Celi
@@ -826,6 +825,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/21/2023,Domain Name,265,0,1,Software,B,Y,Martha
 3/21/2023,Tax,8891.01,0,0,Tax,B,N,Na
 3/21/2023,Withdrawal Cash,1150,0,0,Withdrawal,B,N,Na
+3/21/2023,Citi,477.98,0,0,Credit Card,B,Y,Na
 3/22/2023,Fee,4,0,0,Fee,B,N,Na
 3/22/2023,7-eleven,39.12,0,1,Gas,B,N,Martha
 3/22/2023,Chevron,68.85,0,3341,Gas,B,N,Salvador
@@ -833,10 +833,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/22/2023,Jack Brown Cleaners,18.02,0,9031,Professional Service,P,N,Celi
 3/22/2023,Deposit,0,623.52,0,Revenue,B,N,Na
 3/22/2023,Pro Serve Enterprise,39.35,0,2675,Supplies,B,N,Blake
-2/3/2023,Capital One,400,0,9031,Credit Card,B,Y,Na
+3/23/2023,American Express,329,0,1,Credit Card,P,Y,Martha
 3/23/2023,Deposit,0,2588.26,0,Revenue,B,N,Na
 3/23/2023,Apple,19.47,0,9031,Software,P,Y,Celi
-2/15/2023,Capital One,500,0,9031,Credit Card,B,Y,Na
 3/24/2023,Fee,12.63,0,0,Fee,B,N,Na
 3/24/2023,Fee,34,0,0,Fee,B,N,Na
 3/24/2023,Fee,34,0,0,Fee,B,N,Na
@@ -862,6 +861,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 3/24/2023,Deposit,0,9681.24,0,Revenue,B,N,Na
 3/24/2023,HP Ink,138.54,0,2679,Supplies,B,N,Michel
 3/24/2023,Withdrawal Cash,1600,0,0,Withdrawal,B,N,Na
+3/24/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 3/25/2023,Fee,34,0,0,Fee,B,N,Na
 3/25/2023,Fee,34,0,0,Fee,B,N,Na
 3/25/2023,Fee,21.37,0,0,Fee,B,N,Na
@@ -943,8 +943,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/2/2023,Costco,102.1,0,9031,Groceries,P,N,Celi
 4/2/2023,Sana Vida Wellness,149,0,9031,Medical,P,N,Celi
 4/2/2023,Realtor Association,473.35,0,9031,Professional Service,P,N,Celi
-3/3/2023,Capital One,400,0,9031,Credit Card,B,Y,Na
-3/15/2023,Capital One,500,0,9031,Credit Card,B,Y,Na
+4/3/2023,American Express,492.64,0,9031,Credit Card,P,Y,Celi
 4/3/2023,Fee,1277.21,0,0,Fee,B,N,Na
 4/3/2023,7-eleven,41.23,0,3341,Gas,B,N,Salvador
 4/3/2023,7-eleven,105,0,2675,Gas,B,N,Blake
@@ -965,8 +964,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/3/2023,ATM,200,0,9031,Withdrawal,B,N,Celi
 4/3/2023,ATM,200,0,9031,Withdrawal,B,N,Celi
 4/3/2023,ATM,315.9,0,0,Withdrawal,B,N,Na
-4/4/2023,Capital One,400,0,9031,Credit Card,B,Y,Na
-4/17/2023,Capital One,500,0,9031,Credit Card,B,Y,Na
+4/3/2023,Citi,66.67,0,1,Credit Card,B,Y,Martha
+4/4/2023,Capital One,400,0,9031,Credit Card,P,Y,Celi
 4/4/2023,Fee,1.8,0,718,Fee,B,N,Symantha
 4/4/2023,H-E-B #,100,0,9031,Groceries,P,N,Celi
 4/4/2023,The Guardian,362.64,0,0,Insurance,B,Y,Na
@@ -987,7 +986,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/4/2023,TxTag,100,0,1,Toll,B,N,Martha
 4/4/2023,Crossroads Utilities,35.93,0,718,Utilities,B,Y,Symantha
 4/4/2023,Texas Gas Service,67.11,0,718,Utilities,B,Y,Symantha
-5/3/2023,Capital One,400,0,9031,Credit Card,B,Y,Na
+4/4/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
+4/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
 4/5/2023,Saltgrass,180.04,0,3341,Food,P,N,Salvador
 4/5/2023,H-E-B Gas,61.13,0,2675,Gas,B,N,Blake
 4/5/2023,QT,52.23,0,2675,Gas,B,N,Blake
@@ -998,7 +998,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/5/2023,Deposit,0,549.91,0,Revenue,B,N,Na
 4/5/2023,Apple,2.99,0,718,Software,B,Y,Symantha
 4/5/2023,ATM,200,0,2675,Withdrawal,B,N,Blake
-5/16/2023,Capital One,500,0,9031,Credit Card,B,Y,Na
 4/6/2023,Overdrawn Fee,34,0,0,Fee,B,N,Na
 4/6/2023,Circle K,52.01,0,2679,Gas,B,N,Michel
 4/6/2023,Costco,90.93,0,718,Groceries,P,N,Symantha
@@ -1008,6 +1007,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/6/2023,ABC,181.88,0,2679,Professional Service,B,N,Michel
 4/6/2023,Deposit,0,1244.88,0,Revenue,B,N,Na
 4/6/2023,Apple,96.34,0,9031,Software,P,Y,Celi
+4/6/2023,Crate & Barrel,147,0,0,Credit Card,B,Y,Na
 4/7/2023,Fee,10,0,0,Fee,B,N,Na
 4/7/2023,7-eleven,54.21,0,1,Gas,B,N,Martha
 4/7/2023,QT,33.38,0,9031,Gas,B,N,Celi
@@ -1028,8 +1028,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/10/2023,Deposit,0,5488.95,0,Revenue,B,N,Na
 4/10/2023,Deposit,0,5942.93,0,Revenue,B,N,Na
 4/10/2023,Kim Paper,4960.88,0,3341,Supplies,B,N,Salvador
-6/5/2023,Capital One,400,0,9031,Credit Card,B,Y,Na
-6/15/2023,Capital One,500,0,9031,Credit Card,B,Y,Na
+4/11/2023,American Express,492.98,0,9031,Credit Card,P,Y,Celi
+4/11/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 4/11/2023,Fee,34,0,0,Fee,B,N,Na
 4/11/2023,Fee,34,0,0,Fee,B,N,Na
 4/11/2023,Fee,34,0,0,Fee,B,N,Na
@@ -1067,7 +1067,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/12/2023,Pro Serve Enterprise,60.51,0,2675,Supplies,B,N,Blake
 4/12/2023,Tax,157.23,0,9031,Tax,B,N,Celi
 4/12/2023,TxTag,57.04,0,3341,Toll,B,N,Salvador
-7/17/2023,Capital One,500,0,9031,Credit Card,B,Y,Na
 4/13/2023,Express Food Mart,58.37,0,3341,Gas,B,N,Salvador
 4/13/2023,Murphy Express,47.65,0,1,Gas,B,N,Martha
 4/13/2023,Murphy Express,23.45,0,1,Gas,B,N,Martha
@@ -1078,6 +1077,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/13/2023,Deposit,0,2048.88,1,Revenue,B,N,Martha
 4/13/2023,Gusto,2155.62,0,0,Tax,B,N,Na
 4/13/2023,ATM,359.66,0,0,Withdrawal,B,N,Na
+4/13/2023,Discover,500,0,9031,Credit Card,P,Y,Celi
 4/14/2023,Food Works,40.79,0,2675,Gas,B,N,Blake
 4/14/2023,7-eleven,115.47,0,2675,Gas,B,N,Blake
 4/14/2023,HEB Online,77.78,0,9031,Groceries,P,N,Celi
@@ -1099,8 +1099,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/15/2023,TxTag,30,0,3341,Toll,B,N,Salvador
 4/16/2023,7-eleven,31.84,0,1,Gas,B,N,Martha
 4/16/2023,Express Food Mart,41.33,0,3341,Gas,B,N,Salvador
-7/17/2023,Capital One,500,0,9031,Credit Card,B,Y,Na
-8/3/2023,Capital One,400,0,9031,Credit Card,B,Y,Na
+4/17/2023,Capital One,500,0,9031,Credit Card,P,Y,Celi
 4/17/2023,Fee,34,0,0,Fee,B,N,Na
 4/17/2023,Fee,69.36,0,0,Fee,B,N,Na
 4/17/2023,Randalls,114.57,0,9031,Groceries,P,N,Celi
@@ -1108,8 +1107,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/17/2023,Check,1550,0,0,Labor,B,N,Na
 4/17/2023,Deposit,0,2382.95,0,Revenue,B,N,Na
 4/17/2023,Lowes,199.07,0,9031,Supplies,B,N,Celi
-1/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
-2/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
+4/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
 4/18/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N,Na
 4/18/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N,Na
 4/18/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N,Na
@@ -1120,6 +1118,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/18/2023,AT&T,80,0,1,Phones/Internet,B,Y,Martha
 4/18/2023,Deposit,0,2629.04,0,Revenue,B,N,Na
 4/18/2023,Lowes,7.56,0,3341,Supplies,B,N,Salvador
+4/18/2023,Citi,29,0,0,Credit Card,B,Y,Na
+4/18/2023,Citi,408.23,0,0,Credit Card,B,Y,Na
 4/19/2023,Fee,3.19,0,0,Fee,B,N,Na
 4/19/2023,H-E-B #,102.67,0,9031,Groceries,P,N,Celi
 4/19/2023,Check,848,0,0,Labor,B,N,Na
@@ -1214,9 +1214,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/22/2023,Withdrawal Cash,1200,0,0,Withdrawal,B,N,Na
 4/23/2023,Sams Club,164.81,0,9031,Groceries,P,N,Celi
 4/23/2023,Apple,92,0,9031,Software,P,Y,Celi
-3/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
-4/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
-5/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
+4/24/2023,American Express,554.27,0,9031,Credit Card,P,Y,Celi
+4/24/2023,American Express,329,0,1,Credit Card,P,Y,Martha
 4/24/2023,Fee,1,0,9031,Fee,B,N,Celi
 4/24/2023,Tacos Las Amazonas,19.42,0,3341,Food,P,N,Salvador
 4/24/2023,7-eleven,52.72,0,2675,Gas,B,N,Blake
@@ -1228,6 +1227,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/24/2023,Tax,8562.03,0,0,Tax,B,N,Na
 4/24/2023,TxTag,30,0,3341,Toll,B,N,Salvador
 4/24/2023,ATM,102.25,0,9031,Withdrawal,B,N,Celi
+4/24/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 4/25/2023,7-eleven,52.58,0,3341,Gas,B,N,Salvador
 4/25/2023,Circle K,74,0,2675,Gas,B,N,Blake
 4/25/2023,Randalls Fuel,49.77,0,9031,Gas,B,N,Celi
@@ -1253,7 +1253,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/26/2023,Berrett Pest Control,123.41,0,1,Professional Service,P,Y,Martha
 4/26/2023,Apple,9.99,0,9031,Software,P,Y,Celi
 4/26/2023,Home Depot,33.37,0,3341,Supplies,B,N,Salvador
-6/20/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
 4/27/2023,Leander Stores LLC,60.74,0,1,Gas,B,N,Martha
 4/27/2023,H-E-B #,28.23,0,3341,Groceries,P,N,Salvador
 4/27/2023,Ally,509.98,0,0,Loan,B,Y,Na
@@ -1262,6 +1261,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/27/2023,AT&T,831.91,0,1,Phones/Internet,B,Y,Martha
 4/27/2023,Deposit,0,98.96,0,Revenue,B,N,Na
 4/27/2023,Lowes,34.14,0,2675,Supplies,B,N,Blake
+4/27/2023,Credit One,300,0,9031,Credit Card,P,Y,Celi
 4/28/2023,Boulevard Bagel,35.82,0,3341,Food,P,N,Salvador
 4/28/2023,7-eleven,25.16,0,2675,Gas,B,N,Blake
 4/28/2023,La Chaparrita Meat Market,13.49,0,9031,Groceries,P,N,Celi
@@ -1290,7 +1290,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 4/30/2023,Stokes Sign Company,197.09,0,9031,Marketing,B,N,Celi
 4/30/2023,Kristy R Cortez,750,0,1,Professional Service,B,N,Martha
 4/30/2023,Apple,14.06,0,718,Software,B,Y,Symantha
-7/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
 5/1/2023,Palenque Group,42.8,0,9031,Fee,B,N,Celi
 5/1/2023,7-eleven,40.15,0,3341,Gas,B,N,Salvador
 5/1/2023,7-eleven,39.54,0,3341,Gas,B,N,Salvador
@@ -1304,9 +1303,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N,Na
 5/1/2023,Pro Serve Enterprise,15.19,0,3341,Supplies,B,N,Salvador
 5/1/2023,Withdrawal Cash,2500,0,0,Withdrawal,B,N,Na
+5/1/2023,Credit One,200,0,9031,Credit Card,P,Y,Celi
 5/2/2023,Advance Auto Parts,9.19,0,3341,Auto Maintenance,B,N,Salvador
-1/26/2023,Citi,1306.23,0,0,Credit Card,B,Y,Na
-2/17/2023,Citi,1306.23,0,0,Credit Card,B,Y,Na
 5/2/2023,Fee,34,0,0,Fee,B,N,Na
 5/2/2023,Fee,34,0,0,Fee,B,N,Na
 5/2/2023,Fee,34,0,0,Fee,B,N,Na
@@ -1327,8 +1325,10 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/2/2023,Hitechpower,1859.38,0,718,Professional Service,B,N,Symantha
 5/2/2023,HP Instant Ink,12.98,0,1,Supplies,B,N,Martha
 5/2/2023,Gusto,2172.78,0,0,Tax,B,N,Na
-2/21/2023,Citi,29,0,0,Credit Card,B,Y,Na
-3/2/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
+5/2/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
+5/2/2023,Citi,66.67,0,1,Credit Card,B,Y,Martha
+5/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
+5/3/2023,Capital One,400,0,9031,Credit Card,P,Y,Celi
 5/3/2023,Whataburger,9.24,0,3341,Food,P,N,Salvador
 5/3/2023,QT,45.03,0,3341,Gas,B,N,Salvador
 5/3/2023,H-E-B #,175.46,0,9031,Groceries,P,N,Celi
@@ -1408,7 +1408,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/7/2023,Bath and Body Works,65.21,0,9031,Recreational,P,N,Celi
 5/7/2023,TxTag,100,0,1,Toll,B,N,Martha
 5/8/2023,Go Carwash,15,0,9031,Auto Maintenance,B,N,Celi
-3/20/2023,Citi,29,0,0,Credit Card,B,Y,Na
 5/8/2023,Collectors Crossroads,71.42,0,9031,Fee,B,N,Celi
 5/8/2023,Palenque Group,75.72,0,9031,Fee,B,N,Celi
 5/8/2023,Chick-Fil-A,54.6,0,9031,Food,P,N,Celi
@@ -1416,6 +1415,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/8/2023,AT&T,174.68,0,1,Phones/Internet,B,Y,Martha
 5/8/2023,Dollar General,17.48,0,9031,Recreational,P,N,Celi
 5/8/2023,Home Depot,398.7,0,2675,Supplies,B,N,Blake
+5/8/2023,Crate & Barrel,140,0,0,Credit Card,B,Y,Na
 5/9/2023,7-eleven,97.96,0,2675,Gas,B,N,Blake
 5/9/2023,Chevron,85.38,0,3341,Gas,B,N,Salvador
 5/9/2023,H-E-B Gas,60.8,0,9031,Gas,B,N,Celi
@@ -1446,8 +1446,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/10/2023,Amazon,8.76,0,9031,Supplies,B,N,Celi
 5/10/2023,Home Depot,8.62,0,2675,Supplies,B,N,Blake
 5/10/2023,Tax,8265.02,0,0,Tax,B,N,Na
-3/21/2023,Citi,477.98,0,0,Credit Card,B,Y,Na
-4/3/2023,Citi,66.67,0,1,Credit Card,B,Y,Martha
+5/11/2023,American Express,572.02,0,9031,Credit Card,P,Y,Celi
+5/11/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 5/11/2023,BBB,80,0,3341,Marketing,B,Y,Salvador
 5/11/2023,Walgreens,83.76,0,9031,Medical,P,N,Celi
 5/11/2023,Deposit,0,1244.88,0,Revenue,B,N,Na
@@ -1471,7 +1471,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/15/2023,Pro Serve Enterprise,87.9,0,3341,Supplies,B,N,Salvador
 5/15/2023,Pro Serve Enterprise,48.15,0,3341,Supplies,B,N,Salvador
 5/15/2023,Pro Serve Enterprise,139.44,0,2675,Supplies,B,N,Blake
-4/4/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
+5/16/2023,Capital One,500,0,9031,Credit Card,P,Y,Celi
 5/16/2023,7-eleven,57.7,0,2675,Gas,B,N,Blake
 5/16/2023,7-eleven,47.19,0,2679,Gas,B,N,Michel
 5/16/2023,Check,130,0,0,Labor,B,N,Na
@@ -1480,10 +1480,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/16/2023,Lending Club,498.15,0,0,Loan,B,Y,Na
 5/16/2023,Loan 02,447.78,0,1,Loan,P,Y,Martha
 5/16/2023,Deposit,0,9937.31,0,Revenue,B,N,Na
+5/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
 5/17/2023,Oreilly Auto Parts,27.04,0,9031,Auto Maintenance,B,N,Celi
-4/18/2023,Citi,29,0,0,Credit Card,B,Y,Na
-4/18/2023,Citi,408.23,0,0,Credit Card,B,Y,Na
-5/2/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
 5/17/2023,Fee,34,0,0,Fee,B,N,Na
 5/17/2023,Fee,34,0,0,Fee,B,N,Na
 5/17/2023,Fee,34,0,0,Fee,B,N,Na
@@ -1528,8 +1526,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/17/2023,AT&T,80,0,1,Phones/Internet,B,Y,Martha
 5/17/2023,Austin Community College,256,0,3341,Recreational,P,N,Salvador
 5/17/2023,Deposit,0,16394.82,0,Revenue,B,N,Na
+5/17/2023,Citi,436.12,0,0,Credit Card,B,Y,Na
+5/17/2023,Discover,495,0,9031,Credit Card,P,Y,Celi
 5/18/2023,Go Carwash,15,0,9031,Auto Maintenance,B,N,Celi
-5/2/2023,Citi,66.67,0,1,Credit Card,B,Y,Martha
 5/18/2023,Fee,34,0,0,Fee,B,N,Na
 5/18/2023,Fee,34,0,0,Fee,B,N,Na
 5/18/2023,Fee,34,0,0,Fee,B,N,Na
@@ -1547,6 +1546,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/18/2023,Sunbit,128.37,0,9031,Medical,P,N,Celi
 5/18/2023,Deposit,0,108.93,0,Revenue,B,N,Na
 5/18/2023,TxTag,20,0,9031,Toll,B,N,Celi
+5/18/2023,Citi,29,0,0,Credit Card,B,Y,Na
 5/19/2023,Fee,1501.74,0,0,Fee,B,N,Na
 5/19/2023,7-eleven,52.44,0,3341,Gas,B,N,Salvador
 5/19/2023,Check,100,0,0,Labor,B,N,Na
@@ -1576,8 +1576,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/21/2023,Sunbit,204.42,0,9031,Medical,P,N,Celi
 5/21/2023,TxTag,20,0,9031,Toll,B,N,Celi
 5/21/2023,CSC Servicework,2,0,2679,Utilities,B,Y,Michel
-5/17/2023,Citi,436.12,0,0,Credit Card,B,Y,Na
-5/18/2023,Citi,29,0,0,Credit Card,B,Y,Na
+5/22/2023,American Express,575.89,0,9031,Credit Card,P,Y,Celi
+5/22/2023,American Express,329,0,1,Credit Card,P,Y,Martha
 5/22/2023,Fee,69.36,0,0,Fee,B,N,Na
 5/22/2023,7-eleven,85.79,0,2675,Gas,B,N,Blake
 5/22/2023,Allstate,1893.33,0,1,Insurance,P,Y,Martha
@@ -1592,7 +1592,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/22/2023,Deposit,0,2382.95,0,Revenue,B,N,Na
 5/22/2023,Gusto,762.22,0,0,Tax,B,N,Na
 5/22/2023,Sales Tax,6000,0,0,Tax,B,N,Na
-6/2/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
 5/23/2023,7-eleven,65.94,0,9031,Gas,B,N,Celi
 5/23/2023,7-eleven,38.02,0,9031,Gas,B,N,Celi
 5/23/2023,Buc-ees,22.6,0,9031,Gas,B,N,Celi
@@ -1603,6 +1602,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/23/2023,Lowes,56.25,0,0,Supplies,B,N,Na
 5/23/2023,RMA Toll,213.35,0,9031,Toll,B,N,Celi
 5/23/2023,City of Cedar Park,90.89,0,1,Utilities,B,Y,Martha
+5/23/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 5/24/2023,Automechanic Service,841.44,0,1,Auto Maintenance,B,N,Martha
 5/24/2023,H-E-B #,94.8,0,9031,Groceries,P,N,Celi
 5/24/2023,Check,1150,0,0,Labor,B,N,Na
@@ -1651,7 +1651,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/29/2023,Home Depot,9.49,0,1,Supplies,B,N,Martha
 5/29/2023,Home Depot,187.22,0,1,Supplies,B,N,Martha
 5/29/2023,TxTag,20,0,9031,Toll,B,N,Celi
-6/5/2023,Citi,66.67,0,1,Credit Card,B,Y,Martha
 5/30/2023,7-eleven,29.66,0,0,Gas,B,N,Na
 5/30/2023,Check,130,0,0,Labor,B,N,Na
 5/30/2023,Ally,509.98,0,0,Loan,B,Y,Na
@@ -1660,12 +1659,13 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 5/30/2023,AT&T,818.41,0,1,Phones/Internet,B,Y,Martha
 5/30/2023,Spectrum,233.16,0,1,Phones/Internet,B,Y,Martha
 5/30/2023,Apple,33.35,0,9031,Software,P,Y,Celi
+5/30/2023,Credit One,317.11,0,9031,Credit Card,P,Y,Celi
 5/31/2023,Buc-ees,12.3,0,9031,Gas,B,N,Celi
 5/31/2023,Randalls,86.69,0,9031,Groceries,P,N,Celi
 6/1/2023,7-eleven,11.3,0,0,Gas,B,N,Na
 6/1/2023,7-eleven,11.9,0,0,Gas,B,N,Na
 6/1/2023,Deposit,0,3862.36,0,Revenue,B,N,Na
-6/20/2023,Citi,29,0,0,Credit Card,B,Y,Na
+6/2/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
 6/2/2023,Fee,30.56,0,0,Fee,B,N,Na
 6/2/2023,Fee,34,0,0,Fee,B,N,Na
 6/2/2023,Fee,53.75,0,0,Fee,B,N,Na
@@ -1697,11 +1697,10 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/3/2023,Amazon,16.23,0,9031,Supplies,B,N,Celi
 6/3/2023,Home Depot,54.15,0,0,Supplies,B,N,Na
 6/4/2023,Transfer to Payroll,1153.28,0,0,Savings,B,N,Na
-6/22/2023,Citi,408.07,0,0,Credit Card,B,Y,Na
-7/4/2023,Citi,66.67,0,1,Credit Card,B,Y,Martha
-7/7/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
-7/18/2023,Citi,457.95,0,0,Credit Card,B,Y,Na
-7/18/2023,Citi,29,0,0,Credit Card,B,Y,Na
+6/5/2023,American Express,584.97,0,9031,Credit Card,P,Y,Celi
+6/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
+6/5/2023,Capital One,400,0,9031,Credit Card,P,Y,Celi
+6/5/2023,Citi,66.67,0,1,Credit Card,B,Y,Martha
 6/5/2023,Shell Service,20.75,0,2679,Gas,B,N,Michel
 6/5/2023,Texaco,71.24,0,0,Gas,B,N,Na
 6/5/2023,Check,150,0,0,Labor,B,N,Na
@@ -1711,7 +1710,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/5/2023,Check,1550,0,0,Labor,B,N,Na
 6/5/2023,Deposit,0,980.1,0,Revenue,B,N,Na
 6/5/2023,Amazon,47.88,0,9031,Supplies,B,N,Celi
-8/4/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
+6/5/2023,Credit One,264.5,0,9031,Credit Card,P,Y,Celi
 6/6/2023,Fee,1.87,0,718,Fee,B,N,Symantha
 6/6/2023,Fee,131.12,0,0,Fee,B,N,Na
 6/6/2023,Randalls Fuel,55.21,0,2675,Gas,B,N,Blake
@@ -1728,6 +1727,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/6/2023,TxTag,20,0,9031,Toll,B,N,Celi
 6/6/2023,Crossroads Utilities,37.44,0,718,Utilities,B,Y,Symantha
 6/6/2023,Texas Gas Service,34.41,0,718,Utilities,B,Y,Symantha
+6/6/2023,Crate & Barrel,140,0,0,Credit Card,B,Y,Na
 6/7/2023,QT,62.12,0,9031,Gas,B,N,Celi
 6/7/2023,QT,15.53,0,9031,Gas,B,N,Celi
 6/7/2023,Texaco,33.45,0,718,Gas,B,N,Symantha
@@ -1807,8 +1807,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/11/2023,Microsoft,38.38,0,1,Software,B,Y,Martha
 6/11/2023,Microsoft,10,0,1,Software,B,Y,Martha
 6/11/2023,Microsoft,13.54,0,1,Software,B,Y,Martha
-1/6/2023,Crate & Barrel,147,0,0,Credit Card,B,Y,Na
-3/6/2023,Crate & Barrel,313,0,0,Credit Card,B,Y,Na
+6/12/2023,American Express,585.87,0,9031,Credit Card,P,Y,Celi
+6/12/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 6/12/2023,Whataburger,32.76,0,9031,Food,P,N,Celi
 6/12/2023,Shell Service,73.5,0,0,Gas,B,N,Na
 6/12/2023,Check,225,0,0,Labor,B,N,Na
@@ -1820,7 +1820,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/12/2023,Deposit,0,0.21,0,Revenue,B,N,Na
 6/12/2023,TxTag,20,0,9031,Toll,B,N,Celi
 6/13/2023,Harbor Freight,128.78,0,2675,Auto Maintenance,B,N,Blake
-4/6/2023,Crate & Barrel,147,0,0,Credit Card,B,Y,Na
 6/13/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N,Na
 6/13/2023,7-eleven,22.42,0,2679,Gas,B,N,Michel
 6/13/2023,Randalls Fuel,58.39,0,9031,Gas,B,N,Celi
@@ -1833,6 +1832,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/13/2023,Home Depot,34.03,0,2675,Supplies,B,N,Blake
 6/13/2023,Home Depot,54.6,0,2675,Supplies,B,N,Blake
 6/13/2023,Clements Paint,24.85,0,0,Utilities,B,Y,Na
+6/13/2023,Discover,495.79,0,9031,Credit Card,P,Y,Celi
 6/14/2023,Auto Color,26.3,0,2675,Auto Maintenance,B,N,Blake
 6/14/2023,Fee,34,0,0,Fee,B,N,Na
 6/14/2023,Fee,34,0,0,Fee,B,N,Na
@@ -1856,7 +1856,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/14/2023,Pro Serve Enterprise,189.18,0,2675,Supplies,B,N,Blake
 6/14/2023,TxTag,20,0,9031,Toll,B,N,Celi
 6/14/2023,Clements Paint,41.08,0,0,Utilities,B,Y,Na
-5/8/2023,Crate & Barrel,140,0,0,Credit Card,B,Y,Na
+6/15/2023,Capital One,500,0,9031,Credit Card,P,Y,Celi
 6/15/2023,7-eleven,51.67,0,2675,Gas,B,N,Blake
 6/15/2023,7-eleven,114.81,0,2675,Gas,B,N,Blake
 6/15/2023,Sams Club,130.91,0,9031,Groceries,P,N,Celi
@@ -1901,10 +1901,10 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/19/2023,Shell Service,100,0,2675,Gas,B,N,Blake
 6/19/2023,Costco,230.94,0,9031,Groceries,P,N,Celi
 6/19/2023,Lowes,116.82,0,9031,Supplies,B,N,Celi
+6/20/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
+6/20/2023,Citi,29,0,0,Credit Card,B,Y,Na
 6/20/2023,Llantera Ibarra,67.78,0,2675,Auto Maintenance,B,N,Blake
 6/20/2023,Oreilly Auto Parts,84.4,0,2675,Auto Maintenance,B,N,Blake
-6/6/2023,Crate & Barrel,140,0,0,Credit Card,B,Y,Na
-7/6/2023,Crate & Barrel,141,0,0,Credit Card,B,Y,Na
 6/20/2023,Cheba Hut,54.58,0,3341,Food,P,N,Salvador
 6/20/2023,BBB,80,0,2679,Marketing,B,Y,Michel
 6/20/2023,Alamo Specialty Pharmacy,25,0,9031,Medical,P,N,Celi
@@ -1947,10 +1947,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/21/2023,Amazon,108.24,0,9031,Supplies,B,N,Celi
 6/21/2023,Pro Serve Enterprise,232.88,0,2675,Supplies,B,N,Blake
 6/21/2023,TxTag,20,0,9031,Toll,B,N,Celi
-1/30/2023,Credit One,100,0,9031,Credit Card,P,Y,Celi
-1/31/2023,Credit One,100,0,9031,Credit Card,P,Y,Celi
-4/27/2023,Credit One,300,0,9031,Credit Card,P,Y,Celi
-5/1/2023,Credit One,200,0,9031,Credit Card,P,Y,Celi
+6/22/2023,American Express,803.03,0,9031,Credit Card,P,Y,Celi
+6/22/2023,American Express,329,0,1,Credit Card,P,Y,Martha
+6/22/2023,Citi,408.07,0,0,Credit Card,B,Y,Na
 6/22/2023,Fee,34,0,0,Fee,B,N,Na
 6/22/2023,Fee,34,0,0,Fee,B,N,Na
 6/22/2023,Fee,34,0,0,Fee,B,N,Na
@@ -1998,6 +1997,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 6/22/2023,Tax,34,0,0,Tax,B,N,Na
 6/22/2023,TxTag,20,0,9031,Toll,B,N,Celi
 6/22/2023,ATM,60,0,9031,Withdrawal,B,N,Celi
+6/22/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 6/23/2023,Chick-Fil-A,16.37,0,9031,Food,P,N,Celi
 6/23/2023,Whataburger,31.62,0,9031,Food,P,N,Celi
 6/23/2023,Randalls Fuel,57.89,0,9031,Gas,B,N,Celi
@@ -2074,7 +2074,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/1/2023,Deposit,0,1497.1,0,Revenue,B,N,Na
 7/2/2023,H-E-B #,54.1,0,9031,Groceries,P,N,Celi
 7/2/2023,Sams Club,165.31,0,9031,Groceries,P,N,Celi
-5/30/2023,Credit One,317.11,0,9031,Credit Card,P,Y,Celi
 7/3/2023,Fee,299.9,0,0,Fee,B,N,Na
 7/3/2023,Withdrawal Courtesy Pay-CK,34,0,0,Fee,B,N,Na
 7/3/2023,7-eleven,51.56,0,2675,Gas,B,N,Blake
@@ -2094,7 +2093,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/3/2023,Deposit,0,9126.94,0,Revenue,B,N,Na
 7/3/2023,Financial Pacific,524.83,0,0,Supplies,B,N,Na
 7/3/2023,HP Instant Ink,12.98,0,1,Supplies,B,N,Martha
-6/5/2023,Credit One,264.5,0,9031,Credit Card,P,Y,Celi
+7/3/2023,Credit One,449.69,0,9031,Credit Card,P,Y,Celi
+7/4/2023,Citi,66.67,0,1,Credit Card,B,Y,Martha
 7/4/2023,Fee,2,0,0,Fee,B,N,Na
 7/4/2023,Kristy R Cortez,750,0,1,Professional Service,B,N,Martha
 7/4/2023,Vehicle Registration,76.25,0,3341,Recreational,B,N,Salvador
@@ -2105,9 +2105,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/5/2023,Fullscript,107.09,0,9031,Recreational,P,N,Celi
 7/5/2023,Deposit,0,1470.39,0,Revenue,B,N,Na
 7/5/2023,Apple,2.99,0,718,Software,B,Y,Symantha
-7/3/2023,Credit One,449.69,0,9031,Credit Card,P,Y,Celi
-7/7/2023,Credit One,304.95,0,9031,Credit Card,P,Y,Celi
-7/27/2023,Credit One,474.95,0,9031,Credit Card,P,Y,Celi
+7/6/2023,American Express,380.68,0,9031,Credit Card,P,Y,Celi
+7/6/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
+7/6/2023,Crate & Barrel,141,0,0,Credit Card,B,Y,Na
 7/6/2023,Fee,131.12,0,0,Fee,B,N,Na
 7/6/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N,Na
 7/6/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N,Na
@@ -2122,10 +2122,10 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/6/2023,Walgreens,27.99,0,3341,Medical,P,N,Salvador
 7/6/2023,AT&T,174.68,0,1,Phones/Internet,B,Y,Martha
 7/6/2023,Deposit,0,4650,0,Revenue,B,N,Na
+7/7/2023,American Express,401.5,0,9031,Credit Card,P,Y,Celi
+7/7/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
+7/7/2023,Credit One,304.95,0,9031,Credit Card,P,Y,Celi
 7/7/2023,Rent a Car,127.29,0,0,Auto Maintenance,B,N,Na
-1/13/2023,Discover,186.56,0,9031,Credit Card,P,Y,Celi
-1/17/2023,Discover,500,0,9031,Credit Card,P,Y,Celi
-1/26/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 7/7/2023,Shell Service,60.02,0,2675,Gas,B,N,Blake
 7/7/2023,H and R Grocery,75.92,0,3341,Groceries,P,N,Salvador
 7/7/2023,Check,400,0,0,Labor,B,N,Na
@@ -2217,8 +2217,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/10/2023,Check,1165.38,0,0,Labor,B,N,Na
 7/10/2023,Deposit,0,786.98,0,Revenue,B,N,Na
 7/10/2023,Withdrawal Cash,1087,0,0,Withdrawal,B,N,Na
-2/13/2023,Discover,287.83,0,9031,Credit Card,P,Y,Celi
-2/15/2023,Discover,500,0,9031,Credit Card,P,Y,Celi
+7/11/2023,American Express,401.53,0,9031,Credit Card,P,Y,Celi
+7/11/2023,American Express,398,0,1,Credit Card,B,Y,Martha
 7/11/2023,Fee,1.83,0,718,Fee,B,N,Symantha
 7/11/2023,DJS Food and Gas,10.74,0,2675,Gas,B,N,Blake
 7/11/2023,H-E-B #,217,0,9031,Groceries,P,N,Celi
@@ -2234,7 +2234,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/12/2023,RBFCU,429.99,0,9031,Loan,P,Y,Celi
 7/12/2023,Deposit,0,2048.88,1,Revenue,B,N,Martha
 7/12/2023,Apple,7.57,0,9031,Software,P,Y,Celi
-2/22/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 7/13/2023,Doordash,27,0,9031,Food,P,N,Celi
 7/13/2023,Pedrosos Pizza,10.66,0,9031,Food,P,N,Celi
 7/13/2023,Chevron,136.76,0,0,Gas,B,N,Na
@@ -2252,6 +2251,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/13/2023,Withdrawal Cash,3500,0,0,Withdrawal,B,N,Na
 7/13/2023,Withdrawal Cash,500,0,0,Withdrawal,B,N,Na
 7/13/2023,Withdrawal Cash,2000,0,0,Withdrawal,B,N,Na
+7/13/2023,Discover,465.99,0,9031,Credit Card,P,Y,Celi
 7/14/2023,Fee,34,0,0,Fee,B,N,Na
 7/14/2023,Fee,34,0,0,Fee,B,N,Na
 7/14/2023,Fee,34,0,0,Fee,B,N,Na
@@ -2302,9 +2302,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/16/2023,Fee,34,0,0,Fee,B,N,Na
 7/16/2023,Reids Cleaners,23.51,0,9031,Recreational,P,N,Celi
 7/16/2023,Home Depot,144.65,0,0,Supplies,B,N,Na
-3/15/2023,Discover,484.86,0,9031,Credit Card,P,Y,Celi
-3/15/2023,Discover,486.32,0,9031,Credit Card,P,Y,Celi
-3/24/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
+7/17/2023,Capital One,500,0,9031,Credit Card,P,Y,Celi
+7/17/2023,Capital One,500,0,9031,Credit Card,P,Y,Celi
+7/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y,Celi
 7/17/2023,Fee,34,0,0,Fee,B,N,Na
 7/17/2023,Doordash,13.39,0,9031,Food,P,N,Celi
 7/17/2023,7-eleven,110.09,0,0,Gas,B,N,Na
@@ -2321,8 +2321,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/17/2023,Home Depot,21.73,0,0,Supplies,B,N,Na
 7/17/2023,Home Depot,139.25,0,9031,Supplies,B,N,Celi
 7/17/2023,TxTag,20,0,9031,Toll,B,N,Celi
-4/13/2023,Discover,500,0,9031,Credit Card,P,Y,Celi
-4/24/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
+7/18/2023,Citi,457.95,0,0,Credit Card,B,Y,Na
+7/18/2023,Citi,29,0,0,Credit Card,B,Y,Na
 7/18/2023,Check,1373.02,0,0,Labor,B,N,Na
 7/18/2023,7-eleven,53.48,0,2679,Gas,B,N,Michel
 7/18/2023,7-eleven,11.89,0,2679,Gas,B,N,Michel
@@ -2424,8 +2424,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/23/2023,Apple,30.28,0,9031,Software,P,Y,Celi
 7/23/2023,Home Depot,196.45,0,0,Supplies,B,N,Na
 7/23/2023,ATM,120,0,0,Withdrawal,B,N,Na
-5/17/2023,Discover,495,0,9031,Credit Card,P,Y,Celi
-5/23/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
+7/24/2023,American Express,485.52,0,9031,Credit Card,P,Y,Celi
 7/24/2023,Burpy Market,28.71,0,2675,Gas,B,N,Blake
 7/24/2023,Express Food Mart,110.3,0,2675,Gas,B,N,Blake
 7/24/2023,Costco,218.37,0,9031,Groceries,P,N,Celi
@@ -2439,6 +2438,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/24/2023,Sunbit,204.42,0,9031,Medical,P,N,Celi
 7/24/2023,Savings,1000,0,0,Savings,B,N,Na
 7/24/2023,Apple,108.24,0,9031,Software,P,Y,Celi
+7/24/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
 7/25/2023,7-eleven,17.12,0,2675,Gas,B,N,Blake
 7/25/2023,H-E-B #,285.14,0,9031,Groceries,P,N,Celi
 7/25/2023,BBB,80,0,2679,Marketing,B,Y,Michel
@@ -2453,7 +2453,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 7/26/2023,Apple,9.99,0,9031,Software,P,Y,Celi
 7/26/2023,Apple,43.28,0,9031,Software,P,Y,Celi
 7/26/2023,City of Cedar Park,156.91,0,1,Utilities,B,Y,Martha
-6/13/2023,Discover,495.79,0,9031,Credit Card,P,Y,Celi
+7/27/2023,Credit One,474.95,0,9031,Credit Card,P,Y,Celi
 7/27/2023,Overdrawn Fee,34,0,0,Fee,B,N,Na
 7/27/2023,7-eleven,77.92,0,9031,Gas,B,N,Celi
 7/27/2023,7-eleven,106.94,0,9031,Gas,B,N,Celi
@@ -2529,8 +2529,8 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 8/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N,Na
 8/1/2023,HP Instant Ink,12.98,0,1,Supplies,B,N,Martha
 8/2/2023,H-E-B #,145.57,0,9031,Groceries,P,N,Celi
-6/22/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
-7/13/2023,Discover,465.99,0,9031,Credit Card,P,Y,Celi
+8/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y,Martha
+8/3/2023,Capital One,400,0,9031,Credit Card,P,Y,Celi
 8/3/2023,Fee,272.32,0,0,Fee,B,N,Na
 8/3/2023,7-eleven,61.36,0,9031,Gas,B,N,Celi
 8/3/2023,Check,3675,0,0,Labor,B,N,Na
@@ -2544,7 +2544,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly,Name
 8/3/2023,Deposit,0,7972.53,0,Revenue,B,N,Na
 8/3/2023,Amazon,16.23,0,9031,Supplies,B,N,Celi
 8/3/2023,Withdrawal Cash,6985,0,0,Withdrawal,B,N,Na
-7/24/2023,Discover,656.2,0,0,Credit Card,B,Y,Na
+8/4/2023,Citi,63.76,0,0,Credit Card,B,Y,Na
 8/4/2023,Fee,34,0,0,Fee,B,N,Na
 8/4/2023,7-eleven,119.92,0,2675,Gas,B,N,Blake
 8/4/2023,7-eleven,38.78,0,0,Gas,B,N,Na
