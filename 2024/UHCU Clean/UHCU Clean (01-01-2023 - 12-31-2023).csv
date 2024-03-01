@@ -1,0 +1,3809 @@
+Date,Description,Debit,Credit,Cards,Purchase Type,Transaction Type,Monthly
+3/4/2023,7 Days Food Store,35.08,0,1,Groceries,P,N
+12/20/2023,7-eleven,24.65,0,7767,Gas,B,N
+12/18/2023,7-eleven,47.6,0,7767,Gas,B,N
+12/14/2023,7-eleven,15.68,0,7805,Gas,B,N
+12/14/2023,7-eleven,57.38,0,7767,Gas,B,N
+12/9/2023,7-eleven,47.34,0,7767,Gas,B,N
+12/5/2023,7-eleven,41.94,0,7767,Gas,B,N
+12/5/2023,7-eleven,45.18,0,7767,Gas,B,N
+11/27/2023,7-eleven,95.87,0,7767,Gas,B,N
+11/27/2023,7-eleven,47.79,0,7767,Gas,B,N
+11/17/2023,7-eleven,52.05,0,7767,Gas,B,N
+11/9/2023,7-eleven,30,0,7767,Gas,B,N
+11/7/2023,7-eleven,12.92,0,7767,Gas,B,N
+11/7/2023,7-eleven,98.36,0,7767,Gas,B,N
+11/6/2023,7-eleven,47.72,0,7767,Gas,B,N
+11/3/2023,7-eleven,30,0,7767,Gas,B,N
+11/2/2023,7-eleven,69.93,0,7767,Gas,B,N
+10/31/2023,7-eleven,106.61,0,7767,Gas,B,N
+10/31/2023,7-eleven,21.45,0,7767,Gas,B,N
+10/30/2023,7-eleven,34.15,0,7767,Gas,B,N
+10/27/2023,7-eleven,86.02,0,718,Gas,B,N
+10/23/2023,7-eleven,55.21,0,940,Gas,B,N
+10/23/2023,7-eleven,24.26,0,7767,Gas,B,N
+10/19/2023,7-eleven,47.73,0,7805,Gas,B,N
+10/18/2023,7-eleven,45,0,718,Gas,B,N
+10/11/2023,7-eleven,109.88,0,2679,Gas,B,N
+10/11/2023,7-eleven,31.71,0,7767,Gas,B,N
+10/11/2023,7-eleven,49.07,0,7767,Gas,B,N
+10/10/2023,7-eleven,12.93,0,7767,Gas,B,N
+10/9/2023,7-eleven,41.51,0,1,Gas,B,N
+10/6/2023,7-eleven,52.07,0,940,Gas,B,N
+10/5/2023,7-eleven,35.2,0,7805,Gas,B,N
+10/5/2023,7-eleven,76.34,0,7805,Gas,B,N
+10/4/2023,7-eleven,104.65,0,2679,Gas,B,N
+10/4/2023,7-eleven,12.29,0,2679,Gas,B,N
+10/4/2023,7-eleven,60.27,0,2679,Gas,B,N
+10/4/2023,7-eleven,11.59,0,2679,Gas,B,N
+10/4/2023,7-eleven,39.01,0,7805,Gas,B,N
+9/29/2023,7-eleven,55.09,0,718,Gas,B,N
+9/26/2023,7-eleven,41.47,0,718,Gas,B,N
+9/25/2023,7-eleven,47.25,0,718,Gas,B,N
+9/11/2023,7-eleven,45.03,0,718,Gas,B,N
+9/11/2023,7-eleven,43.33,0,2679,Gas,B,N
+9/3/2023,7-eleven,58.57,0,2679,Gas,B,N
+8/31/2023,7-eleven,58.03,0,718,Gas,B,N
+8/27/2023,7-eleven,58.4,0,2679,Gas,B,N
+8/25/2023,7-eleven,40.83,0,718,Gas,B,N
+8/24/2023,7-eleven,113.75,0,2679,Gas,B,N
+8/20/2023,7-eleven,56.56,0,2679,Gas,B,N
+8/18/2023,7-eleven,33.01,0,0,Gas,B,N
+8/14/2023,7-eleven,33.05,0,2679,Gas,B,N
+8/10/2023,7-eleven,71.87,0,1,Gas,B,N
+8/9/2023,7-eleven,41.39,0,2675,Gas,B,N
+8/9/2023,7-eleven,57.4,0,2675,Gas,B,N
+8/8/2023,7-eleven,51.47,0,2679,Gas,B,N
+10/2/2023,7-eleven,46.8,0,7805,Gas,B,N
+9/27/2023,7-eleven,106.98,0,7805,Gas,B,N
+9/27/2023,7-eleven,27.31,0,7805,Gas,B,N
+9/25/2023,7-eleven,69.24,0,940,Gas,B,N
+9/22/2023,7-eleven,41.59,0,7767,Gas,B,N
+9/21/2023,7-eleven,126.13,0,7805,Gas,B,N
+9/20/2023,7-eleven,42.95,0,7805,Gas,B,N
+9/16/2023,7-eleven,25.42,0,7805,Gas,B,N
+9/11/2023,7-eleven,62.6,0,940,Gas,B,N
+9/10/2023,7-eleven,120,0,7767,Gas,B,N
+9/10/2023,7-eleven,25.42,0,7767,Gas,B,N
+9/8/2023,7-eleven,35.08,0,7805,Gas,B,N
+9/5/2023,7-eleven,49.33,0,7805,Gas,B,N
+9/4/2023,7-eleven,63.44,0,7767,Gas,B,N
+8/31/2023,7-eleven,45.61,0,7767,Gas,B,N
+8/30/2023,7-eleven,42.99,0,7767,Gas,B,N
+1/1/2023,7-eleven,52.03,0,1,Gas,B,N
+1/3/2023,7-eleven,0.22,0,2675,Gas,B,N
+1/3/2023,7-eleven,51.82,0,2675,Gas,B,N
+1/3/2023,7-eleven,12.44,0,3341,Gas,B,N
+1/5/2023,7-eleven,61.35,0,3341,Gas,B,N
+1/11/2023,7-eleven,15.89,0,3341,Gas,B,N
+1/12/2023,7-eleven,88.64,0,2675,Gas,B,N
+1/13/2023,7-eleven,39.36,0,3341,Gas,B,N
+1/14/2023,7-eleven,115.32,0,9031,Gas,B,N
+1/16/2023,7-eleven,42.89,0,718,Gas,B,N
+1/16/2023,7-eleven,54.62,0,2675,Gas,B,N
+1/16/2023,7-eleven,62.19,0,3341,Gas,B,N
+1/16/2023,7-eleven,7.33,0,9031,Gas,B,N
+1/16/2023,7-eleven,66.31,0,2675,Gas,B,N
+1/17/2023,7-eleven,34.81,0,3341,Gas,B,N
+1/18/2023,7-eleven,0.77,0,2675,Gas,B,N
+1/24/2023,7-eleven,29.47,0,9031,Gas,B,N
+1/25/2023,7-eleven,62.11,0,718,Gas,B,N
+1/26/2023,7-eleven,81.67,0,3341,Gas,B,N
+1/27/2023,7-eleven,15.82,0,9031,Gas,B,N
+1/29/2023,7-eleven,40.55,0,9031,Gas,B,N
+1/29/2023,7-eleven,28.82,0,9031,Gas,B,N
+1/30/2023,7-eleven,95.73,0,2675,Gas,B,N
+2/3/2023,7-eleven,56.36,0,3341,Gas,B,N
+2/9/2023,7-eleven,148.73,0,9031,Gas,B,N
+2/13/2023,7-eleven,28.94,0,3341,Gas,B,N
+2/14/2023,7-eleven,63.28,0,9031,Gas,B,N
+2/14/2023,7-eleven,36.54,0,2679,Gas,B,N
+2/20/2023,7-eleven,38.15,0,718,Gas,B,N
+2/21/2023,7-eleven,51.96,0,1,Gas,B,N
+2/23/2023,7-eleven,95.64,0,2675,Gas,B,N
+2/27/2023,7-eleven,10.87,0,2675,Gas,B,N
+3/1/2023,7-eleven,56.14,0,2679,Gas,B,N
+3/7/2023,7-eleven,30.81,0,2679,Gas,B,N
+3/10/2023,7-eleven,66.86,0,9031,Gas,B,N
+3/20/2023,7-eleven,66.01,0,9031,Gas,B,N
+3/20/2023,7-eleven,38.26,0,2679,Gas,B,N
+3/22/2023,7-eleven,39.12,0,1,Gas,B,N
+3/24/2023,7-eleven,90.94,0,2675,Gas,B,N
+3/27/2023,7-eleven,12.52,0,9031,Gas,B,N
+3/30/2023,7-eleven,61.02,0,1,Gas,B,N
+3/31/2023,7-eleven,76,0,3341,Gas,B,N
+4/1/2023,7-eleven,27.49,0,9031,Gas,B,N
+4/3/2023,7-eleven,41.23,0,3341,Gas,B,N
+4/3/2023,7-eleven,105,0,2675,Gas,B,N
+4/7/2023,7-eleven,54.21,0,1,Gas,B,N
+4/10/2023,7-eleven,38.56,0,718,Gas,B,N
+4/11/2023,7-eleven,48.83,0,9031,Gas,B,N
+4/11/2023,7-eleven,58.94,0,9031,Gas,B,N
+4/12/2023,7-eleven,61.9,0,3341,Gas,B,N
+4/14/2023,7-eleven,115.47,0,2675,Gas,B,N
+4/16/2023,7-eleven,31.84,0,1,Gas,B,N
+4/18/2023,7-eleven,38.99,0,2675,Gas,B,N
+4/20/2023,7-eleven,81.38,0,2675,Gas,B,N
+4/21/2023,7-eleven,29.79,0,3341,Gas,B,N
+4/24/2023,7-eleven,52.72,0,2675,Gas,B,N
+4/25/2023,7-eleven,52.58,0,3341,Gas,B,N
+4/26/2023,7-eleven,47.12,0,718,Gas,B,N
+4/26/2023,7-eleven,51.41,0,3341,Gas,B,N
+4/28/2023,7-eleven,25.16,0,2675,Gas,B,N
+4/29/2023,7-eleven,59.69,0,3341,Gas,B,N
+5/1/2023,7-eleven,40.15,0,3341,Gas,B,N
+5/1/2023,7-eleven,39.54,0,3341,Gas,B,N
+5/4/2023,7-eleven,55.85,0,2679,Gas,B,N
+5/5/2023,7-eleven,4.44,0,3341,Gas,B,N
+5/5/2023,7-eleven,103.61,0,2675,Gas,B,N
+5/5/2023,7-eleven,56.57,0,9031,Gas,B,N
+5/6/2023,7-eleven,75.59,0,3341,Gas,B,N
+5/6/2023,7-eleven,4.33,0,3341,Gas,B,N
+5/7/2023,7-eleven,64.04,0,1,Gas,B,N
+5/7/2023,7-eleven,11.3,0,1,Gas,B,N
+5/7/2023,7-eleven,41.9,0,3341,Gas,B,N
+5/9/2023,7-eleven,97.96,0,2675,Gas,B,N
+5/13/2023,7-eleven,60.07,0,3341,Gas,B,N
+5/13/2023,7-eleven,17.85,0,3341,Gas,B,N
+5/16/2023,7-eleven,57.7,0,2675,Gas,B,N
+5/16/2023,7-eleven,47.19,0,2679,Gas,B,N
+5/17/2023,7-eleven,30.83,0,3341,Gas,B,N
+5/19/2023,7-eleven,52.44,0,3341,Gas,B,N
+5/20/2023,7-eleven,12.89,0,2679,Gas,B,N
+5/20/2023,7-eleven,33.91,0,0,Gas,B,N
+5/22/2023,7-eleven,85.79,0,2675,Gas,B,N
+5/23/2023,7-eleven,65.94,0,9031,Gas,B,N
+5/23/2023,7-eleven,38.02,0,9031,Gas,B,N
+5/25/2023,7-eleven,56.49,0,2679,Gas,B,N
+5/26/2023,7-eleven,106.62,0,2675,Gas,B,N
+5/26/2023,7-eleven,35.09,0,2679,Gas,B,N
+5/28/2023,7-eleven,42.15,0,0,Gas,B,N
+5/30/2023,7-eleven,29.66,0,0,Gas,B,N
+6/1/2023,7-eleven,11.3,0,0,Gas,B,N
+6/1/2023,7-eleven,11.9,0,0,Gas,B,N
+6/8/2023,7-eleven,24.42,0,9031,Gas,B,N
+6/8/2023,7-eleven,58.01,0,2675,Gas,B,N
+6/10/2023,7-eleven,46.83,0,2679,Gas,B,N
+6/13/2023,7-eleven,22.42,0,2679,Gas,B,N
+6/14/2023,7-eleven,37.24,0,2675,Gas,B,N
+6/15/2023,7-eleven,51.67,0,2675,Gas,B,N
+6/15/2023,7-eleven,114.81,0,2675,Gas,B,N
+6/16/2023,7-eleven,65.27,0,9031,Gas,B,N
+6/21/2023,7-eleven,19.38,0,0,Gas,B,N
+6/21/2023,7-eleven,58.16,0,2675,Gas,B,N
+6/22/2023,7-eleven,35.36,0,2675,Gas,B,N
+6/22/2023,7-eleven,51.84,0,2679,Gas,B,N
+6/26/2023,7-eleven,60.59,0,2675,Gas,B,N
+7/3/2023,7-eleven,51.56,0,2675,Gas,B,N
+7/6/2023,7-eleven,40.95,0,2679,Gas,B,N
+7/6/2023,7-eleven,11.59,0,2679,Gas,B,N
+7/9/2023,7-eleven,67,0,9031,Gas,B,N
+7/9/2023,7-eleven,36.73,0,718,Gas,B,N
+7/10/2023,7-eleven,71.17,0,1,Gas,B,N
+7/10/2023,7-eleven,35.17,0,718,Gas,B,N
+7/10/2023,7-eleven,12.59,0,718,Gas,B,N
+7/10/2023,7-eleven,39.79,0,718,Gas,B,N
+7/12/2023,7-eleven,57.74,0,2675,Gas,B,N
+7/14/2023,7-eleven,11.9,0,0,Gas,B,N
+7/14/2023,7-eleven,45.51,0,2679,Gas,B,N
+7/14/2023,7-eleven,12.59,0,2679,Gas,B,N
+7/17/2023,7-eleven,110.09,0,0,Gas,B,N
+7/18/2023,7-eleven,53.48,0,2679,Gas,B,N
+7/18/2023,7-eleven,11.89,0,2679,Gas,B,N
+7/19/2023,7-eleven,39.18,0,2675,Gas,B,N
+7/25/2023,7-eleven,17.12,0,2675,Gas,B,N
+7/27/2023,7-eleven,77.92,0,9031,Gas,B,N
+7/27/2023,7-eleven,106.94,0,9031,Gas,B,N
+7/28/2023,7-eleven,58.99,0,2675,Gas,B,N
+7/28/2023,7-eleven,116.22,0,2675,Gas,B,N
+8/1/2023,7-eleven,53.54,0,0,Gas,B,N
+8/1/2023,7-eleven,55.77,0,0,Gas,B,N
+8/1/2023,7-eleven,12.36,0,2675,Gas,B,N
+8/3/2023,7-eleven,61.36,0,9031,Gas,B,N
+8/4/2023,7-eleven,119.92,0,2675,Gas,B,N
+8/4/2023,7-eleven,38.78,0,0,Gas,B,N
+9/30/2023,A & A Automechanic,1474.91,0,0,Auto Maintenance,B,N
+12/16/2023,A & A Automechanic,125,0,7805,Auto Maintenance,B,N
+10/11/2023,A & A Automechanic,150,0,1,Auto Maintenance,B,N
+10/1/2023,A & A Automechanic,1474.91,0,7805,Auto Maintenance,B,N
+10/21/2023,ABC,181.88,0,7767,Professional Service,B,N
+4/6/2023,ABC,181.88,0,2679,Professional Service,B,N
+6/9/2023,ABC,90.88,0,2679,Professional Service,B,N
+6/23/2023,Academy Sports,63.68,0,0,Supplies,B,N
+9/23/2023,Acceptance Insurance,189.01,0,7805,Insurance,B,Y
+12/9/2023,Adobe Acropro,21.64,0,7805,Software,B,Y
+10/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+9/12/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+8/8/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+1/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+2/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+3/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+4/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+5/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+6/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+7/9/2023,Adobe Acropro,21.64,0,718,Software,B,Y
+11/9/2023,Adobe Inc,21.64,0,7805,Software,B,Y
+8/7/2023,Adobe Inc,21.64,0,718,Software,B,Y
+9/23/2023,Advance Auto Parts,73.67,0,7805,Auto Maintenance,B,Y
+5/2/2023,Advance Auto Parts,9.19,0,3341,Auto Maintenance,B,N
+12/19/2023,Advance Auto Parts,0,59.93,7805,Auto Maintenance,B,N
+12/16/2023,Advance Auto Parts,0,11.05,7805,Auto Maintenance,B,N
+12/15/2023,Advance Auto Parts,96.95,0,7805,Auto Maintenance,B,N
+8/6/2023,Air California Adventure,17.35,0,9031,Recreational,P,N
+6/28/2023,Aircraft Spruce and Spec,84.95,0,2675,Supplies,B,N
+2/3/2023,Alamo Specialty Pharmacy,37.99,0,9031,Medical,P,N
+3/28/2023,Alamo Specialty Pharmacy,25,0,9031,Medical,P,N
+6/15/2023,Alamo Specialty Pharmacy,128,0,9031,Medical,P,N
+6/20/2023,Alamo Specialty Pharmacy,25,0,9031,Medical,P,N
+7/7/2023,Alamo Specialty Pharmacy,9.17,0,9031,Medical,P,N
+12/4/2023,Allstate,67.82,0,7805,Insurance,P,Y
+12/4/2023,Allstate,54.58,0,7805,Insurance,P,Y
+12/4/2023,Allstate,987.11,0,7805,Insurance,P,Y
+11/4/2023,Allstate,54.63,0,7805,Insurance,P,Y
+11/4/2023,Allstate,67.84,0,7805,Insurance,P,Y
+11/4/2023,Allstate,993.9,0,7805,Insurance,P,Y
+10/9/2023,Allstate,938.27,0,7805,Insurance,P,Y
+10/9/2023,Allstate,53.69,0,7805,Insurance,P,Y
+10/9/2023,Allstate,51.41,0,7805,Insurance,P,Y
+9/6/2023,Allstate,51.41,0,7805,Insurance,P,Y
+9/6/2023,Allstate,53.69,0,7805,Insurance,P,Y
+9/6/2023,Allstate,938.27,0,7805,Insurance,P,Y
+1/30/2023,Allstate,1402.26,0,1,Insurance,P,Y
+1/30/2023,Allstate,182.07,0,1,Insurance,P,Y
+3/20/2023,Allstate,1402.26,0,1,Insurance,P,Y
+3/20/2023,Allstate,117.38,0,1,Insurance,P,Y
+5/22/2023,Allstate,1893.33,0,1,Insurance,P,Y
+5/22/2023,Allstate,117.38,0,1,Insurance,P,Y
+5/23/2023,Allstate,112.82,0,1,Insurance,P,Y
+12/27/2023,Ally,509.98,0,0,Loan,B,Y
+11/28/2023,Ally,509.98,0,0,Loan,B,Y
+10/27/2023,Ally,509.98,0,0,Loan,B,Y
+9/27/2023,Ally,509.98,0,0,Loan,B,Y
+8/29/2023,Ally,509.98,0,0,Loan,B,Y
+1/27/2023,Ally,509.98,0,0,Loan,B,Y
+2/28/2023,Ally,509.98,0,0,Loan,B,Y
+3/28/2023,Ally,509.98,0,0,Loan,B,Y
+4/27/2023,Ally,509.98,0,0,Loan,B,Y
+5/30/2023,Ally,509.98,0,0,Loan,B,Y
+6/30/2023,Ally,509.98,0,0,Loan,B,Y
+7/27/2023,Ally,509.98,0,0,Loan,B,Y
+12/14/2023,Amazon,213.9,0,0718,Supplies,B,N
+12/14/2023,Amazon,183.58,0,0718,Supplies,B,N
+12/12/2023,Amazon,136.34,0,7767,Supplies,B,N
+12/12/2023,Amazon,155.77,0,7805,Supplies,B,N
+12/8/2023,Amazon,43.29,0,7767,Supplies,B,N
+12/1/2023,Amazon,612.58,0,7767,Supplies,B,N
+11/28/2023,Amazon,612.58,0,0,Supplies,B,N
+10/20/2023,Amazon,61.23,0,7767,Supplies,B,N
+10/20/2023,Amazon,93.07,0,7767,Supplies,B,N
+9/23/2023,Amazon,193.77,0,1,Supplies,B,N
+8/29/2023,Amazon,38.96,0,718,Supplies,B,N
+8/27/2023,Amazon,60.62,0,718,Supplies,B,N
+8/29/2023,Amazon,1077,0,7805,Supplies,B,N
+1/15/2023,Amazon,43.29,0,9031,Supplies,B,N
+1/15/2023,Amazon,46.53,0,9031,Supplies,B,N
+1/17/2023,Amazon,21.63,0,9031,Supplies,B,N
+4/3/2023,Amazon,16.23,0,9031,Supplies,B,N
+4/25/2023,Amazon,28.13,0,9031,Supplies,B,N
+4/28/2023,Amazon,16.18,0,9031,Supplies,B,N
+5/3/2023,Amazon,16.23,0,9031,Supplies,B,N
+5/9/2023,Amazon,45.43,0,9031,Supplies,B,N
+5/10/2023,Amazon,189.66,0,9031,Supplies,B,N
+5/10/2023,Amazon,8.76,0,9031,Supplies,B,N
+5/11/2023,Amazon,8.61,0,9031,Supplies,B,N
+5/11/2023,Amazon,37.76,0,9031,Supplies,B,N
+5/11/2023,Amazon,11.9,0,9031,Supplies,B,N
+5/27/2023,Amazon,153.71,0,9031,Supplies,B,N
+5/28/2023,Amazon,16.18,0,9031,Supplies,B,N
+6/3/2023,Amazon,16.23,0,9031,Supplies,B,N
+6/5/2023,Amazon,47.88,0,9031,Supplies,B,N
+6/6/2023,Amazon,9.44,0,9031,Supplies,B,N
+6/6/2023,Amazon,84.39,0,9031,Supplies,B,N
+6/6/2023,Amazon,33.54,0,9031,Supplies,B,N
+6/7/2023,Amazon,22.35,0,9031,Supplies,B,N
+6/16/2023,Amazon,55,0,9031,Supplies,B,N
+6/21/2023,Amazon,108.24,0,9031,Supplies,B,N
+6/24/2023,Amazon,154.75,0,9031,Supplies,B,N
+7/4/2023,Amazon,16.23,0,9031,Supplies,B,N
+7/14/2023,Amazon,33.83,0,9031,Supplies,B,N
+7/14/2023,Amazon,147.41,0,9031,Supplies,B,N
+7/15/2023,Amazon,19.45,0,9031,Supplies,B,N
+7/18/2023,Amazon,193.99,0,9031,Supplies,B,N
+7/28/2023,Amazon,16.18,0,9031,Supplies,B,N
+8/3/2023,Amazon,16.23,0,9031,Supplies,B,N
+10/3/2023,Amercian Bolt Company,131.83,0,7805,Professional Service,B,N
+1/10/2023,Amercian Bolt Company,79.73,0,3341,Professional Service,B,N
+12/6/2023,American Express,572,0,0,Credit Card,P,Y
+10/24/2023,American Express,592,0,0,Credit Card,P,Y
+10/6/2023,American Express,16.18,0,0,Credit Card,P,Y
+8/11/2023,American Express,443.75,0,0,Credit Card,P,Y
+8/11/2023,American Express,398,0,0,Credit Card,P,Y
+8/8/2023,American Express,499.04,0,0,Credit Card,P,Y
+9/26/2023,American Express,583,0,0,Credit Card,P,Y
+8/24/2023,American Express,607,0,0,Credit Card,P,Y
+8/24/2023,American Express,90.36,0,0,Credit Card,P,Y
+1/11/2023,American Express,495.64,0,9031,Credit Card,P,Y
+1/11/2023,American Express,398,0,1,Credit Card,B,Y
+1/24/2023,American Express,329,0,1,Credit Card,P,Y
+1/25/2023,American Express,535.8,0,9031,Credit Card,P,Y
+2/1/2023,American Express,519.5,0,9031,Credit Card,P,Y
+2/13/2023,American Express,520.03,0,9031,Credit Card,P,Y
+2/13/2023,American Express,398,0,1,Credit Card,B,Y
+2/22/2023,American Express,495.74,0,9031,Credit Card,P,Y
+2/22/2023,American Express,329,0,1,Credit Card,P,Y
+3/1/2023,American Express,495.74,0,9031,Credit Card,P,Y
+3/13/2023,American Express,495.74,0,9031,Credit Card,P,Y
+3/13/2023,American Express,398,0,1,Credit Card,B,Y
+3/21/2023,American Express,292.55,0,9031,Credit Card,P,Y
+3/23/2023,American Express,329,0,1,Credit Card,P,Y
+4/3/2023,American Express,492.64,0,9031,Credit Card,P,Y
+4/11/2023,American Express,492.98,0,9031,Credit Card,P,Y
+4/11/2023,American Express,398,0,1,Credit Card,B,Y
+4/24/2023,American Express,554.27,0,9031,Credit Card,P,Y
+4/24/2023,American Express,329,0,1,Credit Card,P,Y
+5/11/2023,American Express,572.02,0,9031,Credit Card,P,Y
+5/11/2023,American Express,398,0,1,Credit Card,B,Y
+5/22/2023,American Express,575.89,0,9031,Credit Card,P,Y
+5/22/2023,American Express,329,0,1,Credit Card,P,Y
+6/5/2023,American Express,584.97,0,9031,Credit Card,P,Y
+6/12/2023,American Express,585.87,0,9031,Credit Card,P,Y
+6/12/2023,American Express,398,0,1,Credit Card,B,Y
+6/22/2023,American Express,803.03,0,9031,Credit Card,P,Y
+6/22/2023,American Express,329,0,1,Credit Card,P,Y
+7/6/2023,American Express,380.68,0,9031,Credit Card,P,Y
+7/7/2023,American Express,401.5,0,9031,Credit Card,P,Y
+7/11/2023,American Express,401.53,0,9031,Credit Card,P,Y
+7/11/2023,American Express,398,0,1,Credit Card,B,Y
+7/24/2023,American Express,485.52,0,9031,Credit Card,P,Y
+12/29/2023,American General,134.89,0,0,Insurance,B,Y
+9/29/2023,American General,134.89,0,0,Insurance,B,Y
+3/29/2023,American General,134.89,0,1,Insurance,B,Y
+6/29/2023,American General,134.89,0,1,Insurance,B,Y
+4/26/2023,Amtrust North America Inc,1831,0,718,Insurance,B,N
+4/30/2023,Amys China Cuisine,69.13,0,9031,Food,P,N
+12/18/2023,Apple,16.23,0,7767,Software,P,Y
+12/7/2023,Apple,2.99,0,7767,Software,P,Y
+11/18/2023,Apple,16.23,0,7767,Software,P,Y
+11/5/2023,Apple,2.99,0,7767,Software,P,Y
+10/16/2023,Apple,16.23,0,7767,Software,P,Y
+10/5/2023,Apple,2.99,0,7767,Software,P,Y
+8/21/2023,Apple,10.81,0,2675,Software,P,Y
+8/20/2023,Apple,7.57,0,2675,Software,P,Y
+8/20/2023,Apple,11.9,0,2675,Software,P,Y
+8/11/2023,Apple,21.64,0,9031,Software,P,Y
+8/11/2023,Apple,7.57,0,9031,Software,P,Y
+8/8/2023,Apple,21.64,0,9031,Software,P,Y
+9/6/2023,Apple,2.99,0,7767,Software,P,Y
+8/30/2023,Apple,16.23,0,7767,Software,P,Y
+1/1/2023,Apple,14.06,0,718,Software,B,Y
+1/5/2023,Apple,2.99,0,718,Software,B,Y
+1/8/2023,Apple,8.65,0,9031,Software,P,Y
+1/11/2023,Apple,7.57,0,9031,Software,P,Y
+1/26/2023,Apple,9.99,0,9031,Software,P,Y
+1/26/2023,Apple,7.57,0,9031,Software,P,Y
+1/26/2023,Apple,11.9,0,9031,Software,P,Y
+1/31/2023,Apple,31.36,0,9031,Software,P,Y
+2/2/2023,Apple,14.06,0,718,Software,B,Y
+2/9/2023,Apple,2.99,0,718,Software,B,Y
+2/11/2023,Apple,7.57,0,9031,Software,P,Y
+2/20/2023,Apple,22.71,0,9031,Software,P,Y
+2/24/2023,Apple,7.57,0,9031,Software,P,Y
+2/26/2023,Apple,9.99,0,9031,Software,P,Y
+3/4/2023,Apple,14.06,0,718,Software,B,Y
+3/4/2023,Apple,31.36,0,9031,Software,P,Y
+3/6/2023,Apple,2.99,0,718,Software,B,Y
+3/11/2023,Apple,7.57,0,9031,Software,P,Y
+3/23/2023,Apple,19.47,0,9031,Software,P,Y
+3/26/2023,Apple,9.99,0,9031,Software,P,Y
+3/27/2023,Apple,15.13,0,9031,Software,P,Y
+3/29/2023,Apple,14.06,0,718,Software,B,Y
+3/30/2023,Apple,16.23,0,9031,Software,P,Y
+4/5/2023,Apple,2.99,0,718,Software,B,Y
+4/6/2023,Apple,96.34,0,9031,Software,P,Y
+4/11/2023,Apple,7.57,0,9031,Software,P,Y
+4/21/2023,Apple,41.11,0,9031,Software,P,Y
+4/23/2023,Apple,92,0,9031,Software,P,Y
+4/24/2023,Apple,5.4,0,718,Software,B,Y
+4/26/2023,Apple,9.99,0,9031,Software,P,Y
+4/30/2023,Apple,14.06,0,718,Software,B,Y
+5/1/2023,Apple,33.35,0,9031,Software,P,Y
+5/5/2023,Apple,2.99,0,718,Software,B,Y
+5/11/2023,Apple,7.57,0,9031,Software,P,Y
+5/20/2023,Apple,5.4,0,718,Software,B,Y
+5/20/2023,Apple,21.64,0,9031,Software,P,Y
+5/20/2023,Apple,11.9,0,9031,Software,P,Y
+5/24/2023,Apple,10,0,9031,Software,P,Y
+5/24/2023,Apple,7.57,0,9031,Software,P,Y
+5/25/2023,Apple,15,0,9031,Software,P,Y
+5/26/2023,Apple,21.64,0,9031,Software,P,Y
+5/26/2023,Apple,9.99,0,9031,Software,P,Y
+5/29/2023,Apple,14.06,0,718,Software,B,Y
+5/30/2023,Apple,33.35,0,9031,Software,P,Y
+6/6/2023,Apple,2.99,0,718,Software,B,Y
+6/11/2023,Apple,7.57,0,9031,Software,P,Y
+6/20/2023,Apple,5.4,0,718,Software,B,Y
+6/20/2023,Apple,4.32,0,9031,Software,P,Y
+6/20/2023,Apple,11.9,0,9031,Software,P,Y
+6/23/2023,Apple,18.38,0,9031,Software,P,Y
+6/25/2023,Apple,9.99,0,9031,Software,P,Y
+6/29/2023,Apple,1.99,0,9031,Software,P,Y
+6/29/2023,Apple,9.73,0,9031,Software,P,Y
+6/29/2023,Apple,5.4,0,9031,Software,P,Y
+6/30/2023,Apple,14.06,0,718,Software,B,Y
+7/4/2023,Apple,16.23,0,9031,Software,P,Y
+7/5/2023,Apple,2.99,0,718,Software,B,Y
+7/12/2023,Apple,7.57,0,9031,Software,P,Y
+7/19/2023,Apple,5.4,0,718,Software,B,Y
+7/22/2023,Apple,14.06,0,718,Software,B,Y
+7/23/2023,Apple,30.28,0,9031,Software,P,Y
+7/24/2023,Apple,108.24,0,9031,Software,P,Y
+7/26/2023,Apple,9.99,0,9031,Software,P,Y
+7/26/2023,Apple,43.28,0,9031,Software,P,Y
+7/30/2023,Apple,14.06,0,718,Software,B,Y
+7/30/2023,Apple,34.43,0,9031,Software,P,Y
+7/31/2023,Apple,100,0,9031,Software,P,Y
+8/5/2023,Apple,2.99,0,718,Software,B,Y
+8/7/2023,Apple,100,0,9031,Software,P,Y
+5/26/2023,Ascension Personalized Care,385.59,0,9031,Medical,P,N
+7/28/2023,Ascension Personalized Care,771.18,0,9031,Medical,P,Y
+12/27/2023,AT&T,489.25,0,0,Phones/Internet,B,Y
+12/20/2023,AT&T,60.54,0,0,Phones/Internet,B,Y
+12/6/2023,AT&T,179.71,0,0,Phones/Internet,B,Y
+11/7/2023,AT&T,179.71,0,0,Phones/Internet,B,Y
+11/28/2023,AT&T,504.3,0,0,Phones/Internet,B,Y
+11/20/2023,AT&T,60.54,0,0,Phones/Internet,B,Y
+11/17/2023,AT&T,80,0,0,Phones/Internet,B,Y
+10/27/2023,AT&T,601.46,0,0,Phones/Internet,B,Y
+10/21/2023,AT&T,60.54,0,1,Phones/Internet,B,Y
+10/17/2023,AT&T,79.58,0,0,Phones/Internet,B,Y
+10/6/2023,AT&T,179.71,0,0,Phones/Internet,B,Y
+9/27/2023,AT&T,831.88,0,0,Phones/Internet,B,Y
+9/18/2023,AT&T,80,0,0,Phones/Internet,B,Y
+9/5/2023,AT&T,179.71,0,0,Phones/Internet,B,Y
+8/28/2023,AT&T,915.23,0,0,Phones/Internet,B,Y
+8/17/2023,AT&T,80.42,0,0,Phones/Internet,B,Y
+1/5/2023,AT&T,74.15,0,1,Phones/Internet,B,Y
+1/14/2023,AT&T,40.84,0,9031,Phones/Internet,B,Y
+1/17/2023,AT&T,80,0,1,Phones/Internet,B,Y
+1/27/2023,AT&T,796.55,0,1,Phones/Internet,B,Y
+2/17/2023,AT&T,80.42,0,1,Phones/Internet,B,Y
+2/19/2023,AT&T,55.73,0,9031,Phones/Internet,B,Y
+2/19/2023,AT&T,111.97,0,9031,Phones/Internet,B,Y
+2/24/2023,AT&T,34.63,0,9031,Phones/Internet,B,Y
+2/27/2023,AT&T,194.6,0,9031,Phones/Internet,B,Y
+2/28/2023,AT&T,803.56,0,1,Phones/Internet,B,Y
+3/8/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
+3/10/2023,AT&T,31.39,0,9031,Phones/Internet,B,Y
+3/11/2023,AT&T,33.55,0,9031,Phones/Internet,B,Y
+3/11/2023,AT&T,102.83,0,9031,Phones/Internet,B,Y
+3/12/2023,AT&T,37.87,0,9031,Phones/Internet,B,Y
+3/21/2023,AT&T,80.42,0,1,Phones/Internet,B,Y
+3/29/2023,AT&T,805.48,0,1,Phones/Internet,B,Y
+4/5/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
+4/15/2023,AT&T,21.89,0,9031,Phones/Internet,B,Y
+4/18/2023,AT&T,80,0,1,Phones/Internet,B,Y
+4/27/2023,AT&T,831.91,0,1,Phones/Internet,B,Y
+5/8/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
+5/13/2023,AT&T,77.83,0,9031,Phones/Internet,B,Y
+5/17/2023,AT&T,80,0,1,Phones/Internet,B,Y
+5/19/2023,AT&T,45.38,0,9031,Phones/Internet,B,Y
+5/29/2023,AT&T,36.53,0,9031,Phones/Internet,B,Y
+5/30/2023,AT&T,818.41,0,1,Phones/Internet,B,Y
+6/6/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
+6/14/2023,AT&T,94.41,0,1,Phones/Internet,B,Y
+6/20/2023,AT&T,80.42,0,1,Phones/Internet,B,Y
+6/29/2023,AT&T,880.63,0,1,Phones/Internet,B,Y
+7/6/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
+7/9/2023,AT&T,45.89,0,1,Phones/Internet,B,Y
+7/18/2023,AT&T,80,0,1,Phones/Internet,B,Y
+7/27/2023,AT&T,812.67,0,1,Phones/Internet,B,Y
+7/28/2023,AT&T,25.03,0,9031,Phones/Internet,B,Y
+8/4/2023,AT&T,174.68,0,1,Phones/Internet,B,Y
+10/22/2023,ATM,160,0,940,Withdrawal,B,N
+9/22/2023,ATM,200,0,7805,Withdrawal,B,N
+1/3/2023,ATM,700,0,9031,Withdrawal,B,N
+1/14/2023,ATM,303.75,0,3341,Withdrawal,B,N
+1/14/2023,ATM,200,0,2675,Withdrawal,B,N
+1/26/2023,ATM,520,0,9031,Withdrawal,B,N
+2/10/2023,ATM,182.5,0,3341,Withdrawal,B,N
+2/10/2023,ATM,200,0,9031,Withdrawal,B,N
+4/3/2023,ATM,200,0,9031,Withdrawal,B,N
+4/3/2023,ATM,200,0,9031,Withdrawal,B,N
+4/3/2023,ATM,315.9,0,0,Withdrawal,B,N
+4/5/2023,ATM,200,0,2675,Withdrawal,B,N
+4/13/2023,ATM,359.66,0,0,Withdrawal,B,N
+4/24/2023,ATM,102.25,0,9031,Withdrawal,B,N
+6/8/2023,ATM,520,0,9031,Withdrawal,B,N
+6/22/2023,ATM,60,0,9031,Withdrawal,B,N
+6/24/2023,ATM,1,0,0,Withdrawal,B,N
+6/24/2023,ATM,203,0,0,Withdrawal,B,N
+6/24/2023,ATM,1,0,0,Withdrawal,B,N
+6/24/2023,ATM,200,0,9031,Withdrawal,B,N
+7/7/2023,ATM,300,0,2675,Withdrawal,B,N
+7/7/2023,ATM,600,0,9031,Withdrawal,B,N
+7/7/2023,ATM,400,0,9031,Withdrawal,B,N
+7/23/2023,ATM,120,0,0,Withdrawal,B,N
+7/30/2023,ATM,600,0,9031,Withdrawal,B,N
+7/30/2023,ATM,800,0,2675,Withdrawal,B,N
+8/9/2023,Austin Airport,60,0,9031,Recreational,P,N
+5/17/2023,Austin Community College,256,0,3341,Recreational,P,N
+9/27/2023,Austin Oil Change,136.11,0,7805,Auto Maintenance,B,N
+9/23/2023,Austin Tire Man,185,0,940,Auto Maintenance,B,N
+6/14/2023,Auto Color,26.3,0,2675,Auto Maintenance,B,N
+5/24/2023,Automechanic Service,841.44,0,1,Auto Maintenance,B,N
+2/28/2023,Automechanic Service,1609.56,0,3341,Auto Maintenance,B,N
+1/10/2023,Autozone,54.1,0,2675,Auto Maintenance,B,N
+5/21/2023,Bahama Bucks,11.89,0,9031,Food,P,N
+12/4/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+11/3/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+10/4/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+9/5/2023,Bank of America,877.05,0,0,Credit Card,B,Y
+1/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+2/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+3/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+4/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+5/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+6/5/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+7/6/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+8/3/2023,Bank of America,877.05,0,1,Credit Card,B,Y
+5/28/2023,Barton Creek Mall,7.83,0,3341,Recreational,P,N
+5/7/2023,Bath and Body Works,65.21,0,9031,Recreational,P,N
+5/27/2023,Baylor Scott & White Health,410.03,0,9031,Medical,P,N
+12/11/2023,BBB,80,0,7767,Marketing,B,Y
+11/11/2023,BBB,80,0,2679,Marketing,B,Y
+10/11/2023,BBB,80,0,2679,Marketing,B,Y
+9/11/2023,BBB,80,0,2679,Marketing,B,Y
+8/11/2023,BBB,80,0,2679,Marketing,B,Y
+1/11/2023,BBB,80,0,3341,Marketing,B,Y
+2/11/2023,BBB,80,0,3341,Marketing,B,Y
+3/11/2023,BBB,80,0,3341,Marketing,B,Y
+4/11/2023,BBB,80,0,3341,Marketing,B,Y
+5/11/2023,BBB,80,0,3341,Marketing,B,Y
+6/20/2023,BBB,80,0,2679,Marketing,B,Y
+7/25/2023,BBB,80,0,2679,Marketing,B,Y
+12/28/2023,Berrett Pest Control,60.62,0,7805,Professional Service,P,Y
+8/26/2023,Berrett Pest Control,60.62,0,1,Professional Service,P,Y
+8/11/2023,Berrett Pest Control,107.17,0,1,Professional Service,P,Y
+4/25/2023,Berrett Pest Control,107.17,0,1,Professional Service,P,Y
+4/25/2023,Berrett Pest Control,64.95,0,1,Professional Service,P,Y
+4/26/2023,Berrett Pest Control,123.41,0,1,Professional Service,P,Y
+5/27/2023,Berrett Pest Control,60.62,0,1,Professional Service,P,Y
+6/6/2023,Berrett Pest Control,107.17,0,1,Professional Service,P,Y
+6/29/2023,Berrett Pest Control,60.62,0,1,Professional Service,P,Y
+7/18/2023,Berrett Pest Control,107.17,0,1,Professional Service,P,Y
+7/26/2023,Berrett Pest Control,60.62,0,1,Professional Service,P,Y
+1/17/2023,Big Red Express,15,0,3341,Auto Maintenance,B,N
+4/28/2023,Boulevard Bagel,35.82,0,3341,Food,P,N
+6/14/2023,Brainly,39,0,9031,Recreational,P,N
+4/24/2023,Breed & Co,6.29,0,3341,Recreational,B,N
+3/18/2023,Buc-ees,25.53,0,9031,Gas,B,N
+3/29/2023,Buc-ees,33.12,0,9031,Gas,B,N
+3/29/2023,Buc-ees,25.8,0,9031,Gas,B,N
+4/11/2023,Buc-ees,33.18,0,2675,Gas,B,N
+5/6/2023,Buc-ees,16.96,0,9031,Gas,B,N
+5/23/2023,Buc-ees,22.6,0,9031,Gas,B,N
+5/31/2023,Buc-ees,12.3,0,9031,Gas,B,N
+6/19/2023,Buc-ees,49.59,0,2675,Gas,B,N
+7/19/2023,Buc-ees,55.02,0,9031,Gas,B,N
+7/19/2023,Buc-ees,31.13,0,9031,Gas,B,N
+7/24/2023,Burpy Market,28.71,0,2675,Gas,B,N
+10/5/2023,Business Insurance,672.5,0,0,Insurance,B,Y
+9/6/2023,Business Insurance,672.5,0,0,Insurance,B,Y
+1/10/2023,Business Insurance,1982.5,0,1,Insurance,B,Y
+3/6/2023,Business Insurance,672.5,0,1,Insurance,B,Y
+4/5/2023,Business Insurance,672.5,0,1,Insurance,B,Y
+5/5/2023,Business Insurance,672.5,0,1,Insurance,B,Y
+6/6/2023,Business Insurance,672.5,0,1,Insurance,B,Y
+7/6/2023,Business Insurance,672.5,0,1,Insurance,B,Y
+8/19/2023,C Store,67.18,0,0,Gas,B,N
+7/3/2023,C Store,75.72,0,2675,Gas,B,N
+7/15/2023,C Store,67.97,0,2675,Gas,B,N
+8/7/2023,Calitea,26.5,0,9031,Food,P,N
+8/15/2023,Capital One,500,0,0,Credit Card,P,Y
+1/3/2023,Capital One,400,0,9031,Credit Card,P,Y
+1/17/2023,Capital One,500,0,9031,Credit Card,P,Y
+2/3/2023,Capital One,400,0,9031,Credit Card,P,Y
+2/15/2023,Capital One,500,0,9031,Credit Card,P,Y
+3/3/2023,Capital One,400,0,9031,Credit Card,P,Y
+3/15/2023,Capital One,500,0,9031,Credit Card,P,Y
+4/4/2023,Capital One,400,0,9031,Credit Card,P,Y
+4/17/2023,Capital One,500,0,9031,Credit Card,P,Y
+5/3/2023,Capital One,400,0,9031,Credit Card,P,Y
+5/16/2023,Capital One,500,0,9031,Credit Card,P,Y
+6/5/2023,Capital One,400,0,9031,Credit Card,P,Y
+6/15/2023,Capital One,500,0,9031,Credit Card,P,Y
+7/17/2023,Capital One,500,0,9031,Credit Card,P,Y
+7/17/2023,Capital One,500,0,9031,Credit Card,P,Y
+8/3/2023,Capital One,400,0,9031,Credit Card,P,Y
+6/14/2023,Channel for Vets,20.8,0,9031,Recreational,P,N
+8/17/2023,Chase Credit,400,0,0,Credit Card,P,Y
+1/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
+2/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
+3/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
+4/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
+5/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
+6/20/2023,Chase Credit,400,0,9031,Credit Card,P,Y
+7/17/2023,Chase Credit,400,0,9031,Credit Card,P,Y
+6/20/2023,Cheba Hut,54.58,0,3341,Food,P,N
+12/30/2023,Check,0,2682.72,0,Labor,B,N
+12/30/2023,Check,2800,0,0,Labor,B,N
+12/30/2023,Check,2195,0,0,Labor,B,N
+12/30/2023,Check,1650,0,0,Labor,B,N
+12/30/2023,Check,2600,0,0,Labor,B,N
+12/30/2023,Check,1685.42,0,0,Labor,B,N
+12/30/2023,Check,1685.42,0,0,Labor,B,N
+12/29/2023,Check,0,3170.66,0,Labor,B,N
+12/29/2023,Check,1685.42,0,0,Labor,B,N
+12/28/2023,Check,1100,0,0,Labor,B,N
+12/27/2023,Check,500,0,0,Labor,B,N
+12/26/2023,Check,0,8768.25,0,Labor,B,N
+12/22/2023,Check,13581.13,0,0,Labor,B,N
+12/22/2023,Check,0,7739.17,0,Labor,B,N
+12/21/2023,Check,200,0,0,Labor,B,N
+12/20/2023,Check,500,0,0,Labor,B,N
+12/20/2023,Check,110,0,0,Labor,B,N
+12/20/2023,Check,300,0,0,Labor,B,N
+12/19/2023,Check,550,0,0,Labor,B,N
+12/19/2023,Check,1663.85,0,0,Labor,B,N
+12/19/2023,Check,300,0,0,Labor,B,N
+12/19/2023,Check,1400,0,0,Labor,B,N
+12/19/2023,Check,1500,0,0,Labor,B,N
+12/19/2023,Check,1500,0,0,Labor,B,N
+12/18/2023,Check,3164.05,0,0,Labor,B,N
+12/18/2023,Check,2520,0,0,Labor,B,N
+12/18/2023,Check,2073,0,0,Labor,B,N
+12/18/2023,Check,1599.15,0,0,Labor,B,N
+12/18/2023,Check,1108.75,0,0,Labor,B,N
+12/18/2023,Check,6250,0,0,Labor,B,N
+12/18/2023,Check,4205,0,0,Labor,B,N
+12/18/2023,Check,369.4,0,0,Labor,B,N
+12/18/2023,Check,277.05,0,0,Labor,B,N
+12/18/2023,Check,1165.39,0,0,Labor,B,N
+12/16/2023,Check,2800,0,0,Labor,B,N
+12/16/2023,Check,0,3164.88,0,Labor,B,N
+12/15/2023,Check,1420,0,0,Labor,B,N
+12/15/2023,Check,4427,0,0,Labor,B,N
+12/15/2023,Check,1568.75,0,0,Labor,B,N
+12/15/2023,Check,3457,0,0,Labor,B,N
+12/15/2023,Check,2150,0,0,Labor,B,N
+12/15/2023,Check,1685.42,0,0,Labor,B,N
+12/15/2023,Check,1283.67,0,0,Labor,B,N
+12/15/2023,Check,1685.42,0,0,Labor,B,N
+12/14/2023,Check,2000,0,0,Labor,B,N
+12/14/2023,Check,2295,0,0,Labor,B,N
+12/13/2023,Check,200,0,0,Labor,B,N
+12/13/2023,Check,1253,0,0,Labor,B,N
+12/13/2023,Check,0,14251.85,0,Labor,B,N
+12/13/2023,Check,0,1624.03,0,Labor,B,N
+12/12/2023,Check,0,7263.58,0,Labor,B,N
+12/6/2023,Check,125,0,0,Labor,B,N
+12/6/2023,Check,0,4727.19,0,Labor,B,N
+12/5/2023,Check,280,0,0,Labor,B,N
+12/5/2023,Check,1906.35,0,0,Labor,B,N
+12/5/2023,Check,2992.05,0,0,Labor,B,N
+12/5/2023,Check,4205,0,0,Labor,B,N
+12/5/2023,Check,5700,0,0,Labor,B,N
+12/5/2023,Check,1300,0,0,Labor,B,N
+12/5/2023,Check,1165.38,0,0,Labor,B,N
+12/4/2023,Check,1820,0,0,Labor,B,N
+12/4/2023,Check,500,0,0,Labor,B,N
+12/4/2023,Check,1848,0,0,Labor,B,N
+12/4/2023,Check,1058.75,0,0,Labor,B,N
+12/4/2023,Check,1549.15,0,0,Labor,B,N
+12/4/2023,Check,250,0,0,Labor,B,N
+12/4/2023,Check,2880,0,0,Labor,B,N
+12/4/2023,Check,500,0,0,Labor,B,N
+12/4/2023,Check,300,0,0,Labor,B,N
+12/4/2023,Check,0,2771.2,0,Labor,B,N
+12/2/2023,Check,1650,0,0,Labor,B,N
+12/1/2023,Check,277.05,0,0,Labor,B,N
+12/1/2023,Check,4650.22,0,0,Labor,B,N
+12/1/2023,Check,2195,0,0,Labor,B,N
+12/1/2023,Check,1320,0,0,Labor,B,N
+12/1/2023,Check,1492,0,0,Labor,B,N
+11/30/2023,Check,1685.42,0,0,Labor,B,N
+11/30/2023,Check,1283.67,0,0,Labor,B,N
+11/30/2023,Check,277.05,0,0,Labor,B,N
+11/30/2023,Check,2800,0,0,Labor,B,N
+11/30/2023,Check,0,8829.65,0,Labor,B,N
+11/30/2023,Check,223.95,0,0,Labor,B,N
+11/27/2023,Check,0,6587.32,0,Labor,B,N
+11/3/2023,Check,0,2868.63,0,Labor,B,N
+11/29/2023,Check,1503,0,0,Labor,B,N
+11/29/2023,Check,3721.75,0,0,Labor,B,N
+11/29/2023,Check,1103,0,0,Labor,B,N
+11/27/2023,Check,1165.38,0,0,Labor,B,N
+11/27/2023,Check,277.05,0,0,Labor,B,N
+11/22/2023,Check,1600,0,0,Labor,B,N
+11/21/2023,Check,1781.63,0,0,Labor,B,N
+11/21/2023,Check,3090,0,0,Labor,B,N
+11/21/2023,Check,0,1857.58,0,Labor,B,N
+11/20/2023,Check,5225,0,0,Labor,B,N
+11/20/2023,Check,500,0,0,Labor,B,N
+11/20/2023,Check,250,0,0,Labor,B,N
+11/20/2023,Check,0,761,0,Labor,B,N
+11/17/2023,Check,5750,0,0,Labor,B,N
+11/17/2023,Check,1300,0,0,Labor,B,N
+11/16/2023,Check,2954.05,0,0,Labor,B,N
+11/16/2023,Check,2440,0,0,Labor,B,N
+11/16/2023,Check,2016,0,0,Labor,B,N
+11/16/2023,Check,1619.15,0,0,Labor,B,N
+11/16/2023,Check,1058.75,0,0,Labor,B,N
+11/16/2023,Check,277.05,0,0,Labor,B,N
+11/16/2023,Check,2050,0,0,Labor,B,N
+11/15/2023,Check,2075,0,0,Labor,B,N
+11/15/2023,Check,4150.5,0,0,Labor,B,N
+11/15/2023,Check,1440,0,0,Labor,B,N
+11/15/2023,Check,1685.42,0,0,Labor,B,N
+11/15/2023,Check,1685.42,0,0,Labor,B,N
+11/15/2023,Check,1283.67,0,0,Labor,B,N
+11/15/2023,Check,1542,0,0,Labor,B,N
+11/14/2023,Check,110,0,0,Labor,B,N
+11/14/2023,Check,0,2112,0,Labor,B,N
+11/13/2023,Check,2600,0,0,Labor,B,N
+11/13/2023,Check,0,18459.13,0,Labor,B,N
+11/13/2023,Check,1103,0,0,Labor,B,N
+11/9/2023,Check,0,10318.61,0,Labor,B,N
+11/8/2023,Check,0,10775.9,0,Labor,B,N
+11/7/2023,Check,1664.64,0,0,Labor,B,N
+11/7/2023,Check,1685.42,0,0,Labor,B,N
+11/7/2023,Check,0,10756.16,0,Labor,B,N
+11/6/2023,Check,1500,0,0,Labor,B,N
+11/6/2023,Check,683.35,0,0,Labor,B,N
+11/6/2023,Check,500,0,0,Labor,B,N
+11/6/2023,Check,670,0,0,Labor,B,N
+11/6/2023,Check,2800,0,0,Labor,B,N
+11/3/2023,Check,700,0,0,Labor,B,N
+11/3/2023,Check,2075,0,0,Labor,B,N
+11/3/2023,Check,4125,0,0,Labor,B,N
+11/3/2023,Check,5050,0,0,Labor,B,N
+11/3/2023,Check,1165.38,0,0,Labor,B,N
+11/3/2023,Check,1299,0,0,Labor,B,N
+11/3/2023,Check,1650,0,0,Labor,B,N
+11/3/2023,Check,0,2287.94,0,Labor,B,N
+11/2/2023,Check,2648,0,0,Labor,B,N
+11/2/2023,Check,2200,0,0,Labor,B,N
+11/2/2023,Check,1680,0,0,Labor,B,N
+11/2/2023,Check,1549.15,0,0,Labor,B,N
+11/2/2023,Check,250,0,0,Labor,B,N
+11/2/2023,Check,4393.5,0,0,Labor,B,N
+11/2/2023,Check,1300,0,0,Labor,B,N
+11/2/2023,Check,1200,0,0,Labor,B,N
+11/1/2023,Check,277.05,0,0,Labor,B,N
+11/1/2023,Check,2600,0,0,Labor,B,N
+11/1/2023,Check,1531.15,0,0,Labor,B,N
+10/31/2023,Check,1283.67,0,0,Labor,B,N
+10/30/2023,Check,1100,0,0,Labor,B,N
+10/30/2023,Check,0,651.73,0,Labor,B,N
+10/27/2023,Check,0,4006.38,0,Labor,B,N
+10/24/2023,Check,500,0,0,Labor,B,N
+10/24/2023,Check,9568.36,0,0,Labor,B,N
+10/23/2023,Check,1600,0,0,Labor,B,N
+10/23/2023,Check,0,8023.5,0,Labor,B,N
+10/20/2023,Check,4345,0,0,Labor,B,N
+10/20/2023,Check,0,8537.1,0,Labor,B,N
+10/19/2023,Check,1664.64,0,0,Labor,B,N
+10/18/2023,Check,1680,0,0,Labor,B,N
+10/17/2023,Check,2000,0,0,Labor,B,N
+10/17/2023,Check,2433,0,0,Labor,B,N
+10/17/2023,Check,2200,0,0,Labor,B,N
+10/17/2023,Check,500,0,0,Labor,B,N
+10/17/2023,Check,4047.5,0,0,Labor,B,N
+10/17/2023,Check,2800,0,0,Labor,B,N
+10/17/2023,Check,1700,0,0,Labor,B,N
+10/17/2023,Check,0,2425,0,Labor,B,N
+10/16/2023,Check,2155,0,0,Labor,B,N
+10/16/2023,Check,591.25,0,0,Labor,B,N
+10/16/2023,Check,1560.67,0,0,Labor,B,N
+10/16/2023,Check,277.05,0,0,Labor,B,N
+10/16/2023,Check,1200,0,0,Labor,B,N
+10/16/2023,Check,2050,0,0,Labor,B,N
+10/16/2023,Check,1685.42,0,0,Labor,B,N
+10/16/2023,Check,1442,0,0,Labor,B,N
+10/16/2023,Check,1685.42,0,0,Labor,B,N
+10/13/2023,Check,986.02,0,0,Labor,B,N
+10/13/2023,Check,1283.67,0,0,Labor,B,N
+10/13/2023,Check,0,16532.06,0,Labor,B,N
+10/12/2023,Check,1051.02,0,0,Labor,B,N
+10/11/2023,Check,1103,0,0,Labor,B,N
+10/11/2023,Check,2200,0,0,Labor,B,N
+10/11/2023,Check,2500,0,0,Labor,B,N
+10/11/2023,Check,0,3987.2,0,Labor,B,N
+10/10/2023,Check,110,0,0,Labor,B,N
+10/10/2023,Check,5200,0,0,Labor,B,N
+10/6/2023,Check,580,0,0,Labor,B,N
+10/6/2023,Check,0,920.13,0,Labor,B,N
+10/5/2023,Check,300,0,0,Labor,B,N
+10/5/2023,Check,500,0,0,Labor,B,N
+10/4/2023,Check,1914.63,0,0,Labor,B,N
+10/4/2023,Check,1300,0,0,Labor,B,N
+10/4/2023,Check,0,8710.17,0,Labor,B,N
+9/22/2023,Check,1568.24,0,0,Labor,B,N
+9/20/2023,Check,425,0,0,Labor,B,N
+9/19/2023,Check,277.05,0,0,Labor,B,N
+9/16/2023,Check,1283.67,0,0,Labor,B,N
+9/16/2023,Check,1685.42,0,0,Labor,B,N
+9/12/2023,Check,4500,0,0,Labor,B,N
+9/12/2023,Check,2358,0,0,Labor,B,N
+9/11/2023,Check,1401.32,0,0,Labor,B,N
+9/11/2023,Check,1165.38,0,0,Labor,B,N
+9/11/2023,Check,110,0,0,Labor,B,N
+9/7/2023,Check,1300,0,0,Labor,B,N
+9/5/2023,Check,500,0,0,Labor,B,N
+9/5/2023,Check,1925,0,0,Labor,B,N
+9/5/2023,Check,3000,0,0,Labor,B,N
+9/5/2023,Check,1250,0,0,Labor,B,N
+9/5/2023,Check,1848,0,0,Labor,B,N
+9/5/2023,Check,591.25,0,0,Labor,B,N
+9/5/2023,Check,3375,0,0,Labor,B,N
+9/5/2023,Check,425,0,0,Labor,B,N
+9/2/2023,Check,1250,0,0,Labor,B,N
+9/2/2023,Check,400,0,0,Labor,B,N
+9/2/2023,Check,2650.67,0,0,Labor,B,N
+9/1/2023,Check,450,0,0,Labor,B,N
+9/1/2023,Check,1380,0,0,Labor,B,N
+8/30/2023,Check,1103,0,0,Labor,B,N
+8/25/2023,Check,410,0,0,Labor,B,N
+8/24/2023,Check,1450.12,0,0,Labor,B,N
+8/23/2023,Check,1300,0,0,Labor,B,N
+8/23/2023,Check,277.05,0,0,Labor,B,N
+8/22/2023,Check,600,0,0,Labor,B,N
+8/22/2023,Check,350,0,0,Labor,B,N
+8/21/2023,Check,1262.13,0,0,Labor,B,N
+8/21/2023,Check,1165.39,0,0,Labor,B,N
+8/19/2023,Check,816,0,0,Labor,B,N
+8/18/2023,Check,200,0,0,Labor,B,N
+8/18/2023,Check,5775,0,0,Labor,B,N
+8/18/2023,Check,156,0,0,Labor,B,N
+8/18/2023,Check,500,0,0,Labor,B,N
+8/18/2023,Check,2800,0,0,Labor,B,N
+8/18/2023,Check,3675,0,0,Labor,B,N
+8/18/2023,Check,3000,0,0,Labor,B,N
+8/18/2023,Check,425,0,0,Labor,B,N
+8/18/2023,Check,1568.24,0,0,Labor,B,N
+8/18/2023,Check,1283.67,0,0,Labor,B,N
+8/18/2023,Check,1685.42,0,0,Labor,B,N
+8/18/2023,Check,2500,0,0,Labor,B,N
+8/18/2023,Check,703,0,0,Labor,B,N
+8/17/2023,Check,2388.65,0,0,Labor,B,N
+8/17/2023,Check,591.25,0,0,Labor,B,N
+8/17/2023,Check,1051.02,0,0,Labor,B,N
+8/17/2023,Check,1848,0,0,Labor,B,N
+8/17/2023,Check,2320,0,0,Labor,B,N
+8/17/2023,Check,2050,0,0,Labor,B,N
+8/17/2023,Check,1283.67,0,0,Labor,B,N
+8/17/2023,Check,286,0,0,Labor,B,N
+8/17/2023,Check,1459,0,0,Labor,B,N
+8/16/2023,Check,1740,0,0,Labor,B,N
+8/16/2023,Check,1320,0,0,Labor,B,N
+8/16/2023,Check,1288,0,0,Labor,B,N
+8/12/2023,Check,1203.38,0,0,Labor,B,N
+8/11/2023,Check,1500,0,0,Labor,B,N
+8/10/2023,Check,1685.42,0,0,Labor,B,N
+8/10/2023,Check,2948,0,0,Labor,B,N
+8/9/2023,Check,11828,0,0,Labor,B,N
+8/8/2023,Check,7050,0,0,Labor,B,N
+8/8/2023,Check,710,0,0,Labor,B,N
+10/2/2023,Check,1516.25,0,0,Labor,B,N
+10/2/2023,Check,1848,0,0,Labor,B,N
+10/2/2023,Check,591.25,0,0,Labor,B,N
+10/2/2023,Check,1320,0,0,Labor,B,N
+10/2/2023,Check,1467,0,0,Labor,B,N
+10/2/2023,Check,1250,0,0,Labor,B,N
+10/2/2023,Check,400,0,0,Labor,B,N
+10/2/2023,Check,5138.5,0,0,Labor,B,N
+9/29/2023,Check,1685.42,0,0,Labor,B,N
+9/29/2023,Check,2000,0,0,Labor,B,N
+9/29/2023,Check,461.75,0,0,Labor,B,N
+9/29/2023,Check,1283.67,0,0,Labor,B,N
+9/29/2023,Check,1685.42,0,0,Labor,B,N
+9/28/2023,Check,320,0,0,Labor,B,N
+9/27/2023,Check,1103,0,0,Labor,B,N
+9/22/2023,Check,1516.25,0,0,Labor,B,N
+9/22/2023,Check,300,0,0,Labor,B,N
+9/20/2023,Check,1165.38,0,0,Labor,B,N
+9/20/2023,Check,255,0,0,Labor,B,N
+9/20/2023,Check,15854.28,0,0,Labor,B,N
+9/19/2023,Check,3675,0,0,Labor,B,N
+9/19/2023,Check,1939.01,0,0,Labor,B,N
+9/19/2023,Check,2440,0,0,Labor,B,N
+9/19/2023,Check,1051.02,0,0,Labor,B,N
+9/19/2023,Check,3625,0,0,Labor,B,N
+9/19/2023,Check,1300,0,0,Labor,B,N
+9/19/2023,Check,150,0,0,Labor,B,N
+9/18/2023,Check,3750,0,0,Labor,B,N
+9/18/2023,Check,2500,0,0,Labor,B,N
+9/18/2023,Check,500,0,0,Labor,B,N
+9/18/2023,Check,2866,0,0,Labor,B,N
+9/18/2023,Check,2016,0,0,Labor,B,N
+9/18/2023,Check,591.25,0,0,Labor,B,N
+9/18/2023,Check,1542,0,0,Labor,B,N
+9/18/2023,Check,1685.42,0,0,Labor,B,N
+9/18/2023,Check,1568.24,0,0,Labor,B,N
+9/18/2023,Check,1283.67,0,0,Labor,B,N
+9/18/2023,Check,1400,0,0,Labor,B,N
+9/18/2023,Check,1250,0,0,Labor,B,N
+9/16/2023,Check,1440,0,0,Labor,B,N
+9/14/2023,Check,1103,0,0,Labor,B,N
+9/14/2023,Check,1086,0,0,Labor,B,N
+9/9/2023,Check,1530.06,0,0,Labor,B,N
+8/30/2023,Check,454.06,0,0,Labor,B,N
+8/17/2023,Check,10561.64,0,0,Labor,B,N
+8/15/2023,Check,1103,0,0,Labor,B,N
+7/20/2023,Check,3781,0,0,Labor,B,N
+7/20/2023,Check,3813,0,0,Labor,B,N
+1/3/2023,Check,150,0,0,Labor,B,N
+1/3/2023,Check,1557.67,0,0,Labor,B,N
+1/3/2023,Check,2411.83,0,0,Labor,B,N
+1/3/2023,Check,1302,0,0,Labor,B,N
+1/3/2023,Check,848,0,0,Labor,B,N
+1/3/2023,Check,2072,0,0,Labor,B,N
+1/3/2023,Check,277.05,0,0,Labor,B,N
+1/3/2023,Check,1584,0,0,Labor,B,N
+1/3/2023,Check,2000,0,0,Labor,B,N
+1/4/2023,Check,1750,0,0,Labor,B,N
+1/4/2023,Check,933.14,0,0,Labor,B,N
+1/5/2023,Check,7900,0,0,Labor,B,N
+1/5/2023,Check,1660,0,0,Labor,B,N
+1/13/2023,Check,675.33,0,0,Labor,B,N
+1/13/2023,Check,675.33,0,0,Labor,B,N
+1/17/2023,Check,1660,0,0,Labor,B,N
+1/17/2023,Check,848,0,0,Labor,B,N
+1/17/2023,Check,1100,0,0,Labor,B,N
+1/17/2023,Check,1568.24,0,0,Labor,B,N
+1/17/2023,Check,277.05,0,0,Labor,B,N
+1/17/2023,Check,675.33,0,0,Labor,B,N
+1/17/2023,Check,1584,0,0,Labor,B,N
+1/17/2023,Check,1550,0,0,Labor,B,N
+1/18/2023,Check,565.07,0,0,Labor,B,N
+1/18/2023,Check,812.21,0,0,Labor,B,N
+1/18/2023,Check,2677,0,0,Labor,B,N
+1/18/2023,Check,1534.15,0,0,Labor,B,N
+1/18/2023,Check,740,0,0,Labor,B,N
+1/18/2023,Check,2432.98,0,0,Labor,B,N
+1/18/2023,Check,1309.49,0,0,Labor,B,N
+1/18/2023,Check,3120,0,0,Labor,B,N
+1/18/2023,Check,2650,0,0,Labor,B,N
+1/24/2023,Check,6066,0,0,Labor,B,N
+1/25/2023,Check,7802.15,0,0,Labor,B,N
+1/26/2023,Check,2500,0,0,Labor,B,N
+1/30/2023,Check,277.05,0,0,Labor,B,N
+1/31/2023,Check,1568.24,0,0,Labor,B,N
+1/31/2023,Check,1850,0,0,Labor,B,N
+2/2/2023,Check,2700,0,0,Labor,B,N
+2/2/2023,Check,675.34,0,0,Labor,B,N
+2/2/2023,Check,675.34,0,0,Labor,B,N
+2/3/2023,Check,848,0,0,Labor,B,N
+2/3/2023,Check,1550,0,0,Labor,B,N
+2/3/2023,Check,2200,0,0,Labor,B,N
+2/14/2023,Check,100,0,0,Labor,B,N
+2/17/2023,Check,2016,0,0,Labor,B,N
+2/17/2023,Check,848,0,0,Labor,B,N
+2/17/2023,Check,1720,0,0,Labor,B,N
+2/18/2023,Check,3087.5,0,0,Labor,B,N
+2/21/2023,Check,2950,0,0,Labor,B,N
+2/21/2023,Check,1442,0,0,Labor,B,N
+2/21/2023,Check,1094.15,0,0,Labor,B,N
+2/21/2023,Check,1750,0,0,Labor,B,N
+2/21/2023,Check,1100,0,0,Labor,B,N
+2/21/2023,Check,2440,0,0,Labor,B,N
+2/21/2023,Check,1550,0,0,Labor,B,N
+2/22/2023,Check,680.21,0,0,Labor,B,N
+2/22/2023,Check,5850,0,0,Labor,B,N
+2/23/2023,Check,500,0,0,Labor,B,N
+2/24/2023,Check,770.04,0,0,Labor,B,N
+2/24/2023,Check,675.33,0,0,Labor,B,N
+2/24/2023,Check,675.33,0,0,Labor,B,N
+2/27/2023,Check,1915.5,0,0,Labor,B,N
+2/27/2023,Check,1309.49,0,0,Labor,B,N
+2/27/2023,Check,3000,0,0,Labor,B,N
+2/27/2023,Check,277.05,0,0,Labor,B,N
+2/27/2023,Check,3087.5,0,0,Labor,B,N
+2/27/2023,Check,8500,0,0,Labor,B,N
+2/28/2023,Check,1000,0,0,Labor,B,N
+2/28/2023,Check,500,0,0,Labor,B,N
+2/28/2023,Check,2500,0,0,Labor,B,N
+2/28/2023,Check,2500,0,0,Labor,B,N
+3/2/2023,Check,1860,0,0,Labor,B,N
+3/2/2023,Check,1848,0,0,Labor,B,N
+3/2/2023,Check,1568.24,0,0,Labor,B,N
+3/3/2023,Check,250.11,0,0,Labor,B,N
+3/3/2023,Check,1858.21,0,0,Labor,B,N
+3/3/2023,Check,1692,0,0,Labor,B,N
+3/3/2023,Check,2320,0,0,Labor,B,N
+3/3/2023,Check,675.34,0,0,Labor,B,N
+3/3/2023,Check,675.34,0,0,Labor,B,N
+3/3/2023,Check,848,0,0,Labor,B,N
+3/6/2023,Check,2432.98,0,0,Labor,B,N
+3/6/2023,Check,450,0,0,Labor,B,N
+3/6/2023,Check,2500,0,0,Labor,B,N
+3/6/2023,Check,277.05,0,0,Labor,B,N
+3/6/2023,Check,1550,0,0,Labor,B,N
+3/7/2023,Check,1000,0,0,Labor,B,N
+3/9/2023,Check,250,0,0,Labor,B,N
+3/9/2023,Check,1309.5,0,0,Labor,B,N
+3/10/2023,Check,2092.27,0,0,Labor,B,N
+3/10/2023,Check,770.04,0,0,Labor,B,N
+3/13/2023,Check,260,0,0,Labor,B,N
+3/16/2023,Check,1322.53,0,0,Labor,B,N
+3/16/2023,Check,1540,0,0,Labor,B,N
+3/17/2023,Check,1309.49,0,0,Labor,B,N
+3/17/2023,Check,1512,0,0,Labor,B,N
+3/17/2023,Check,848,0,0,Labor,B,N
+3/17/2023,Check,115,0,0,Labor,B,N
+3/18/2023,Check,675.33,0,0,Labor,B,N
+3/18/2023,Check,2500,0,0,Labor,B,N
+3/18/2023,Check,675.33,0,0,Labor,B,N
+3/20/2023,Check,1442,0,0,Labor,B,N
+3/20/2023,Check,2400,0,0,Labor,B,N
+3/20/2023,Check,1910.21,0,0,Labor,B,N
+3/20/2023,Check,277.05,0,0,Labor,B,N
+3/20/2023,Check,2080,0,0,Labor,B,N
+3/20/2023,Check,2000,0,0,Labor,B,N
+3/21/2023,Check,1750,0,0,Labor,B,N
+3/21/2023,Check,425,0,0,Labor,B,N
+3/22/2023,Check,92.82,0,0,Labor,B,N
+3/24/2023,Check,4161,0,0,Labor,B,N
+3/27/2023,Check,3200,0,0,Labor,B,N
+3/27/2023,Check,3800,0,0,Labor,B,N
+3/29/2023,Check,1103,0,0,Labor,B,N
+3/29/2023,Check,2500,0,0,Labor,B,N
+3/29/2023,Check,277.05,0,0,Labor,B,N
+3/29/2023,Check,1703,0,0,Labor,B,N
+4/3/2023,Check,848,0,0,Labor,B,N
+4/3/2023,Check,235,0,0,Labor,B,N
+4/3/2023,Check,425,0,0,Labor,B,N
+4/3/2023,Check,2320,0,0,Labor,B,N
+4/3/2023,Check,675.34,0,0,Labor,B,N
+4/3/2023,Check,675.34,0,0,Labor,B,N
+4/3/2023,Check,1203,0,0,Labor,B,N
+4/3/2023,Check,1568.24,0,0,Labor,B,N
+4/3/2023,Check,1393.79,0,0,Labor,B,N
+4/4/2023,Check,1582.75,0,0,Labor,B,N
+4/4/2023,Check,2500,0,0,Labor,B,N
+4/4/2023,Check,1660,0,0,Labor,B,N
+4/4/2023,Check,1750,0,0,Labor,B,N
+4/4/2023,Check,2250,0,0,Labor,B,N
+4/4/2023,Check,1322.53,0,0,Labor,B,N
+4/4/2023,Check,1848,0,0,Labor,B,N
+4/4/2023,Check,2432.98,0,0,Labor,B,N
+4/4/2023,Check,135,0,0,Labor,B,N
+4/4/2023,Check,1550,0,0,Labor,B,N
+4/5/2023,Check,1409.07,0,0,Labor,B,N
+4/5/2023,Check,770.04,0,0,Labor,B,N
+4/7/2023,Check,5775,0,0,Labor,B,N
+4/10/2023,Check,200,0,0,Labor,B,N
+4/12/2023,Check,1000,0,0,Labor,B,N
+4/14/2023,Check,2500,0,0,Labor,B,N
+4/14/2023,Check,1100,0,0,Labor,B,N
+4/17/2023,Check,1550,0,0,Labor,B,N
+4/18/2023,Check,1322.53,0,0,Labor,B,N
+4/19/2023,Check,848,0,0,Labor,B,N
+4/19/2023,Check,2620,0,0,Labor,B,N
+4/20/2023,Check,425,0,0,Labor,B,N
+4/20/2023,Check,1165.38,0,0,Labor,B,N
+4/21/2023,Check,425,0,0,Labor,B,N
+4/21/2023,Check,277.05,0,0,Labor,B,N
+4/21/2023,Check,1568.24,0,0,Labor,B,N
+4/21/2023,Check,675.33,0,0,Labor,B,N
+4/21/2023,Check,7082.02,0,0,Labor,B,N
+4/22/2023,Check,3203,0,0,Labor,B,N
+4/22/2023,Check,675.33,0,0,Labor,B,N
+4/24/2023,Check,200,0,0,Labor,B,N
+5/1/2023,Check,2500,0,0,Labor,B,N
+5/1/2023,Check,2500,0,0,Labor,B,N
+5/2/2023,Check,1680,0,0,Labor,B,N
+5/2/2023,Check,848,0,0,Labor,B,N
+5/2/2023,Check,1800,0,0,Labor,B,N
+5/2/2023,Check,277.05,0,0,Labor,B,N
+5/2/2023,Check,2300,0,0,Labor,B,N
+5/2/2023,Check,1542,0,0,Labor,B,N
+5/2/2023,Check,1103,0,0,Labor,B,N
+5/3/2023,Check,425,0,0,Labor,B,N
+5/3/2023,Check,1322.53,0,0,Labor,B,N
+5/3/2023,Check,2100,0,0,Labor,B,N
+5/3/2023,Check,1550,0,0,Labor,B,N
+5/4/2023,Check,1247.73,0,0,Labor,B,N
+5/4/2023,Check,1459.07,0,0,Labor,B,N
+5/5/2023,Check,311.23,0,0,Labor,B,N
+5/5/2023,Check,1750,0,0,Labor,B,N
+5/5/2023,Check,675.34,0,0,Labor,B,N
+5/5/2023,Check,1568.24,0,0,Labor,B,N
+5/5/2023,Check,675.34,0,0,Labor,B,N
+5/9/2023,Check,1500,0,0,Labor,B,N
+5/9/2023,Check,3200,0,0,Labor,B,N
+5/9/2023,Check,690,0,0,Labor,B,N
+5/9/2023,Check,770.04,0,0,Labor,B,N
+5/16/2023,Check,130,0,0,Labor,B,N
+5/16/2023,Check,2400,0,0,Labor,B,N
+5/16/2023,Check,1103,0,0,Labor,B,N
+5/17/2023,Check,1680,0,0,Labor,B,N
+5/17/2023,Check,1800,0,0,Labor,B,N
+5/17/2023,Check,848,0,0,Labor,B,N
+5/18/2023,Check,1459.07,0,0,Labor,B,N
+5/18/2023,Check,1550,0,0,Labor,B,N
+5/18/2023,Check,1442,0,0,Labor,B,N
+5/18/2023,Check,2500,0,0,Labor,B,N
+5/18/2023,Check,2477.98,0,0,Labor,B,N
+5/18/2023,Check,2500,0,0,Labor,B,N
+5/19/2023,Check,100,0,0,Labor,B,N
+5/19/2023,Check,2003,0,0,Labor,B,N
+5/19/2023,Check,1640,0,0,Labor,B,N
+5/19/2023,Check,5775,0,0,Labor,B,N
+5/20/2023,Check,675.33,0,0,Labor,B,N
+5/20/2023,Check,675.33,0,0,Labor,B,N
+5/22/2023,Check,3000,0,0,Labor,B,N
+5/22/2023,Check,200,0,0,Labor,B,N
+5/22/2023,Check,701.15,0,0,Labor,B,N
+5/22/2023,Check,277.05,0,0,Labor,B,N
+5/22/2023,Check,1230.41,0,0,Labor,B,N
+5/24/2023,Check,1150,0,0,Labor,B,N
+5/24/2023,Check,1750,0,0,Labor,B,N
+5/25/2023,Check,770.03,0,0,Labor,B,N
+5/26/2023,Check,150,0,0,Labor,B,N
+5/26/2023,Check,200,0,0,Labor,B,N
+5/26/2023,Check,2130,0,0,Labor,B,N
+5/30/2023,Check,130,0,0,Labor,B,N
+6/2/2023,Check,1277.13,0,0,Labor,B,N
+6/2/2023,Check,848,0,0,Labor,B,N
+6/2/2023,Check,2500,0,0,Labor,B,N
+6/2/2023,Check,1880,0,0,Labor,B,N
+6/5/2023,Check,150,0,0,Labor,B,N
+6/5/2023,Check,1860,0,0,Labor,B,N
+6/5/2023,Check,2380,0,0,Labor,B,N
+6/5/2023,Check,1848,0,0,Labor,B,N
+6/5/2023,Check,1550,0,0,Labor,B,N
+6/8/2023,Check,3000,0,0,Labor,B,N
+6/8/2023,Check,277.05,0,0,Labor,B,N
+6/8/2023,Check,800,0,0,Labor,B,N
+6/8/2023,Check,2000,0,0,Labor,B,N
+6/8/2023,Check,675.34,0,0,Labor,B,N
+6/8/2023,Check,675.34,0,0,Labor,B,N
+6/9/2023,Check,3338,0,0,Labor,B,N
+6/12/2023,Check,225,0,0,Labor,B,N
+6/12/2023,Check,1196.55,0,0,Labor,B,N
+6/13/2023,Check,450,0,0,Labor,B,N
+6/15/2023,Check,1103,0,0,Labor,B,N
+6/15/2023,Check,1442,0,0,Labor,B,N
+6/16/2023,Check,1262.13,0,0,Labor,B,N
+6/16/2023,Check,1920,0,0,Labor,B,N
+6/21/2023,Check,500,0,0,Labor,B,N
+6/21/2023,Check,1750,0,0,Labor,B,N
+6/21/2023,Check,5614.5,0,0,Labor,B,N
+6/21/2023,Check,2470.98,0,0,Labor,B,N
+6/21/2023,Check,900,0,0,Labor,B,N
+6/21/2023,Check,300,0,0,Labor,B,N
+6/21/2023,Check,328,0,0,Labor,B,N
+6/21/2023,Check,1051.02,0,0,Labor,B,N
+6/21/2023,Check,2200,0,0,Labor,B,N
+6/21/2023,Check,2500,0,0,Labor,B,N
+6/21/2023,Check,1564.64,0,0,Labor,B,N
+6/21/2023,Check,2016,0,0,Labor,B,N
+6/21/2023,Check,848,0,0,Labor,B,N
+6/21/2023,Check,3650,0,0,Labor,B,N
+6/21/2023,Check,5775,0,0,Labor,B,N
+6/21/2023,Check,300,0,0,Labor,B,N
+6/21/2023,Check,2550,0,0,Labor,B,N
+6/21/2023,Check,2503,0,0,Labor,B,N
+6/21/2023,Check,1568.24,0,0,Labor,B,N
+6/21/2023,Check,675.33,0,0,Labor,B,N
+6/21/2023,Check,675.33,0,0,Labor,B,N
+6/21/2023,Check,2440,0,0,Labor,B,N
+6/22/2023,Check,5611.5,0,0,Labor,B,N
+6/22/2023,Check,800,0,0,Labor,B,N
+6/23/2023,Check,277.05,0,0,Labor,B,N
+6/26/2023,Check,1412.44,0,0,Labor,B,N
+6/28/2023,Check,425,0,0,Labor,B,N
+6/28/2023,Check,425,0,0,Labor,B,N
+7/3/2023,Check,2100,0,0,Labor,B,N
+7/3/2023,Check,2750,0,0,Labor,B,N
+7/3/2023,Check,848,0,0,Labor,B,N
+7/3/2023,Check,400,0,0,Labor,B,N
+7/3/2023,Check,1720,0,0,Labor,B,N
+7/3/2023,Check,2750,0,0,Labor,B,N
+7/5/2023,Check,700,0,0,Labor,B,N
+7/6/2023,Check,1564.64,0,0,Labor,B,N
+7/7/2023,Check,400,0,0,Labor,B,N
+7/7/2023,Check,4165,0,0,Labor,B,N
+7/8/2023,Check,800,0,0,Labor,B,N
+7/10/2023,Check,2500,0,0,Labor,B,N
+7/10/2023,Check,425,0,0,Labor,B,N
+7/10/2023,Check,675.34,0,0,Labor,B,N
+7/10/2023,Check,1165.38,0,0,Labor,B,N
+7/12/2023,Check,500,0,0,Labor,B,N
+7/13/2023,Check,675.34,0,0,Labor,B,N
+7/13/2023,Check,7166,0,0,Labor,B,N
+7/14/2023,Check,300,0,0,Labor,B,N
+7/15/2023,Check,500,0,0,Labor,B,N
+7/17/2023,Check,2050,0,0,Labor,B,N
+7/18/2023,Check,1373.02,0,0,Labor,B,N
+7/18/2023,Check,1051.02,0,0,Labor,B,N
+7/18/2023,Check,3000,0,0,Labor,B,N
+7/18/2023,Check,675.33,0,0,Labor,B,N
+7/18/2023,Check,2000,0,0,Labor,B,N
+7/18/2023,Check,1320,0,0,Labor,B,N
+7/18/2023,Check,800,0,0,Labor,B,N
+7/18/2023,Check,2500,0,0,Labor,B,N
+7/18/2023,Check,3800,0,0,Labor,B,N
+7/18/2023,Check,1200,0,0,Labor,B,N
+7/18/2023,Check,300,0,0,Labor,B,N
+7/18/2023,Check,916.25,0,0,Labor,B,N
+7/18/2023,Check,1225,0,0,Labor,B,N
+7/18/2023,Check,1685.42,0,0,Labor,B,N
+7/19/2023,Check,1262.13,0,0,Labor,B,N
+7/19/2023,Check,1264.64,0,0,Labor,B,N
+7/24/2023,Check,506,0,0,Labor,B,N
+7/24/2023,Check,1165.38,0,0,Labor,B,N
+7/24/2023,Check,200,0,0,Labor,B,N
+7/24/2023,Check,200,0,0,Labor,B,N
+7/27/2023,Check,425,0,0,Labor,B,N
+8/1/2023,Check,1500,0,0,Labor,B,N
+8/3/2023,Check,3675,0,0,Labor,B,N
+8/3/2023,Check,5850,0,0,Labor,B,N
+8/3/2023,Check,1300,0,0,Labor,B,N
+8/3/2023,Check,1680,0,0,Labor,B,N
+8/3/2023,Check,300,0,0,Labor,B,N
+8/3/2023,Check,916.25,0,0,Labor,B,N
+8/3/2023,Check,1080,0,0,Labor,B,N
+8/4/2023,Check,200,0,0,Labor,B,N
+8/4/2023,Check,500,0,0,Labor,B,N
+8/4/2023,Check,300,0,0,Labor,B,N
+8/4/2023,Check,1051.02,0,0,Labor,B,N
+8/4/2023,Check,1650,0,0,Labor,B,N
+12/31/2023,Chevron,32.51,0,7767,Gas,B,N
+12/15/2023,Chevron,56.53,0,7805,Gas,B,N
+12/12/2023,Chevron,56.25,0,7767,Gas,B,N
+12/3/2023,Chevron,64.61,0,0940,Gas,B,N
+11/29/2023,Chevron,35.1,0,7767,Gas,B,N
+11/14/2023,Chevron,96.82,0,7767,Gas,B,N
+10/29/2023,Chevron,80.59,0,7767,Gas,B,N
+10/20/2023,Chevron,12.97,0,2679,Gas,B,N
+10/20/2023,Chevron,113.91,0,7767,Gas,B,N
+10/20/2023,Chevron,44.55,0,7767,Gas,B,N
+10/16/2023,Chevron,85.39,0,7767,Gas,B,N
+10/15/2023,Chevron,30.83,0,7767,Gas,B,N
+10/7/2023,Chevron,22.15,0,7805,Gas,B,N
+9/12/2023,Chevron,62.33,0,2679,Gas,B,N
+8/15/2023,Chevron,58.69,0,2679,Gas,B,N
+9/19/2023,Chevron,41.7,0,7805,Gas,B,N
+9/8/2023,Chevron,35.59,0,7767,Gas,B,N
+1/2/2023,Chevron,52.09,0,2675,Gas,B,N
+2/8/2023,Chevron,29.82,0,3341,Gas,B,N
+2/14/2023,Chevron,95.07,0,3341,Gas,B,N
+3/22/2023,Chevron,68.85,0,3341,Gas,B,N
+3/29/2023,Chevron,67.98,0,3341,Gas,B,N
+5/2/2023,Chevron,111.49,0,2675,Gas,B,N
+5/2/2023,Chevron,5.93,0,2675,Gas,B,N
+5/7/2023,Chevron,32.3,0,3341,Gas,B,N
+5/9/2023,Chevron,85.38,0,3341,Gas,B,N
+5/23/2023,Chevron,60.42,0,1,Gas,B,N
+7/13/2023,Chevron,136.76,0,0,Gas,B,N
+7/19/2023,Chevron,23.87,0,0,Gas,B,N
+8/10/2023,Chick-Fil-A,38.82,0,9031,Food,P,N
+1/5/2023,Chick-Fil-A,52.18,0,9031,Food,P,N
+1/15/2023,Chick-Fil-A,9.36,0,9031,Food,P,N
+5/6/2023,Chick-Fil-A,45.72,0,9031,Food,P,N
+5/8/2023,Chick-Fil-A,54.6,0,9031,Food,P,N
+6/23/2023,Chick-Fil-A,16.37,0,9031,Food,P,N
+6/7/2023,Child Neurology Consultant,60,0,9031,Medical,P,N
+10/10/2023,China Cafe,101.77,0,940,Food,P,N
+12/30/2023,Circle K,47.2,0,7767,Gas,B,N
+12/12/2023,Circle K,48.16,0,7767,Gas,B,N
+10/15/2023,Circle K,56.56,0,2679,Gas,B,N
+9/30/2023,Circle K,50.04,0,718,Gas,B,N
+9/27/2023,Circle K,57.1,0,2679,Gas,B,N
+8/14/2023,Circle K,57.38,0,2675,Gas,B,N
+9/21/2023,Circle K,59.38,0,7767,Gas,B,N
+1/4/2023,Circle K,16.63,0,9031,Gas,B,N
+1/8/2023,Circle K,40.28,0,718,Gas,B,N
+1/13/2023,Circle K,17.79,0,9031,Gas,B,N
+1/25/2023,Circle K,32.37,0,9031,Gas,B,N
+1/25/2023,Circle K,65.63,0,9031,Gas,B,N
+2/10/2023,Circle K,75.09,0,9031,Gas,B,N
+3/4/2023,Circle K,97.94,0,2675,Gas,B,N
+3/21/2023,Circle K,74,0,2675,Gas,B,N
+3/25/2023,Circle K,60.88,0,1,Gas,B,N
+3/27/2023,Circle K,25.2,0,2675,Gas,B,N
+3/31/2023,Circle K,72.58,0,2675,Gas,B,N
+4/6/2023,Circle K,52.01,0,2679,Gas,B,N
+4/22/2023,Circle K,91.37,0,9031,Gas,B,N
+4/25/2023,Circle K,74,0,2675,Gas,B,N
+4/26/2023,Circle K,12.83,0,9031,Gas,B,N
+5/6/2023,Circle K,60.97,0,2675,Gas,B,N
+6/16/2023,Circle K,10.93,0,1,Gas,B,N
+6/16/2023,Circle K,10.29,0,1,Gas,B,N
+7/22/2023,Circle K,57.1,0,2679,Gas,B,N
+12/13/2023,Citi,432.99,0,0,Credit Card,B,Y
+12/4/2023,Citi,66.67,0,0,Credit Card,B,Y
+12/4/2023,Citi,63.76,0,0,Credit Card,B,Y
+11/20/2023,Citi,10.29,0,0,Credit Card,B,Y
+11/14/2023,Citi,409.82,0,0,Credit Card,B,Y
+11/2/2023,Citi,66.67,0,940,Credit Card,B,Y
+11/2/2023,Citi,63.76,0,0,Credit Card,B,Y
+10/18/2023,Citi,29,0,0,Credit Card,B,Y
+10/17/2023,Citi,453.06,0,0,Credit Card,B,Y
+9/19/2023,Citi,417.71,0,0,Credit Card,B,Y
+9/18/2023,Citi,29,0,0,Credit Card,B,Y
+8/18/2023,Citi,29,0,0,Credit Card,B,Y
+8/17/2023,Citi,428.8,0,0,Credit Card,B,Y
+1/26/2023,Citi,1306.23,0,0,Credit Card,B,Y
+2/17/2023,Citi,1306.23,0,0,Credit Card,B,Y
+2/21/2023,Citi,29,0,0,Credit Card,B,Y
+3/2/2023,Citi,63.76,0,0,Credit Card,B,Y
+3/20/2023,Citi,29,0,0,Credit Card,B,Y
+3/21/2023,Citi,477.98,0,0,Credit Card,B,Y
+4/3/2023,Citi,66.67,0,1,Credit Card,B,Y
+4/4/2023,Citi,63.76,0,0,Credit Card,B,Y
+4/18/2023,Citi,29,0,0,Credit Card,B,Y
+4/18/2023,Citi,408.23,0,0,Credit Card,B,Y
+5/2/2023,Citi,63.76,0,0,Credit Card,B,Y
+5/2/2023,Citi,66.67,0,1,Credit Card,B,Y
+5/17/2023,Citi,436.12,0,0,Credit Card,B,Y
+5/18/2023,Citi,29,0,0,Credit Card,B,Y
+6/2/2023,Citi,63.76,0,0,Credit Card,B,Y
+6/5/2023,Citi,66.67,0,1,Credit Card,B,Y
+6/20/2023,Citi,29,0,0,Credit Card,B,Y
+6/22/2023,Citi,408.07,0,0,Credit Card,B,Y
+7/4/2023,Citi,66.67,0,1,Credit Card,B,Y
+7/7/2023,Citi,63.76,0,0,Credit Card,B,Y
+7/18/2023,Citi,457.95,0,0,Credit Card,B,Y
+7/18/2023,Citi,29,0,0,Credit Card,B,Y
+8/4/2023,Citi,63.76,0,0,Credit Card,B,Y
+1/25/2023,Citizens,191.28,0,0,Loan,B,Y
+12/5/2023,City of Austin,42.15,0,0,Utilities,B,Y
+11/29/2023,City of Austin,87.2,0,0,Utilities,B,Y
+10/24/2023,City of Austin,151.68,0,0,Utilities,B,Y
+9/29/2023,City of Austin,181.81,0,0,Utilities,B,Y
+9/18/2023,City of Austin,263.89,0,0,Utilities,B,Y
+1/5/2023,City of Austin,133.88,0,0,Utilities,B,Y
+12/23/2023,City of Cedar Park,177.93,0,7805,Utilities,B,Y
+12/8/2023,City of Cedar Park,192.19,0,7805,Utilities,B,Y
+8/23/2023,City of Cedar Park,172.69,0,1,Utilities,B,Y
+3/14/2023,City of Cedar Park,215.52,0,1,Utilities,B,Y
+4/25/2023,City of Cedar Park,70.44,0,1,Utilities,B,Y
+5/23/2023,City of Cedar Park,90.89,0,1,Utilities,B,Y
+6/23/2023,City of Cedar Park,168.76,0,1,Utilities,B,Y
+7/26/2023,City of Cedar Park,156.91,0,1,Utilities,B,Y
+5/24/2023,City of Leander,193.05,0,9031,Utilities,B,Y
+5/4/2023,Clear Choice Eyecare,458,0,1,Medical,P,N
+5/4/2023,Clear Choice Eyecare,107,0,2675,Medical,P,N
+6/13/2023,Clements Paint,24.85,0,0,Recreational,B,Y
+6/14/2023,Clements Paint,41.08,0,0,Recreational,B,Y
+6/20/2023,Clements Paint,127.25,0,0,Recreational,B,Y
+7/23/2023,Clinical Pathology Laboratories,28.12,0,9031,Medical,P,N
+5/8/2023,Collectors Crossroads,71.42,0,9031,Fee,B,N
+1/11/2023,Colorado County,16.8,0,3341,Fee,B,N
+1/11/2023,Colorado County,336,0,3341,Fee,B,N
+8/9/2023,Costco,136.32,0,9031,Groceries,P,N
+9/19/2023,Costco,129.81,0,7767,Groceries,P,N
+9/19/2023,Costco,60,0,7767,Groceries,P,N
+9/19/2023,Costco,60,0,7767,Groceries,P,N
+2/26/2023,Costco,148.74,0,9031,Groceries,P,N
+3/14/2023,Costco,147.39,0,9031,Groceries,P,N
+3/14/2023,Costco,27.78,0,9031,Groceries,P,N
+3/21/2023,Costco,146.16,0,9031,Groceries,P,N
+4/2/2023,Costco,102.1,0,9031,Groceries,P,N
+4/6/2023,Costco,90.93,0,718,Groceries,P,N
+4/11/2023,Costco,57.94,0,9031,Groceries,P,N
+4/22/2023,Costco,212.04,0,9031,Groceries,P,N
+5/1/2023,Costco,144.06,0,9031,Groceries,P,N
+6/2/2023,Costco,100.31,0,9031,Groceries,P,N
+6/8/2023,Costco,149.68,0,9031,Groceries,P,N
+6/19/2023,Costco,230.94,0,9031,Groceries,P,N
+6/24/2023,Costco,83.69,0,9031,Groceries,P,N
+7/14/2023,Costco,150,0,9031,Groceries,P,N
+7/24/2023,Costco,218.37,0,9031,Groceries,P,N
+2/18/2023,Costco Gas,31.18,0,2679,Gas,B,N
+4/30/2023,Costco Gas,58.42,0,9031,Gas,B,N
+4/12/2023,Craigos Pizza,25.42,0,3341,Food,P,N
+12/6/2023,Crate & Barrel,133,0,0,Credit Card,B,Y
+11/6/2023,Crate & Barrel,137,0,0,Credit Card,B,Y
+10/6/2023,Crate & Barrel,136,0,0,Credit Card,B,Y
+9/6/2023,Crate & Barrel,139,0,0,Credit Card,B,Y
+8/10/2023,Crate & Barrel,141,0,0,Credit Card,B,Y
+1/6/2023,Crate & Barrel,147,0,0,Credit Card,B,Y
+3/6/2023,Crate & Barrel,313,0,0,Credit Card,B,Y
+4/6/2023,Crate & Barrel,147,0,0,Credit Card,B,Y
+5/8/2023,Crate & Barrel,140,0,0,Credit Card,B,Y
+6/6/2023,Crate & Barrel,140,0,0,Credit Card,B,Y
+7/6/2023,Crate & Barrel,141,0,0,Credit Card,B,Y
+8/21/2023,Credit One,200,0,0,Credit Card,P,Y
+1/30/2023,Credit One,100,0,9031,Credit Card,P,Y
+1/31/2023,Credit One,100,0,9031,Credit Card,P,Y
+4/27/2023,Credit One,300,0,9031,Credit Card,P,Y
+5/1/2023,Credit One,200,0,9031,Credit Card,P,Y
+5/30/2023,Credit One,317.11,0,9031,Credit Card,P,Y
+6/5/2023,Credit One,264.5,0,9031,Credit Card,P,Y
+7/3/2023,Credit One,449.69,0,9031,Credit Card,P,Y
+7/7/2023,Credit One,304.95,0,9031,Credit Card,P,Y
+7/27/2023,Credit One,474.95,0,9031,Credit Card,P,Y
+10/15/2023,Cricket Demayo,103,0,7767,Phones/Internet,P,Y
+6/15/2023,Cricket Demayo,102,0,0,Phones/Internet,B,Y
+12/14/2023,Cricket Wireless,98,0,7767,Phones/Internet,B,Y
+11/14/2023,Cricket Wireless,98,0,7767,Phones/Internet,B,Y
+9/15/2023,Cricket Wireless,103,0,7767,Phones/Internet,B,Y
+4/15/2023,Cricket Wireless,102,0,3341,Phones/Internet,B,Y
+8/14/2023,Cricket Wireless,98,0,0,Phones/Internet,B,Y
+7/14/2023,Cricket Wireless,98,0,0,Phones/Internet,B,Y
+8/15/2023,Crossroads Utilities,33.67,0,718,Utilities,B,Y
+1/4/2023,Crossroads Utilities,37.69,0,718,Utilities,B,Y
+2/3/2023,Crossroads Utilities,38.94,0,718,Utilities,B,Y
+3/12/2023,Crossroads Utilities,222.54,0,718,Utilities,B,Y
+4/4/2023,Crossroads Utilities,35.93,0,718,Utilities,B,Y
+5/4/2023,Crossroads Utilities,35.43,0,718,Utilities,B,Y
+6/6/2023,Crossroads Utilities,37.44,0,718,Utilities,B,Y
+7/11/2023,Crossroads Utilities,36.68,0,718,Utilities,B,Y
+9/12/2023,CSC Servicework,2,0,2679,Utilities,B,Y
+5/21/2023,CSC Servicework,2,0,2679,Utilities,B,Y
+8/30/2023,CVS Pharmacy,49.27,0,7767,Medical,P,N
+4/6/2023,CVS Pharmacy,118.76,0,9031,Medical,P,N
+4/11/2023,CVS Pharmacy,180.04,0,9031,Medical,P,N
+4/29/2023,CVS Pharmacy,27.31,0,9031,Medical,P,N
+5/2/2023,CVS Pharmacy,154.17,0,9031,Medical,P,N
+5/3/2023,CVS Pharmacy,19.8,0,3341,Medical,P,N
+5/10/2023,CVS Pharmacy,15.8,0,9031,Medical,P,N
+5/21/2023,CVS Pharmacy,63.08,0,9031,Medical,P,N
+5/25/2023,CVS Pharmacy,101.27,0,9031,Medical,P,N
+6/8/2023,CVS Pharmacy,118.32,0,9031,Medical,P,N
+12/28/2023,Deposit,0,1664,0,Revenue,B,N
+12/28/2023,Deposit,0,10000,0,Revenue,B,N
+12/22/2023,Deposit,0,260,0,Revenue,B,N
+12/22/2023,Deposit,0,51635.7,0,Revenue,B,N
+12/19/2023,Deposit,0,2000,0,Revenue,B,N
+12/15/2023,Deposit,0,4160,0,Revenue,B,N
+12/15/2023,Deposit,0,6000,0,Revenue,B,N
+12/14/2023,Deposit,0,16000,0,Revenue,B,N
+12/13/2023,Deposit,0,1948.52,0,Revenue,B,N
+12/13/2023,Deposit,0,17710.82,0,Revenue,B,N
+12/11/2023,Deposit,0,2275,0,Revenue,B,N
+12/8/2023,Deposit,0,467.64,0,Revenue,B,N
+12/6/2023,Deposit,0,4000,0,Revenue,B,N
+12/5/2023,Deposit,0,2787.43,0,Revenue,B,N
+12/5/2023,Deposit,0,500,0,Revenue,B,N
+12/1/2023,Deposit,0,15132.48,0,Revenue,B,N
+11/8/2023,Deposit,0,17399.82,0,Revenue,B,N
+11/10/2023,Deposit,0,1194.72,0,Revenue,B,N
+11/27/2023,Deposit,0,25000,0,Revenue,B,N
+11/9/2023,Deposit,0,17399.82,0,Revenue,B,N
+11/7/2023,Deposit,0,6000,0,Revenue,B,N
+11/29/2023,Deposit,0,6075.73,0,Revenue,B,N
+11/27/2023,Deposit,0,8.5,0,Revenue,B,N
+11/24/2023,Deposit,0,52068.89,0,Revenue,B,N
+11/24/2023,Deposit,0,1642.19,0,Revenue,B,N
+11/22/2023,Deposit,0,4160,0,Revenue,B,N
+11/21/2023,Deposit,0,1300,0,Revenue,B,N
+11/17/2023,Deposit,0,9000,0,Revenue,B,N
+11/7/2023,Deposit,0,1948.5,0,Revenue,B,N
+11/7/2023,Deposit,0,433,0,Revenue,B,N
+11/6/2023,Deposit,0,0.5,0,Revenue,B,N
+11/6/2023,Deposit,0,0.39,0,Revenue,B,N
+11/3/2023,Deposit,0,16825.51,0,Revenue,B,N
+11/3/2023,Deposit,0,2000,0,Revenue,B,N
+11/2/2023,Deposit,0,8201.02,0,Revenue,B,N
+11/1/2023,Deposit,0,2382.95,0,Revenue,B,N
+10/31/2023,Deposit,0,10000,0,Revenue,B,N
+11/1/2023,Deposit,0,102.65,0,Revenue,B,N
+10/30/2023,Deposit,0,500,0,Revenue,B,N
+10/25/2023,Deposit,0,1176.16,1,Revenue,B,N
+10/25/2023,Deposit,0,550,0,Revenue,B,N
+10/20/2023,Deposit,0,1300,0,Revenue,B,N
+10/19/2023,Deposit,0,52344.61,0,Revenue,B,N
+10/19/2023,Deposit,0,20000,0,Revenue,B,N
+10/18/2023,Deposit,0,1500,0,Revenue,B,N
+10/12/2023,Deposit,0,15000,0,Revenue,B,N
+10/11/2023,Deposit,0,3442.06,1,Revenue,B,N
+10/11/2023,Deposit,0,16394.82,0,Revenue,B,N
+10/11/2023,Deposit,0,487.13,0,Revenue,B,N
+10/6/2023,Deposit,0,4576,0,Revenue,B,N
+10/6/2023,Deposit,0,5245.8,0,Revenue,B,N
+10/6/2023,Deposit,0,871.43,0,Revenue,B,N
+10/4/2023,Deposit,0,6000,0,Revenue,B,N
+9/20/2023,Deposit,0,6251.44,0,Revenue,B,N
+9/16/2023,Deposit,0,893.06,0,Revenue,B,N
+9/16/2023,Deposit,0,1664,0,Revenue,B,N
+9/15/2023,Deposit,0,1851.75,0,Revenue,B,N
+9/14/2023,Deposit,0,3260.88,0,Revenue,B,N
+9/12/2023,Deposit,0,3362.39,0,Revenue,B,N
+9/12/2023,Deposit,0,3987.2,0,Revenue,B,N
+9/7/2023,Deposit,0,1497.1,0,Revenue,B,N
+8/30/2023,Deposit,0,1425,0,Revenue,B,N
+8/25/2023,Deposit,0,1244.88,0,Revenue,B,N
+8/24/2023,Deposit,0,0.12,0,Revenue,B,N
+8/19/2023,Deposit,0,5942.93,0,Revenue,B,N
+8/17/2023,Deposit,0,2208,0,Revenue,B,N
+8/16/2023,Deposit,0,2882.21,0,Revenue,B,N
+8/15/2023,Deposit,0,5455.8,0,Revenue,B,N
+8/12/2023,Deposit,0,5145.23,0,Revenue,B,N
+8/10/2023,Deposit,0,2945,0,Revenue,B,N
+8/10/2023,Deposit,0,1685.42,0,Revenue,B,N
+8/9/2023,Deposit,0,9428.58,0,Revenue,B,N
+8/8/2023,Deposit,0,1664,0,Revenue,B,N
+8/8/2023,Deposit,0,13905.54,0,Revenue,B,N
+9/27/2023,Deposit,0,18421.99,0,Revenue,B,N
+9/20/2023,Deposit,0,11236.57,0,Revenue,B,N
+9/19/2023,Deposit,0,4927.54,0,Revenue,B,N
+9/18/2023,Deposit,0,1894.38,0,Revenue,B,N
+9/12/2023,Deposit,0,3987.2,0,Revenue,B,N
+9/9/2023,Deposit,0,4700,0,Revenue,B,N
+10/2/2023,Deposit,0,16431.48,0,Revenue,B,N
+10/2/2023,Deposit,0,99.52,0,Revenue,B,N
+9/22/2023,Deposit,0,4368,0,Revenue,B,N
+9/21/2023,Deposit,0,2000,0,Revenue,B,N
+9/8/2023,Deposit,0,4784,0,Revenue,B,N
+9/5/2023,Deposit,0,98.93,0,Revenue,B,N
+9/1/2023,Deposit,0,16098.07,0,Revenue,B,N
+9/1/2023,Deposit,0,1000,0,Revenue,B,N
+8/31/2023,Deposit,0,178.61,0,Revenue,B,N
+8/25/2023,Deposit,0,866,0,Revenue,B,N
+8/21/2023,Deposit,0,1300,0,Revenue,B,N
+8/18/2023,Deposit,0,41203.18,0,Revenue,B,N
+8/17/2023,Deposit,0,10000,0,Revenue,B,N
+8/17/2023,Deposit,0,1250,0,Revenue,B,N
+8/14/2023,Deposit,0,415.68,0,Revenue,B,N
+8/11/2023,Deposit,0,1732,0,Revenue,B,N
+8/11/2023,Deposit,0,427.59,0,Revenue,B,N
+8/9/2023,Deposit,0,5055.4,0,Revenue,B,N
+8/8/2023,Deposit,0,2048.88,1,Revenue,B,N
+10/3/2023,Deposit,0,15000,0,Revenue,B,N
+10/3/2023,Deposit,0,2744.14,0,Revenue,B,N
+10/3/2023,Deposit,0,3000,0,Revenue,B,N
+10/2/2023,Deposit,0,4,0,Revenue,B,N
+10/2/2023,Deposit,0,1948.5,0,Revenue,B,N
+9/29/2023,Deposit,0,10000,0,Revenue,B,N
+9/28/2023,Deposit,0,800,0,Revenue,B,N
+9/26/2023,Deposit,0,0.94,0,Revenue,B,N
+9/18/2023,Deposit,0,50731.28,0,Revenue,B,N
+9/18/2023,Deposit,0,1300,0,Revenue,B,N
+9/14/2023,Deposit,0,550,0,Revenue,B,N
+9/13/2023,Deposit,0,3100,0,Revenue,B,N
+9/12/2023,Deposit,0,553.45,0,Revenue,B,N
+9/7/2023,Deposit,0,4010.66,0,Revenue,B,N
+9/5/2023,Deposit,0,2382.95,0,Revenue,B,N
+8/28/2023,Deposit,0,0.01,0,Revenue,B,N
+8/25/2023,Deposit,0,6339.12,0,Revenue,B,N
+10/3/2023,Deposit,0,200,0,Revenue,B,N
+9/21/2023,Deposit,0,16394.82,0,Revenue,B,N
+8/21/2023,Deposit,0,3000,0,Revenue,B,N
+8/17/2023,Deposit,0,32789.64,0,Revenue,B,N
+8/16/2023,Deposit,0,1100,0,Revenue,B,N
+7/26/2023,Deposit,0,1324.75,0,Revenue,B,N
+7/26/2023,Deposit,0,1215.55,0,Revenue,B,N
+7/26/2023,Deposit,0,806.4,0,Revenue,B,N
+7/24/2023,Deposit,0,1000,0,Revenue,B,N
+7/20/2023,Deposit,0,1610,0,Revenue,B,N
+7/20/2023,Deposit,0,1215.55,0,Revenue,B,N
+7/20/2023,Deposit,0,1215.55,0,Revenue,B,N
+7/18/2023,Deposit,0,2000,0,Revenue,B,N
+7/18/2023,Deposit,0,9100,0,Revenue,B,N
+7/13/2023,Deposit,0,500,0,Revenue,B,N
+7/7/2023,Deposit,0,800,0,Revenue,B,N
+1/3/2023,Deposit,0,2054.59,0,Revenue,B,N
+1/4/2023,Deposit,0,893.06,0,Revenue,B,N
+1/4/2023,Deposit,0,571.56,0,Revenue,B,N
+1/4/2023,Deposit,0,571.56,0,Revenue,B,N
+1/4/2023,Deposit,0,2048.88,0,Revenue,B,N
+1/5/2023,Deposit,0,105.48,0,Revenue,B,N
+1/7/2023,Deposit,0,6029.53,0,Revenue,B,N
+1/9/2023,Deposit,0,487.13,0,Revenue,B,N
+1/9/2023,Deposit,0,2382.95,0,Revenue,B,N
+1/10/2023,Deposit,0,963.34,0,Revenue,B,N
+1/11/2023,Deposit,0,2048.88,1,Revenue,B,N
+1/12/2023,Deposit,0,6973.44,0,Revenue,B,N
+1/13/2023,Deposit,0,3950,0,Revenue,B,N
+1/13/2023,Deposit,0,6273.09,0,Revenue,B,N
+1/14/2023,Deposit,0,200,2675,Revenue,B,N
+1/17/2023,Deposit,0,15904.67,0,Revenue,B,N
+1/18/2023,Deposit,0,106.01,0,Revenue,B,N
+1/20/2023,Deposit,0,185,0,Revenue,B,N
+1/24/2023,Deposit,0,23483.06,0,Revenue,B,N
+1/24/2023,Deposit,0,857.34,1,Revenue,B,N
+1/25/2023,Deposit,0,1714.68,0,Revenue,B,N
+1/27/2023,Deposit,0,70.36,0,Revenue,B,N
+1/27/2023,Deposit,0,15865.3,0,Revenue,B,N
+1/30/2023,Deposit,0,15132.48,0,Revenue,B,N
+1/30/2023,Deposit,0,571.56,0,Revenue,B,N
+1/30/2023,Deposit,0,571.56,0,Revenue,B,N
+2/2/2023,Deposit,0,135.31,0,Revenue,B,N
+2/9/2023,Deposit,0,2048.88,1,Revenue,B,N
+2/10/2023,Deposit,0,3851.54,0,Revenue,B,N
+2/11/2023,Deposit,0,5087.75,0,Revenue,B,N
+2/13/2023,Deposit,0,3620.96,0,Revenue,B,N
+2/17/2023,Deposit,0,1474.45,0,Revenue,B,N
+2/17/2023,Deposit,0,1920,0,Revenue,B,N
+2/17/2023,Deposit,0,3844.75,0,Revenue,B,N
+2/18/2023,Deposit,0,8367.73,0,Revenue,B,N
+2/21/2023,Deposit,0,243.56,0,Revenue,B,N
+2/21/2023,Deposit,0,3832.05,0,Revenue,B,N
+2/21/2023,Deposit,0,9203.42,0,Revenue,B,N
+2/22/2023,Deposit,0,10.81,9031,Revenue,B,N
+2/22/2023,Deposit,0,8185.86,0,Revenue,B,N
+2/22/2023,Deposit,0,12.94,0,Revenue,B,N
+2/22/2023,Deposit,0,85.99,0,Revenue,B,N
+2/23/2023,Deposit,0,827.22,0,Revenue,B,N
+2/24/2023,Deposit,0,8736,0,Revenue,B,N
+2/24/2023,Deposit,0,1690.95,0,Revenue,B,N
+2/27/2023,Deposit,0,15132.48,0,Revenue,B,N
+2/27/2023,Deposit,0,9934.1,0,Revenue,B,N
+2/28/2023,Deposit,0,5304.25,0,Revenue,B,N
+3/1/2023,Deposit,0,101.46,0,Revenue,B,N
+3/2/2023,Deposit,0,3351.42,0,Revenue,B,N
+3/2/2023,Deposit,0,2961.72,0,Revenue,B,N
+3/3/2023,Deposit,0,15354.71,0,Revenue,B,N
+3/3/2023,Deposit,0,2165,0,Revenue,B,N
+3/4/2023,Deposit,0,2417.23,0,Revenue,B,N
+3/6/2023,Deposit,0,1190.75,0,Revenue,B,N
+3/6/2023,Deposit,0,519.6,0,Revenue,B,N
+3/6/2023,Deposit,0,519.6,0,Revenue,B,N
+3/6/2023,Deposit,0,487.13,0,Revenue,B,N
+3/8/2023,Deposit,0,1244.88,0,Revenue,B,N
+3/8/2023,Deposit,0,467.64,0,Revenue,B,N
+3/9/2023,Deposit,0,1104,0,Revenue,B,N
+3/9/2023,Deposit,0,2382.95,0,Revenue,B,N
+3/10/2023,Deposit,0,19019.29,0,Revenue,B,N
+3/11/2023,Deposit,0,1104,0,Revenue,B,N
+3/13/2023,Deposit,0,3476.98,0,Revenue,B,N
+3/14/2023,Deposit,0,2302.48,0,Revenue,B,N
+3/14/2023,Deposit,0,1169.1,0,Revenue,B,N
+3/15/2023,Deposit,0,2048.88,1,Revenue,B,N
+3/16/2023,Deposit,0,243.56,0,Revenue,B,N
+3/17/2023,Deposit,0,4784,0,Revenue,B,N
+3/18/2023,Deposit,0,10715.12,0,Revenue,B,N
+3/20/2023,Deposit,0,3090.54,0,Revenue,B,N
+3/20/2023,Deposit,0,19316.82,0,Revenue,B,N
+3/21/2023,Deposit,0,1840.25,0,Revenue,B,N
+3/21/2023,Deposit,0,102.32,0,Revenue,B,N
+3/22/2023,Deposit,0,623.52,0,Revenue,B,N
+3/23/2023,Deposit,0,2588.26,0,Revenue,B,N
+3/24/2023,Deposit,0,9681.24,0,Revenue,B,N
+3/27/2023,Deposit,0,4056.5,0,Revenue,B,N
+3/29/2023,Deposit,0,15132.48,0,Revenue,B,N
+3/31/2023,Deposit,0,2354.44,0,Revenue,B,N
+4/3/2023,Deposit,0,37550.34,0,Revenue,B,N
+4/5/2023,Deposit,0,549.91,0,Revenue,B,N
+4/6/2023,Deposit,0,1244.88,0,Revenue,B,N
+4/7/2023,Deposit,0,0.98,0,Revenue,B,N
+4/7/2023,Deposit,0,3722,0,Revenue,B,N
+4/7/2023,Deposit,0,6883.87,0,Revenue,B,N
+4/10/2023,Deposit,0,5488.95,0,Revenue,B,N
+4/10/2023,Deposit,0,5942.93,0,Revenue,B,N
+4/11/2023,Deposit,0,2701.92,0,Revenue,B,N
+4/11/2023,Deposit,0,1125.8,0,Revenue,B,N
+4/13/2023,Deposit,0,1828.75,0,Revenue,B,N
+4/13/2023,Deposit,0,0.01,0,Revenue,B,N
+4/13/2023,Deposit,0,2048.88,1,Revenue,B,N
+4/17/2023,Deposit,0,2382.95,0,Revenue,B,N
+4/18/2023,Deposit,0,2629.04,0,Revenue,B,N
+4/19/2023,Deposit,0,4450,0,Revenue,B,N
+4/19/2023,Deposit,0,378.88,0,Revenue,B,N
+4/19/2023,Deposit,0,3000,0,Revenue,B,N
+4/19/2023,Deposit,0,101.46,0,Revenue,B,N
+4/20/2023,Deposit,0,1244.88,0,Revenue,B,N
+4/20/2023,Deposit,0,1463.54,0,Revenue,B,N
+4/21/2023,Deposit,0,1558.8,0,Revenue,B,N
+4/21/2023,Deposit,0,46240.28,0,Revenue,B,N
+4/22/2023,Deposit,0,1664,0,Revenue,B,N
+4/24/2023,Deposit,0,2165,0,Revenue,B,N
+4/25/2023,Deposit,0,64.95,9031,Revenue,B,Y
+4/27/2023,Deposit,0,98.96,0,Revenue,B,N
+4/28/2023,Deposit,0,4160,0,Revenue,B,N
+5/1/2023,Deposit,0,2500,0,Revenue,B,N
+5/1/2023,Deposit,0,19474.51,0,Revenue,B,N
+5/1/2023,Deposit,0,4700,0,Revenue,B,N
+5/3/2023,Deposit,0,1497.1,0,Revenue,B,N
+5/3/2023,Deposit,0,1497.1,0,Revenue,B,N
+5/4/2023,Deposit,0,1337.08,0,Revenue,B,N
+5/4/2023,Deposit,0,920.13,0,Revenue,B,N
+5/4/2023,Deposit,0,2872.66,0,Revenue,B,N
+5/5/2023,Deposit,0,2530.64,0,Revenue,B,N
+5/5/2023,Deposit,0,7739.88,0,Revenue,B,N
+5/5/2023,Deposit,0,1194.72,0,Revenue,B,N
+5/9/2023,Deposit,0,3680.5,0,Revenue,B,N
+5/9/2023,Deposit,0,7263.58,0,Revenue,B,N
+5/9/2023,Deposit,0,2208,0,Revenue,B,N
+5/9/2023,Deposit,0,531.14,0,Revenue,B,N
+5/9/2023,Deposit,0,2048.88,1,Revenue,B,N
+5/11/2023,Deposit,0,1244.88,0,Revenue,B,N
+5/16/2023,Deposit,0,9937.31,0,Revenue,B,N
+5/17/2023,Deposit,0,16394.82,0,Revenue,B,N
+5/18/2023,Deposit,0,108.93,0,Revenue,B,N
+5/19/2023,Deposit,0,2097,0,Revenue,B,N
+5/19/2023,Deposit,0,44121,0,Revenue,B,N
+5/22/2023,Deposit,0,4758.68,0,Revenue,B,N
+5/22/2023,Deposit,0,4784,0,Revenue,B,N
+5/22/2023,Deposit,0,2382.95,0,Revenue,B,N
+5/24/2023,Deposit,0,2130,0,Revenue,B,N
+5/26/2023,Deposit,0,25.98,9031,Revenue,B,N
+5/29/2023,Deposit,0,54.1,1,Revenue,B,N
+6/1/2023,Deposit,0,3862.36,0,Revenue,B,N
+6/2/2023,Deposit,0,15132.48,0,Revenue,B,N
+6/2/2023,Deposit,0,1062,0,Revenue,B,N
+6/2/2023,Deposit,0,876.82,0,Revenue,B,N
+6/5/2023,Deposit,0,980.1,0,Revenue,B,N
+6/6/2023,Deposit,0,460.07,0,Revenue,B,N
+6/6/2023,Deposit,0,1154.04,0,Revenue,B,N
+6/7/2023,Deposit,0,1611.75,0,Revenue,B,N
+6/7/2023,Deposit,0,16394.82,0,Revenue,B,N
+6/8/2023,Deposit,0,1054.31,0,Revenue,B,N
+6/9/2023,Deposit,0,10662.34,0,Revenue,B,N
+6/9/2023,Deposit,0,6000,0,Revenue,B,N
+6/10/2023,Deposit,0,1244.88,0,Revenue,B,N
+6/12/2023,Deposit,0,0.29,0,Revenue,B,N
+6/12/2023,Deposit,0,0.21,0,Revenue,B,N
+6/13/2023,Deposit,0,3012,0,Revenue,B,N
+6/13/2023,Deposit,0,761,0,Revenue,B,N
+6/13/2023,Deposit,0,2048.88,1,Revenue,B,N
+6/14/2023,Deposit,0,7263.58,0,Revenue,B,N
+6/14/2023,Deposit,0,1680,0,Revenue,B,N
+6/14/2023,Deposit,0,1225,0,Revenue,B,N
+6/17/2023,Deposit,0,2093.56,0,Revenue,B,N
+6/21/2023,Deposit,0,1867.6,0,Revenue,B,N
+6/21/2023,Deposit,0,53829.26,0,Revenue,B,N
+6/22/2023,Deposit,0,13941.86,0,Revenue,B,N
+6/22/2023,Deposit,0,89.15,0,Revenue,B,N
+6/23/2023,Deposit,0,2600,0,Revenue,B,N
+6/28/2023,Deposit,0,757.75,0,Revenue,B,N
+6/28/2023,Deposit,0,2078.3,0,Revenue,B,N
+6/28/2023,Deposit,0,1293.6,0,Revenue,B,N
+6/30/2023,Deposit,0,51.96,0,Revenue,B,N
+7/1/2023,Deposit,0,1497.1,0,Revenue,B,N
+7/3/2023,Deposit,0,433,0,Revenue,B,N
+7/3/2023,Deposit,0,2800.63,0,Revenue,B,N
+7/3/2023,Deposit,0,9126.94,0,Revenue,B,N
+7/5/2023,Deposit,0,1470.39,0,Revenue,B,N
+7/6/2023,Deposit,0,4650,0,Revenue,B,N
+7/7/2023,Deposit,0,15132.48,0,Revenue,B,N
+7/7/2023,Deposit,0,1077.4,0,Revenue,B,N
+7/8/2023,Deposit,0,920.13,0,Revenue,B,N
+7/10/2023,Deposit,0,786.98,0,Revenue,B,N
+7/12/2023,Deposit,0,2048.88,1,Revenue,B,N
+7/13/2023,Deposit,0,2016,0,Revenue,B,N
+7/13/2023,Deposit,0,17601.3,0,Revenue,B,N
+7/13/2023,Deposit,0,82.48,0,Revenue,B,N
+7/14/2023,Deposit,0,266.57,0,Revenue,B,N
+7/15/2023,Deposit,0,500,0,Revenue,B,N
+7/15/2023,Deposit,0,3800.75,0,Revenue,B,N
+7/17/2023,Deposit,0,1244.88,0,Revenue,B,N
+7/18/2023,Deposit,0,1,0,Revenue,B,N
+7/18/2023,Deposit,0,2713.19,0,Revenue,B,N
+7/18/2023,Deposit,0,112,0,Revenue,B,N
+7/18/2023,Deposit,0,40323.97,0,Revenue,B,N
+7/19/2023,Deposit,0,1585,0,Revenue,B,N
+7/19/2023,Deposit,0,1300,0,Revenue,B,N
+7/22/2023,Deposit,0,6886.87,0,Revenue,B,N
+7/22/2023,Deposit,0,2678,0,Revenue,B,N
+7/22/2023,Deposit,0,6887,0,Revenue,B,N
+7/27/2023,Deposit,0,2165,0,Revenue,B,N
+7/27/2023,Deposit,0,1407.25,0,Revenue,B,N
+7/27/2023,Deposit,0,1822,0,Revenue,B,N
+7/28/2023,Deposit,0,378.88,0,Revenue,B,N
+7/28/2023,Deposit,0,2382.95,0,Revenue,B,N
+7/28/2023,Deposit,0,1194.72,0,Revenue,B,N
+7/29/2023,Deposit,0,152.45,0,Revenue,B,N
+7/31/2023,Deposit,0,4479.39,0,Revenue,B,N
+8/3/2023,Deposit,0,16816.99,0,Revenue,B,N
+8/3/2023,Deposit,0,7972.53,0,Revenue,B,N
+8/4/2023,Deposit,0,1346.52,0,Revenue,B,N
+8/4/2023,Deposit,0,4342,0,Revenue,B,N
+8/10/2023,Digital Payment Services,742.5,0,718,Fee,B,N
+9/21/2023,Discount-Tire-Co,543.42,0,7805,Auto Maintenance,B,Y
+9/22/2023,Discover,651.39,0,0,Credit Card,P,Y
+8/22/2023,Discover,656.2,0,0,Credit Card,P,Y
+8/14/2023,Discover,494.85,0,0,Credit Card,P,Y
+1/13/2023,Discover,186.56,0,9031,Credit Card,P,Y
+1/17/2023,Discover,500,0,9031,Credit Card,P,Y
+1/26/2023,Discover,656.2,0,0,Credit Card,B,Y
+2/13/2023,Discover,287.83,0,9031,Credit Card,P,Y
+2/15/2023,Discover,500,0,9031,Credit Card,P,Y
+2/22/2023,Discover,656.2,0,0,Credit Card,B,Y
+3/15/2023,Discover,484.86,0,9031,Credit Card,P,Y
+3/15/2023,Discover,486.32,0,9031,Credit Card,P,Y
+3/24/2023,Discover,656.2,0,0,Credit Card,B,Y
+4/13/2023,Discover,500,0,9031,Credit Card,P,Y
+4/24/2023,Discover,656.2,0,0,Credit Card,B,Y
+5/17/2023,Discover,495,0,9031,Credit Card,P,Y
+5/23/2023,Discover,656.2,0,0,Credit Card,B,Y
+6/13/2023,Discover,495.79,0,9031,Credit Card,P,Y
+6/22/2023,Discover,656.2,0,0,Credit Card,B,Y
+7/13/2023,Discover,465.99,0,9031,Credit Card,P,Y
+7/24/2023,Discover,656.2,0,0,Credit Card,B,Y
+7/11/2023,DJS Food and Gas,10.74,0,2675,Gas,B,N
+12/9/2023,Dog Waste Depot,169.99,0,7805,Supplies,P,N
+10/4/2023,Dog Waste Depot,286.94,0,7805,Supplies,P,Y
+3/29/2023,Dog Waste Depot,286.94,0,3341,Supplies,B,N
+5/8/2023,Dollar General,17.48,0,9031,Recreational,P,N
+3/21/2023,Domain Name,265,0,1,Software,B,Y
+6/17/2023,Donut Taco Palace,32.9,0,3341,Food,P,N
+5/21/2023,Doordash,25.17,0,9031,Food,P,N
+7/10/2023,Doordash,28.9,0,9031,Food,P,N
+7/13/2023,Doordash,27,0,9031,Food,P,N
+7/15/2023,Doordash,9.99,0,9031,Food,P,N
+7/17/2023,Doordash,13.39,0,9031,Food,P,N
+7/19/2023,Doordash,29.09,0,9031,Food,P,N
+7/29/2023,Doordash,26.95,0,9031,Food,P,N
+1/15/2023,Doordash Dashpass,9.99,0,9031,Food,P,N
+1/4/2023,eBay,238.1,0,9031,Supplies,B,N
+5/4/2023,El Pollo Rico,41.21,0,9031,Food,P,N
+6/11/2023,El Pollo Rico,46.32,0,9031,Food,P,N
+6/22/2023,El Pollo Rico,25.21,0,9031,Food,P,N
+1/10/2023,Express Food Mart,45.99,0,2675,Gas,B,N
+3/14/2023,Express Food Mart,60,0,2675,Gas,B,N
+4/10/2023,Express Food Mart,49.53,0,2675,Gas,B,N
+4/13/2023,Express Food Mart,58.37,0,3341,Gas,B,N
+4/16/2023,Express Food Mart,41.33,0,3341,Gas,B,N
+7/3/2023,Express Food Mart,105.43,0,2675,Gas,B,N
+7/24/2023,Express Food Mart,110.3,0,2675,Gas,B,N
+12/14/2023,Farmers Insurance,1021.36,0,0,Insurance,B,Y
+11/14/2023,Farmers Insurance,1021.36,0,0,Insurance,B,Y
+10/16/2023,Farmers Insurance,1021.36,0,0,Insurance,B,Y
+9/14/2023,Farmers Insurance,1021.36,0,0,Insurance,B,Y
+8/14/2023,Farmers Insurance,1021.36,0,0,Insurance,B,Y
+1/5/2023,Farmers Insurance,666,0,0,Insurance,B,Y
+1/17/2023,Farmers Insurance,682.74,0,0,Insurance,B,Y
+3/14/2023,Farmers Insurance,1535.1,0,0,Insurance,B,Y
+4/14/2023,Farmers Insurance,739.24,0,0,Insurance,B,Y
+6/9/2023,Farmers Insurance,789.24,0,0,Insurance,B,Y
+6/14/2023,Farmers Insurance,1303.52,0,0,Insurance,B,Y
+7/14/2023,Farmers Insurance,1021.36,0,0,Insurance,B,Y
+3/1/2023,Fedex,5.94,0,1,Professional Service,B,N
+3/2/2023,Fedex,12.06,0,1,Professional Service,B,N
+3/5/2023,Fedex,8.11,0,1,Professional Service,B,N
+12/31/2023,Fee,24.25,0,0,Fee,B,N
+12/31/2023,Fee,6,0,0,Fee,B,N
+12/31/2023,Fee,6,0,0,Fee,B,N
+12/31/2023,Fee,6,0,0,Fee,B,N
+12/31/2023,Fee,6,0,0,Fee,B,N
+12/23/2023,Fee,34,0,0,Fee,B,N
+12/23/2023,Fee,34,0,0,Fee,B,N
+12/23/2023,Fee,34,0,0,Fee,B,N
+12/22/2023,Fee,1807.24,0,0,Fee,B,N
+12/13/2023,Fee,4,0,0,Fee,B,N
+12/7/2023,Fee,34,0,0,Fee,B,N
+12/7/2023,Fee,34,0,0,Fee,B,N
+12/7/2023,Fee,34,0,0,Fee,B,N
+12/7/2023,Fee,34,0,0,Fee,B,N
+12/7/2023,Fee,34,0,0,Fee,B,N
+12/6/2023,Fee,34,0,0,Fee,B,N
+12/5/2023,Fee,97.56,0,0,Fee,B,N
+12/5/2023,Fee,81.02,0,0,Fee,B,N
+11/30/2023,Fee,20.75,0,0,Fee,B,N
+11/30/2023,Fee,6,0,0,Fee,B,N
+11/30/2023,Fee,6,0,0,Fee,B,N
+11/30/2023,Fee,6,0,0,Fee,B,N
+11/3/2023,Fee,74.62,0,0,Fee,B,N
+11/28/2023,Fee,34,0,0,Fee,B,N
+11/28/2023,Fee,34,0,0,Fee,B,N
+11/28/2023,Fee,34,0,0,Fee,B,N
+11/4/2023,Fee,34,0,0,Fee,B,N
+11/4/2023,Fee,34,0,0,Fee,B,N
+11/4/2023,Fee,34,0,0,Fee,B,N
+11/29/2023,Fee,181.66,0,0,Fee,B,N
+11/24/2023,Fee,1813.62,0,0,Fee,B,N
+11/8/2023,Fee,34,0,0,Fee,B,N
+11/7/2023,Fee,4,0,0,Fee,B,N
+11/2/2023,Fee,287.04,0,0,Fee,B,N
+11/1/2023,Fee,71.25,0,0,Fee,B,N
+10/31/2023,Fee,20.75,0,0,Fee,B,N
+10/31/2023,Fee,6,0,0,Fee,B,N
+10/31/2023,Fee,6,0,0,Fee,B,N
+10/31/2023,Fee,6,0,0,Fee,B,N
+10/31/2023,Fee,6,0,0,Fee,B,N
+10/20/2023,Fee,34,0,0,Fee,B,N
+10/20/2023,Fee,34,0,0,Fee,B,N
+10/20/2023,Fee,34,0,0,Fee,B,N
+10/20/2023,Fee,34,0,0,Fee,B,N
+10/20/2023,Fee,34,0,0,Fee,B,N
+10/19/2023,Fee,1832.06,0,0,Fee,B,N
+10/13/2023,Fee,34,0,0,Fee,B,N
+10/6/2023,Fee,4,0,0,Fee,B,N
+10/4/2023,Fee,34,0,0,Fee,B,N
+10/4/2023,Fee,34,0,0,Fee,B,N
+9/30/2023,Fee,4.25,0,0,Fee,B,N
+9/30/2023,Fee,6,0,0,Fee,B,N
+9/15/2023,Fee,34,0,0,Fee,B,N
+9/15/2023,Fee,34,0,0,Fee,B,N
+9/15/2023,Fee,34,0,0,Fee,B,N
+9/15/2023,Fee,34,0,0,Fee,B,N
+9/15/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/9/2023,Fee,34,0,0,Fee,B,N
+9/5/2023,Fee,20,0,0,Fee,B,N
+8/31/2023,Fee,29.25,0,0,Fee,B,N
+8/31/2023,Fee,6,0,0,Fee,B,N
+8/23/2023,Fee,34,0,0,Fee,B,N
+8/21/2023,Fee,34,0,0,Fee,B,N
+8/21/2023,Fee,34,0,0,Fee,B,N
+8/21/2023,Fee,34,0,0,Fee,B,N
+8/21/2023,Fee,34,0,0,Fee,B,N
+8/21/2023,Fee,34,0,0,Fee,B,N
+8/19/2023,Fee,34,0,0,Fee,B,N
+8/19/2023,Fee,34,0,0,Fee,B,N
+8/19/2023,Fee,34,0,0,Fee,B,N
+8/19/2023,Fee,34,0,0,Fee,B,N
+8/19/2023,Fee,34,0,0,Fee,B,N
+8/19/2023,Fee,34,0,0,Fee,B,N
+8/18/2023,Fee,1403.16,0,0,Fee,B,N
+8/16/2023,Fee,34,0,0,Fee,B,N
+8/16/2023,Fee,34,0,0,Fee,B,N
+8/15/2023,Fee,1.68,0,718,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+8/9/2023,Fee,34,0,0,Fee,B,N
+10/3/2023,Fee,94.05,0,0,Fee,B,N
+10/2/2023,Fee,4,0,0,Fee,B,N
+9/30/2023,Fee,14.25,0,0,Fee,B,N
+9/30/2023,Fee,6,0,0,Fee,B,N
+9/19/2023,Fee,52.32,0,7805,Fee,B,N
+9/18/2023,Fee,1727.87,0,0,Fee,B,N
+9/7/2023,Fee,136.86,0,0,Fee,B,N
+9/5/2023,Fee,69.36,0,0,Fee,B,N
+10/3/2023,Fee,74.62,0,0,Fee,B,N
+9/30/2023,Fee,6,0,0,Fee,B,N
+9/6/2023,Fee,68.22,0,0,Fee,B,N
+8/31/2023,Fee,6,0,0,Fee,B,N
+8/4/2023,Fee,131.12,0,0,Fee,B,N
+7/31/2023,Fee,6,0,0,Fee,B,N
+1/4/2023,Fee,118.33,0,0,Fee,B,N
+1/4/2023,Fee,1.88,0,718,Fee,B,N
+1/8/2023,Fee,34,0,0,Fee,B,N
+1/8/2023,Fee,34,0,0,Fee,B,N
+1/8/2023,Fee,34,0,0,Fee,B,N
+1/8/2023,Fee,34,0,0,Fee,B,N
+1/8/2023,Fee,34,0,0,Fee,B,N
+1/9/2023,Fee,69.36,0,0,Fee,B,N
+1/10/2023,Fee,33,0,0,Fee,B,N
+1/14/2023,Fee,1,0,3341,Fee,B,N
+1/14/2023,Fee,17.24,0,3341,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/25/2023,Fee,34,0,0,Fee,B,N
+1/28/2023,Fee,34,0,0,Fee,B,N
+1/28/2023,Fee,34,0,0,Fee,B,N
+1/28/2023,Fee,34,0,0,Fee,B,N
+1/31/2023,Fee,45.25,0,0,Fee,B,N
+1/31/2023,Fee,6,0,0,Fee,B,N
+2/3/2023,Fee,1.95,0,718,Fee,B,N
+2/3/2023,Fee,34,0,0,Fee,B,N
+2/8/2023,Fee,131.11,0,0,Fee,B,N
+2/8/2023,Fee,14.66,0,718,Fee,B,N
+2/10/2023,Fee,1,0,3341,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/11/2023,Fee,34,0,0,Fee,B,N
+2/14/2023,Fee,34,0,0,Fee,B,N
+2/14/2023,Fee,34,0,0,Fee,B,N
+2/14/2023,Fee,34,0,0,Fee,B,N
+2/17/2023,Fee,112,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,25.3,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/19/2023,Fee,34,0,0,Fee,B,N
+2/23/2023,Fee,28.38,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+2/25/2023,Fee,34,0,0,Fee,B,N
+3/1/2023,Fee,3.19,0,0,Fee,B,N
+3/2/2023,Fee,131.11,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/4/2023,Fee,30.75,0,0,Fee,B,N
+3/4/2023,Fee,6,0,0,Fee,B,N
+3/4/2023,Fee,34,0,0,Fee,B,N
+3/8/2023,Fee,16.15,0,0,Fee,B,N
+3/8/2023,Fee,10,0,0,Fee,B,N
+3/9/2023,Fee,69.36,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/10/2023,Fee,34,0,0,Fee,B,N
+3/12/2023,Fee,11.13,0,718,Fee,B,N
+3/14/2023,Fee,40,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/19/2023,Fee,34,0,0,Fee,B,N
+3/20/2023,Fee,658.77,0,0,Fee,B,N
+3/21/2023,Fee,2.12,0,1,Fee,B,N
+3/22/2023,Fee,4,0,0,Fee,B,N
+3/24/2023,Fee,12.63,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/24/2023,Fee,34,0,0,Fee,B,N
+3/25/2023,Fee,34,0,0,Fee,B,N
+3/25/2023,Fee,34,0,0,Fee,B,N
+3/25/2023,Fee,21.37,0,0,Fee,B,N
+3/25/2023,Fee,34,0,0,Fee,B,N
+3/25/2023,Fee,34,0,0,Fee,B,N
+3/25/2023,Fee,34,0,0,Fee,B,N
+3/25/2023,Fee,34,0,0,Fee,B,N
+3/25/2023,Fee,34,0,0,Fee,B,N
+3/25/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/30/2023,Fee,34,0,0,Fee,B,N
+3/31/2023,Fee,40.5,0,0,Fee,B,N
+3/31/2023,Fee,6,0,0,Fee,B,N
+3/31/2023,Fee,10,0,0,Fee,B,N
+4/3/2023,Fee,1277.21,0,0,Fee,B,N
+4/4/2023,Fee,1.8,0,718,Fee,B,N
+4/7/2023,Fee,10,0,0,Fee,B,N
+4/11/2023,Fee,34,0,0,Fee,B,N
+4/11/2023,Fee,34,0,0,Fee,B,N
+4/11/2023,Fee,34,0,0,Fee,B,N
+4/11/2023,Fee,34,0,0,Fee,B,N
+4/11/2023,Fee,34,0,0,Fee,B,N
+4/11/2023,Fee,34,0,0,Fee,B,N
+4/11/2023,Fee,34,0,0,Fee,B,N
+4/11/2023,Fee,34,0,0,Fee,B,N
+4/12/2023,Fee,131.11,0,0,Fee,B,N
+4/17/2023,Fee,34,0,0,Fee,B,N
+4/17/2023,Fee,69.36,0,0,Fee,B,N
+4/19/2023,Fee,3.19,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/20/2023,Fee,34,0,0,Fee,B,N
+4/21/2023,Fee,1574.67,0,0,Fee,B,N
+4/24/2023,Fee,1,0,9031,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/29/2023,Fee,34,0,0,Fee,B,N
+4/30/2023,Fee,43.2,0,0,Fee,B,N
+4/30/2023,Fee,6,0,0,Fee,B,N
+5/2/2023,Fee,34,0,0,Fee,B,N
+5/2/2023,Fee,34,0,0,Fee,B,N
+5/2/2023,Fee,34,0,0,Fee,B,N
+5/4/2023,Fee,1.77,0,718,Fee,B,N
+5/4/2023,Fee,131.12,0,0,Fee,B,N
+5/4/2023,Fee,97.66,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/6/2023,Fee,34,0,0,Fee,B,N
+5/10/2023,Fee,34,0,0,Fee,B,N
+5/10/2023,Fee,34,0,0,Fee,B,N
+5/10/2023,Fee,34,0,0,Fee,B,N
+5/10/2023,Fee,34,0,0,Fee,B,N
+5/10/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/17/2023,Fee,34,0,0,Fee,B,N
+5/18/2023,Fee,34,0,0,Fee,B,N
+5/18/2023,Fee,34,0,0,Fee,B,N
+5/18/2023,Fee,34,0,0,Fee,B,N
+5/18/2023,Fee,34,0,0,Fee,B,N
+5/19/2023,Fee,1501.74,0,0,Fee,B,N
+5/20/2023,Fee,34,0,0,Fee,B,N
+5/20/2023,Fee,34,0,0,Fee,B,N
+5/20/2023,Fee,34,0,0,Fee,B,N
+5/20/2023,Fee,34,0,0,Fee,B,N
+5/22/2023,Fee,69.36,0,0,Fee,B,N
+6/2/2023,Fee,30.56,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,53.75,0,0,Fee,B,N
+6/2/2023,Fee,6,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/2/2023,Fee,34,0,0,Fee,B,N
+6/6/2023,Fee,1.87,0,718,Fee,B,N
+6/6/2023,Fee,131.12,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/8/2023,Fee,34,0,0,Fee,B,N
+6/10/2023,Fee,34,0,0,Fee,B,N
+6/10/2023,Fee,34,0,0,Fee,B,N
+6/14/2023,Fee,34,0,0,Fee,B,N
+6/14/2023,Fee,34,0,0,Fee,B,N
+6/14/2023,Fee,34,0,0,Fee,B,N
+6/14/2023,Fee,34,0,0,Fee,B,N
+6/14/2023,Fee,34,0,0,Fee,B,N
+6/14/2023,Fee,34,0,0,Fee,B,N
+6/14/2023,Fee,34,0,0,Fee,B,N
+6/18/2023,Fee,34,0,0,Fee,B,N
+6/18/2023,Fee,34,0,0,Fee,B,N
+6/18/2023,Fee,34,0,0,Fee,B,N
+6/18/2023,Fee,34,0,0,Fee,B,N
+6/18/2023,Fee,34,0,0,Fee,B,N
+6/18/2023,Fee,34,0,0,Fee,B,N
+6/18/2023,Fee,34,0,0,Fee,B,N
+6/21/2023,Fee,1821,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/22/2023,Fee,34,0,0,Fee,B,N
+6/24/2023,Fee,34,0,0,Fee,B,N
+6/24/2023,Fee,34,0,0,Fee,B,N
+6/24/2023,Fee,34,0,0,Fee,B,N
+6/24/2023,Fee,34,0,0,Fee,B,N
+6/24/2023,Fee,34,0,0,Fee,B,N
+6/24/2023,Fee,34,0,0,Fee,B,N
+6/26/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+6/29/2023,Fee,34,0,0,Fee,B,N
+7/3/2023,Fee,299.9,0,0,Fee,B,N
+7/4/2023,Fee,2,0,0,Fee,B,N
+7/6/2023,Fee,131.12,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,49.95,0,0,Fee,B,N
+7/8/2023,Fee,6,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/8/2023,Fee,34,0,0,Fee,B,N
+7/11/2023,Fee,1.83,0,718,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/14/2023,Fee,34,0,0,Fee,B,N
+7/16/2023,Fee,34,0,0,Fee,B,N
+7/16/2023,Fee,34,0,0,Fee,B,N
+7/16/2023,Fee,34,0,0,Fee,B,N
+7/16/2023,Fee,34,0,0,Fee,B,N
+7/16/2023,Fee,34,0,0,Fee,B,N
+7/16/2023,Fee,34,0,0,Fee,B,N
+7/16/2023,Fee,34,0,0,Fee,B,N
+7/16/2023,Fee,34,0,0,Fee,B,N
+7/17/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/23/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,69.36,0,0,Fee,B,N
+7/28/2023,Fee,12.85,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/28/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/29/2023,Fee,21.15,0,0,Fee,B,N
+7/29/2023,Fee,34,0,0,Fee,B,N
+7/31/2023,Fee,48,0,0,Fee,B,N
+7/31/2023,Fee,6,0,0,Fee,B,N
+8/3/2023,Fee,272.32,0,0,Fee,B,N
+8/4/2023,Fee,34,0,0,Fee,B,N
+12/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+11/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+10/2/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+9/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+1/3/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+2/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+3/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+4/3/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+5/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+6/17/2023,Financial Pacific,601.93,0,2679,Supplies,B,N
+7/3/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+8/1/2023,Financial Pacific,524.83,0,0,Supplies,B,N
+12/4/2023,Firmspace,150,0,0,Marketing,B,Y
+11/2/2023,Firmspace,150,0,0,Marketing,B,Y
+10/2/2023,Firmspace,150,0,0,Marketing,B,Y
+9/5/2023,Firmspace,150,0,0,Marketing,B,Y
+8/9/2023,Firmspace,154.5,0,2679,Marketing,B,Y
+4/4/2023,Firmspace,209.9,0,0,Marketing,B,Y
+5/2/2023,Firmspace,150,0,0,Marketing,B,Y
+6/2/2023,Firmspace,150,0,0,Marketing,B,Y
+7/3/2023,Firmspace,150,0,0,Marketing,B,Y
+5/4/2023,Five Below,21.65,0,3341,Recreational,P,N
+4/21/2023,FM 1626 NTI,95.81,0,3341,Gas,B,N
+10/24/2023,Food Box,59.12,0,7767,Gas,B,N
+10/24/2023,Food Box,47.19,0,7767,Gas,B,N
+7/26/2023,Food Works,73.73,0,1,Gas,B,N
+3/30/2023,Food Works,50.18,0,2675,Gas,B,N
+4/10/2023,Food Works,74,0,2675,Gas,B,N
+4/14/2023,Food Works,40.79,0,2675,Gas,B,N
+12/18/2023,Fortiva,116.66,0,0,Loan,B,Y
+11/3/2023,Fortiva,58.33,0,0,Loan,B,Y
+1/10/2023,Fortiva,116.66,0,0,Loan,B,Y
+4/4/2023,Fortiva,116.66,0,0,Loan,B,Y
+7/20/2023,Fortiva,58.33,0,1,Loan,P,Y
+7/5/2023,Fullscript,107.09,0,9031,Recreational,P,N
+8/4/2023,Fullscript,74.16,0,9031,Recreational,P,N
+8/10/2023,Go Carwash,15.99,0,9031,Auto Maintenance,B,N
+7/10/2023,Go Carwash,15.99,0,9031,Auto Maintenance,B,N
+6/10/2023,Go Carwash,15.99,0,9031,Auto Maintenance,B,N
+5/8/2023,Go Carwash,15,0,9031,Auto Maintenance,B,N
+5/18/2023,Go Carwash,15,0,9031,Auto Maintenance,B,N
+4/21/2023,Go Carwash,15,0,9031,Auto Maintenance,B,N
+4/14/2023,Goodrx Gold,9.99,0,9031,Medical,P,N
+5/14/2023,Goodrx Gold,9.99,0,9031,Medical,P,N
+9/22/2023,Government Payments,349.05,0,7805,Fee,B,N
+9/22/2023,GP Pro,1117.14,0,2679,Supplies,B,N
+1/12/2023,Green Clean Certified,580,0,1,Professional Service,B,N
+1/29/2023,Grub Hub,67.37,0,9031,Food,P,N
+11/16/2023,GT Wraps,378,0,7767,Professional Service,B,N
+5/2/2023,GT Wraps,531.44,0,718,Professional Service,B,N
+7/23/2023,Guaco Taco,16.51,0,9031,Food,P,N
+12/29/2023,Gusto,1777.3,0,0,Tax,B,N
+12/29/2023,Gusto,184.7,0,0,Tax,B,N
+12/14/2023,Gusto,902.7,0,0,Tax,B,N
+12/12/2023,Gusto,1640.78,0,0,Tax,B,N
+12/12/2023,Gusto,184.7,0,0,Tax,B,N
+11/28/2023,Gusto,1622.2,0,0,Tax,B,N
+11/28/2023,Gusto,184.7,0,0,Tax,B,N
+11/10/2023,Gusto,1622.2,0,0,Tax,B,N
+11/10/2023,Gusto,184.7,0,0,Tax,B,N
+10/26/2023,Gusto,1566.4,0,0,Tax,B,N
+10/26/2023,Gusto,184.7,0,0,Tax,B,N
+10/11/2023,Gusto,1687.82,0,0,Tax,B,N
+10/11/2023,Gusto,184.7,0,0,Tax,B,N
+9/1/2023,Gusto,1590.58,0,0,Tax,B,N
+8/18/2023,Gusto,1590.56,0,0,Tax,B,N
+8/1/2023,Gusto,1005.82,0,0,Tax,B,N
+7/19/2023,Gusto,806.79,0,0,Tax,B,N
+7/10/2023,Gusto,567.52,0,0,Tax,B,N
+1/12/2023,Gusto,2371.77,0,0,Tax,B,N
+1/30/2023,Gusto,2404.59,0,0,Tax,B,N
+2/22/2023,Gusto,1716.62,0,0,Tax,B,N
+2/28/2023,Gusto,2383.59,0,0,Tax,B,N
+3/15/2023,Gusto,2251.67,0,0,Tax,B,N
+3/31/2023,Gusto,2230.89,0,0,Tax,B,N
+4/13/2023,Gusto,2155.62,0,0,Tax,B,N
+5/2/2023,Gusto,2172.78,0,0,Tax,B,N
+5/22/2023,Gusto,762.22,0,0,Tax,B,N
+6/6/2023,Gusto,583.18,0,0,Tax,B,N
+6/15/2023,Gusto,2024.72,0,0,Tax,B,N
+7/7/2023,H and R Grocery,75.92,0,3341,Groceries,P,N
+3/5/2023,H20 Carwash,75.52,0,9031,Auto Maintenance,B,N
+6/11/2023,Habanero Mexica,35.1,0,2675,Food,P,N
+12/28/2023,Harbor Freight,90.9,0,7805,Supplies,B,N
+6/13/2023,Harbor Freight,128.78,0,2675,Supplies,B,N
+12/19/2023,H-E-B #,41.06,0,7805,Groceries,P,N
+12/1/2023,H-E-B #,41.39,0,7767,Groceries,P,N
+11/14/2023,H-E-B #,76.25,0,7805,Groceries,P,N
+10/30/2023,H-E-B #,119.48,0,7767,Groceries,P,N
+10/11/2023,H-E-B #,26,0,1,Groceries,P,N
+9/27/2023,H-E-B #,57.39,0,718,Groceries,P,N
+8/9/2023,H-E-B #,125.76,0,9031,Groceries,P,N
+9/14/2023,H-E-B #,76.25,0,7767,Groceries,P,N
+9/8/2023,H-E-B #,35.41,0,7767,Groceries,P,N
+9/8/2023,H-E-B #,76.25,0,7767,Groceries,P,N
+9/8/2023,H-E-B #,40.25,0,7767,Groceries,P,N
+1/10/2023,H-E-B #,112.31,0,9031,Groceries,P,N
+1/11/2023,H-E-B #,50.89,0,9031,Groceries,P,N
+1/12/2023,H-E-B #,106.77,0,718,Groceries,B,N
+1/15/2023,H-E-B #,64.88,0,3341,Groceries,P,N
+1/15/2023,H-E-B #,193.8,0,9031,Groceries,P,N
+1/16/2023,H-E-B #,66.3,0,9031,Groceries,P,N
+1/31/2023,H-E-B #,171.85,0,9031,Groceries,P,N
+2/8/2023,H-E-B #,167.08,0,9031,Groceries,P,N
+2/10/2023,H-E-B #,66.17,0,9031,Groceries,P,N
+2/13/2023,H-E-B #,89.85,0,9031,Groceries,P,N
+2/21/2023,H-E-B #,148.88,0,9031,Groceries,P,N
+3/6/2023,H-E-B #,13.15,0,9031,Groceries,P,N
+3/6/2023,H-E-B #,102.69,0,9031,Groceries,P,N
+3/7/2023,H-E-B #,88.63,0,9031,Groceries,P,N
+3/11/2023,H-E-B #,65.28,0,1,Groceries,P,N
+3/13/2023,H-E-B #,308.29,0,2679,Groceries,B,N
+3/18/2023,H-E-B #,45.75,0,9031,Groceries,P,N
+3/24/2023,H-E-B #,52.81,0,9031,Groceries,P,N
+3/28/2023,H-E-B #,100.12,0,9031,Groceries,P,N
+4/4/2023,H-E-B #,100,0,9031,Groceries,P,N
+4/6/2023,H-E-B #,63.44,0,9031,Groceries,P,N
+4/11/2023,H-E-B #,51.44,0,3341,Groceries,P,N
+4/19/2023,H-E-B #,102.67,0,9031,Groceries,P,N
+4/25/2023,H-E-B #,89.35,0,9031,Groceries,P,N
+4/26/2023,H-E-B #,104.4,0,9031,Groceries,P,N
+4/27/2023,H-E-B #,28.23,0,3341,Groceries,P,N
+4/29/2023,H-E-B #,53.38,0,3341,Groceries,P,N
+5/3/2023,H-E-B #,175.46,0,9031,Groceries,P,N
+5/3/2023,H-E-B #,247.9,0,2679,Groceries,P,N
+5/4/2023,H-E-B #,143.24,0,3341,Groceries,P,N
+5/7/2023,H-E-B #,158.01,0,3341,Groceries,P,N
+5/9/2023,H-E-B #,9.72,0,9031,Groceries,P,N
+5/9/2023,H-E-B #,187.31,0,9031,Groceries,P,N
+5/9/2023,H-E-B #,56.64,0,2679,Groceries,P,N
+5/14/2023,H-E-B #,169.54,0,9031,Groceries,P,N
+5/17/2023,H-E-B #,114.2,0,9031,Groceries,P,N
+5/24/2023,H-E-B #,94.8,0,9031,Groceries,P,N
+6/2/2023,H-E-B #,32.04,0,3341,Groceries,P,N
+6/13/2023,H-E-B #,60,0,9031,Groceries,P,N
+6/14/2023,H-E-B #,164.74,0,2679,Groceries,P,N
+6/17/2023,H-E-B #,28.69,0,9031,Groceries,P,N
+6/18/2023,H-E-B #,8,0,3341,Groceries,P,N
+6/26/2023,H-E-B #,218.46,0,9031,Groceries,P,N
+6/30/2023,H-E-B #,134,0,9031,Groceries,P,N
+7/2/2023,H-E-B #,54.1,0,9031,Groceries,P,N
+7/8/2023,H-E-B #,69.2,0,9031,Groceries,P,N
+7/11/2023,H-E-B #,217,0,9031,Groceries,P,N
+7/17/2023,H-E-B #,25,0,3341,Groceries,P,N
+7/24/2023,H-E-B #,507.66,0,2679,Groceries,B,N
+7/25/2023,H-E-B #,285.14,0,9031,Groceries,P,N
+7/26/2023,H-E-B #,57.67,0,9031,Groceries,P,N
+7/31/2023,H-E-B #,40.59,0,3341,Groceries,P,N
+8/2/2023,H-E-B #,145.57,0,9031,Groceries,P,N
+10/27/2023,H-E-B Gas,54.36,0,7767,Gas,B,N
+10/9/2023,H-E-B Gas,55.02,0,2679,Gas,B,N
+9/17/2023,H-E-B Gas,54.04,0,2679,Gas,B,N
+1/12/2023,H-E-B Gas,56.82,0,1,Gas,B,N
+2/21/2023,H-E-B Gas,40.62,0,3341,Gas,B,N
+3/9/2023,H-E-B Gas,59.28,0,9031,Gas,B,N
+4/5/2023,H-E-B Gas,61.13,0,2675,Gas,B,N
+4/15/2023,H-E-B Gas,63.37,0,9031,Gas,B,N
+4/20/2023,H-E-B Gas,51.29,0,9031,Gas,B,N
+5/9/2023,H-E-B Gas,60.8,0,9031,Gas,B,N
+1/4/2023,HEB Online,24.73,0,718,Groceries,B,N
+4/12/2023,HEB Online,28.33,0,718,Groceries,P,N
+4/14/2023,HEB Online,77.78,0,9031,Groceries,P,N
+2/9/2023,Hindo Inc,14.06,0,2675,Gas,B,N
+12/20/2023,Hitechpower,292.18,0,7767,Professional Service,B,N
+12/15/2023,Hitechpower,212.5,0,7805,Professional Service,B,N
+12/8/2023,Hitechpower,605.62,0,7805,Professional Service,B,N
+11/29/2023,Hitechpower,770.31,0,7805,Professional Service,B,N
+11/15/2023,Hitechpower,1753.12,0,7767,Professional Service,B,N
+11/13/2023,Hitechpower,1434.37,0,7805,Professional Service,B,N
+11/9/2023,Hitechpower,387.81,0,7805,Professional Service,B,N
+11/9/2023,Hitechpower,212.5,0,7805,Professional Service,B,N
+10/27/2023,Hitechpower,743.75,0,7767,Professional Service,B,N
+10/27/2023,Hitechpower,302.81,0,7767,Professional Service,B,N
+10/27/2023,Hitechpower,1785.75,0,7767,Professional Service,B,N
+10/14/2023,Hitechpower,212.5,0,7805,Professional Service,B,N
+10/14/2023,Hitechpower,2000,0,7805,Professional Service,B,N
+10/5/2023,Hitechpower,451.56,0,7767,Professional Service,B,N
+10/5/2023,Hitechpower,398.43,0,7767,Professional Service,B,N
+8/25/2023,Hitechpower,1859.37,0,718,Professional Service,B,N
+8/19/2023,Hitechpower,557.81,0,718,Professional Service,B,N
+8/19/2023,Hitechpower,212.5,0,718,Professional Service,B,N
+8/19/2023,Hitechpower,90.31,0,718,Professional Service,B,N
+8/19/2023,Hitechpower,595.37,0,718,Professional Service,B,N
+8/19/2023,Hitechpower,90.31,0,718,Professional Service,B,N
+8/19/2023,Hitechpower,664.06,0,718,Professional Service,B,N
+9/30/2023,Hitechpower,2500,0,7805,Professional Service,B,N
+9/22/2023,Hitechpower,1859.37,0,7805,Professional Service,B,N
+9/14/2023,Hitechpower,212.5,0,7767,Professional Service,B,N
+9/14/2023,Hitechpower,1859.38,0,7767,Professional Service,B,N
+9/14/2023,Hitechpower,239.06,0,7767,Professional Service,B,N
+9/14/2023,Hitechpower,120,0,7767,Professional Service,B,N
+9/7/2023,Hitechpower,1827.5,0,7767,Professional Service,B,N
+1/10/2023,Hitechpower,212.5,0,718,Professional Service,B,N
+1/10/2023,Hitechpower,292.18,0,718,Professional Service,B,N
+2/12/2023,Hitechpower,1859.38,0,718,Professional Service,B,N
+2/14/2023,Hitechpower,1407.81,0,718,Professional Service,B,N
+2/14/2023,Hitechpower,637.5,0,718,Professional Service,B,N
+2/14/2023,Hitechpower,212.5,0,718,Professional Service,B,N
+3/4/2023,Hitechpower,690.62,0,2679,Professional Service,B,N
+3/4/2023,Hitechpower,159.37,0,2679,Professional Service,B,N
+3/4/2023,Hitechpower,1859.37,0,2679,Professional Service,B,N
+3/16/2023,Hitechpower,212.5,0,718,Professional Service,B,N
+3/30/2023,Hitechpower,743.75,0,718,Professional Service,B,N
+3/30/2023,Hitechpower,108.25,0,718,Professional Service,B,N
+4/20/2023,Hitechpower,371.87,0,718,Professional Service,B,N
+4/20/2023,Hitechpower,265.62,0,718,Professional Service,B,N
+4/22/2023,Hitechpower,531.25,0,718,Professional Service,B,N
+4/22/2023,Hitechpower,371.87,0,718,Professional Service,B,N
+4/22/2023,Hitechpower,345.31,0,718,Professional Service,B,N
+4/22/2023,Hitechpower,212.5,0,718,Professional Service,B,N
+4/22/2023,Hitechpower,212.5,0,718,Professional Service,B,N
+4/22/2023,Hitechpower,292.18,0,718,Professional Service,B,N
+5/2/2023,Hitechpower,1859.38,0,718,Professional Service,B,N
+5/27/2023,Hitechpower,371.87,0,718,Professional Service,B,N
+6/8/2023,Hitechpower,1859.37,0,718,Professional Service,B,N
+6/24/2023,Hitechpower,212.5,0,2679,Professional Service,B,N
+7/11/2023,Hitechpower,743.75,0,718,Professional Service,B,N
+7/19/2023,Hitechpower,249.68,0,718,Professional Service,B,N
+7/19/2023,Hitechpower,1859.37,0,718,Professional Service,B,N
+7/19/2023,Hitechpower,127.5,0,718,Professional Service,B,N
+7/19/2023,Hitechpower,531.25,0,718,Professional Service,B,N
+8/4/2023,Hitechpower,212.5,0,718,Professional Service,B,N
+8/4/2023,Hitechpower,1009.37,0,718,Professional Service,B,N
+12/31/2023,Home Depot,28.52,0,7767,Supplies,B,N
+12/29/2023,Home Depot,70.32,0,7767,Supplies,B,N
+12/28/2023,Home Depot,97.57,0,7767,Supplies,B,N
+12/27/2023,Home Depot,391.83,0,7805,Supplies,B,N
+12/19/2023,Home Depot,67.07,0,7805,Supplies,B,N
+12/8/2023,Home Depot,6.46,0,7767,Supplies,B,N
+12/6/2023,Home Depot,69.21,0,7767,Supplies,B,N
+12/2/2023,Home Depot,81.1,0,7767,Supplies,B,N
+11/24/2023,Home Depot,97.51,0,7767,Supplies,B,N
+11/20/2023,Home Depot,390.62,0,7805,Supplies,B,N
+11/8/2023,Home Depot,91.05,0,7767,Supplies,B,N
+10/26/2023,Home Depot,88.62,0,7767,Supplies,B,N
+10/23/2023,Home Depot,64.89,0,7767,Supplies,B,N
+10/18/2023,Home Depot,115.61,0,718,Supplies,B,N
+10/17/2023,Home Depot,89.75,0,7767,Supplies,B,N
+10/6/2023,Home Depot,175.48,0,7805,Supplies,B,N
+9/1/2023,Home Depot,48.65,0,718,Supplies,B,N
+9/18/2023,Home Depot,44.33,0,7805,Supplies,B,N
+1/5/2023,Home Depot,12.18,0,2675,Supplies,B,N
+1/6/2023,Home Depot,53,0,9031,Supplies,B,N
+1/9/2023,Home Depot,35.66,0,2675,Supplies,B,N
+1/10/2023,Home Depot,44.9,0,2675,Supplies,B,N
+1/11/2023,Home Depot,47.46,0,3341,Supplies,B,N
+1/11/2023,Home Depot,94.44,0,2675,Supplies,B,N
+1/16/2023,Home Depot,28.11,0,2675,Supplies,B,N
+1/18/2023,Home Depot,29,0,0,Supplies,B,N
+1/26/2023,Home Depot,35.66,0,2675,Supplies,B,N
+2/4/2023,Home Depot,55.27,0,3341,Supplies,B,N
+2/10/2023,Home Depot,40.03,0,3341,Supplies,B,N
+3/1/2023,Home Depot,19.99,0,2679,Supplies,B,N
+4/9/2023,Home Depot,98.7,0,9031,Supplies,B,N
+4/11/2023,Home Depot,176.63,0,1,Supplies,B,N
+4/15/2023,Home Depot,88.82,0,3341,Supplies,B,N
+4/15/2023,Home Depot,148.18,0,3341,Supplies,B,N
+4/20/2023,Home Depot,40.99,0,3341,Supplies,B,N
+4/22/2023,Home Depot,208.24,0,3341,Supplies,B,N
+4/22/2023,Home Depot,37.82,0,1,Supplies,B,N
+4/26/2023,Home Depot,33.37,0,3341,Supplies,B,N
+4/28/2023,Home Depot,35.6,0,2675,Supplies,B,N
+5/6/2023,Home Depot,123.92,0,3341,Supplies,B,N
+5/8/2023,Home Depot,398.7,0,2675,Supplies,B,N
+5/10/2023,Home Depot,8.62,0,2675,Supplies,B,N
+5/25/2023,Home Depot,235.53,0,0,Supplies,B,N
+5/29/2023,Home Depot,9.49,0,1,Supplies,B,N
+5/29/2023,Home Depot,187.22,0,1,Supplies,B,N
+6/3/2023,Home Depot,54.15,0,0,Supplies,B,N
+6/9/2023,Home Depot,167.7,0,9031,Supplies,B,N
+6/10/2023,Home Depot,135.15,0,0,Supplies,B,N
+6/13/2023,Home Depot,34.03,0,2675,Supplies,B,N
+6/13/2023,Home Depot,54.6,0,2675,Supplies,B,N
+6/24/2023,Home Depot,168.55,0,1,Supplies,B,N
+6/26/2023,Home Depot,35.66,0,2675,Supplies,B,N
+7/16/2023,Home Depot,144.65,0,0,Supplies,B,N
+7/17/2023,Home Depot,21.73,0,0,Supplies,B,N
+7/17/2023,Home Depot,139.25,0,9031,Supplies,B,N
+7/19/2023,Home Depot,48.66,0,2675,Supplies,B,N
+7/23/2023,Home Depot,196.45,0,0,Supplies,B,N
+9/18/2023,Howdy Donut,6.31,0,2679,Food,B,N
+3/24/2023,HP Ink,138.54,0,2679,Supplies,B,N
+7/25/2023,HP Ink,149.35,0,2679,Supplies,B,N
+12/2/2023,HP Instant Ink,12.98,0,7805,Supplies,B,N
+11/1/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+10/2/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+9/3/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+1/1/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+2/1/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+3/4/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+4/1/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+5/2/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+6/7/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+7/3/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+8/1/2023,HP Instant Ink,12.98,0,1,Supplies,B,N
+7/20/2023,IHOP,46.48,0,9031,Food,B,N
+4/13/2023,Innovative Urgent Care,185,0,9031,Medical,P,N
+5/10/2023,Instacart,109.71,0,9031,Groceries,P,N
+6/16/2023,J Towing,237.45,0,0,Professional Service,B,N
+1/4/2023,Jack Brown Cleaners,33.07,0,9031,Professional Service,P,N
+3/22/2023,Jack Brown Cleaners,18.02,0,9031,Professional Service,P,N
+5/10/2023,Jack Brown Cleaners,19.32,0,9031,Professional Service,P,N
+3/4/2023,Jiffy Lube,97.04,0,2675,Auto Maintenance,B,N
+7/26/2023,Jiffy Lube,98.04,0,2675,Professional Service,B,N
+1/6/2023,Jifiti American Greet,150,0,1,Supplies,B,N
+1/31/2023,Jimmy Johns,65.76,0,9031,Food,P,N
+3/16/2023,Jimmy Johns,7.78,0,9031,Food,P,N
+5/2/2023,Jimmy Johns,95.21,0,9031,Food,P,N
+12/11/2023,Kelly Legal Group PLLC,337.5,0,7767,Food,P,N
+10/31/2023,Kelly Legal Group PLLC,1335.74,0,7767,Professional Service,P,N
+9/5/2023,Kelly Legal Group PLLC,487.5,0,7767,Professional Service,P,N
+1/14/2023,Kim Paper,24.36,0,3341,Supplies,B,N
+4/10/2023,Kim Paper,4960.88,0,3341,Supplies,B,N
+4/24/2023,Kim Paper,7964.44,0,3341,Supplies,B,N
+5/24/2023,Kim Paper,3389.14,0,0,Supplies,B,N
+6/23/2023,Kim Paper,2141.87,0,0,Supplies,B,N
+6/24/2023,Kim Paper,2141.87,0,0,Supplies,B,N
+7/15/2023,Kim Paper,161.35,0,2675,Supplies,B,N
+7/27/2023,Kim Paper,21.59,0,2675,Supplies,B,N
+12/5/2023,Kristy R Cortez,785,0,0,Professional Service,B,N
+12/1/2023,Kristy R Cortez,750,0,0,Professional Service,B,N
+10/31/2023,Kristy R Cortez,750,0,1,Professional Service,B,N
+10/2/2023,Kristy R Cortez,865,0,0,Professional Service,B,N
+9/30/2023,Kristy R Cortez,750,0,1,Professional Service,B,N
+8/29/2023,Kristy R Cortez,400,0,7805,Professional Service,B,N
+1/31/2023,Kristy R Cortez,750,0,1,Professional Service,B,N
+2/28/2023,Kristy R Cortez,750,0,1,Professional Service,B,N
+3/30/2023,Kristy R Cortez,980,0,1,Professional Service,B,N
+4/30/2023,Kristy R Cortez,750,0,1,Professional Service,B,N
+7/4/2023,Kristy R Cortez,750,0,1,Professional Service,B,N
+7/19/2023,Kristy R Cortez,1605,0,1,Professional Service,B,N
+8/1/2023,Kristy R Cortez,750,0,1,Professional Service,B,N
+9/11/2023,La Chaparrita Meat Market,40.01,0,7767,Groceries,P,N
+4/3/2023,La Chaparrita Meat Market,23.57,0,9031,Groceries,P,N
+4/28/2023,La Chaparrita Meat Market,13.49,0,9031,Groceries,P,N
+6/22/2023,La Chaparrita Meat Market,13.81,0,9031,Groceries,P,N
+1/14/2023,La Madeleine,30.94,0,1,Food,P,N
+12/1/2023,Lake Austin Inc,118.1,0,7767,Gas,B,N
+1/18/2023,Lake Austin Inc,16.97,0,3341,Gas,B,N
+2/16/2023,Lake Austin Inc,91.54,0,2675,Gas,B,N
+7/8/2023,Lake Line Food,28.13,0,3341,Food,P,N
+9/1/2023,Landfill,106.97,0,718,Professional Service,B,N
+2/18/2023,Landfill,77.24,0,2675,Professional Service,B,N
+2/18/2023,Landfill,73.98,0,2675,Professional Service,B,N
+2/18/2023,Landfill,53.77,0,2675,Professional Service,B,N
+3/1/2023,Landfill,51.96,0,2675,Professional Service,B,N
+4/4/2023,Landfill,126.21,0,2675,Professional Service,B,N
+7/29/2023,Landfill,56.49,0,2675,Professional Service,B,N
+2/14/2023,Leander Express lube,139.82,0,2675,Auto Maintenance,B,N
+5/14/2023,Leander ISD,20,0,9031,Recreational,P,N
+3/7/2023,Leander Laundry,10,0,2675,Professional Service,P,N
+1/18/2023,Leander Stores LLC,74,0,2675,Gas,B,N
+3/17/2023,Leander Stores LLC,74,0,2675,Gas,B,N
+3/17/2023,Leander Stores LLC,0.05,0,2675,Gas,B,N
+4/27/2023,Leander Stores LLC,60.74,0,1,Gas,B,N
+12/14/2023,Lending Club,498.15,0,0,Loan,B,Y
+11/14/2023,Lending Club,498.15,0,0,Loan,B,Y
+10/16/2023,Lending Club,498.15,0,0,Loan,B,Y
+9/14/2023,Lending Club,498.15,0,0,Loan,B,Y
+8/15/2023,Lending Club,498.15,0,0,Loan,B,Y
+1/17/2023,Lending Club,498.15,0,0,Loan,B,Y
+2/14/2023,Lending Club,498.15,0,0,Loan,B,Y
+3/14/2023,Lending Club,498.15,0,0,Loan,B,Y
+4/14/2023,Lending Club,498.15,0,0,Loan,B,Y
+5/16/2023,Lending Club,498.15,0,0,Loan,B,Y
+6/14/2023,Lending Club,498.15,0,0,Loan,B,Y
+7/14/2023,Lending Club,498.15,0,0,Loan,B,Y
+12/20/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+12/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+11/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+11/20/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+10/19/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+10/4/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+9/20/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+9/18/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+8/18/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+1/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+1/30/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+2/21/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+3/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+3/20/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+4/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+4/20/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+5/4/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+5/18/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+6/7/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+6/21/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+7/6/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+7/28/2023,Lincoln Natural Life,316.91,0,0,Insurance,B,Y
+8/4/2023,Lincoln Natural Life,105.2,0,0,Insurance,B,Y
+1/14/2023,Llano Co Tx Motor,574.75,0,3341,Auto Maintenance,B,N
+8/31/2023,Llantera Ibarra,45,0,718,Auto Maintenance,B,N
+6/20/2023,Llantera Ibarra,67.78,0,2675,Auto Maintenance,B,N
+10/18/2023,Loan 00,200,0,0,Loan,B,Y
+9/18/2023,Loan 00,200,0,0,Loan,B,Y
+8/18/2023,Loan 00,200,0,0,Loan,B,Y
+1/18/2023,Loan 00,200,0,0,Loan,B,Y
+2/18/2023,Loan 00,200,0,0,Loan,B,Y
+3/20/2023,Loan 00,200,0,0,Loan,B,Y
+4/20/2023,Loan 00,200,0,0,Loan,B,Y
+5/18/2023,Loan 00,200,0,0,Loan,B,Y
+6/21/2023,Loan 00,200,0,0,Loan,B,Y
+7/18/2023,Loan 00,200,0,0,Loan,B,Y
+12/11/2023,Loan 02,447.78,0,0,Loan,P,Y
+11/11/2023,Loan 02,447.78,0,0,Loan,P,Y
+10/11/2023,Loan 02,447.78,0,0,Loan,P,Y
+9/11/2023,Loan 02,447.78,0,0,Loan,P,Y
+8/11/2023,Loan 02,447.78,0,0,Loan,P,Y
+1/11/2023,Loan 02,447.78,0,1,Loan,P,Y
+2/11/2023,Loan 02,447.78,0,1,Loan,P,Y
+3/11/2023,Loan 02,447.78,0,1,Loan,P,Y
+4/11/2023,Loan 02,447.78,0,1,Loan,P,Y
+5/16/2023,Loan 02,447.78,0,1,Loan,P,Y
+6/12/2023,Loan 02,116.81,0,1,Loan,P,Y
+6/14/2023,Loan 02,330.97,0,1,Loan,P,Y
+7/13/2023,Loan 02,447.78,0,1,Loan,P,Y
+6/8/2023,Longhorn Trailers,45,0,2675,Supplies,B,N
+12/9/2023,Lowes,17.19,0,7767,Supplies,B,N
+11/2/2023,Lowes,110.89,0,7767,Supplies,B,N
+10/23/2023,Lowes,43.81,0,7767,Supplies,B,N
+10/23/2023,Lowes,101.12,0,7767,Supplies,B,N
+10/16/2023,Lowes,57.84,0,7767,Supplies,B,N
+10/16/2023,Lowes,17.84,0,7767,Supplies,B,N
+10/4/2023,Lowes,48.77,0,2679,Supplies,B,N
+9/25/2023,Lowes,52.63,0,718,Supplies,B,N
+8/17/2023,Lowes,260.82,0,0,Supplies,B,N
+8/14/2023,Lowes,36.24,0,2679,Supplies,B,N
+1/5/2023,Lowes,102.79,0,2675,Supplies,B,N
+1/14/2023,Lowes,28.08,0,2675,Supplies,B,N
+1/18/2023,Lowes,11.89,0,3341,Supplies,B,N
+1/28/2023,Lowes,16.19,0,2675,Supplies,B,N
+2/9/2023,Lowes,56.27,0,2675,Supplies,B,N
+2/18/2023,Lowes,34.6,0,2679,Supplies,B,N
+3/1/2023,Lowes,57.87,0,2675,Supplies,B,N
+4/17/2023,Lowes,199.07,0,9031,Supplies,B,N
+4/18/2023,Lowes,7.56,0,3341,Supplies,B,N
+4/25/2023,Lowes,104.37,0,2675,Supplies,B,N
+4/27/2023,Lowes,34.14,0,2675,Supplies,B,N
+5/5/2023,Lowes,141.63,0,9031,Supplies,B,N
+5/23/2023,Lowes,56.25,0,0,Supplies,B,N
+6/19/2023,Lowes,116.82,0,9031,Supplies,B,N
+10/11/2023,Lupe Tortilla,180.75,0,7767,Food,B,N
+1/5/2023,Luxury Auto Works,3639.34,0,1,Auto Maintenance,B,N
+7/28/2023,Marcos Pizza,16.07,0,9031,Food,P,N
+1/19/2023,Maudies Cafe,47.88,0,3341,Food,P,N
+1/9/2023,McDonalds,26.23,0,9031,Food,P,N
+1/16/2023,McDonalds,29.89,0,9031,Food,P,N
+7/29/2023,McDonalds,28.56,0,2675,Food,P,N
+12/1/2023,Medical Arts Family Medicine,88,0,7767,Medical,P,N
+8/31/2023,Medical Arts Family Medicine,88,0,7767,Medical,P,N
+10/14/2023,Mens Wearhouse,633.2,0,7767,Software,P,N
+12/10/2023,Microsoft,38.38,0,7805,Software,B,Y
+12/10/2023,Microsoft,13.54,0,7805,Software,B,Y
+11/10/2023,Microsoft,38.38,0,7805,Software,B,Y
+11/10/2023,Microsoft,13.54,0,7805,Software,B,Y
+10/26/2023,Microsoft,21.31,0,7805,Software,B,Y
+10/11/2023,Microsoft,38.38,0,1,Software,B,Y
+10/10/2023,Microsoft,13.54,0,1,Software,B,Y
+9/11/2023,Microsoft,38.38,0,1,Software,B,Y
+9/10/2023,Microsoft,13.54,0,1,Software,B,Y
+8/10/2023,Microsoft,13.54,0,1,Software,B,Y
+8/10/2023,Microsoft,38.38,0,1,Software,B,Y
+1/10/2023,Microsoft,29.84,0,1,Software,B,Y
+2/10/2023,Microsoft,13.54,0,1,Software,B,Y
+4/11/2023,Microsoft,38.66,0,1,Software,B,Y
+5/11/2023,Microsoft,13.54,0,1,Software,B,Y
+6/11/2023,Microsoft,38.38,0,1,Software,B,Y
+6/11/2023,Microsoft,10,0,1,Software,B,Y
+6/11/2023,Microsoft,13.54,0,1,Software,B,Y
+7/11/2023,Microsoft,38.38,0,1,Software,B,Y
+7/11/2023,Microsoft,13.54,0,1,Software,B,Y
+1/10/2023,Microsoft 365,13.54,0,1,Software,B,Y
+2/10/2023,Microsoft 365,35.5,0,1,Software,B,Y
+3/10/2023,Microsoft 365,34.12,0,1,Software,B,Y
+3/10/2023,Microsoft 365,13.54,0,1,Software,B,Y
+4/11/2023,Microsoft 365,13.54,0,1,Software,B,Y
+5/11/2023,Microsoft 365,38.38,0,1,Software,B,Y
+7/9/2023,Mod Pizza,46.26,0,9031,Food,P,N
+12/28/2023,Money Transfer,10000,0,0,Transfer,P,Y
+12/19/2023,Money Transfer,2000,0,0,Transfer,P,Y
+12/15/2023,Money Transfer,6000,0,0,Transfer,P,Y
+12/14/2023,Money Transfer,16000,0,0,Transfer,P,Y
+12/6/2023,Money Transfer,4000,0,0,Transfer,P,Y
+12/5/2023,Money Transfer,500,0,0,Transfer,P,Y
+11/9/2023,Money Transfer,17399.82,0,0,Transfer,P,Y
+11/17/2023,Money Transfer,9000,0,0,Transfer,P,Y
+11/3/2023,Money Transfer,2000,0,0,Transfer,P,Y
+11/27/2023,Money Transfer,25000,0,0,Transfer,P,Y
+11/7/2023,Money Transfer,6000,0,0,Transfer,P,Y
+10/31/2023,Money Transfer,10000,0,0,Transfer,P,Y
+10/30/2023,Money Transfer,500,0,0,Transfer,P,Y
+10/19/2023,Money Transfer,20000,0,0,Transfer,P,Y
+10/18/2023,Money Transfer,1500,0,0,Transfer,P,Y
+10/12/2023,Money Transfer,15000,0,0,Transfer,P,Y
+10/4/2023,Money Transfer,6000,0,0,Transfer,P,Y
+8/21/2023,Money Transfer,3000,0,0,Transfer,P,Y
+8/16/2023,Money Transfer,1100,0,0,Transfer,P,Y
+9/14/2023,Money Transfer,2000,0,0,Transfer,P,Y
+8/28/2023,Money Transfer,5,0,0,Transfer,P,Y
+9/22/2023,Money Transfer,15000,0,0,Transfer,P,Y
+9/21/2023,Money Transfer,2000,0,0,Transfer,P,Y
+9/1/2023,Money Transfer,1000,0,0,Transfer,P,Y
+8/17/2023,Money Transfer,10000,0,0,Transfer,P,Y
+7/27/2023,Money Transfer,1822,0,0,Transfer,P,Y
+7/22/2023,Money Transfer,2678,0,0,Transfer,P,Y
+7/13/2023,Money Transfer,82.48,0,0,Transfer,P,Y
+7/7/2023,Money Transfer,800,0,0,Transfer,B,N
+7/13/2023,Money Transfer,500,0,0,Transfer,B,N
+7/18/2023,Money Transfer,2000,0,0,Transfer,B,N
+7/18/2023,Money Transfer,9100,0,0,Transfer,B,N
+7/24/2023,Money Transfer,1000,0,0,Transfer,B,N
+6/4/2023,Money Transfer,1153.28,0,0,Transfer,B,N
+6/8/2023,Money Transfer,6000,0,0,Transfer,B,N
+7/22/2023,Money Transfer,6886.56,0,0,Transfer,B,N
+7/24/2023,Mr Cooper,186.2,0,2675,Medical,P,N
+2/13/2023,Murphy Express,93.85,0,2675,Gas,B,N
+4/13/2023,Murphy Express,47.65,0,1,Gas,B,N
+4/13/2023,Murphy Express,23.45,0,1,Gas,B,N
+3/9/2023,Napa Store,69.27,0,2675,Auto Maintenance,B,N
+1/1/2023,Newks Eatery,12.99,0,9031,Food,P,N
+12/14/2023,Office Max,169.32,0,7767,Supplies,B,N
+8/23/2023,Office Max,86.05,0,2679,Supplies,B,N
+5/4/2023,Office Max,118.67,0,718,Supplies,B,N
+6/20/2023,Oreilly Auto Parts,84.4,0,2675,Auto Maintenance,B,N
+5/28/2023,Oreilly Auto Parts,64.39,0,0,Auto Maintenance,B,N
+5/28/2023,Oreilly Auto Parts,49.78,0,0,Auto Maintenance,B,N
+5/17/2023,Oreilly Auto Parts,27.04,0,9031,Auto Maintenance,B,N
+12/27/2023,Outdoor Power Equipment,81.88,0,7805,Supplies,B,N
+12/27/2023,Outdoor Power Equipment,0,24.73,7805,Supplies,B,N
+12/21/2023,Outdoor Power Equipment,100,0,7805,Supplies,B,N
+12/21/2023,Outdoor Power Equipment,100,0,7767,Supplies,B,N
+1/4/2023,Outdoor Power Equipment,184.01,0,2675,Supplies,B,N
+1/26/2023,Outdoor Power Equipment,681.96,0,2675,Supplies,B,N
+2/3/2023,Outdoor Power Equipment,995.88,0,2675,Supplies,B,N
+2/22/2023,Outdoor Power Equipment,100,0,2675,Supplies,B,N
+3/30/2023,Outdoor Power Equipment,138.41,0,2675,Supplies,B,N
+3/30/2023,Outdoor Power Equipment,246.79,0,2675,Supplies,B,N
+7/19/2023,Outdoor Power Equipment,370.61,0,2675,Supplies,B,N
+10/2/2023,Overdrawn Fee,34,0,0,Fee,B,N
+9/26/2023,Overdrawn Fee,34,0,0,Fee,B,N
+1/18/2023,Overdrawn Fee,34,0,0,Fee,B,N
+2/21/2023,Overdrawn Fee,34,0,0,Fee,B,N
+4/6/2023,Overdrawn Fee,34,0,0,Fee,B,N
+5/4/2023,Overdrawn Fee,34,0,0,Fee,B,N
+7/27/2023,Overdrawn Fee,34,0,0,Fee,B,N
+6/21/2023,P Terrys,42.43,0,3341,Food,P,N
+5/1/2023,Palenque Group,42.8,0,9031,Food,B,N
+5/8/2023,Palenque Group,75.72,0,9031,Food,B,N
+8/6/2023,Park and Zoom,4.95,0,9031,Recreational,P,N
+12/20/2023,Pedernales Electric,149.4,0,7805,Utilities,B,N
+8/2/2023,Pedernales Electric,176.99,0,0,Utilities,B,N
+4/22/2023,Pedernales Electric,58.84,0,1,Utilities,B,Y
+3/18/2023,Pedrosos Pizza,45.46,0,9031,Food,P,N
+7/13/2023,Pedrosos Pizza,10.66,0,9031,Food,P,N
+8/8/2023,Petco Park,18.86,0,9031,Recreational,P,N
+8/8/2023,Petcopark Retail,70.04,0,9031,Recreational,P,N
+4/25/2023,Phc Urgent Care For Kids,150,0,9031,Medical,P,N
+5/3/2023,Phc Urgent Care For Kids,150,0,9031,Medical,P,N
+3/17/2023,Popeyes,20.1,0,9031,Food,P,N
+12/25/2023,Pro Serve Enterprise,48.37,0,7805,Supplies,B,N
+11/11/2023,Pro Serve Enterprise,18.56,0,7805,Supplies,B,N
+11/2/2023,Pro Serve Enterprise,71.36,0,7805,Supplies,B,N
+10/26/2023,Pro Serve Enterprise,21.82,0,7805,Supplies,B,N
+10/26/2023,Pro Serve Enterprise,281.17,0,7805,Supplies,B,N
+10/25/2023,Pro Serve Enterprise,39.09,0,7805,Supplies,B,N
+10/25/2023,Pro Serve Enterprise,48.37,0,7805,Supplies,B,N
+10/11/2023,Pro Serve Enterprise,39.37,0,7805,Supplies,B,N
+8/14/2023,Pro Serve Enterprise,38.94,0,2675,Supplies,B,N
+9/29/2023,Pro Serve Enterprise,53.82,0,7805,Supplies,B,N
+9/28/2023,Pro Serve Enterprise,48.37,0,7805,Supplies,B,N
+9/23/2023,Pro Serve Enterprise,53.74,0,7805,Supplies,B,N
+9/22/2023,Pro Serve Enterprise,401.47,0,7805,Supplies,B,N
+9/11/2023,Pro Serve Enterprise,17.57,0,7767,Supplies,B,N
+9/7/2023,Pro Serve Enterprise,48.37,0,7805,Supplies,B,N
+8/30/2023,Pro Serve Enterprise,112.45,0,7805,Supplies,B,N
+1/14/2023,Pro Serve Enterprise,423.51,0,3341,Supplies,B,N
+1/18/2023,Pro Serve Enterprise,72.55,0,2675,Supplies,B,N
+1/20/2023,Pro Serve Enterprise,90.15,0,3341,Supplies,B,N
+1/27/2023,Pro Serve Enterprise,243.76,0,3341,Supplies,B,N
+3/10/2023,Pro Serve Enterprise,34.14,0,2675,Supplies,B,N
+3/22/2023,Pro Serve Enterprise,39.35,0,2675,Supplies,B,N
+3/31/2023,Pro Serve Enterprise,64.4,0,2675,Supplies,B,N
+4/12/2023,Pro Serve Enterprise,60.51,0,2675,Supplies,B,N
+5/1/2023,Pro Serve Enterprise,15.19,0,3341,Supplies,B,N
+5/4/2023,Pro Serve Enterprise,24.18,0,3341,Supplies,B,N
+5/15/2023,Pro Serve Enterprise,87.9,0,3341,Supplies,B,N
+5/15/2023,Pro Serve Enterprise,48.15,0,3341,Supplies,B,N
+5/15/2023,Pro Serve Enterprise,139.44,0,2675,Supplies,B,N
+5/24/2023,Pro Serve Enterprise,156.56,0,2675,Supplies,B,N
+5/25/2023,Pro Serve Enterprise,24.18,0,2675,Supplies,B,N
+6/8/2023,Pro Serve Enterprise,33.44,0,2675,Supplies,B,N
+6/14/2023,Pro Serve Enterprise,305.07,0,2675,Supplies,B,N
+6/14/2023,Pro Serve Enterprise,189.18,0,2675,Supplies,B,N
+6/16/2023,Pro Serve Enterprise,85.97,0,2675,Supplies,B,N
+6/17/2023,Pro Serve Enterprise,0,13.42,2675,Supplies,B,N
+6/21/2023,Pro Serve Enterprise,232.88,0,2675,Supplies,B,N
+7/20/2023,Pro Serve Enterprise,79,0,2675,Supplies,B,N
+8/4/2023,Pro Serve Enterprise,18.56,0,2675,Supplies,B,N
+8/7/2023,Pro Serve Enterprise,141.2,0,2675,Supplies,B,N
+12/27/2023,QT,84.83,0,7805,Gas,B,N
+12/20/2023,QT,30.86,0,0940,Gas,B,N
+12/12/2023,QT,25.93,0,7767,Gas,B,N
+12/7/2023,QT,24.86,0,7767,Gas,B,N
+11/29/2023,QT,40.27,0,7767,Gas,B,N
+11/29/2023,QT,44.11,0,7767,Gas,B,N
+11/21/2023,QT,42.64,0,7805,Gas,B,N
+11/20/2023,QT,21.01,0,7767,Gas,B,N
+11/20/2023,QT,79.95,0,7767,Gas,B,N
+11/13/2023,QT,41.06,0,7767,Gas,B,N
+11/13/2023,QT,40.45,0,7767,Gas,B,N
+11/8/2023,QT,36.12,0,7767,Gas,B,N
+10/30/2023,QT,33.05,0,7767,Gas,B,N
+10/30/2023,QT,33.88,0,7767,Gas,B,N
+11/1/2023,QT,28.97,0,2679,Gas,B,N
+11/1/2023,QT,11.3,0,2679,Gas,B,N
+8/31/2023,QT,118.95,0,718,Gas,B,N
+8/11/2023,QT,23.43,0,9031,Gas,B,N
+2/4/2023,QT,14.01,0,9031,Gas,B,N
+2/17/2023,QT,106.66,0,2675,Gas,B,N
+2/28/2023,QT,90.92,0,2675,Gas,B,N
+4/2/2023,QT,5.39,0,1,Gas,B,N
+4/5/2023,QT,52.23,0,2675,Gas,B,N
+4/7/2023,QT,33.38,0,9031,Gas,B,N
+5/3/2023,QT,45.03,0,3341,Gas,B,N
+5/25/2023,QT,35.26,0,9031,Gas,B,N
+5/25/2023,QT,19.32,0,9031,Gas,B,N
+6/7/2023,QT,62.12,0,9031,Gas,B,N
+6/7/2023,QT,15.53,0,9031,Gas,B,N
+7/9/2023,QT,51.53,0,0,Gas,B,N
+7/13/2023,QT,13.29,0,9031,Gas,B,N
+7/13/2023,QT,47.62,0,9031,Gas,B,N
+7/14/2023,QT,18.27,0,9031,Gas,B,N
+7/15/2023,QT,28.5,0,0,Gas,B,N
+7/23/2023,QT,21.51,0,9031,Gas,B,N
+7/31/2023,QT,71.19,0,9031,Gas,B,N
+2/28/2023,Radiology Partners,190,0,3341,Medical,P,N
+1/1/2023,Ranasar LLC,21.59,0,9031,Recreational,P,N
+10/5/2023,Randalls,87.71,0,7805,Groceries,P,N
+8/12/2023,Randalls,17.3,0,9031,Groceries,P,N
+1/3/2023,Randalls,113.45,0,9031,Groceries,P,N
+1/4/2023,Randalls,129.19,0,9031,Groceries,P,N
+1/4/2023,Randalls,53.55,0,9031,Groceries,P,N
+1/10/2023,Randalls,144.32,0,9031,Groceries,P,N
+1/25/2023,Randalls,77.78,0,9031,Groceries,P,N
+2/2/2023,Randalls,144.57,0,9031,Groceries,P,N
+2/12/2023,Randalls,64.62,0,9031,Groceries,P,N
+2/14/2023,Randalls,37.61,0,9031,Groceries,P,N
+2/15/2023,Randalls,95.76,0,9031,Groceries,P,N
+2/24/2023,Randalls,69.89,0,9031,Groceries,P,N
+2/24/2023,Randalls,56.21,0,9031,Groceries,P,N
+2/26/2023,Randalls,142.79,0,1,Groceries,P,N
+2/27/2023,Randalls,7.24,0,9031,Groceries,P,N
+3/8/2023,Randalls,33.95,0,9031,Groceries,P,N
+3/17/2023,Randalls,153.38,0,9031,Groceries,P,N
+3/20/2023,Randalls,158.31,0,9031,Groceries,P,N
+3/24/2023,Randalls,32.56,0,9031,Groceries,P,N
+3/29/2023,Randalls,208,0,3341,Groceries,P,N
+4/17/2023,Randalls,114.57,0,9031,Groceries,P,N
+4/21/2023,Randalls,20.09,0,3341,Groceries,P,N
+4/25/2023,Randalls,94.81,0,3341,Groceries,P,N
+5/31/2023,Randalls,86.69,0,9031,Groceries,P,N
+6/22/2023,Randalls,119.04,0,9031,Groceries,P,N
+7/3/2023,Randalls,28.13,0,3341,Groceries,P,N
+7/3/2023,Randalls,200.89,0,3341,Groceries,P,N
+7/6/2023,Randalls,91.97,0,9031,Groceries,P,N
+7/11/2023,Randalls,81.49,0,9031,Groceries,P,N
+7/18/2023,Randalls,49.69,0,9031,Groceries,P,N
+7/18/2023,Randalls,97.96,0,9031,Groceries,P,N
+7/29/2023,Randalls,94.71,0,9031,Groceries,P,N
+1/3/2023,Randalls Fuel,52.96,0,9031,Gas,B,N
+1/8/2023,Randalls Fuel,91.95,0,2675,Gas,B,N
+1/10/2023,Randalls Fuel,44.96,0,9031,Gas,B,N
+3/10/2023,Randalls Fuel,94.77,0,2675,Gas,B,N
+3/16/2023,Randalls Fuel,57.36,0,9031,Gas,B,N
+4/25/2023,Randalls Fuel,49.77,0,9031,Gas,B,N
+6/6/2023,Randalls Fuel,55.21,0,2675,Gas,B,N
+6/13/2023,Randalls Fuel,58.39,0,9031,Gas,B,N
+6/13/2023,Randalls Fuel,60.01,0,2675,Gas,B,N
+6/23/2023,Randalls Fuel,57.89,0,9031,Gas,B,N
+7/5/2023,Randalls Fuel,57.98,0,9031,Gas,B,N
+5/18/2023,RBFCU,429.99,0,9031,Loan,P,Y
+7/12/2023,RBFCU,429.99,0,9031,Loan,P,Y
+4/2/2023,Realtor Association,473.35,0,9031,Professional Service,P,N
+6/23/2023,Reids Cleaners,22.77,0,9031,Recreational,P,N
+7/16/2023,Reids Cleaners,23.51,0,9031,Recreational,P,N
+8/18/2023,Renken Dentistry,256.4,0,2675,Medical,P,N
+2/24/2023,Renken Dentistry,70,0,9031,Medical,P,N
+4/7/2023,Renken Dentistry,210.8,0,9031,Medical,P,N
+4/28/2023,Renken Dentistry,276,0,9031,Medical,P,N
+7/7/2023,Rent a Car,127.29,0,0,Auto Maintenance,B,N
+12/16/2023,RMA Toll,395.95,0,7767,Toll,B,N
+11/30/2023,RMA Toll,156.52,0,7767,Toll,B,N
+11/14/2023,RMA Toll,208.84,0,7805,Toll,B,N
+11/9/2023,RMA Toll,153.18,0,7805,Toll,B,N
+11/2/2023,RMA Toll,30.44,0,7767,Toll,B,N
+11/2/2023,RMA Toll,13.07,0,7767,Toll,B,N
+11/2/2023,RMA Toll,10.21,0,7767,Toll,B,N
+10/10/2023,RMA Toll,17.81,0,7805,Toll,B,N
+10/10/2023,RMA Toll,69.03,0,7805,Toll,B,N
+10/10/2023,RMA Toll,74.84,0,7805,Toll,B,N
+10/10/2023,RMA Toll,8.48,0,7805,Toll,B,N
+10/10/2023,RMA Toll,228,0,7805,Toll,B,N
+8/26/2023,RMA Toll,115.8,0,718,Toll,B,N
+8/25/2023,RMA Toll,436.09,0,718,Toll,B,N
+8/25/2023,RMA Toll,497.09,0,718,Toll,B,N
+8/25/2023,RMA Toll,116.47,0,718,Toll,B,N
+8/10/2023,RMA Toll,22.92,0,718,Toll,B,N
+8/10/2023,RMA Toll,45.43,0,718,Toll,B,N
+8/10/2023,RMA Toll,186.12,0,718,Toll,B,N
+9/6/2023,RMA Toll,84.21,0,7805,Toll,B,N
+1/13/2023,RMA Toll,34.38,0,9031,Toll,B,N
+1/14/2023,RMA Toll,23.82,0,3341,Toll,B,N
+1/14/2023,RMA Toll,16.49,0,3341,Toll,B,N
+1/14/2023,RMA Toll,38.52,0,3341,Toll,B,N
+1/26/2023,RMA Toll,719.15,0,9031,Toll,B,N
+3/1/2023,RMA Toll,239.72,0,9031,Toll,B,N
+4/22/2023,RMA Toll,213.34,0,9031,Toll,B,N
+5/23/2023,RMA Toll,213.35,0,9031,Toll,B,N
+5/24/2023,RMA Toll,32.02,0,1,Toll,B,N
+6/23/2023,RMA Toll,213.35,0,9031,Toll,B,N
+7/25/2023,RMA Toll,213.35,0,9031,Toll,B,N
+1/31/2023,Robin Brown,260,0,1,Recreational,P,N
+10/6/2023,Ropeace on Balcones,58.45,0,7805,Recreational,P,N
+5/28/2023,Rubbish Inc,490.91,0,2679,Supplies,B,N
+5/6/2023,Rutland Food Store,12.98,0,3341,Groceries,P,N
+8/16/2023,RZ Food Mart,75,0,2675,Gas,B,N
+9/27/2023,S and S Computer Solution,1119.43,0,2679,Professional Service,B,N
+5/19/2023,Sales Tax,12640,0,0,Tax,B,N
+5/22/2023,Sales Tax,6000,0,0,Tax,B,N
+12/19/2023,Saltgrass,193.66,0,7767,Food,P,N
+1/14/2023,Saltgrass,130.8,0,3341,Food,P,N
+4/5/2023,Saltgrass,180.04,0,3341,Food,P,N
+4/23/2023,Sams Club,164.81,0,9031,Groceries,P,N
+6/15/2023,Sams Club,130.91,0,9031,Groceries,P,N
+6/24/2023,Sams Club,83.33,0,9031,Groceries,P,N
+7/2/2023,Sams Club,165.31,0,9031,Groceries,P,N
+1/4/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+1/25/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+1/30/2023,Sana Vida Wellness,162.98,0,9031,Medical,P,N
+2/2/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+2/25/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+3/24/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+4/2/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+4/12/2023,Sana Vida Wellness,126.75,0,9031,Medical,P,N
+4/12/2023,Sana Vida Wellness,169,0,9031,Medical,P,N
+4/12/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+4/21/2023,Sana Vida Wellness,197.56,0,9031,Medical,P,N
+4/27/2023,Sana Vida Wellness,224,0,9031,Medical,P,N
+4/27/2023,Sana Vida Wellness,224,0,9031,Medical,P,N
+5/17/2023,Sana Vida Wellness,75,0,9031,Medical,P,N
+5/17/2023,Sana Vida Wellness,199,0,9031,Medical,P,N
+5/17/2023,Sana Vida Wellness,75,0,9031,Medical,P,N
+5/17/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+6/17/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+6/17/2023,Sana Vida Wellness,199,0,9031,Medical,P,N
+6/17/2023,Sana Vida Wellness,75,0,9031,Medical,P,N
+6/17/2023,Sana Vida Wellness,75,0,9031,Medical,P,N
+7/17/2023,Sana Vida Wellness,75,0,9031,Medical,P,N
+7/17/2023,Sana Vida Wellness,75,0,9031,Medical,P,N
+7/17/2023,Sana Vida Wellness,149,0,9031,Medical,P,N
+7/17/2023,Sana Vida Wellness,199,0,9031,Medical,P,N
+12/22/2023,SBA Loan,700,0,0,Loan,B,Y
+11/22/2023,SBA Loan,700,0,0,Loan,B,Y
+10/30/2023,SBA Loan,700,0,0,Loan,B,Y
+9/28/2023,SBA Loan,700,0,0,Loan,B,Y
+8/28/2023,SBA Loan,700,0,0,Loan,B,Y
+7/12/2023,SBA Loan,150,0,0,Loan,B,Y
+1/30/2023,SBA Loan,700,0,0,Loan,B,Y
+2/28/2023,SBA Loan,700,0,0,Loan,B,Y
+3/21/2023,SBA Loan,690,0,0,Loan,B,Y
+4/11/2023,SBA Loan,690,0,0,Loan,B,Y
+5/30/2023,SBA Loan,700,0,0,Loan,B,Y
+7/28/2023,SBA Loan,700,0,0,Loan,B,Y
+12/22/2023,Seoteric,750,0,0,Marketing,B,Y
+11/27/2023,Seoteric,750,0,0,Marketing,B,N
+10/21/2023,Seoteric,750,0,7805,Marketing,B,Y
+8/21/2023,Seoteric,750,0,718,Marketing,B,Y
+9/21/2023,Seoteric,750,0,7805,Marketing,B,Y
+2/21/2023,Seoteric,750,0,718,Marketing,B,Y
+3/21/2023,Seoteric,750,0,718,Marketing,B,Y
+4/21/2023,Seoteric,750,0,718,Marketing,B,Y
+5/21/2023,Seoteric,750,0,718,Marketing,B,Y
+6/29/2023,Seoteric,750,0,718,Marketing,B,Y
+7/24/2023,Seoteric,750,0,718,Marketing,B,Y
+11/15/2023,Shell Oil,75.79,0,7805,Gas,B,N
+9/14/2023,Shell Oil,81.9,0,7767,Gas,B,N
+9/8/2023,Shell Oil,49.8,0,7767,Gas,B,N
+3/1/2023,Shell Oil,42.36,0,1,Gas,B,N
+3/26/2023,Shell Oil,71.66,0,2675,Gas,B,N
+6/16/2023,Shell Oil,86.38,0,0,Gas,B,N
+10/17/2023,Shell Service,46.98,0,7767,Gas,B,N
+10/17/2023,Shell Service,32.77,0,7767,Gas,B,N
+8/14/2023,Shell Service,62.88,0,0,Gas,B,N
+1/29/2023,Shell Service,31.55,0,1,Gas,B,N
+2/8/2023,Shell Service,2.17,0,3341,Gas,B,N
+2/10/2023,Shell Service,24.94,0,2675,Gas,B,N
+3/16/2023,Shell Service,45.62,0,2679,Gas,B,N
+4/18/2023,Shell Service,57.16,0,3341,Gas,B,N
+5/2/2023,Shell Service,7.51,0,3341,Gas,B,N
+6/5/2023,Shell Service,20.75,0,2679,Gas,B,N
+6/12/2023,Shell Service,73.5,0,0,Gas,B,N
+6/19/2023,Shell Service,100,0,2675,Gas,B,N
+6/29/2023,Shell Service,58.17,0,2675,Gas,B,N
+6/30/2023,Shell Service,32.48,0,0,Gas,B,N
+7/7/2023,Shell Service,60.02,0,2675,Gas,B,N
+7/10/2023,Shell Service,10.78,0,0,Gas,B,N
+7/13/2023,Shell Service,72.45,0,0,Gas,B,N
+7/17/2023,Shell Service,78.2,0,0,Gas,B,N
+7/19/2023,Shell Service,17.83,0,2675,Gas,B,N
+7/31/2023,Shell Service,59.57,0,2679,Gas,B,N
+3/3/2023,Signature 12,51.3,0,9031,Gas,B,N
+3/3/2023,Signature 12,8.11,0,9031,Gas,B,N
+3/31/2023,Snax Max,50,0,2679,Gas,B,N
+8/18/2023,Southeastern Equipment,162.1,0,2675,Supplies,B,Y
+10/30/2023,Spectrum,112.95,0,1,Phones/Internet,B,Y
+9/30/2023,Spectrum,106.95,0,1,Phones/Internet,B,Y
+8/30/2023,Spectrum,112.95,0,1,Phones/Internet,B,Y
+5/30/2023,Spectrum,233.16,0,1,Phones/Internet,B,Y
+7/30/2023,Spectrum,233.16,0,1,Phones/Internet,B,Y
+3/20/2023,Square Space,337.74,0,1,Software,B,Y
+8/17/2023,Staples Direct,346.36,0,2675,Supplies,B,Y
+11/15/2023,Sticker Express,20.35,0,7805,Supplies,B,N
+9/14/2023,Sticker Express,18.5,0,7767,Supplies,B,N
+4/30/2023,Stokes Sign Company,197.09,0,9031,Professional Service,B,N
+5/3/2023,Stokes Sign Company,12.5,0,9031,Professional Service,B,N
+1/25/2023,Sunbit,204.42,0,9031,Medical,P,N
+2/20/2023,Sunbit,204.42,0,9031,Medical,P,N
+3/20/2023,Sunbit,204.42,0,9031,Medical,P,N
+4/7/2023,Sunbit,416.35,0,9031,Medical,P,N
+4/18/2023,Sunbit,1,0,9031,Medical,P,N
+4/21/2023,Sunbit,204.42,0,9031,Medical,P,N
+5/7/2023,Sunbit,117.47,0,9031,Medical,P,N
+5/18/2023,Sunbit,128.37,0,9031,Medical,P,N
+5/21/2023,Sunbit,204.42,0,9031,Medical,P,N
+6/7/2023,Sunbit,117.47,0,9031,Medical,P,N
+6/18/2023,Sunbit,128.37,0,9031,Medical,P,N
+6/20/2023,Sunbit,204.42,0,9031,Medical,P,N
+7/9/2023,Sunbit,117.47,0,9031,Medical,P,N
+7/18/2023,Sunbit,128.37,0,9031,Medical,P,N
+7/24/2023,Sunbit,204.42,0,9031,Medical,P,N
+8/7/2023,Sunbit,117.47,0,9031,Medical,P,N
+2/22/2023,Sunoco,22.06,0,3341,Gas,B,N
+3/27/2023,Super Valle,9.24,0,9031,Groceries,P,N
+3/27/2023,Super Valle,25.72,0,9031,Groceries,P,N
+4/22/2023,Synchrony Bank,177,0,9031,Loan,B,N
+5/30/2023,Synchrony Bank,100,0,9031,Loan,B,N
+7/8/2023,Taco Blvd,5.58,0,9031,Food,P,N
+7/8/2023,Taco Blvd,77.68,0,9031,Food,P,N
+7/10/2023,Taco Cabana,129.88,0,3341,Food,P,N
+4/24/2023,Tacos Las Amazonas,19.42,0,3341,Food,P,N
+1/2/2023,Target,188.23,0,9031,Groceries,P,N
+1/26/2023,Target,59.1,0,9031,Groceries,P,N
+2/18/2023,Target,111.79,0,9031,Groceries,P,N
+4/1/2023,Target,79.74,0,9031,Groceries,P,N
+5/5/2023,Target,14.07,0,9031,Groceries,P,N
+5/8/2023,Target,150.11,0,9031,Groceries,P,N
+5/26/2023,Target,135.82,0,9031,Groceries,P,N
+6/9/2023,Target,51.2,0,9031,Groceries,P,N
+6/9/2023,Target,38.97,0,2675,Groceries,P,N
+6/10/2023,Target,189.43,0,9031,Groceries,P,N
+12/26/2023,Tax,12350.75,0,0,Tax,B,N
+11/28/2023,Tax,11051.38,0,0,Tax,B,N
+11/14/2023,Tax,11758.41,0,0,Tax,B,N
+11/14/2023,Tax,837.36,0,0,Tax,B,N
+10/23/2023,Tax,6536.17,0,0,Tax,B,N
+10/23/2023,Tax,10178.85,0,0,Tax,B,N
+9/21/2023,Tax,3000,0,0,Tax,B,N
+9/19/2023,Tax,3704.71,0,0,Tax,B,N
+8/23/2023,Tax,5000,0,0,Tax,B,N
+8/21/2023,Tax,4814,0,0,Tax,B,N
+7/21/2023,Tax,4561.86,0,0,Tax,B,N
+1/3/2023,Tax,10951.89,0,0,Tax,B,N
+1/17/2023,Tax,2500,0,0,Tax,B,N
+1/18/2023,Tax,673.24,0,0,Tax,B,N
+2/2/2023,Tax,53,0,9031,Tax,B,N
+2/3/2023,Tax,6232.25,0,0,Tax,B,N
+2/28/2023,Tax,1007.96,0,0,Tax,B,N
+3/13/2023,Tax,34,0,0,Tax,B,N
+3/21/2023,Tax,8891.01,0,0,Tax,B,N
+3/28/2023,Tax,513.77,0,0,Tax,B,N
+4/3/2023,Tax,514.35,0,0,Tax,B,N
+4/12/2023,Tax,157.23,0,9031,Tax,B,N
+4/24/2023,Tax,8562.03,0,0,Tax,B,N
+5/10/2023,Tax,8265.02,0,0,Tax,B,N
+6/22/2023,Tax,8753.82,0,0,Tax,B,N
+6/22/2023,Tax,34,0,0,Tax,B,N
+2/14/2023,TDLR Parent Taught,20,0,9031,Professional Service,P,N
+12/29/2023,Texaco,24.68,0,7767,Gas,B,N
+12/9/2023,Texaco,86.77,0,7767,Gas,B,N
+12/9/2023,Texaco,11.12,0,7767,Gas,B,N
+9/22/2023,Texaco,24.23,0,7805,Gas,B,N
+9/15/2023,Texaco,40.04,0,7805,Gas,B,N
+1/25/2023,Texaco,105.92,0,2675,Gas,B,N
+2/11/2023,Texaco,15.47,0,2675,Gas,B,N
+4/25/2023,Texaco,38.55,0,2675,Gas,B,N
+5/17/2023,Texaco,5.58,0,3341,Gas,B,N
+6/5/2023,Texaco,71.24,0,0,Gas,B,N
+6/7/2023,Texaco,33.45,0,718,Gas,B,N
+6/22/2023,Texaco,33.7,0,2675,Gas,B,N
+10/12/2023,Texas Childrens Hospital,202.5,0,7805,Medical,B,N
+8/15/2023,Texas Gas Service,31.44,0,718,Utilities,B,Y
+9/15/2023,Texas Gas Service,30.6,0,7767,Utilities,B,Y
+1/4/2023,Texas Gas Service,123.97,0,718,Utilities,B,Y
+2/3/2023,Texas Gas Service,152.67,0,718,Utilities,B,Y
+3/11/2023,Texas Gas Service,141.57,0,718,Utilities,B,Y
+4/4/2023,Texas Gas Service,67.11,0,718,Utilities,B,Y
+5/4/2023,Texas Gas Service,44.53,0,718,Utilities,B,Y
+6/6/2023,Texas Gas Service,34.41,0,718,Utilities,B,Y
+7/11/2023,Texas Gas Service,34.62,0,718,Utilities,B,Y
+9/29/2023,Texas Honey Ham,28.54,0,718,Food,B,Y
+12/15/2023,The Guardian,849.54,0,0,Insurance,B,Y
+11/15/2023,The Guardian,849.54,0,0,Insurance,B,Y
+10/16/2023,The Guardian,849.54,0,0,Insurance,B,Y
+9/15/2023,The Guardian,849.54,0,0,Insurance,B,Y
+8/15/2023,The Guardian,849.54,0,0,Insurance,B,Y
+1/17/2023,The Guardian,849.54,0,0,Insurance,B,Y
+1/27/2023,The Guardian,1522.46,0,0,Insurance,B,Y
+2/21/2023,The Guardian,849.54,0,0,Insurance,B,Y
+3/15/2023,The Guardian,849.54,0,0,Insurance,B,Y
+4/4/2023,The Guardian,362.64,0,0,Insurance,B,Y
+4/17/2023,The Guardian,849.54,0,0,Insurance,B,Y
+5/18/2023,The Guardian,849.54,0,0,Insurance,B,Y
+6/9/2023,The Guardian,362.64,0,0,Insurance,B,Y
+6/15/2023,The Guardian,849.54,0,0,Insurance,B,Y
+7/17/2023,The Guardian,849.54,0,0,Insurance,B,Y
+4/4/2023,The Hospital at Westlake,2630.9,0,3341,Medical,P,N
+8/6/2023,The Lot - Liberty Station,85.31,0,9031,Recreational,P,N
+8/8/2023,The Melt Gaslamp,50.85,0,9031,Recreational,P,N
+5/13/2023,Titan School Solutions,2.6,0,9031,Recreational,P,N
+7/15/2023,tr120,71.65,0,0,Supplies,B,N
+11/28/2023,Travis County Water,68.09,0,7767,Utilities,B,N
+10/23/2023,Travis County Water,34.42,0,7767,Utilities,B,N
+9/15/2023,Travis County WCID #10,1.76,0,7767,Utilities,B,N
+9/19/2023,TX Child Support,2051.8,0,7805,Professional Service,P,N
+2/8/2023,TX Child Support,575,0,718,Toll,B,N
+9/19/2023,TXb Cottonwood,70.32,0,7805,Food,P,N
+3/14/2023,TXDPS Driver License,105,0,9031,Professional Service,P,N
+12/29/2023,TxTag,30,0,7767,Toll,B,N
+12/20/2023,TxTag,30,0,7767,Toll,B,N
+12/19/2023,TxTag,100,0,7767,Toll,B,N
+12/10/2023,TxTag,30,0,7767,Toll,B,N
+12/8/2023,TxTag,100,0,7767,Toll,B,N
+11/30/2023,TxTag,474.45,0,7767,Toll,B,N
+11/30/2023,TxTag,100,0,0001,Toll,B,N
+11/27/2023,TxTag,30,0,7767,Toll,B,N
+11/20/2023,TxTag,30,0,7767,Toll,B,N
+11/5/2023,TxTag,30,0,7767,Toll,B,N
+10/13/2023,TxTag,30,0,7767,Toll,B,N
+9/21/2023,TxTag,30,0,7767,Toll,B,N
+9/1/2023,TxTag,26.72,0,7767,Toll,B,N
+9/1/2023,TxTag,30,0,7767,Toll,B,N
+1/13/2023,TxTag,71.63,0,9031,Toll,B,N
+1/13/2023,TxTag,20,0,9031,Toll,B,N
+1/13/2023,TxTag,10,0,9031,Toll,B,N
+1/14/2023,TxTag,30,0,3341,Toll,B,N
+1/16/2023,TxTag,20,0,9031,Toll,B,N
+1/18/2023,TxTag,100,0,1,Toll,B,N
+1/19/2023,TxTag,20,0,9031,Toll,B,N
+1/21/2023,TxTag,30,0,3341,Toll,B,N
+1/27/2023,TxTag,100,0,1,Toll,B,N
+2/8/2023,TxTag,30,0,3341,Toll,B,N
+2/10/2023,TxTag,100,0,1,Toll,B,N
+2/11/2023,TxTag,20,0,9031,Toll,B,N
+2/12/2023,TxTag,20,0,9031,Toll,B,N
+2/13/2023,TxTag,20,0,9031,Toll,B,N
+2/17/2023,TxTag,20,0,9031,Toll,B,N
+2/23/2023,TxTag,30,0,3341,Toll,B,N
+2/25/2023,TxTag,100,0,1,Toll,B,N
+3/6/2023,TxTag,100,0,1,Toll,B,N
+3/7/2023,TxTag,30,0,3341,Toll,B,N
+3/15/2023,TxTag,30,0,3341,Toll,B,N
+3/16/2023,TxTag,100,0,1,Toll,B,N
+3/20/2023,TxTag,30,0,3341,Toll,B,N
+3/26/2023,TxTag,100,0,1,Toll,B,N
+3/30/2023,TxTag,30,0,3341,Toll,B,N
+4/4/2023,TxTag,100,0,1,Toll,B,N
+4/8/2023,TxTag,100,0,1,Toll,B,N
+4/11/2023,TxTag,30,0,3341,Toll,B,N
+4/12/2023,TxTag,57.04,0,3341,Toll,B,N
+4/15/2023,TxTag,30,0,3341,Toll,B,N
+4/19/2023,TxTag,100,0,1,Toll,B,N
+4/24/2023,TxTag,30,0,3341,Toll,B,N
+5/3/2023,TxTag,100,0,1,Toll,B,N
+5/7/2023,TxTag,100,0,1,Toll,B,N
+5/12/2023,TxTag,30,0,3341,Toll,B,N
+5/13/2023,TxTag,20,0,9031,Toll,B,N
+5/18/2023,TxTag,20,0,9031,Toll,B,N
+5/21/2023,TxTag,20,0,9031,Toll,B,N
+5/26/2023,TxTag,20,0,9031,Toll,B,N
+5/29/2023,TxTag,20,0,9031,Toll,B,N
+6/2/2023,TxTag,20,0,9031,Toll,B,N
+6/6/2023,TxTag,20,0,9031,Toll,B,N
+6/8/2023,TxTag,20,0,9031,Toll,B,N
+6/12/2023,TxTag,20,0,9031,Toll,B,N
+6/14/2023,TxTag,20,0,9031,Toll,B,N
+6/16/2023,TxTag,20,0,9031,Toll,B,N
+6/18/2023,TxTag,20,0,9031,Toll,B,N
+6/21/2023,TxTag,20,0,9031,Toll,B,N
+6/22/2023,TxTag,20,0,9031,Toll,B,N
+6/25/2023,TxTag,20,0,9031,Toll,B,N
+6/26/2023,TxTag,20,0,9031,Toll,B,N
+7/7/2023,TxTag,11.93,0,2679,Toll,B,N
+7/8/2023,TxTag,20,0,9031,Toll,B,N
+7/11/2023,TxTag,20,0,9031,Toll,B,N
+7/14/2023,TxTag,20,0,9031,Toll,B,N
+7/17/2023,TxTag,20,0,9031,Toll,B,N
+7/30/2023,Tylers,114.93,0,9031,Recreational,P,N
+9/13/2023,Unipago,1863,0,7805,Professional Service,B,N
+2/28/2023,USACS,522,0,3341,Medical,P,N
+1/25/2023,Vegamour,109.73,0,9031,Recreational,P,N
+3/25/2023,Vegamour,117.72,0,9031,Recreational,P,N
+7/4/2023,Vehicle Registration,76.25,0,3341,Recreational,B,N
+8/9/2023,Venmo,300,0,0,Loan,P,N
+1/4/2023,Venmo,300,0,9031,Loan,P,N
+3/16/2023,Venmo,300,0,9031,Loan,P,N
+4/21/2023,Venmo,250,0,9031,Loan,P,N
+5/19/2023,Venmo,150,0,9031,Loan,P,N
+6/12/2023,Venmo,0.29,0,9031,Loan,P,N
+6/12/2023,Venmo,0.21,0,9031,Loan,P,N
+6/26/2023,Venmo,500,0,9031,Loan,P,N
+1/2/2023,Villa Fresh Itali,25.11,0,9031,Food,P,N
+11/14/2023,Vistaprint,521.19,0,7767,Supplies,B,N
+11/14/2023,Vistaprint,209.9,0,7767,Supplies,B,N
+7/19/2023,Vistaprint,136.41,0,718,Supplies,B,N
+12/27/2023,Vivint,80.92,0,0,Software,B,Y
+12/27/2023,Vivint,59.64,0,0,Software,B,Y
+12/5/2023,Vivint,40.15,0,0,Software,B,Y
+11/24/2023,Vivint,80.92,0,0,Software,B,Y
+10/24/2023,Vivint,40.15,0,0,Software,B,Y
+10/24/2023,Vivint,46.64,0,718,Software,B,Y
+10/24/2023,Vivint,80.92,0,940,Software,B,Y
+10/10/2023,Vivint,250.7,0,940,Software,B,Y
+9/25/2023,Vivint,40.15,0,0,Software,B,Y
+9/23/2023,Vivint,46.64,0,718,Software,B,Y
+8/23/2023,Vivint,46.64,0,718,Software,B,Y
+1/26/2023,Vivint,40.15,0,9031,Software,B,Y
+1/28/2023,Vivint,46.64,0,718,Software,B,Y
+2/28/2023,Vivint,46.64,0,718,Software,B,Y
+2/28/2023,Vivint,40.15,0,9031,Software,B,Y
+3/28/2023,Vivint,40.15,0,9031,Software,B,Y
+3/28/2023,Vivint,46.64,0,718,Software,B,Y
+4/25/2023,Vivint,40.15,0,9031,Software,B,Y
+4/25/2023,Vivint,46.64,0,718,Software,B,Y
+5/23/2023,Vivint,46.64,0,718,Software,B,Y
+5/23/2023,Vivint,40.15,0,9031,Software,B,Y
+6/23/2023,Vivint,40.15,0,9031,Software,B,Y
+6/23/2023,Vivint,46.64,0,718,Software,B,Y
+7/25/2023,Vivint,46.64,0,718,Software,B,Y
+7/25/2023,Vivint,40.15,0,9031,Software,B,Y
+10/31/2023,"VKC, LLP",2210,0,7767,Professional Service,B,N
+3/20/2023,"VKC, LLP",2610,0,2679,Professional Service,B,N
+12/23/2023,Walgreens,226.7,0,0940,Medical,P,N
+10/11/2023,Walgreens,93.22,0,1,Medical,P,N
+8/12/2023,Walgreens,12.98,0,2679,Medical,P,N
+9/19/2023,Walgreens,8.43,0,7805,Medical,P,N
+1/3/2023,Walgreens,36.39,0,9031,Medical,P,N
+1/7/2023,Walgreens,21.98,0,9031,Medical,P,N
+1/8/2023,Walgreens,107.32,0,9031,Medical,P,N
+1/8/2023,Walgreens,33.99,0,9031,Medical,P,N
+1/18/2023,Walgreens,115.12,0,9031,Medical,P,N
+1/31/2023,Walgreens,23.13,0,9031,Medical,P,N
+1/31/2023,Walgreens,157.05,0,9031,Medical,P,N
+2/3/2023,Walgreens,170.34,0,9031,Medical,P,N
+2/18/2023,Walgreens,15.47,0,9031,Medical,P,N
+2/26/2023,Walgreens,138,0,9031,Medical,P,N
+2/28/2023,Walgreens,133.42,0,1,Medical,P,N
+3/12/2023,Walgreens,195.13,0,9031,Medical,P,N
+3/14/2023,Walgreens,144.54,0,9031,Medical,P,N
+3/18/2023,Walgreens,42.31,0,9031,Medical,P,N
+3/24/2023,Walgreens,108.24,0,2679,Medical,P,N
+4/11/2023,Walgreens,115.22,0,9031,Medical,P,N
+4/13/2023,Walgreens,91.45,0,1,Medical,P,N
+4/14/2023,Walgreens,99.24,0,9031,Medical,P,N
+4/15/2023,Walgreens,118.57,0,9031,Medical,P,N
+4/15/2023,Walgreens,33.99,0,9031,Medical,P,N
+4/25/2023,Walgreens,35.98,0,3341,Medical,P,N
+4/26/2023,Walgreens,225.06,0,9031,Medical,P,N
+5/11/2023,Walgreens,83.76,0,9031,Medical,P,N
+5/12/2023,Walgreens,97,0,9031,Medical,P,N
+5/14/2023,Walgreens,25,0,9031,Medical,P,N
+5/25/2023,Walgreens,111.28,0,9031,Medical,P,N
+5/25/2023,Walgreens,98.4,0,9031,Medical,P,N
+6/15/2023,Walgreens,4.19,0,9031,Medical,P,N
+6/18/2023,Walgreens,110.27,0,9031,Medical,P,N
+6/23/2023,Walgreens,116.76,0,9031,Medical,P,N
+6/23/2023,Walgreens,63.7,0,9031,Medical,P,N
+6/24/2023,Walgreens,52.15,0,9031,Medical,P,N
+7/6/2023,Walgreens,102.09,0,1,Medical,P,N
+7/6/2023,Walgreens,27.99,0,3341,Medical,P,N
+7/8/2023,Walgreens,51.36,0,9031,Medical,P,N
+7/8/2023,Walgreens,38.69,0,9031,Medical,P,N
+7/8/2023,Walgreens,136.15,0,9031,Medical,P,N
+7/31/2023,Walgreens,172.57,0,9031,Medical,P,N
+8/5/2023,Walgreens,7.33,0,9031,Medical,P,N
+1/23/2023,Walmart,53.66,0,9031,Groceries,P,N
+1/29/2023,Walmart,235.99,0,2675,Groceries,B,N
+1/30/2023,Walmart,153.38,0,9031,Groceries,P,N
+3/1/2023,Walmart,126.18,0,9031,Groceries,P,N
+3/29/2023,Walmart,86.56,0,9031,Groceries,P,N
+4/11/2023,Walmart,10.78,0,3341,Groceries,P,N
+5/4/2023,Walmart,222.25,0,9031,Groceries,P,N
+6/7/2023,Walmart,48.3,0,9031,Groceries,P,N
+7/31/2023,Walmart,97.84,0,9031,Groceries,P,N
+10/29/2023,Wendys,34.72,0,7767,Food,P,N
+1/2/2023,Whataburger,40.5,0,9031,Food,P,N
+5/3/2023,Whataburger,9.24,0,3341,Food,P,N
+6/12/2023,Whataburger,32.76,0,9031,Food,P,N
+6/23/2023,Whataburger,31.62,0,9031,Food,P,N
+2/22/2023,Wholefoods,127.72,0,9031,Groceries,P,N
+7/17/2023,Wholefoods,180.35,0,9031,Groceries,P,N
+6/10/2023,Wingstop,17.93,0,9031,Food,P,N
+12/29/2023,Withdrawal,500,0,0,Withdrawal,B,N
+12/26/2023,Withdrawal,500,0,0,Withdrawal,B,N
+12/21/2023,Withdrawal,27.01,0,0,Withdrawal,B,N
+12/17/2023,Withdrawal,41.35,0,7805,Withdrawal,B,N
+12/14/2023,Withdrawal,1227.68,0,7767,Withdrawal,B,N
+12/13/2023,Withdrawal,7.38,0,0,Withdrawal,B,N
+12/13/2023,Withdrawal,96.34,0,7805,Withdrawal,B,N
+12/8/2023,Withdrawal,33.28,0,7767,Withdrawal,B,N
+12/6/2023,Withdrawal,552.5,0,0940,Withdrawal,B,N
+12/5/2023,Withdrawal,1568.16,0,0,Withdrawal,B,N
+12/1/2023,Withdrawal,639.6,0,7805,Withdrawal,B,N
+11/30/2023,Withdrawal,499.29,0,0718,Withdrawal,B,N
+11/28/2023,Withdrawal,880,0,7805,Withdrawal,B,N
+11/28/2023,Withdrawal,1.1,0,7805,Withdrawal,B,N
+11/28/2023,Withdrawal,1.1,0,7805,Withdrawal,B,N
+11/25/2023,Withdrawal,117.26,0,940,Withdrawal,B,N
+11/20/2023,Withdrawal,647,0,940,Withdrawal,B,N
+11/15/2023,Withdrawal,116.65,0,7805,Withdrawal,B,N
+11/14/2023,Withdrawal,261.2,0,7805,Withdrawal,B,N
+11/13/2023,Withdrawal,273,0,7805,Withdrawal,B,N
+11/11/2023,Withdrawal,59.32,0,7805,Withdrawal,B,N
+11/8/2023,Withdrawal,520,0,7805,Withdrawal,B,N
+11/6/2023,Withdrawal,0.89,0,0,Withdrawal,B,N
+11/6/2023,Withdrawal,1685.42,0,0,Withdrawal,B,N
+10/30/2023,Withdrawal,21,0,0,Withdrawal,B,N
+10/23/2023,Withdrawal Cash,2000,0,0,Withdrawal,B,N
+10/20/2023,Withdrawal Cash,5200,0,0,Withdrawal,B,N
+10/13/2023,Withdrawal Cash,1000,0,0,Withdrawal,B,N
+10/11/2023,Withdrawal Cash,1500,0,0,Withdrawal,B,N
+8/15/2023,Withdrawal Cash,2400,0,0,Withdrawal,B,N
+8/12/2023,Withdrawal Cash,1267.13,0,0,Withdrawal,B,N
+8/12/2023,Withdrawal Cash,1000,0,0,Withdrawal,B,N
+8/10/2023,Withdrawal Cash,2945,0,0,Withdrawal,B,N
+8/10/2023,Withdrawal Cash,1685.42,0,0,Withdrawal,B,N
+9/29/2023,Withdrawal Cash,5820,0,0,Withdrawal,B,N
+9/18/2023,Withdrawal Cash,900,0,0,Withdrawal,B,N
+9/9/2023,Withdrawal Cash,6000,0,0,Withdrawal,B,N
+8/17/2023,Withdrawal Cash,1000,0,0,Withdrawal,B,N
+1/27/2023,Withdrawal Cash,1800,0,0,Withdrawal,B,N
+2/10/2023,Withdrawal Cash,1650,0,0,Withdrawal,B,N
+2/11/2023,Withdrawal Cash,2450,0,0,Withdrawal,B,N
+2/24/2023,Withdrawal Cash,3750,0,0,Withdrawal,B,N
+3/10/2023,Withdrawal Cash,8160,0,0,Withdrawal,B,N
+3/10/2023,Withdrawal Cash,2060,0,0,Withdrawal,B,N
+3/11/2023,Withdrawal Cash,1785,0,0,Withdrawal,B,N
+3/13/2023,Withdrawal Cash,1300,0,0,Withdrawal,B,N
+3/15/2023,Withdrawal Cash,1100,0,0,Withdrawal,B,N
+3/21/2023,Withdrawal Cash,1150,0,0,Withdrawal,B,N
+3/24/2023,Withdrawal Cash,1600,0,0,Withdrawal,B,N
+4/7/2023,Withdrawal Cash,1000,0,0,Withdrawal,B,N
+4/14/2023,Withdrawal Cash,200,0,0,Withdrawal,B,N
+4/21/2023,Withdrawal Cash,500,0,0,Withdrawal,B,N
+4/21/2023,Withdrawal Cash,6000,0,0,Withdrawal,B,N
+4/21/2023,Withdrawal Cash,2500,0,0,Withdrawal,B,N
+4/22/2023,Withdrawal Cash,300,0,0,Withdrawal,B,N
+4/22/2023,Withdrawal Cash,1200,0,0,Withdrawal,B,N
+5/1/2023,Withdrawal Cash,2500,0,0,Withdrawal,B,N
+5/3/2023,Withdrawal Cash,200,0,0,Withdrawal,B,N
+5/6/2023,Withdrawal Cash,3500,0,0,Withdrawal,B,N
+5/9/2023,Withdrawal Cash,500,0,0,Withdrawal,B,N
+6/2/2023,Withdrawal Cash,1540,0,0,Withdrawal,B,N
+6/9/2023,Withdrawal Cash,6500,0,0,Withdrawal,B,N
+6/9/2023,Withdrawal Cash,5000,0,0,Withdrawal,B,N
+7/10/2023,Withdrawal Cash,1087,0,0,Withdrawal,B,N
+7/13/2023,Withdrawal Cash,500,0,0,Withdrawal,B,N
+7/13/2023,Withdrawal Cash,3500,0,0,Withdrawal,B,N
+7/13/2023,Withdrawal Cash,500,0,0,Withdrawal,B,N
+7/13/2023,Withdrawal Cash,2000,0,0,Withdrawal,B,N
+7/15/2023,Withdrawal Cash,500,0,0,Withdrawal,B,N
+7/18/2023,Withdrawal Cash,300,0,0,Withdrawal,B,N
+7/18/2023,Withdrawal Cash,3200,0,0,Withdrawal,B,N
+7/22/2023,Withdrawal Cash,500,0,0,Withdrawal,B,N
+7/31/2023,Withdrawal Cash,3000,0,0,Withdrawal,B,N
+7/31/2023,Withdrawal Cash,400,0,0,Withdrawal,B,N
+8/3/2023,Withdrawal Cash,6985,0,0,Withdrawal,B,N
+8/8/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N
+2/17/2023,Withdrawal Courtesy Pay-ACH,8.7,0,0,Fee,B,N
+2/23/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N
+3/3/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N
+4/18/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N
+4/18/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N
+5/5/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N
+7/6/2023,Withdrawal Courtesy Pay-ACH,34,0,0,Fee,B,N
+3/2/2023,Withdrawal Courtesy Pay-CK,34,0,0,Fee,B,N
+3/17/2023,Withdrawal Courtesy Pay-CK,34,0,0,Fee,B,N
+7/3/2023,Withdrawal Courtesy Pay-CK,34,0,0,Fee,B,N
+8/8/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+8/8/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+8/8/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+2/9/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+2/9/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+2/9/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+2/9/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+3/24/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+4/18/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+6/13/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+7/6/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+7/6/2023,Withdrawal Courtesy Pay-DBT,34,0,0,Fee,B,N
+8/5/2023,Womens REIN,61,0,9031,Medical,B,N
+4/14/2023,Xpressdocs,68.2,0,9031,Professional Service,P,N
