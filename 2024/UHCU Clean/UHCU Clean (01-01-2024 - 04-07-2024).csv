@@ -36,8 +36,6 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 3/7/2024,ACH Deposit,0,1461.37,0,Revenue
 3/6/2024,ACH Deposit,0,497.95,0,Revenue
 3/4/2024,ACH Deposit,0,20989.93,0,Revenue
-3/4/2024,ACH Deposit,0,0.2,0,Revenue
-3/4/2024,ACH Deposit,0,0.1,0,Revenue
 3/1/2024,ACH Deposit,0,11977.1,0,Revenue
 2/29/2024,ACH Deposit,0,3279.26,0,Revenue
 2/27/2024,ACH Deposit,0,1300,0,Revenue
@@ -72,7 +70,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 4/4/2024,Allstate,45.99,0,0,Insurance
 3/6/2024,Allstate,65.32,0,0,Insurance
 3/5/2024,Allstate,45.98,0,0,Insurance
-2/14/2024,ACH Deposit,0,1223.68,0,Revenue
+2/14/2024,Allstate,0,1223.68,0,Insurance
 2/7/2024,Allstate,983.61,0,0,Insurance
 2/7/2024,Allstate,65.32,0,0,Insurance
 2/6/2024,Allstate,52.08,0,0,Insurance
@@ -82,11 +80,18 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 3/27/2024,Ally,509.98,0,0,Loan
 2/27/2024,Ally,509.98,0,0,Loan
 1/29/2024,Ally,509.98,0,0,Loan
+3/25/2024,Amazon,0,24.84,2591,Loan
+3/25/2024,Amazon,0,32.14,2591,Loan
+3/6/2024,Amazon,32.14,0,2591,Loan
+3/6/2024,Amazon,24.84,0,2591,Loan
+3/8/2024,American Bolt Company,361.39,0,2591,Professional Service
 3/7/2024,American Express,550,0,0,Credit Card
 2/12/2024,American Express,595,0,0,Credit Card
 2/12/2024,American Express,37.52,0,0,Credit Card
 1/22/2024,American Express,940.42,0,0,Credit Card
 1/11/2024,American Express,922,0,0,Credit Card
+3/29/2024,American General Life Insurance,134.89,0,0,Insurance
+3/21/2024,Amtrust,1753,0,0,Insurance
 3/6/2024,Appalachian Underwriters,803.37,0,0,Insurance
 2/6/2024,Appalachian Underwriters,803.37,0,0,Insurance
 1/3/2024,Appalachian Underwriters,1438.4,0,0,Insurance
@@ -113,6 +118,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 3/27/2024,Atmos Energy,97.16,0,0,Utilities
 3/7/2024,Atmos Energy,564.65,0,0,Utilities
 1/3/2024,Atmos Energy,149.88,0,2994,Utilities
+4/2/2024,Austin Tire Man,265,0,2591,Auto Maintenance
 1/24/2024,Austin Tool,21.6,0,2591,Supplies
 4/5/2024,Bank Fee,34,0,0,Fee
 4/5/2024,Bank Fee,34,0,0,Fee
@@ -178,8 +184,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 3/22/2024,Bank of America,877.05,0,0,Loan
 2/6/2024,Bank of America,950.9,0,0,Loan
 2/6/2024,Bank of America,0.48,0,0,Loan
-2/6/2024,ACH Deposit,0,0.29,0,Revenue
-2/6/2024,ACH Deposit,0,0.19,0,Revenue
+2/6/2024,Bank of America,0,0.29,0,Loan
+2/6/2024,Bank of America,0,0.19,0,Loan
+3/1/2024,Barri Money Services,1649.82,0,2994,Professional Service
 3/11/2024,BBB,80,0,2994,Marketing
 2/11/2024,BBB,80,0,2994,Marketing
 1/11/2024,BBB,80,0,2994,Marketing
@@ -199,20 +206,23 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 3/14/2024,Berrett Pest Control,107.17,0,2994,Professional Service
 2/29/2024,Berrett Pest Control,60.62,0,2994,Professional Service
 2/24/2024,Berrett Pest Control,60.62,0,2994,Professional Service
+3/12/2024,Bioreference Labs,73.68,0,0940,Medical
 1/5/2024,Breed & Co,20.56,0,2591,Supplies
+3/8/2024,Casa Maria Mexican Resturant,57.09,0,0940,Food
 4/4/2024,Cash Withdrawal,4260,0,0,Withdrawal
 3/4/2024,Cash Withdrawal,1620,0,0,Withdrawal
 1/23/2024,Cash Withdrawal,50,0,0,Withdrawal
-4/5/2024,Cashiers Check,4943,0,0,Supplies
+4/5/2024,Cashiers Check,4943,0,0,Labor
 3/28/2024,Cashiers Check,1103,0,0,Labor
-3/19/2024,Cashiers Check,9277.75,0,0,Supplies
+3/19/2024,Cashiers Check,9277.75,0,0,Labor
 3/15/2024,Cashiers Check,1103,0,0,Labor
 2/29/2024,Cashiers Check,1103,0,0,Labor
-2/20/2024,Cashiers Check,12083.91,0,0,Supplies
+2/20/2024,Cashiers Check,12083.91,0,0,Labor
 2/14/2024,Cashiers Check,1003,0,0,Labor
 2/14/2024,Cashiers Check,1103,0,0,Labor
 1/31/2024,Cashiers Check,1103,0,0,Labor
 1/16/2024,Cashiers Check,1103,0,0,Labor
+3/19/2024,Cenral Market,41.11,0,0940,Groceries
 1/19/2024,Chase Bank,0.31,0,0,Loan
 1/19/2024,ACH Deposit,0,0.3,0,Revenue
 1/19/2024,ACH Deposit,0,0.01,0,Revenue
@@ -432,6 +442,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 2/16/2024,Cheveron,64.51,0,2591,Gas
 1/14/2024,Cheveron,58.22,0,2994,Gas
 1/5/2024,Cheveron,4.53,0,0940,Gas
+4/1/2024,Circle K,33.43,0,2994,Gas
+3/18/2024,Circle K,56.45,0,2591,Gas
+3/8/2024,Circle K,43.6,0,2591,Gas
 3/13/2024,Citi,434.51,0,0,Credit Card
 2/13/2024,Citi,399.66,0,0,Credit Card
 1/16/2024,Citi,411.34,0,0,Credit Card
@@ -439,10 +452,13 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 3/4/2024,Citizens,66.67,0,0,Loan
 2/2/2024,Citizens,66.67,0,0,Loan
 1/2/2024,Citizens,66.67,0,0,Loan
+4/3/2024,City of Austin,301.53,0,0,Utilities
+3/14/2024,City of Austin,166.23,0,0,Utilities
 3/23/2024,City of Cedar Park,287.3,0,2994,Utilities
 2/23/2024,City of Cedar Park,189.72,0,2994,Utilities
 1/23/2024,City of Cedar Park,184.74,0,2994,Utilities
 2/28/2024,Clinical Pathology Lab,34,0,2994,Medical
+3/8/2024,Container & Packaging,8.1,0,2994,Supplies
 3/6/2024,Crate & Barrel,129,0,0,Credit Card
 2/7/2024,Crate & Barrel,130,0,0,Credit Card
 1/8/2024,Crate & Barrel,134,0,0,Credit Card
@@ -469,11 +485,17 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 3/1/2024,Firmspace,154.5,0,2994,Marketing
 2/2/2024,Firmspace,150,0,0,Marketing
 1/3/2024,Firmspace,150,0,0,Marketing
+3/12/2024,Flying Threads Embroidery,70.36,0,2994,Professional Service
 3/28/2024,Fortiva,58.33,0,0,Loan
 2/28/2024,Fortiva,58.33,0,0,Loan
 1/29/2024,Fortiva,58.33,0,0,Loan
-4/1/2024,Google Friber,103,0,2591,Phone/Internet
-2/13/2024,Google Friber,157.93,0,2591,Phone/Internet
+4/1/2024,Google Fiber,103,0,2591,Phone/Internet
+3/13/2024,Google Fiber,103,0,0,Phone/Internet
+2/13/2024,Google Fiber,157.93,0,2591,Phone/Internet
+3/8/2024,Green Clean Institution,540,0,2591,Professional Service
+3/15/2024,Guardian Life Insurnce,970.94,0,0,Insurance
+3/15/2024,Guardian Life Insurnce,364.07,0,0,Insurance
+3/11/2024,Guardian Life Insurnce,364.07,0,0,Insurance
 3/26/2024,Gusto,2407.92,0,0,Tax
 3/12/2024,Gusto,2496.87,0,0,Tax
 2/26/2024,Gusto,2855.83,0,0,Tax
@@ -543,7 +565,10 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 2/22/2024,Office Depot,135.96,0,2591,Supplies
 2/2/2024,Office Depot,70.14,0,2994,Supplies
 1/22/2024,Office Max,96.01,0,2591,Supplies
-2/6/2024,Orielly Auto Parts,4.86,0,2591,Supplies
+2/6/2024,Orielly Auto Parts,4.86,0,2591,Auto Maintenance
+3/4/2024,Paypal,0.3,0,0,Credit Card
+3/4/2024,ACH Deposit,0,0.2,0,Revenue
+3/4/2024,ACH Deposit,0,0.1,0,Revenue
 3/20/2024,Pedernales Electric,118.13,0,2994,Utilities
 2/20/2024,Pedernales Electric,130.62,0,2994,Utilities
 1/20/2024,Pedernales Electric,132.99,0,2994,Utilities
@@ -555,6 +580,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 2/22/2024,Pro Serve,55.67,0,2591,Supplies
 1/19/2024,Pro Serve,165.55,0,2591,Supplies
 1/9/2024,Pro Serve,51.42,0,2591,Supplies
+3/12/2024,Public Goods,1265.29,0,2591,Supplies
 4/4/2024,QT,52.57,0,2591,Gas
 4/4/2024,QT,41.29,0,2591,Gas
 4/4/2024,QT,36.33,0,2591,Gas
@@ -618,6 +644,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 1/18/2024,QuickBooks Fee,98.05,0,0,Fee
 1/8/2024,QuickBooks Fee,78.45,0,0,Fee
 1/27/2024,Randall Fuel,50.95,0,2994,Gas
+4/2/2024,Salon Service Group,20,0,0940,Supplies
 3/12/2024,Salon Service Group,362.73,0,0940,Supplies
 2/21/2024,Salon Service Group,98.85,0,0940,Supplies
 2/20/2024,Salon Service Group,44.98,0,0940,Supplies
@@ -635,13 +662,16 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 1/28/2024,Shell Fuel,24.76,0,2994,Gas
 3/2/2024,Shell Service,65.02,0,2591,Auto Maintenance
 1/7/2024,Shell Service,61.91,0,2591,Auto Maintenance
+4/2/2024,Short Stop,40.03,0,2591,Food
+3/13/2024,Short Stop,35.78,0,2591,Food
+3/20/2024,Square Space,332.59,0,2994,Software
 3/21/2024,State Comptroller,9857.31,0,0,Tax
 2/21/2024,State Comptroller,7373.84,0,0,Tax
 2/9/2024,State Comptroller,6520.19,0,0,Tax
 1/9/2024,Sunoco Fuel,34.94,0,2591,Gas
 2/14/2024,Tacos Las Amazonas,18.26,0,2591,Food
 1/9/2024,Tacos Las Amazonas,27.72,0,2591,Food
-2/13/2024,Texaco Fuel,8.07,0,2591,Food
+2/13/2024,Texaco Fuel,8.07,0,2591,Gas
 4/4/2024,The Home Depot,109.83,0,2591,Supplies
 4/2/2024,The Home Depot,68.11,0,2591,Supplies
 4/1/2024,The Home Depot,9.44,0,2994,Supplies
@@ -687,6 +717,7 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 1/17/2024,USPS,176,0,2994,Professional Service
 2/3/2024,Valvoline,117.66,0,2591,Gas
 1/23/2024,Valvoline,139.36,0,2591,Gas
+3/7/2024,Vistaprint,2272.53,0,2994,Supplies
 3/25/2024,Vivint,80.92,0,0,Software
 2/23/2024,Vivint,80.92,0,0,Software
 1/23/2024,Vivint,80.92,0,0,Software
@@ -697,35 +728,4 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 2/27/2024,Wells Fargo Bank,2190.23,0,0,Loan
 1/31/2024,Wire Deposit,0,200.26,0,Revenue
 1/29/2024,Wire Deposit,0,156.21,0,Revenue
-4/3/2024,Withdrawal,301.53,0,0,Withdrawal
-4/2/2024,Withdrawal,20,0,0940,Withdrawal
-4/2/2024,Withdrawal,40.03,0,2591,Withdrawal
-4/2/2024,Withdrawal,265,0,2591,Withdrawal
-4/1/2024,Withdrawal,33.43,0,2994,Withdrawal
-3/29/2024,Withdrawal,134.89,0,0,Withdrawal
-3/25/2024,Withdrawal,0,24.84,2591,Withdrawal
-3/25/2024,Withdrawal,0,32.14,2591,Withdrawal
-3/21/2024,Withdrawal,1753,0,0,Withdrawal
-3/20/2024,Withdrawal,332.59,0,2994,Withdrawal
-3/19/2024,Withdrawal,41.11,0,0940,Withdrawal
-3/18/2024,Withdrawal,56.45,0,2591,Withdrawal
-3/15/2024,Withdrawal,970.94,0,0,Withdrawal
-3/15/2024,Withdrawal,364.07,0,0,Withdrawal
-3/14/2024,Withdrawal,166.23,0,0,Withdrawal
-3/13/2024,Withdrawal,103,0,0,Withdrawal
-3/13/2024,Withdrawal,35.78,0,2591,Withdrawal
-3/12/2024,Withdrawal,1265.29,0,2591,Withdrawal
-3/12/2024,Withdrawal,73.68,0,0940,Withdrawal
-3/12/2024,Withdrawal,70.36,0,2994,Withdrawal
-3/11/2024,Withdrawal,364.07,0,0,Withdrawal
-3/8/2024,Withdrawal,43.6,0,2591,Withdrawal
-3/8/2024,Withdrawal,540,0,2591,Withdrawal
-3/8/2024,Withdrawal,8.1,0,2994,Withdrawal
-3/8/2024,Withdrawal,361.39,0,2591,Withdrawal
-3/8/2024,Withdrawal,57.09,0,0940,Withdrawal
-3/7/2024,Withdrawal,2272.53,0,2994,Withdrawal
-3/6/2024,Withdrawal,32.14,0,2591,Withdrawal
-3/6/2024,Withdrawal,24.84,0,2591,Withdrawal
-3/4/2024,Withdrawal,0.3,0,0,Withdrawal
-3/1/2024,Withdrawal,1649.82,0,2994,Withdrawal
 2/5/2024,Withdrawal,378.96,0,0,Withdrawal
