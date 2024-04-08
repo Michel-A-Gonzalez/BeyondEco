@@ -68,9 +68,9 @@ Date,Description,Debit,Credit,Cards,Purchase Type
 1/29/2024,At&t,489.24,0,0,Phone/Internet
 1/18/2024,At&t,60.54,0,0,Phone/Internet
 1/13/2024,At&t,207.44,0,2994,Phone/Internet
-3/22/2024,ATM Withdrawl,200,0,0940,Withdrawal
-3/21/2024,ATM Withdrawl,120,0,2591,Withdrawal
-1/23/2024,ATM Withdrawl,100,0,2591,Withdrawal
+3/22/2024,ATM Withdrawal,200,0,0940,Withdrawal
+3/21/2024,ATM Withdrawal,120,0,2591,Withdrawal
+1/23/2024,ATM Withdrawal,100,0,2591,Withdrawal
 3/27/2024,Atmos Energy,97.16,0,0,Utilities
 3/7/2024,Atmos Energy,564.65,0,0,Utilities
 1/3/2024,Atmos Energy,149.88,0,2994,Utilities
