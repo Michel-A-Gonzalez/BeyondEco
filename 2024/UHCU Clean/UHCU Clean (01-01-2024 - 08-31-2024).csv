@@ -1,0 +1,1778 @@
+Date,Check,Description,Debit,Credit,Cards,Purchase Type
+1/1/2024,0,A&A Automechanic,2847.77,0,7805,Auto Maintenance
+2/22/2024,0,A&A Automechanic,1073.47,0,2591,Auto Maintenance
+2/26/2024,0,A&A Automechanic,360.65,0,0940,Auto Maintenance
+7/31/2024,0,A&A Automechanic,834.67,0,0940,Auto Maintenance
+8/21/2024,0,A&A Automechanic,372.84,0,0940,Auto Maintenance
+5/8/2024,0,Advance Auto Parts,10.81,0,2591,Auto Maintenance
+4/2/2024,0,Austin Tire Man,265,0,2591,Auto Maintenance
+5/22/2024,0,Austin Tire Man,295,0,2591,Auto Maintenance
+5/16/2024,0,Autozone,17.31,0,2591,Auto Maintenance
+5/16/2024,0,Autozone,125.3,0,2591,Auto Maintenance
+5/20/2024,0,Autozone,15.14,0,2591,Auto Maintenance
+5/4/2024,0,Autozone,29.22,0,2591,Auto Maintenance
+7/14/2024,0,Go Car Wash,12,0,0940,Auto Maintenance
+2/28/2024,0,Heb Gas Carwash,58.04,0,2994,Auto Maintenance
+3/29/2024,0,Heb Gas Carwash,56.74,0,0940,Auto Maintenance
+7/22/2024,0,Heb Gas Carwash,49.17,0,2591,Auto Maintenance
+8/23/2024,0,Hills Country Food Mart,58.09,0,0940,Auto Maintenance
+2/6/2024,0,Jaimes Automotors,18.5,0,2591,Auto Maintenance
+4/26/2024,0,Jaimes Automotors,19.05,0,2591,Auto Maintenance
+6/25/2024,0,Jaimes Automotors,19.05,0,0940,Auto Maintenance
+3/13/2024,0,Llano County Vehicle Registration,76.25,0,2591,Auto Maintenance
+6/26/2024,0,Llantera Ibarra,25,0,0940,Auto Maintenance
+8/19/2024,0,Llantera Ibarra,54,0,0940,Auto Maintenance
+5/15/2024,0,Mercedes Benz,296.17,0,2591,Auto Maintenance
+6/22/2024,0,Mister Car Wash,25,0,0940,Auto Maintenance
+8/31/2024,0,Mister Car Wash,25,0,0940,Auto Maintenance
+2/6/2024,0,Oreilly,4.86,0,2591,Auto Maintenance
+1/7/2024,0,Shell Service Station,61.91,0,2591,Auto Maintenance
+3/2/2024,0,Shell Service Station,65.02,0,2591,Auto Maintenance
+4/22/2024,0,Shell Service Station,64.12,0,2994,Auto Maintenance
+5/1/2024,0,Shell Service Station,65.7,0,2994,Auto Maintenance
+6/22/2024,0,Shell Service Station,63.32,0,2591,Auto Maintenance
+8/14/2024,0,Shell Service Station,31.54,0,2591,Auto Maintenance
+8/26/2024,0,Shell Service Station,63.92,0,0940,Auto Maintenance
+8/30/2024,0,Shell Service Station,65.91,0,0940,Auto Maintenance
+8/5/2024,0,Shell Service Station,73.54,0,2591,Auto Maintenance
+5/16/2024,0,Watershed Four Points,12,0,2591,Auto Maintenance
+8/5/2024,0,Watershed Four Points,20,0,0940,Auto Maintenance
+5/21/2024,0,Williamson County Vehicle Registration,79.5,0,0940,Auto Maintenance
+1/18/2024,3530,Check,160,0,nan,Contract Labor
+1/3/2024,3568,Check,150,0,nan,Contract Labor
+1/2/2024,3569,Check,300,0,nan,Contract Labor
+1/3/2024,3570,Check,1300,0,nan,Contract Labor
+1/3/2024,3572,Check,4491.4,0,nan,Contract Labor
+1/3/2024,3573,Check,1502.13,0,nan,Contract Labor
+1/3/2024,3574,Check,6600,0,nan,Contract Labor
+1/3/2024,3575,Check,4225,0,nan,Contract Labor
+1/2/2024,3576,Check,250,0,nan,Contract Labor
+1/2/2024,3577,Check,1158.75,0,nan,Contract Labor
+1/2/2024,3578,Check,1549.15,0,nan,Contract Labor
+1/2/2024,3579,Check,1200,0,nan,Contract Labor
+1/2/2024,3581,Check,2073,0,nan,Contract Labor
+1/2/2024,3582,Check,1820,0,nan,Contract Labor
+1/3/2024,3583,Check,1563.85,0,nan,Contract Labor
+1/3/2024,3584,Check,3124.05,0,nan,Contract Labor
+1/3/2024,3585,Check,500,0,nan,Contract Labor
+1/25/2024,3588,Check,110,0,nan,Contract Labor
+1/3/2024,3589,Check,500,0,nan,Contract Labor
+1/9/2024,3590,Check,525,0,nan,Contract Labor
+1/12/2024,3591,Check,2796.38,0,nan,Contract Labor
+1/18/2024,3592,Check,1300,0,nan,Contract Labor
+1/16/2024,3593,Check,2800,0,nan,Contract Labor
+1/17/2024,3594,Check,1442,0,nan,Contract Labor
+1/24/2024,3595,Check,4225,0,nan,Contract Labor
+1/24/2024,3596,Check,6600,0,nan,Contract Labor
+1/16/2024,3597,Check,250,0,nan,Contract Labor
+1/16/2024,3598,Check,1083.75,0,nan,Contract Labor
+1/17/2024,3599,Check,1599.15,0,nan,Contract Labor
+1/16/2024,3600,Check,1080,0,nan,Contract Labor
+1/17/2024,3602,Check,1905,0,nan,Contract Labor
+1/18/2024,3603,Check,1700,0,nan,Contract Labor
+1/18/2024,3604,Check,1565.53,0,nan,Contract Labor
+1/26/2024,3605,Check,2749.05,0,nan,Contract Labor
+1/19/2024,3606,Check,500,0,nan,Contract Labor
+1/16/2024,3608,Check,2195,0,nan,Contract Labor
+1/18/2024,3609,Check,500,0,nan,Contract Labor
+1/18/2024,3610,Check,750,0,nan,Contract Labor
+1/24/2024,3611,Check,3769.5,0,nan,Contract Labor
+1/24/2024,3612,Check,2000,0,nan,Contract Labor
+1/22/2024,3613,Check,2050,0,nan,Contract Labor
+1/25/2024,3614,Check,1000,0,nan,Contract Labor
+2/2/2024,3615,Check,1300,0,nan,Contract Labor
+2/2/2024,3616,Check,4947,0,nan,Contract Labor
+2/1/2024,3617,Check,1742,0,nan,Contract Labor
+2/2/2024,3618,Check,6200,0,nan,Contract Labor
+2/2/2024,3619,Check,4225,0,nan,Contract Labor
+2/2/2024,3620,Check,250,0,nan,Contract Labor
+2/2/2024,3621,Check,1138.75,0,nan,Contract Labor
+2/2/2024,3622,Check,2139.82,0,nan,Contract Labor
+2/5/2024,3623,Check,730,0,nan,Contract Labor
+2/2/2024,3624,Check,1200,0,nan,Contract Labor
+2/2/2024,3625,Check,2073,0,nan,Contract Labor
+2/5/2024,3626,Check,1820,0,nan,Contract Labor
+2/5/2024,3627,Check,1759.11,0,nan,Contract Labor
+2/2/2024,3628,Check,2868,0,nan,Contract Labor
+2/5/2024,3629,Check,500,0,nan,Contract Labor
+2/2/2024,3630,Check,2195,0,nan,Contract Labor
+2/6/2024,3631,Check,500,0,nan,Contract Labor
+2/2/2024,3632,Check,1000,0,nan,Contract Labor
+2/6/2024,3633,Check,3000,0,nan,Contract Labor
+2/1/2024,3634,Check,2600,0,nan,Contract Labor
+2/2/2024,3635,Check,134.27,0,nan,Contract Labor
+2/12/2024,3636,Check,1749,0,nan,Contract Labor
+2/14/2024,3637,Check,3600,0,nan,Contract Labor
+2/16/2024,3638,Check,1300,0,nan,Contract Labor
+2/16/2024,3639,Check,4141.6,0,nan,Contract Labor
+2/16/2024,3640,Check,1626,0,nan,Contract Labor
+2/22/2024,3641,Check,4225,0,nan,Contract Labor
+2/22/2024,3642,Check,6100,0,nan,Contract Labor
+2/16/2024,3643,Check,250,0,nan,Contract Labor
+2/16/2024,3644,Check,1058.75,0,nan,Contract Labor
+2/16/2024,3645,Check,1619.82,0,nan,Contract Labor
+2/16/2024,3645,Check,1619.82,0,nan,Contract Labor
+2/15/2024,3646,Check,1440,0,nan,Contract Labor
+2/15/2024,3647,Check,400,0,nan,Contract Labor
+2/20/2024,3648,Check,2241,0,nan,Contract Labor
+2/21/2024,3649,Check,1940,0,nan,Contract Labor
+2/20/2024,3650,Check,1653.48,0,nan,Contract Labor
+2/20/2024,3651,Check,2788,0,nan,Contract Labor
+2/16/2024,3652,Check,500,0,nan,Contract Labor
+2/15/2024,3653,Check,2195,0,nan,Contract Labor
+2/20/2024,3654,Check,500,0,nan,Contract Labor
+2/22/2024,3655,Check,555,0,nan,Contract Labor
+3/4/2024,3656,Check,1300,0,nan,Contract Labor
+3/4/2024,3657,Check,4040,0,nan,Contract Labor
+2/29/2024,3658,Check,1534.93,0,nan,Contract Labor
+3/4/2024,3659,Check,6470,0,nan,Contract Labor
+3/4/2024,3660,Check,3775,0,nan,Contract Labor
+3/1/2024,3661,Check,250,0,nan,Contract Labor
+3/1/2024,3662,Check,2013.75,0,nan,Contract Labor
+3/1/2024,3664,Check,1320,0,nan,Contract Labor
+3/1/2024,3665,Check,2073,0,nan,Contract Labor
+3/1/2024,3666,Check,1820,0,nan,Contract Labor
+3/5/2024,3667,Check,1953.48,0,nan,Contract Labor
+3/4/2024,3668,Check,1970,0,nan,Contract Labor
+3/1/2024,3669,Check,500,0,nan,Contract Labor
+2/29/2024,3670,Check,2195,0,nan,Contract Labor
+3/4/2024,3671,Check,500,0,nan,Contract Labor
+3/1/2024,3672,Check,3100,0,nan,Contract Labor
+3/5/2024,3673,Check,400,0,nan,Contract Labor
+3/1/2024,3674,Check,130,0,nan,Contract Labor
+3/11/2024,3675,Check,1300,0,nan,Contract Labor
+3/12/2024,3676,Check,400,0,nan,Contract Labor
+3/12/2024,3677,Check,2600,0,nan,Contract Labor
+3/11/2024,3678,Check,2500,0,nan,Contract Labor
+3/19/2024,3679,Check,2160,0,nan,Contract Labor
+3/19/2024,3680,Check,4455,0,nan,Contract Labor
+3/16/2024,3681,Check,1554,0,nan,Contract Labor
+3/19/2024,3682,Check,4225,0,nan,Contract Labor
+3/19/2024,3683,Check,6470,0,nan,Contract Labor
+3/18/2024,3684,Check,250,0,nan,Contract Labor
+3/18/2024,3685,Check,2155.95,0,nan,Contract Labor
+3/16/2024,3686,Check,2339.9,0,nan,Contract Labor
+3/16/2024,3687,Check,1080,0,nan,Contract Labor
+3/18/2024,3688,Check,400,0,nan,Contract Labor
+3/19/2024,3689,Check,2949,0,nan,Contract Labor
+3/19/2024,3690,Check,1700,0,nan,Contract Labor
+3/19/2024,3691,Check,1259.77,0,nan,Contract Labor
+3/19/2024,3692,Check,1970,0,nan,Contract Labor
+3/19/2024,3693,Check,500,0,nan,Contract Labor
+3/16/2024,3694,Check,2195,0,nan,Contract Labor
+3/21/2024,3695,Check,500,0,nan,Contract Labor
+3/19/2024,3696,Check,300,0,nan,Contract Labor
+3/26/2024,3697,Check,757.08,0,nan,Contract Labor
+4/2/2024,3698,Check,2000,0,nan,Contract Labor
+4/4/2024,3699,Check,4015.5,0,nan,Contract Labor
+4/2/2024,3700,Check,1472,0,nan,Contract Labor
+4/2/2024,3701,Check,6470,0,nan,Contract Labor
+4/1/2024,3703,Check,250,0,nan,Contract Labor
+4/1/2024,3704,Check,2235.95,0,nan,Contract Labor
+3/29/2024,3705,Check,2439.9,0,nan,Contract Labor
+4/5/2024,3706,Check,100,0,nan,Contract Labor
+4/1/2024,3707,Check,1320,0,nan,Contract Labor
+4/10/2024,3708,Check,2337,0,nan,Contract Labor
+4/2/2024,3709,Check,2260,0,nan,Contract Labor
+4/1/2024,3712,Check,500,0,nan,Contract Labor
+3/29/2024,3713,Check,2195,0,nan,Contract Labor
+4/8/2024,3715,Check,500,0,nan,Contract Labor
+4/15/2024,3716,Check,2500,0,nan,Contract Labor
+4/16/2024,3717,Check,1300,0,nan,Contract Labor
+4/15/2024,3718,Check,1422,0,nan,Contract Labor
+4/18/2024,3719,Check,4225,0,nan,Contract Labor
+4/16/2024,3721,Check,250,0,nan,Contract Labor
+4/16/2024,3722,Check,2261.58,0,nan,Contract Labor
+4/16/2024,3724,Check,1200,0,nan,Contract Labor
+4/15/2024,3725,Check,1250,0,nan,Contract Labor
+4/17/2024,3726,Check,2145,0,nan,Contract Labor
+4/30/2024,3727,Check,2100,0,nan,Contract Labor
+4/17/2024,3728,Check,976.02,0,nan,Contract Labor
+4/18/2024,3729,Check,1970,0,nan,Contract Labor
+4/23/2024,3730,Check,500,0,nan,Contract Labor
+4/15/2024,3731,Check,2195,0,nan,Contract Labor
+4/18/2024,3732,Check,6530,0,nan,Contract Labor
+4/16/2024,3733,Check,2890.5,0,nan,Contract Labor
+4/18/2024,3734,Check,4224.5,0,nan,Contract Labor
+4/30/2024,3735,Check,300,0,nan,Contract Labor
+4/19/2024,3736,Check,1344,0,nan,Contract Labor
+5/1/2024,3737,Check,800,0,nan,Contract Labor
+5/2/2024,3738,Check,1300,0,nan,Contract Labor
+5/2/2024,3739,Check,250,0,nan,Contract Labor
+5/2/2024,3740,Check,4108.88,0,nan,Contract Labor
+5/1/2024,3741,Check,2299.92,0,nan,Contract Labor
+5/2/2024,3742,Check,1572,0,nan,Contract Labor
+5/3/2024,3744,Check,7170,0,nan,Contract Labor
+5/6/2024,3745,Check,4225,0,nan,Contract Labor
+5/2/2024,3746,Check,250,0,nan,Contract Labor
+5/9/2024,3747,Check,510,0,nan,Contract Labor
+5/2/2024,3748,Check,500,0,nan,Contract Labor
+5/1/2024,3749,Check,2093.07,0,nan,Contract Labor
+5/1/2024,3750,Check,850,0,nan,Contract Labor
+5/2/2024,3751,Check,2261.58,0,nan,Contract Labor
+5/6/2024,3752,Check,2337,0,nan,Contract Labor
+5/7/2024,3753,Check,450,0,nan,Contract Labor
+5/2/2024,3754,Check,1320,0,nan,Contract Labor
+5/3/2024,3755,Check,2260,0,nan,Contract Labor
+5/3/2024,3756,Check,2730,0,nan,Contract Labor
+5/1/2024,3757,Check,2195,0,nan,Contract Labor
+5/2/2024,3758,Check,2900,0,nan,Contract Labor
+5/2/2024,3759,Check,175,0,nan,Contract Labor
+5/6/2024,3760,Check,600,0,nan,Contract Labor
+5/6/2024,3761,Check,1200,0,nan,Contract Labor
+5/8/2024,3762,Check,350,0,nan,Contract Labor
+5/13/2024,3763,Check,1450,0,nan,Contract Labor
+5/14/2024,3764,Check,2500,0,nan,Contract Labor
+5/16/2024,3765,Check,1300,0,nan,Contract Labor
+5/16/2024,3766,Check,4500,0,nan,Contract Labor
+5/15/2024,3767,Check,2059.92,0,nan,Contract Labor
+5/16/2024,3768,Check,1422,0,nan,Contract Labor
+5/17/2024,3769,Check,6250,0,nan,Contract Labor
+5/17/2024,3770,Check,4225,0,nan,Contract Labor
+5/16/2024,3771,Check,250,0,nan,Contract Labor
+5/16/2024,3772,Check,500,0,nan,Contract Labor
+5/15/2024,3773,Check,1703.07,0,nan,Contract Labor
+5/15/2024,3774,Check,1250,0,nan,Contract Labor
+5/16/2024,3775,Check,2748.86,0,nan,Contract Labor
+5/20/2024,3776,Check,2337,0,nan,Contract Labor
+5/15/2024,3777,Check,1320,0,nan,Contract Labor
+5/16/2024,3778,Check,2260,0,nan,Contract Labor
+5/17/2024,3779,Check,2045,0,nan,Contract Labor
+5/15/2024,3780,Check,2895,0,nan,Contract Labor
+5/16/2024,3781,Check,2500,0,nan,Contract Labor
+5/21/2024,3782,Check,1320,0,nan,Contract Labor
+5/29/2024,3783,Check,5000,0,nan,Contract Labor
+5/29/2024,3784,Check,2500,0,nan,Contract Labor
+6/4/2024,3785,Check,1300,0,nan,Contract Labor
+5/31/2024,3787,Check,3663.88,0,nan,Contract Labor
+5/31/2024,3788,Check,1722,0,nan,Contract Labor
+6/4/2024,3789,Check,3085,0,nan,Contract Labor
+6/4/2024,3790,Check,6020,0,nan,Contract Labor
+6/3/2024,3791,Check,250,0,nan,Contract Labor
+6/11/2024,3792,Check,500,0,nan,Contract Labor
+5/31/2024,3793,Check,1952.43,0,nan,Contract Labor
+6/4/2024,3794,Check,1050,0,nan,Contract Labor
+6/3/2024,3795,Check,2648.86,0,nan,Contract Labor
+6/4/2024,3796,Check,2337,0,nan,Contract Labor
+6/3/2024,3797,Check,1320,0,nan,Contract Labor
+6/3/2024,3798,Check,2260,0,nan,Contract Labor
+6/4/2024,3799,Check,2045,0,nan,Contract Labor
+5/31/2024,3800,Check,2375,0,nan,Contract Labor
+6/3/2024,3801,Check,2900,0,nan,Contract Labor
+6/1/2024,3802,Check,4512.7,0,nan,Contract Labor
+6/20/2024,3803,Check,400,0,nan,Contract Labor
+6/7/2024,3804,Check,7500,0,nan,Contract Labor
+6/17/2024,3805,Check,2800,0,nan,Contract Labor
+6/15/2024,3807,Check,4351,0,nan,Contract Labor
+6/15/2024,3808,Check,3183.88,0,nan,Contract Labor
+6/14/2024,3809,Check,1717,0,nan,Contract Labor
+6/18/2024,3810,Check,3635,0,nan,Contract Labor
+6/18/2024,3811,Check,6020,0,nan,Contract Labor
+6/17/2024,3812,Check,250,0,nan,Contract Labor
+6/17/2024,3813,Check,500,0,nan,Contract Labor
+6/15/2024,3814,Check,2648.86,0,nan,Contract Labor
+6/15/2024,3815,Check,1772.43,0,nan,Contract Labor
+6/17/2024,3816,Check,1050,0,nan,Contract Labor
+6/17/2024,3817,Check,2529,0,nan,Contract Labor
+6/17/2024,3818,Check,1260,0,nan,Contract Labor
+6/18/2024,3819,Check,2420,0,nan,Contract Labor
+6/18/2024,3820,Check,2045,0,nan,Contract Labor
+6/17/2024,3821,Check,2375,0,nan,Contract Labor
+6/18/2024,3822,Check,1300,0,nan,Contract Labor
+7/16/2024,3823,Check,180,0,nan,Contract Labor
+6/24/2024,3824,Check,3000,0,nan,Contract Labor
+6/28/2024,3825,Check,2000,0,nan,Contract Labor
+7/3/2024,3826,Check,4765,0,nan,Contract Labor
+7/1/2024,3827,Check,1437.03,0,nan,Contract Labor
+7/3/2024,3828,Check,6695,0,nan,Contract Labor
+7/3/2024,3829,Check,3775,0,nan,Contract Labor
+7/2/2024,3830,Check,250,0,nan,Contract Labor
+7/1/2024,3831,Check,2844.9,0,nan,Contract Labor
+7/1/2024,3832,Check,3443.88,0,nan,Contract Labor
+7/1/2024,3833,Check,1850.35,0,nan,Contract Labor
+7/2/2024,3834,Check,1140,0,nan,Contract Labor
+7/1/2024,3835,Check,2050,0,nan,Contract Labor
+7/3/2024,3836,Check,2145,0,nan,Contract Labor
+7/2/2024,3837,Check,2100,0,nan,Contract Labor
+7/3/2024,3838,Check,2045,0,nan,Contract Labor
+7/3/2024,3839,Check,500,0,nan,Contract Labor
+7/1/2024,3840,Check,2375,0,nan,Contract Labor
+7/2/2024,3841,Check,400,0,nan,Contract Labor
+7/9/2024,3842,Check,1300,0,nan,Contract Labor
+7/5/2024,3843,Check,3000,0,nan,Contract Labor
+7/17/2024,3844,Check,700,0,nan,Contract Labor
+7/30/2024,3845,Check,1670,0,nan,Contract Labor
+7/22/2024,3846,Check,5578.12,0,nan,Contract Labor
+7/16/2024,3847,Check,2000,0,nan,Contract Labor
+7/16/2024,3848,Check,1300,0,nan,Contract Labor
+7/15/2024,3849,Check,5331,0,nan,Contract Labor
+7/15/2024,3850,Check,3269.51,0,nan,Contract Labor
+7/15/2024,3851,Check,1472,0,nan,Contract Labor
+7/17/2024,3852,Check,2940,0,nan,Contract Labor
+7/17/2024,3853,Check,6020,0,nan,Contract Labor
+7/18/2024,3854,Check,250,0,nan,Contract Labor
+7/16/2024,3855,Check,140,0,nan,Contract Labor
+7/15/2024,3856,Check,2994.9,0,nan,Contract Labor
+7/16/2024,3857,Check,2439.41,0,nan,Contract Labor
+7/15/2024,3858,Check,2050,0,nan,Contract Labor
+7/16/2024,3859,Check,2145,0,nan,Contract Labor
+7/15/2024,3860,Check,1140,0,nan,Contract Labor
+7/17/2024,3861,Check,2100,0,nan,Contract Labor
+7/15/2024,3862,Check,1970,0,nan,Contract Labor
+7/15/2024,3863,Check,2375,0,nan,Contract Labor
+7/16/2024,3864,Check,500,0,nan,Contract Labor
+7/17/2024,3865,Check,14885.24,0,nan,Contract Labor
+7/22/2024,3866,Check,420,0,nan,Contract Labor
+7/19/2024,3868,Check,985,0,nan,Contract Labor
+7/24/2024,3869,Check,350,0,nan,Contract Labor
+7/24/2024,3870,Check,3000,0,nan,Contract Labor
+7/26/2024,3871,Check,2800,0,nan,Contract Labor
+8/2/2024,3872,Check,1300,0,nan,Contract Labor
+8/5/2024,3873,Check,5057.4,0,nan,Contract Labor
+8/2/2024,3874,Check,1814.51,0,nan,Contract Labor
+8/1/2024,3875,Check,1472,0,nan,Contract Labor
+8/5/2024,3876,Check,2075,0,nan,Contract Labor
+8/5/2024,3877,Check,6245,0,nan,Contract Labor
+8/6/2024,3878,Check,250,0,nan,Contract Labor
+8/7/2024,3879,Check,610,0,nan,Contract Labor
+8/2/2024,3880,Check,500,0,nan,Contract Labor
+8/1/2024,3881,Check,2964.9,0,nan,Contract Labor
+8/1/2024,3882,Check,2764.41,0,nan,Contract Labor
+8/1/2024,3883,Check,2050,0,nan,Contract Labor
+8/2/2024,3884,Check,2337,0,nan,Contract Labor
+8/2/2024,3885,Check,1320,0,nan,Contract Labor
+8/2/2024,3886,Check,2260,0,nan,Contract Labor
+8/1/2024,3887,Check,1820,0,nan,Contract Labor
+8/1/2024,3888,Check,3175,0,nan,Contract Labor
+8/2/2024,3889,Check,650,0,nan,Contract Labor
+8/3/2024,3890,Check,1500,0,nan,Contract Labor
+8/7/2024,3891,Check,250,0,nan,Contract Labor
+8/14/2024,3892,Check,2500,0,nan,Contract Labor
+8/15/2024,3893,Check,2500,0,nan,Contract Labor
+8/16/2024,3894,Check,500,0,nan,Contract Labor
+8/16/2024,3895,Check,1638,0,nan,Contract Labor
+8/16/2024,3896,Check,5528,0,nan,Contract Labor
+8/15/2024,3897,Check,837.75,0,nan,Contract Labor
+8/15/2024,3898,Check,1472,0,nan,Contract Labor
+8/19/2024,3899,Check,1375,0,nan,Contract Labor
+8/19/2024,3900,Check,6020,0,nan,Contract Labor
+8/16/2024,3901,Check,250,0,nan,Contract Labor
+8/29/2024,3902,Check,170,0,nan,Contract Labor
+8/19/2024,3903,Check,570,0,nan,Contract Labor
+8/15/2024,3904,Check,2844.9,0,nan,Contract Labor
+8/15/2024,3905,Check,2404.41,0,nan,Contract Labor
+8/16/2024,3906,Check,1550,0,nan,Contract Labor
+8/16/2024,3907,Check,2529,0,nan,Contract Labor
+8/16/2024,3908,Check,700,0,nan,Contract Labor
+8/19/2024,3909,Check,692,0,nan,Contract Labor
+8/16/2024,3910,Check,1380,0,nan,Contract Labor
+8/16/2024,3911,Check,2420,0,nan,Contract Labor
+8/15/2024,3912,Check,3000,0,nan,Contract Labor
+8/15/2024,3913,Check,1820,0,nan,Contract Labor
+8/15/2024,3914,Check,3175,0,nan,Contract Labor
+8/16/2024,3915,Check,650,0,nan,Contract Labor
+8/15/2024,3916,Check,2500,0,nan,Contract Labor
+8/27/2024,3917,Check,1240,0,nan,Contract Labor
+8/15/2024,3918,Check,357.5,0,nan,Contract Labor
+8/27/2024,3919,Check,2500,0,nan,Contract Labor
+8/23/2024,3920,Check,1902.5,0,nan,Contract Labor
+8/26/2024,3921,Check,4697.82,0,nan,Contract Labor
+8/28/2024,3923,Check,2500,0,nan,Contract Labor
+8/31/2024,3924,Check,500,0,nan,Contract Labor
+8/30/2024,3925,Check,1200,0,nan,Contract Labor
+8/30/2024,3928,Check,1522,0,nan,Contract Labor
+8/30/2024,3934,Check,2932.92,0,nan,Contract Labor
+8/30/2024,3935,Check,2228.79,0,nan,Contract Labor
+8/31/2024,3936,Check,1000,0,nan,Contract Labor
+8/30/2024,3942,Check,3000,0,nan,Contract Labor
+8/30/2024,3943,Check,1420,0,nan,Contract Labor
+8/30/2024,3944,Check,3005,0,nan,Contract Labor
+1/16/2024,0,Cashier Check,1103,0,nan,Contract Labor
+1/31/2024,0,Cashier Check,1103,0,nan,Contract Labor
+2/14/2024,0,Cashier Check,1003,0,nan,Contract Labor
+2/14/2024,0,Cashier Check,1103,0,nan,Contract Labor
+2/29/2024,0,Cashier Check,1103,0,nan,Contract Labor
+3/15/2024,0,Cashier Check,1103,0,nan,Contract Labor
+3/28/2024,0,Cashier Check,1103,0,nan,Contract Labor
+4/12/2024,0,Cashier Check,1800,0,nan,Contract Labor
+4/12/2024,0,Cashier Check,1803,0,nan,Contract Labor
+4/15/2024,0,Cashier Check,1103,0,nan,Contract Labor
+4/29/2024,0,Cashier Check,1100,0,nan,Contract Labor
+4/30/2024,0,Cashier Check,447.57,0,nan,Contract Labor
+5/1/2024,0,Cashier Check,1503,0,nan,Contract Labor
+7/2/2024,0,Cashier Check,803,0,nan,Contract Labor
+1/11/2024,0,Amex,922,0,nan,Credit Card
+1/22/2024,0,Amex,940.42,0,nan,Credit Card
+2/12/2024,0,Amex,595,0,nan,Credit Card
+2/12/2024,0,Amex,37.52,0,nan,Credit Card
+3/7/2024,0,Amex,550,0,nan,Credit Card
+4/10/2024,0,Amex,850,0,nan,Credit Card
+5/10/2024,0,Amex,1000,0,nan,Credit Card
+6/24/2024,0,Amex,2.15,0,nan,Credit Card
+6/7/2024,0,Amex,1000,0,nan,Credit Card
+7/5/2024,0,Amex,500,0,nan,Credit Card
+7/9/2024,0,Amex,1190,0,nan,Credit Card
+8/8/2024,0,Amex,1000,0,nan,Credit Card
+1/16/2024,0,Citi,411.34,0,nan,Credit Card
+1/2/2024,0,Citi,66.67,0,nan,Credit Card
+2/13/2024,0,Citi,399.66,0,nan,Credit Card
+2/2/2024,0,Citi,66.67,0,nan,Credit Card
+3/13/2024,0,Citi,434.51,0,nan,Credit Card
+3/4/2024,0,Citi,66.67,0,nan,Credit Card
+4/15/2024,0,Citi,392.43,0,nan,Credit Card
+4/2/2024,0,Citi,66.67,0,nan,Credit Card
+5/14/2024,0,Citi,388.93,0,nan,Credit Card
+5/2/2024,0,Citi,66.67,0,nan,Credit Card
+6/13/2024,0,Citi,412.69,0,nan,Credit Card
+6/4/2024,0,Citi,66.67,0,nan,Credit Card
+7/15/2024,0,Citi,399.25,0,nan,Credit Card
+7/2/2024,0,Citi,66.67,0,nan,Credit Card
+8/13/2024,0,Citi,368.82,0,nan,Credit Card
+8/2/2024,0,Citi,66.67,0,nan,Credit Card
+1/8/2024,0,Crate & Barrel,134,0,nan,Credit Card
+2/7/2024,0,Crate & Barrel,130,0,nan,Credit Card
+3/6/2024,0,Crate & Barrel,129,0,nan,Credit Card
+4/8/2024,0,Crate & Barrel,130,0,nan,Credit Card
+5/6/2024,0,Crate & Barrel,126,0,nan,Credit Card
+6/6/2024,0,Crate & Barrel,128,0,nan,Credit Card
+7/8/2024,0,Crate & Barrel,123,0,nan,Credit Card
+8/6/2024,0,Crate & Barrel,122,0,nan,Credit Card
+1/19/2024,0,Jpmorgan Chase,0.31,0,nan,Credit Card
+3/4/2024,0,Paypal,0.3,0,nan,Credit Card
+1/23/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+1/23/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+2/9/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+2/9/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+2/9/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+4/3/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+4/4/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+4/4/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+4/5/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+4/5/2024,0,ACH Overdrawn Fee,34,0,nan,Fee
+2/8/2024,0,Bank Fee Credit,0,34,nan,Fee
+2/8/2024,0,Bank Fee Credit,0,34,nan,Fee
+2/8/2024,0,Bank Fee Credit,0,34,nan,Fee
+2/8/2024,0,Bank Fee Credit,0,34,nan,Fee
+2/8/2024,0,Bank Fee Credit,0,34,nan,Fee
+1/18/2024,0,Bank Unpaid Fees,3.46,0,nan,Fee
+4/17/2024,0,Bank Unpaid Fees,34,0,nan,Fee
+4/2/2024,0,Bank Unpaid Fees,34,0,nan,Fee
+4/3/2024,0,Bank Unpaid Fees,34,0,nan,Fee
+6/4/2024,0,Bill Pay Fee,6.95,0,nan,Fee
+7/2/2024,0,Bill Pay Fee,6.95,0,nan,Fee
+8/6/2024,0,Bill Pay Fee,6.95,0,nan,Fee
+1/18/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+1/23/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+1/23/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+1/23/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+1/5/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+1/5/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+1/5/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+2/9/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+4/19/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+4/19/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+4/4/2024,0,Check Overdrawn Fee,7.92,0,nan,Fee
+4/4/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+4/4/2024,0,Check Overdrawn Fee,34,0,nan,Fee
+4/5/2024,0,Check Overdrawn Fee,26.08,0,nan,Fee
+2/22/2024,0,Csc Servicework,2,0,2591,Fee
+1/23/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+1/23/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+1/23/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+2/9/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+2/9/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+2/9/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+4/19/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+4/4/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+4/4/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+4/4/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+4/4/2024,0,Debit Overdrawn Fee,34,0,nan,Fee
+1/18/2024,0,Intuit Fee,98.05,0,nan,Fee
+1/22/2024,0,Intuit Fee,1660.09,0,nan,Fee
+1/30/2024,0,Intuit Fee,98.05,0,nan,Fee
+1/8/2024,0,Intuit Fee,78.45,0,nan,Fee
+2/2/2024,0,Intuit Fee,249.46,0,nan,Fee
+2/20/2024,0,Intuit Fee,1936.76,0,nan,Fee
+2/29/2024,0,Intuit Fee,98.05,0,nan,Fee
+3/19/2024,0,Intuit Fee,2184.05,0,nan,Fee
+3/4/2024,0,Intuit Fee,627.6,0,nan,Fee
+3/6/2024,0,Intuit Fee,14.89,0,nan,Fee
+3/7/2024,0,Intuit Fee,51.15,0,nan,Fee
+4/18/2024,0,Intuit Fee,2533.54,0,nan,Fee
+4/30/2024,0,Intuit Fee,98.05,0,nan,Fee
+4/4/2024,0,Intuit Fee,630.13,0,nan,Fee
+5/2/2024,0,Intuit Fee,104.38,0,nan,Fee
+5/20/2024,0,Intuit Fee,2297.51,0,nan,Fee
+5/22/2024,0,Intuit Fee,102.3,0,nan,Fee
+6/18/2024,0,Intuit Fee,2297.89,0,nan,Fee
+6/20/2024,0,Intuit Fee,20.84,0,nan,Fee
+6/21/2024,0,Intuit Fee,87.9,0,nan,Fee
+6/3/2024,0,Intuit Fee,676.25,0,nan,Fee
+6/3/2024,0,Intuit Fee,98.05,0,nan,Fee
+7/15/2024,0,Intuit Fee,98.05,0,nan,Fee
+7/16/2024,0,Intuit Fee,1951.07,0,nan,Fee
+7/2/2024,0,Intuit Fee,149.28,0,nan,Fee
+7/30/2024,0,Intuit Fee,98.05,0,nan,Fee
+8/1/2024,0,Intuit Fee,486.9,0,nan,Fee
+8/19/2024,0,Intuit Fee,1350.37,0,nan,Fee
+8/30/2024,0,Intuit Fee,98.05,0,nan,Fee
+3/13/2024,0,Llano County Service Fee,2.1,0,2591,Fee
+1/31/2024,0,Low Balance Fee,6,0,nan,Fee
+1/31/2024,0,Low Balance Fee,6,0,nan,Fee
+2/29/2024,0,Low Balance Fee,6,0,nan,Fee
+3/31/2024,0,Low Balance Fee,6,0,nan,Fee
+4/30/2024,0,Low Balance Fee,6,0,nan,Fee
+4/30/2024,0,Low Balance Fee,6,0,nan,Fee
+6/30/2024,0,Low Balance Fee,6,0,nan,Fee
+1/8/2024,0,Payment Process Fee,10,0,nan,Fee
+3/11/2024,0,Payment Process Fee,10,0,nan,Fee
+2/29/2024,0,PO Box,63,0,nan,Fee
+1/25/2024,0,RMA Toll,20.51,0,2994,Fee
+2/28/2024,0,RMA Toll,48.15,0,2994,Fee
+2/7/2024,0,RMA Toll,62.69,0,2591,Fee
+2/7/2024,0,RMA Toll,77.52,0,2591,Fee
+3/7/2024,0,RMA Toll,37.17,0,0940,Fee
+3/7/2024,0,RMA Toll,7.72,0,0940,Fee
+3/7/2024,0,RMA Toll,79.93,0,0940,Fee
+3/7/2024,0,RMA Toll,117.84,0,0940,Fee
+3/7/2024,0,RMA Toll,81.52,0,0940,Fee
+5/8/2024,0,RMA Toll,1.86,0,2994,Fee
+5/8/2024,0,RMA Toll,14.94,0,2994,Fee
+1/17/2024,0,Stop Payment Fee,24,0,nan,Fee
+1/31/2024,0,Transaction Fees,23,0,nan,Fee
+2/29/2024,0,Transaction Fees,26.75,0,nan,Fee
+3/31/2024,0,Transaction Fees,26.5,0,nan,Fee
+4/30/2024,0,Transaction Fees,25.25,0,nan,Fee
+5/31/2024,0,Transaction Fees,32.95,0,nan,Fee
+6/30/2024,0,Transaction Fees,23.75,0,nan,Fee
+7/31/2024,0,Transaction Fees,25.75,0,nan,Fee
+8/31/2024,0,Transaction Fees,32,0,nan,Fee
+1/25/2024,0,Txtag,13.49,0,2994,Fee
+2/7/2024,0,Txtag,4.16,0,2591,Fee
+3/16/2024,0,Txtag,165,0,0940,Fee
+3/7/2024,0,Txtag,100,0,0940,Fee
+3/7/2024,0,Txtag,16.14,0,0940,Fee
+3/7/2024,0,Txtag,43.88,0,0940,Fee
+4/27/2024,0,Txtag,165,0,0940,Fee
+4/3/2024,0,Txtag,165,0,0940,Fee
+5/12/2024,0,Txtag,165,0,0940,Fee
+6/1/2024,0,Txtag,165,0,0940,Fee
+6/20/2024,0,Txtag,165,0,0940,Fee
+7/21/2024,0,Txtag,165,0,0940,Fee
+8/23/2024,0,Txtag,165,0,0940,Fee
+1/23/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+1/23/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+1/23/2024,0,Unpaidnsf Fee,30.54,0,nan,Fee
+1/23/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+1/23/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+1/23/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+1/23/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+4/19/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+4/19/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+4/4/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+4/5/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+4/5/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+4/5/2024,0,Unpaidnsf Fee,34,0,nan,Fee
+6/11/2024,0,Visa Fee,0.41,0,0940,Fee
+5/21/2024,0,Williamson County Service Fee,2,0,0940,Fee
+7/17/2024,0,Withdrawal Fee,15,0,nan,Fee
+1/31/2024,0,Incoming Wire Fee,4,0,nan,Fee
+6/21/2024,0,Incoming Wire Fee,4,0,nan,Fee
+7/19/2024,0,Incoming Wire Fee,4,0,nan,Fee
+7/9/2024,0,Cafe Blue,198.86,0,2994,Food
+3/8/2024,0,Casa Maria Mexican Resturant,57.09,0,0940,Food
+4/27/2024,0,Chickfila,49.74,0,2591,Food
+5/28/2024,0,Culinary Dropout,34.36,0,0940,Food
+1/9/2024,0,El Nuevo Mexico,107.11,0,0940,Food
+1/4/2024,0,Habanero Mexican Cafe,151,0,2591,Food
+5/31/2024,0,Habanero Mexican Cafe,42.74,0,2591,Food
+5/31/2024,0,Palenque Group,21.27,0,2591,Food
+1/27/2024,0,Popeyes,51.95,0,2994,Food
+1/5/2024,0,Qt Inside,6.99,0,2591,Food
+2/9/2024,0,Qt Inside,37.32,0,2591,Food
+3/7/2024,0,Qt Inside,25.97,0,0940,Food
+3/7/2024,0,Qt Inside,29.3,0,0940,Food
+4/1/2024,0,Qt Inside,12.98,0,2591,Food
+4/10/2024,0,Qt Inside,29.66,0,2591,Food
+4/11/2024,0,Qt Inside,23.55,0,2591,Food
+4/13/2024,0,Qt Inside,20.56,0,2591,Food
+4/14/2024,0,Qt Inside,31.38,0,2591,Food
+5/1/2024,0,Qt Inside,30,0,2591,Food
+5/17/2024,0,Qt Inside,12.98,0,2591,Food
+5/21/2024,0,Qt Inside,15.13,0,2591,Food
+5/23/2024,0,Qt Inside,10.06,0,2591,Food
+6/19/2024,0,Qt Inside,5.41,0,2591,Food
+6/20/2024,0,Qt Inside,15.58,0,2591,Food
+6/20/2024,0,Qt Inside,12.44,0,2591,Food
+6/4/2024,0,Qt Inside,26.35,0,2591,Food
+6/4/2024,0,Qt Inside,30,0,2591,Food
+7/13/2024,0,Qt Inside,31.38,0,0940,Food
+7/4/2024,0,Qt Inside,20.56,0,2591,Food
+8/10/2024,0,Qt Inside,20.56,0,0940,Food
+8/12/2024,0,Qt Inside,12.98,0,0940,Food
+8/15/2024,0,Qt Inside,12.98,0,0940,Food
+8/31/2024,0,Qt Inside,12.98,0,0940,Food
+8/4/2024,0,Qt Inside,20.56,0,0940,Food
+8/9/2024,0,Qt Inside,20.56,0,0940,Food
+2/22/2024,0,Shake Shack,48.18,0,0940,Food
+3/13/2024,0,Short Stop,35.78,0,2591,Food
+4/2/2024,0,Short Stop,40.03,0,2591,Food
+5/3/2024,0,Tacos Manor,36.78,0,2591,Food
+1/9/2024,0,Taxo Las Amazonas Estilo,27.72,0,2591,Food
+2/14/2024,0,Taxo Las Amazonas Estilo,18.26,0,2591,Food
+5/24/2024,0,Tx Austin Ranch,18,0,2591,Food
+8/11/2024,0,Tx Austin Ranch,15,0,0940,Food
+1/12/2024,0,7Eleven,56.37,0,0940,Gas
+1/27/2024,0,7Eleven,46.28,0,0940,Gas
+1/28/2024,0,7Eleven,48.41,0,2591,Gas
+1/9/2024,0,7Eleven,42.21,0,2591,Gas
+2/12/2024,0,7Eleven,35.71,0,0940,Gas
+2/16/2024,0,7Eleven,42.44,0,0940,Gas
+2/29/2024,0,7Eleven,30.52,0,2591,Gas
+2/4/2024,0,7Eleven,52.91,0,2591,Gas
+3/14/2024,0,7Eleven,54.73,0,2591,Gas
+3/22/2024,0,7Eleven,100.17,0,2591,Gas
+3/22/2024,0,7Eleven,36.47,0,2591,Gas
+3/22/2024,0,7Eleven,63.28,0,0940,Gas
+3/25/2024,0,7Eleven,50.01,0,2591,Gas
+3/30/2024,0,7Eleven,48.97,0,2994,Gas
+3/5/2024,0,7Eleven,49.86,0,2591,Gas
+3/6/2024,0,7Eleven,11.9,0,0940,Gas
+3/9/2024,0,7Eleven,51.26,0,0940,Gas
+4/9/2024,0,7Eleven,51.95,0,0940,Gas
+5/16/2024,0,7Eleven,40.68,0,0940,Gas
+5/18/2024,0,7Eleven,20,0,2591,Gas
+5/22/2024,0,7Eleven,56.65,0,0940,Gas
+5/24/2024,0,7Eleven,55.59,0,2994,Gas
+5/29/2024,0,7Eleven,35.2,0,2591,Gas
+5/5/2024,0,7Eleven,65.06,0,0940,Gas
+6/20/2024,0,7Eleven,58.89,0,0940,Gas
+6/21/2024,0,7Eleven,12.98,0,2591,Gas
+6/6/2024,0,7Eleven,61.35,0,0940,Gas
+1/14/2024,0,Chevron,58.22,0,2994,Gas
+1/5/2024,0,Chevron,4.53,0,0940,Gas
+2/16/2024,0,Chevron,64.51,0,2591,Gas
+2/27/2024,0,Chevron,68.25,0,2591,Gas
+3/12/2024,0,Chevron,75.67,0,2591,Gas
+3/13/2024,0,Chevron,85.8,0,2591,Gas
+3/5/2024,0,Chevron,86.82,0,2591,Gas
+4/13/2024,0,Chevron,35.49,0,2591,Gas
+4/9/2024,0,Chevron,39.59,0,2591,Gas
+4/9/2024,0,Chevron,32.19,0,2591,Gas
+5/23/2024,0,Chevron,152.21,0,2591,Gas
+5/6/2024,0,Chevron,98.77,0,2591,Gas
+6/18/2024,0,Chevron,44.37,0,2591,Gas
+6/20/2024,0,Chevron,3.06,0,2591,Gas
+6/26/2024,0,Chevron,41.67,0,0940,Gas
+7/4/2024,0,Chevron,77.42,0,2591,Gas
+8/10/2024,0,Chevron,77.94,0,0940,Gas
+8/2/2024,0,Chevron,43.05,0,2591,Gas
+3/18/2024,0,Circle K,56.45,0,2591,Gas
+3/8/2024,0,Circle K,43.6,0,2591,Gas
+4/1/2024,0,Circle K,33.43,0,2994,Gas
+4/17/2024,0,Circle K,46.23,0,2591,Gas
+4/25/2024,0,Circle K,62.09,0,2994,Gas
+6/25/2024,0,Circle K,30.12,0,2591,Gas
+6/30/2024,0,Circle K,51.82,0,2591,Gas
+7/3/2024,0,Circle K,36.5,0,2591,Gas
+8/5/2024,0,Circle K,74.03,0,0940,Gas
+2/1/2024,0,Exxon,31.85,0,2994,Gas
+2/1/2024,0,Exxon,21.09,0,2994,Gas
+2/13/2024,0,Exxon,19.45,0,2591,Gas
+3/1/2024,0,Exxon,62.96,0,2591,Gas
+3/31/2024,0,Exxon,31.41,0,2591,Gas
+4/9/2024,0,Exxon,51.28,0,2591,Gas
+5/14/2024,0,Exxon,59.6,0,2591,Gas
+5/21/2024,0,Exxon,50.49,0,2591,Gas
+5/31/2024,0,Exxon,34.53,0,2591,Gas
+6/13/2024,0,Exxon,21.95,0,2591,Gas
+6/18/2024,0,Exxon,62.37,0,2591,Gas
+6/23/2024,0,Exxon,69.82,0,0940,Gas
+6/25/2024,0,Exxon,25.29,0,0940,Gas
+7/28/2024,0,Exxon,51.5,0,0940,Gas
+7/3/2024,0,Exxon,44.91,0,2591,Gas
+7/30/2024,0,Exxon,32.87,0,0940,Gas
+7/30/2024,0,Exxon,1.42,0,0940,Gas
+7/6/2024,0,Exxon,69.1,0,2591,Gas
+8/16/2024,0,Exxon,91.65,0,0940,Gas
+8/20/2024,0,Exxon,20.18,0,0940,Gas
+2/5/2024,0,Heb Gas,52.33,0,2591,Gas
+7/23/2024,0,Heb Gas,51.34,0,0940,Gas
+8/24/2024,0,Heb Gas,58.16,0,0940,Gas
+1/10/2024,0,Qt Outside,34.3,0,2591,Gas
+1/12/2024,0,Qt Outside,42.51,0,2591,Gas
+1/12/2024,0,Qt Outside,45.89,0,2994,Gas
+1/18/2024,0,Qt Outside,29.01,0,2591,Gas
+1/19/2024,0,Qt Outside,106.15,0,2591,Gas
+1/2/2024,0,Qt Outside,40.76,0,7767,Gas
+1/23/2024,0,Qt Outside,47.24,0,2591,Gas
+1/23/2024,0,Qt Outside,37.37,0,2591,Gas
+1/27/2024,0,Qt Outside,85.45,0,2591,Gas
+1/29/2024,0,Qt Outside,26.49,0,2591,Gas
+1/31/2024,0,Qt Outside,49.48,0,2591,Gas
+1/31/2024,0,Qt Outside,26.64,0,2591,Gas
+1/4/2024,0,Qt Outside,25.01,0,2591,Gas
+1/5/2024,0,Qt Outside,111.45,0,2591,Gas
+2/13/2024,0,Qt Outside,27.11,0,2591,Gas
+2/13/2024,0,Qt Outside,50.66,0,2591,Gas
+2/14/2024,0,Qt Outside,28,0,2591,Gas
+2/15/2024,0,Qt Outside,77.22,0,2591,Gas
+2/15/2024,0,Qt Outside,54.96,0,2591,Gas
+2/19/2024,0,Qt Outside,30.21,0,2591,Gas
+2/2/2024,0,Qt Outside,96.75,0,2591,Gas
+2/20/2024,0,Qt Outside,24,0,2591,Gas
+2/22/2024,0,Qt Outside,36.56,0,2591,Gas
+2/22/2024,0,Qt Outside,100.04,0,2591,Gas
+2/22/2024,0,Qt Outside,30.81,0,2591,Gas
+2/27/2024,0,Qt Outside,29.76,0,2591,Gas
+2/29/2024,0,Qt Outside,37.7,0,2591,Gas
+2/8/2024,0,Qt Outside,26.89,0,2591,Gas
+2/8/2024,0,Qt Outside,25.9,0,2591,Gas
+2/9/2024,0,Qt Outside,12.61,0,2591,Gas
+2/9/2024,0,Qt Outside,92.69,0,2591,Gas
+3/14/2024,0,Qt Outside,50.78,0,2591,Gas
+3/18/2024,0,Qt Outside,36.11,0,2591,Gas
+3/20/2024,0,Qt Outside,24.86,0,2591,Gas
+3/20/2024,0,Qt Outside,32.71,0,2591,Gas
+3/28/2024,0,Qt Outside,27.7,0,2591,Gas
+3/5/2024,0,Qt Outside,29.96,0,2591,Gas
+3/5/2024,0,Qt Outside,27.89,0,2591,Gas
+3/6/2024,0,Qt Outside,32.63,0,2591,Gas
+4/10/2024,0,Qt Outside,103.44,0,2591,Gas
+4/17/2024,0,Qt Outside,116.16,0,2591,Gas
+4/17/2024,0,Qt Outside,39.73,0,2591,Gas
+4/2/2024,0,Qt Outside,36.7,0,2591,Gas
+4/2/2024,0,Qt Outside,46.78,0,2591,Gas
+4/20/2024,0,Qt Outside,63.44,0,2591,Gas
+4/20/2024,0,Qt Outside,35.53,0,2591,Gas
+4/25/2024,0,Qt Outside,105.92,0,2591,Gas
+4/25/2024,0,Qt Outside,40.01,0,2591,Gas
+4/27/2024,0,Qt Outside,23.62,0,2591,Gas
+4/4/2024,0,Qt Outside,52.57,0,2591,Gas
+4/4/2024,0,Qt Outside,41.29,0,2591,Gas
+4/4/2024,0,Qt Outside,36.33,0,2591,Gas
+4/4/2024,0,Qt Outside,29.61,0,2591,Gas
+5/1/2024,0,Qt Outside,51.83,0,2591,Gas
+5/1/2024,0,Qt Outside,102.57,0,2591,Gas
+5/11/2024,0,Qt Outside,51.56,0,2591,Gas
+5/11/2024,0,Qt Outside,22.01,0,2591,Gas
+5/13/2024,0,Qt Outside,54.38,0,2591,Gas
+5/14/2024,0,Qt Outside,39.34,0,2591,Gas
+5/15/2024,0,Qt Outside,40,0,2591,Gas
+5/15/2024,0,Qt Outside,115.01,0,2591,Gas
+5/17/2024,0,Qt Outside,36.91,0,2591,Gas
+5/17/2024,0,Qt Outside,42.45,0,2591,Gas
+5/20/2024,0,Qt Outside,50.68,0,2591,Gas
+5/21/2024,0,Qt Outside,29.09,0,2591,Gas
+5/23/2024,0,Qt Outside,23.2,0,2591,Gas
+5/23/2024,0,Qt Outside,47.84,0,2591,Gas
+5/28/2024,0,Qt Outside,27.27,0,2591,Gas
+5/6/2024,0,Qt Outside,55.24,0,2591,Gas
+5/8/2024,0,Qt Outside,33.98,0,2591,Gas
+5/8/2024,0,Qt Outside,16.22,0,2591,Gas
+5/8/2024,0,Qt Outside,37.57,0,2994,Gas
+6/12/2024,0,Qt Outside,55.43,0,2591,Gas
+6/12/2024,0,Qt Outside,48.11,0,2994,Gas
+6/14/2024,0,Qt Outside,103.2,0,2591,Gas
+6/15/2024,0,Qt Outside,30.91,0,2591,Gas
+6/19/2024,0,Qt Outside,40.69,0,2591,Gas
+6/20/2024,0,Qt Outside,2.8,0,2591,Gas
+6/20/2024,0,Qt Outside,74.17,0,2591,Gas
+6/25/2024,0,Qt Outside,87.49,0,0940,Gas
+6/27/2024,0,Qt Outside,21.11,0,0940,Gas
+6/27/2024,0,Qt Outside,9.09,0,0940,Gas
+6/29/2024,0,Qt Outside,84.67,0,0940,Gas
+6/3/2024,0,Qt Outside,27.13,0,2591,Gas
+6/3/2024,0,Qt Outside,55.24,0,2591,Gas
+6/4/2024,0,Qt Outside,114.43,0,2591,Gas
+6/5/2024,0,Qt Outside,35.3,0,2591,Gas
+7/10/2024,0,Qt Outside,74.83,0,2591,Gas
+7/12/2024,0,Qt Outside,56.13,0,2591,Gas
+7/13/2024,0,Qt Outside,39.14,0,0940,Gas
+7/16/2024,0,Qt Outside,17.82,0,2591,Gas
+7/16/2024,0,Qt Outside,103.66,0,2591,Gas
+7/16/2024,0,Qt Outside,34.78,0,2591,Gas
+7/18/2024,0,Qt Outside,23.72,0,0940,Gas
+7/2/2024,0,Qt Outside,125.6,0,2591,Gas
+7/20/2024,0,Qt Outside,88.39,0,0940,Gas
+7/20/2024,0,Qt Outside,29.46,0,0940,Gas
+7/23/2024,0,Qt Outside,60.83,0,0940,Gas
+7/24/2024,0,Qt Outside,32.99,0,0940,Gas
+7/25/2024,0,Qt Outside,38.3,0,0940,Gas
+7/27/2024,0,Qt Outside,43.8,0,0940,Gas
+7/29/2024,0,Qt Outside,58.98,0,2591,Gas
+7/30/2024,0,Qt Outside,110,0,0940,Gas
+7/7/2024,0,Qt Outside,46.65,0,2591,Gas
+7/8/2024,0,Qt Outside,50.38,0,0940,Gas
+8/1/2024,0,Qt Outside,55.41,0,0940,Gas
+8/13/2024,0,Qt Outside,63.67,0,0940,Gas
+8/14/2024,0,Qt Outside,36.58,0,0940,Gas
+8/18/2024,0,Qt Outside,35.05,0,0940,Gas
+8/19/2024,0,Qt Outside,64.34,0,2591,Gas
+8/21/2024,0,Qt Outside,45.13,0,2591,Gas
+8/23/2024,0,Qt Outside,35.05,0,0940,Gas
+8/23/2024,0,Qt Outside,62.11,0,0940,Gas
+8/27/2024,0,Qt Outside,22.4,0,0940,Gas
+8/27/2024,0,Qt Outside,51.79,0,2591,Gas
+8/30/2024,0,Qt Outside,61.93,0,0940,Gas
+8/30/2024,0,Qt Outside,91.01,0,0940,Gas
+8/30/2024,0,Qt Outside,31.9,0,0940,Gas
+8/30/2024,0,Qt Outside,49.6,0,2591,Gas
+8/5/2024,0,Qt Outside,55.47,0,2591,Gas
+8/6/2024,0,Qt Outside,40.02,0,0940,Gas
+8/6/2024,0,Qt Outside,14.5,0,2591,Gas
+8/8/2024,0,Qt Outside,30.94,0,2591,Gas
+8/9/2024,0,Qt Outside,130.51,0,2591,Gas
+1/27/2024,0,Randall Fuel,50.95,0,2994,Gas
+4/18/2024,0,Randall Fuel,42.24,0,2591,Gas
+1/28/2024,0,Shell Oil,24.76,0,2994,Gas
+1/31/2024,0,Shell Oil,42.13,0,2994,Gas
+3/8/2024,0,Shell Oil,15,0,2591,Gas
+4/13/2024,0,Shell Oil,68.75,0,2994,Gas
+4/2/2024,0,Shell Oil,61.47,0,2591,Gas
+5/16/2024,0,Shell Oil,21.49,0,2591,Gas
+5/28/2024,0,Shell Oil,31.9,0,2591,Gas
+5/3/2024,0,Shell Oil,17.91,0,2591,Gas
+5/4/2024,0,Shell Oil,39.11,0,2591,Gas
+6/11/2024,0,Shell Oil,42.01,0,2591,Gas
+6/21/2024,0,Shell Oil,35.45,0,2591,Gas
+7/22/2024,0,Shell Oil,38.58,0,0940,Gas
+8/23/2024,0,Shell Oil,76.47,0,0940,Gas
+8/4/2024,0,Shell Oil,76.66,0,0940,Gas
+1/9/2024,0,Sunoco,34.94,0,2591,Gas
+2/13/2024,0,Texaco,8.07,0,2591,Gas
+7/11/2024,0,Texaco,23.18,0,0940,Gas
+8/4/2024,0,Texaco,44.45,0,0940,Gas
+1/23/2024,0,Valvoline Oil Change,139.36,0,2591,Gas
+2/3/2024,0,Valvoline Oil Change,117.66,0,2591,Gas
+4/26/2024,0,Valvoline Oil Change,139.36,0,2591,Gas
+5/30/2024,0,Valvoline Oil Change,116.65,0,2591,Gas
+8/23/2024,0,Valvoline Oil Change,89.6,0,0940,Gas
+8/23/2024,0,Valvoline Oil Change,139.36,0,0940,Gas
+1/9/2024,0,All Star Grocery,82.68,0,2591,Groceries 
+2/17/2024,0,All Star Grocery,37.37,0,2591,Groceries 
+3/28/2024,0,All Star Grocery,36.42,0,2591,Groceries 
+4/25/2024,0,All Star Grocery,66.04,0,2591,Groceries 
+7/27/2024,0,All Star Grocery,30,0,0940,Groceries 
+3/19/2024,0,Central Market,41.11,0,0940,Groceries 
+8/6/2024,0,Days Food Store,24.89,0,0940,Groceries 
+4/27/2024,0,Fiesta Mart,103.82,0,2591,Groceries 
+6/24/2024,0,Fresh Street Market,33.97,0,0940,Groceries 
+1/30/2024,0,Heb #,38.26,0,2994,Groceries 
+1/9/2024,0,Heb #,38.35,0,2591,Groceries 
+2/24/2024,0,Heb #,40,0,0940,Groceries 
+4/22/2024,0,Heb #,54.29,0,2591,Groceries 
+4/22/2024,0,Heb #,24.6,0,2591,Groceries 
+4/9/2024,0,Heb #,86.77,0,2591,Groceries 
+6/25/2024,0,Heb #,76.25,0,2591,Groceries 
+6/4/2024,0,Heb #,67.34,0,2591,Groceries 
+8/26/2024,0,Heb #,46.54,0,0940,Groceries 
+8/8/2024,0,Heb #,63.61,0,0940,Groceries 
+6/21/2024,0,Hu La Hu Market,12.44,0,2591,Groceries 
+5/13/2024,0,Randalls,81.98,0,2591,Groceries 
+7/11/2024,0,Randalls,21.64,0,0940,Groceries 
+4/24/2024,0,Walmart,50,0,0940,Groceries 
+1/9/2024,0,Allstate Insurance,987.11,0,nan,Insurance
+1/9/2024,0,Allstate Insurance,67.82,0,nan,Insurance
+1/9/2024,0,Allstate Insurance,54.58,0,nan,Insurance
+2/14/2024,0,Allstate Insurance,0,1223.68,nan,Insurance
+2/6/2024,0,Allstate Insurance,52.08,0,nan,Insurance
+2/7/2024,0,Allstate Insurance,983.61,0,nan,Insurance
+2/7/2024,0,Allstate Insurance,65.32,0,nan,Insurance
+3/5/2024,0,Allstate Insurance,45.98,0,nan,Insurance
+3/6/2024,0,Allstate Insurance,65.32,0,nan,Insurance
+4/4/2024,0,Allstate Insurance,45.99,0,nan,Insurance
+4/8/2024,0,Allstate Insurance,65.32,0,nan,Insurance
+5/6/2024,0,Allstate Insurance,45.99,0,nan,Insurance
+5/7/2024,0,Allstate Insurance,65.32,0,nan,Insurance
+6/5/2024,0,Allstate Insurance,45.99,0,nan,Insurance
+6/6/2024,0,Allstate Insurance,65.32,0,nan,Insurance
+7/5/2024,0,Allstate Insurance,45.99,0,nan,Insurance
+7/9/2024,0,Allstate Insurance,65.32,0,nan,Insurance
+8/6/2024,0,Allstate Insurance,45.99,0,nan,Insurance
+8/7/2024,0,Allstate Insurance,65.32,0,nan,Insurance
+3/29/2024,0,American General Life Insurance,134.89,0,nan,Insurance
+7/1/2024,0,American General Life Insurance,134.89,0,nan,Insurance
+3/21/2024,0,Amtrust Insurance,1753,0,nan,Insurance
+6/14/2024,0,Amtrust Insurance,1186,0,nan,Insurance
+1/16/2024,0,Farmers Insurance,1061.25,0,nan,Insurance
+2/14/2024,0,Farmers Insurance,1061.25,0,nan,Insurance
+3/14/2024,0,Farmers Insurance,1061.25,0,nan,Insurance
+4/15/2024,0,Farmers Insurance,1061.25,0,nan,Insurance
+5/14/2024,0,Farmers Insurance,1061.25,0,nan,Insurance
+6/14/2024,0,Farmers Insurance,1061.25,0,nan,Insurance
+7/15/2024,0,Farmers Insurance,1061.25,0,nan,Insurance
+8/14/2024,0,Farmers Insurance,545.25,0,nan,Insurance
+3/11/2024,0,Guardian Life,364.07,0,nan,Insurance
+3/15/2024,0,Guardian Life,970.94,0,nan,Insurance
+3/15/2024,0,Guardian Life,364.07,0,nan,Insurance
+4/15/2024,0,Guardian Life,485.47,0,nan,Insurance
+4/15/2024,0,Guardian Life,364.07,0,nan,Insurance
+5/15/2024,0,Guardian Life,485.47,0,nan,Insurance
+5/15/2024,0,Guardian Life,364.07,0,nan,Insurance
+6/17/2024,0,Guardian Life,485.47,0,nan,Insurance
+6/17/2024,0,Guardian Life,364.07,0,nan,Insurance
+7/15/2024,0,Guardian Life,485.47,0,nan,Insurance
+7/15/2024,0,Guardian Life,364.07,0,nan,Insurance
+8/15/2024,0,Guardian Life,485.47,0,nan,Insurance
+8/15/2024,0,Guardian Life,364.07,0,nan,Insurance
+1/23/2024,0,Health Insurance,3020.47,0,nan,Insurance
+2/21/2024,0,Health Insurance,3020.47,0,nan,Insurance
+3/20/2024,0,Health Insurance,3020.47,0,nan,Insurance
+4/19/2024,0,Health Insurance,3020.47,0,nan,Insurance
+5/22/2024,0,Health Insurance,3020.47,0,nan,Insurance
+6/20/2024,0,Health Insurance,3020.47,0,nan,Insurance
+7/22/2024,0,Health Insurance,3020.47,0,nan,Insurance
+8/23/2024,0,Health Insurance,3020.47,0,nan,Insurance
+1/3/2024,0,Insurance Payment,1438.4,0,nan,Insurance
+2/6/2024,0,Insurance Payment,803.37,0,nan,Insurance
+3/6/2024,0,Insurance Payment,803.37,0,nan,Insurance
+4/8/2024,0,Insurance Payment,1438.41,0,nan,Insurance
+5/7/2024,0,Insurance Payment,803.37,0,nan,Insurance
+6/6/2024,0,Insurance Payment,803.37,0,nan,Insurance
+7/8/2024,0,Insurance Payment,803.37,0,nan,Insurance
+1/19/2024,0,Lincoln Life Insurance,316.91,0,nan,Insurance
+1/4/2024,0,Lincoln Life Insurance,105.2,0,nan,Insurance
+2/20/2024,0,Lincoln Life Insurance,316.91,0,nan,Insurance
+2/6/2024,0,Lincoln Life Insurance,105.2,0,nan,Insurance
+3/19/2024,0,Lincoln Life Insurance,316.91,0,nan,Insurance
+3/6/2024,0,Lincoln Life Insurance,105.2,0,nan,Insurance
+4/18/2024,0,Lincoln Life Insurance,316.91,0,nan,Insurance
+4/4/2024,0,Lincoln Life Insurance,105.2,0,nan,Insurance
+5/20/2024,0,Lincoln Life Insurance,316.91,0,nan,Insurance
+5/6/2024,0,Lincoln Life Insurance,105.2,0,nan,Insurance
+6/21/2024,0,Lincoln Life Insurance,316.91,0,nan,Insurance
+6/5/2024,0,Lincoln Life Insurance,105.2,0,nan,Insurance
+7/18/2024,0,Lincoln Life Insurance,316.91,0,nan,Insurance
+7/8/2024,0,Lincoln Life Insurance,105.2,0,nan,Insurance
+8/19/2024,0,Lincoln Life Insurance,316.91,0,nan,Insurance
+8/6/2024,0,Lincoln Life Insurance,105.2,0,nan,Insurance
+6/11/2024,0,Next Insurance,345.5,0,2994,Insurance
+6/11/2024,0,Next Insurance,2101.13,0,2994,Insurance
+7/11/2024,0,Next Insurance,172.75,0,2994,Insurance
+7/11/2024,0,Next Insurance,1051.56,0,2994,Insurance
+8/11/2024,0,Next Insurance,172.75,0,2994,Insurance
+8/11/2024,0,Next Insurance,1051.56,0,2994,Insurance
+7/11/2024,0,Proggressive Insurance,1341.03,0,nan,Insurance
+8/13/2024,0,Proggressive Insurance,1175.35,0,nan,Insurance
+3/12/2024,0,Public Goods,1265.29,0,2591,Insurance
+5/20/2024,0,Public Goods,481.04,0,2591,Insurance
+1/29/2024,0,Ally,509.98,0,nan,Loan
+2/27/2024,0,Ally,509.98,0,nan,Loan
+3/27/2024,0,Ally,509.98,0,nan,Loan
+4/29/2024,0,Ally,509.98,0,nan,Loan
+5/29/2024,0,Ally,509.98,0,nan,Loan
+6/27/2024,0,Ally,509.98,0,nan,Loan
+7/29/2024,0,Ally,509.98,0,nan,Loan
+8/27/2024,0,Ally,509.98,0,nan,Loan
+2/6/2024,0,Bank Of America ,950.9,0,nan,Loan
+2/6/2024,0,Bank Of America ,0.48,0,nan,Loan
+3/22/2024,0,Bank Of America ,877.05,0,nan,Loan
+4/3/2024,0,Bank Of America ,877.05,0,nan,Loan
+5/3/2024,0,Bank Of America ,877.05,0,nan,Loan
+6/3/2024,0,Bank Of America ,877.05,0,nan,Loan
+7/3/2024,0,Bank Of America ,877.05,0,nan,Loan
+8/5/2024,0,Bank Of America ,877.05,0,nan,Loan
+2/12/2024,0,BMW Loan,447.78,0,nan,Loan
+3/11/2024,0,BMW Loan,447.78,0,nan,Loan
+4/11/2024,0,BMW Loan,447.78,0,nan,Loan
+5/11/2024,0,BMW Loan,447.78,0,nan,Loan
+6/11/2024,0,BMW Loan,447.78,0,nan,Loan
+7/11/2024,0,BMW Loan,447.78,0,nan,Loan
+8/12/2024,0,BMW Loan,447.78,0,nan,Loan
+1/29/2024,0,Fortiva,58.33,0,nan,Loan
+2/28/2024,0,Fortiva,58.33,0,nan,Loan
+3/28/2024,0,Fortiva,58.33,0,nan,Loan
+4/29/2024,0,Fortiva,58.33,0,nan,Loan
+5/29/2024,0,Fortiva,58.33,0,nan,Loan
+6/28/2024,0,Fortiva,58.33,0,nan,Loan
+7/29/2024,0,Fortiva,58.33,0,nan,Loan
+8/28/2024,0,Fortiva,58.33,0,nan,Loan
+1/22/2024,0,SBA Loan,700,0,nan,Loan
+2/22/2024,0,SBA Loan,700,0,nan,Loan
+3/22/2024,0,SBA Loan,700,0,nan,Loan
+4/10/2024,0,SBA Loan,150,0,nan,Loan
+4/22/2024,0,SBA Loan,700,0,nan,Loan
+5/22/2024,0,SBA Loan,700,0,nan,Loan
+6/24/2024,0,SBA Loan,700,0,nan,Loan
+6/25/2024,0,SBA Loan,69,0,nan,Loan
+7/22/2024,0,SBA Loan,700,0,nan,Loan
+8/22/2024,0,SBA Loan,700,0,nan,Loan
+2/20/2024,0,UHCU Open Loan,200,0,nan,Loan
+3/18/2024,0,UHCU Open Loan,200,0,nan,Loan
+4/18/2024,0,UHCU Open Loan,200,0,nan,Loan
+5/18/2024,0,UHCU Open Loan,200,0,nan,Loan
+6/18/2024,0,UHCU Open Loan,200,0,nan,Loan
+7/18/2024,0,UHCU Open Loan,200,0,nan,Loan
+8/19/2024,0,UHCU Open Loan,200,0,nan,Loan
+2/27/2024,0,Wells Fargo Bank,2190.23,0,nan,Loan
+1/3/2024,0,Firmspace,150,0,nan,Marketing
+2/2/2024,0,Firmspace,150,0,nan,Marketing
+3/1/2024,0,Firmspace,154.5,0,2994,Marketing
+1/22/2024,0,Seoteric,750,0,nan,Marketing
+2/22/2024,0,Seoteric,750,0,nan,Marketing
+3/22/2024,0,Seoteric,750,0,nan,Marketing
+4/22/2024,0,Seoteric,750,0,nan,Marketing
+5/22/2024,0,Seoteric,750,0,nan,Marketing
+6/24/2024,0,Seoteric,750,0,nan,Marketing
+7/22/2024,0,Seoteric,750,0,nan,Marketing
+8/22/2024,0,Seoteric,750,0,nan,Marketing
+3/12/2024,0,Bioreference Labs Inc,73.68,0,0940,Medical
+7/13/2024,0,Capital Otolaryngology,189.01,0,0940,Medical
+1/16/2024,0,Harmony Dental Wellness,698,0,0940,Medical
+1/9/2024,0,Harmony Dental Wellness,927,0,0940,Medical
+3/4/2024,0,Harmony Dental Wellness,566,0,0940,Medical
+6/11/2024,0,Harmony Dental Wellness,300,0,2591,Medical
+8/20/2024,0,Harmony Dental Wellness,249,0,2994,Medical
+4/20/2024,0,Medical Arts Family Medicine ,50,0,2591,Medical
+5/24/2024,0,Medical Arts Family Medicine ,193,0,2591,Medical
+4/12/2024,0,Mikaela Rush,800.82,0,0940,Medical
+2/28/2024,0,Pathology Lab,34,0,2994,Medical
+4/24/2024,0,Recprecision Vision,124,0,2591,Medical
+1/15/2024,0,Walgreens,87.28,0,2591,Medical
+1/28/2024,0,Walgreens,24.2,0,2994,Medical
+1/29/2024,0,Walgreens,20.4,0,2994,Medical
+2/24/2024,0,Walgreens,380.52,0,0940,Medical
+5/18/2024,0,Walgreens,380.52,0,0940,Medical
+1/15/2024,0,Cricket Demayo,103,0,2591,Phones/Internet
+1/15/2024,0,Cricket Demayo,48.14,0,2591,Phones/Internet
+2/14/2024,0,Cricket Wireless,130,0,2591,Phones/Internet
+3/14/2024,0,Cricket Wireless,130,0,2591,Phones/Internet
+4/14/2024,0,Cricket Wireless,130,0,2591,Phones/Internet
+5/14/2024,0,Cricket Wireless,130,0,2591,Phones/Internet
+6/14/2024,0,Cricket Wireless,130,0,2591,Phones/Internet
+7/14/2024,0,Cricket Wireless,130,0,2591,Phones/Internet
+8/14/2024,0,Cricket Wireless,130,0,2591,Phones/Internet
+1/13/2024,0,AT&T,207.44,0,2994,Phones/Internet
+1/18/2024,0,AT&T,60.54,0,nan,Phones/Internet
+1/29/2024,0,AT&T,489.24,0,nan,Phones/Internet
+2/20/2024,0,AT&T,60.54,0,nan,Phones/Internet
+2/27/2024,0,AT&T,598.08,0,nan,Phones/Internet
+3/21/2024,0,AT&T,60.54,0,nan,Phones/Internet
+3/27/2024,0,AT&T,619.21,0,nan,Phones/Internet
+4/18/2024,0,AT&T,60.54,0,nan,Phones/Internet
+4/29/2024,0,AT&T,559,0,nan,Phones/Internet
+5/20/2024,0,AT&T,60.54,0,nan,Phones/Internet
+5/28/2024,0,AT&T,581.23,0,nan,Phones/Internet
+6/18/2024,0,AT&T,60.54,0,nan,Phones/Internet
+6/27/2024,0,AT&T,536.77,0,nan,Phones/Internet
+7/19/2024,0,AT&T,60.54,0,nan,Phones/Internet
+7/29/2024,0,AT&T,589.45,0,nan,Phones/Internet
+8/19/2024,0,AT&T,60.54,0,nan,Phones/Internet
+8/27/2024,0,AT&T,558.77,0,nan,Phones/Internet
+2/13/2024,0,Google Fiber,157.93,0,2591,Phones/Internet
+3/13/2024,0,Google Fiber,103,0,nan,Phones/Internet
+4/1/2024,0,Google Fiber,103,0,2591,Phones/Internet
+5/13/2024,0,Google Fiber,103,0,nan,Phones/Internet
+6/13/2024,0,Google Fiber,103,0,nan,Phones/Internet
+7/15/2024,0,Google Fiber,103,0,nan,Phones/Internet
+8/13/2024,0,Google Fiber,103,0,nan,Phones/Internet
+3/1/2024,0,Barri Money Services,1649.82,0,2994,Professional Service
+4/12/2024,0,Barri Money Services,1426.65,0,2994,Professional Service
+2/24/2024,0,Berrett Pest Control,60.62,0,2994,Professional Service
+2/29/2024,0,Berrett Pest Control,60.62,0,2994,Professional Service
+3/14/2024,0,Berrett Pest Control,107.17,0,2994,Professional Service
+3/26/2024,0,Berrett Pest Control,60.62,0,2994,Professional Service
+4/16/2024,0,Berrett Pest Control,107.17,0,2994,Professional Service
+4/26/2024,0,Berrett Pest Control,60.62,0,2994,Professional Service
+5/25/2024,0,Berrett Pest Control,167.79,0,2994,Professional Service
+6/26/2024,0,Berrett Pest Control,60.62,0,2994,Professional Service
+7/26/2024,0,Berrett Pest Control,60.62,0,2994,Professional Service
+7/9/2024,0,Berrett Pest Control,107.17,0,2994,Professional Service
+8/27/2024,0,Berrett Pest Control,60.62,0,2994,Professional Service
+3/8/2024,0,Bolt Company,361.39,0,2591,Professional Service
+1/5/2024,0,Breed & Company,20.56,0,2591,Professional Service
+4/17/2024,0,Cothrons Safe And Lock,105.88,0,2591,Professional Service
+5/18/2024,0,Cothrons Safe And Lock,18.49,0,2591,Professional Service
+6/11/2024,0,Driversnote,51,0,0940,Professional Service
+3/12/2024,0,Flying Threads Embroidery,70.36,0,2994,Professional Service
+3/8/2024,0,Green Clean Institut,540,0,2591,Professional Service
+1/11/2024,0,Hitechpower,281.56,0,2591,Professional Service
+1/26/2024,0,Hitechpower,600.31,0,2994,Professional Service
+1/26/2024,0,Hitechpower,302.81,0,2994,Professional Service
+1/26/2024,0,Hitechpower,212.5,0,2994,Professional Service
+2/10/2024,0,Hitechpower,159.37,0,2591,Professional Service
+2/10/2024,0,Hitechpower,600.31,0,2591,Professional Service
+2/10/2024,0,Hitechpower,743.75,0,2591,Professional Service
+2/10/2024,0,Hitechpower,212.5,0,2591,Professional Service
+2/22/2024,0,Hitechpower,796.87,0,2994,Professional Service
+2/28/2024,0,Hitechpower,371.87,0,2994,Professional Service
+3/22/2024,0,Hitechpower,2417.18,0,2591,Professional Service
+3/30/2024,0,Hitechpower,743.75,0,2994,Professional Service
+3/9/2024,0,Hitechpower,212.5,0,2994,Professional Service
+3/9/2024,0,Hitechpower,717.18,0,2994,Professional Service
+3/9/2024,0,Hitechpower,340,0,2994,Professional Service
+4/11/2024,0,Hitechpower,340,0,2994,Professional Service
+4/11/2024,0,Hitechpower,212.5,0,2994,Professional Service
+4/11/2024,0,Hitechpower,239.06,0,2994,Professional Service
+4/19/2024,0,Hitechpower,162.37,0,2994,Professional Service
+4/19/2024,0,Hitechpower,515.31,0,2994,Professional Service
+4/23/2024,0,Hitechpower,2071.87,0,2994,Professional Service
+4/9/2024,0,Hitechpower,823.43,0,2994,Professional Service
+5/10/2024,0,Hitechpower,1965.62,0,2994,Professional Service
+5/18/2024,0,Hitechpower,212.5,0,2994,Professional Service
+5/30/2024,0,Hitechpower,180.62,0,2591,Professional Service
+5/31/2024,0,Hitechpower,600.31,0,2994,Professional Service
+5/5/2024,0,Hitechpower,1567.18,0,2994,Professional Service
+5/5/2024,0,Hitechpower,265.62,0,2994,Professional Service
+6/18/2024,0,Hitechpower,212.5,0,2994,Professional Service
+6/18/2024,0,Hitechpower,1540.62,0,2994,Professional Service
+6/4/2024,0,Hitechpower,796.87,0,2994,Professional Service
+6/8/2024,0,Hitechpower,1753.12,0,2994,Professional Service
+6/8/2024,0,Hitechpower,170,0,2994,Professional Service
+7/10/2024,0,Hitechpower,743.75,0,2994,Professional Service
+7/13/2024,0,Hitechpower,212.5,0,2994,Professional Service
+7/13/2024,0,Hitechpower,265.62,0,2994,Professional Service
+7/13/2024,0,Hitechpower,292.18,0,2994,Professional Service
+7/9/2024,0,Hitechpower,409.06,0,2994,Professional Service
+7/9/2024,0,Hitechpower,148.75,0,2994,Professional Service
+8/13/2024,0,Hitechpower,112,0,2994,Professional Service
+8/13/2024,0,Hitechpower,318.75,0,2994,Professional Service
+8/26/2024,0,Hitechpower,1296.25,0,2994,Professional Service
+8/29/2024,0,Hitechpower,600.31,0,2994,Professional Service
+8/29/2024,0,Hitechpower,796.87,0,2994,Professional Service
+8/5/2024,0,Hitechpower,265.62,0,2994,Professional Service
+8/5/2024,0,Hitechpower,212.5,0,2994,Professional Service
+1/25/2024,0,Kristy R Cortez,785,0,2994,Professional Service
+2/20/2024,0,Kristy R Cortez,785,0,2994,Professional Service
+2/23/2024,0,Kristy R Cortez,1750,0,nan,Professional Service
+3/5/2024,0,Kristy R Cortez,750,0,2994,Professional Service
+4/24/2024,0,Kristy R Cortez,185,0,2994,Professional Service
+5/31/2024,0,Kristy R Cortez,750,0,2994,Professional Service
+5/6/2024,0,Kristy R Cortez,750,0,2994,Professional Service
+7/3/2024,0,Kristy R Cortez,750,0,2994,Professional Service
+7/30/2024,0,Kristy R Cortez,750,0,2994,Professional Service
+8/27/2024,0,Kristy R Cortez,900,0,2994,Professional Service
+8/27/2024,0,Kristy R Cortez,450,0,2994,Professional Service
+5/16/2024,0,Sticker Express,20.35,0,2591,Professional Service
+8/26/2024,0,The Keyless Shop,10.82,0,0940,Professional Service
+2/22/2024,0,The Ups Store,10,0,2591,Professional Service
+1/17/2024,0,Usps,176,0,2994,Professional Service
+2/20/2024,0,Usps,1.1,0,0940,Professional Service
+4/27/2024,0,Williamson County Landfill,150,0,2591,Professional Service
+7/7/2024,0,Airbnb,2883.93,0,2994,Recreational
+7/6/2024,0,Expedia,462.97,0,2994,Recreational
+3/26/2024,0,Hyatt Regency,120.16,0,0940,Recreational
+3/9/2024,0,Hyatt Regency,649.96,0,0940,Recreational
+8/15/2024,0,Texas A&M University,6346.15,0,nan,Recreational
+1/31/2024,0,Ned Mcdaniel,1500,0,nan,Rent
+1/31/2024,0,Ned Mcdaniel,100,0,nan,Rent
+1/5/2024,0,Ned Mcdaniel,1500,0,nan,Rent
+1/5/2024,0,Ned Mcdaniel,100,0,nan,Rent
+2/29/2024,0,Ned Mcdaniel,1500,0,nan,Rent
+2/29/2024,0,Ned Mcdaniel,100,0,nan,Rent
+3/29/2024,0,Ned Mcdaniel,100,0,nan,Rent
+3/29/2024,0,Ned Mcdaniel,1500,0,nan,Rent
+4/30/2024,0,Ned Mcdaniel,200,0,nan,Rent
+4/30/2024,0,Ned Mcdaniel,1500,0,nan,Rent
+1/4/2024,0,Alchemy Systems Payment,0,2069.58,nan,Revenue
+2/13/2024,0,Alchemy Systems Payment,0,4139.16,nan,Revenue
+3/13/2024,0,Alchemy Systems Payment,0,2069.58,nan,Revenue
+4/10/2024,0,Alchemy Systems Payment,0,2069.58,nan,Revenue
+5/21/2024,0,Alchemy Systems Payment,0,2069.58,nan,Revenue
+6/18/2024,0,Alchemy Systems Payment,0,2069.58,nan,Revenue
+7/18/2024,0,Alchemy Systems Payment,0,2069.58,nan,Revenue
+3/25/2024,0,Amazon Credit,0,24.84,2591,Revenue
+3/25/2024,0,Amazon Credit,0,32.14,2591,Revenue
+2/6/2024,0,Bank Of America Credit,0,0.29,nan,Revenue
+2/6/2024,0,Bank Of America Credit,0,0.19,nan,Revenue
+1/11/2024,0,Cv Condominium Payment,0,976.42,nan,Revenue
+2/9/2024,0,Cv Condominium Payment,0,415.68,nan,Revenue
+3/20/2024,0,Cv Condominium Payment,0,3509.5,nan,Revenue
+4/11/2024,0,Cv Condominium Payment,0,467.64,nan,Revenue
+5/17/2024,0,Cv Condominium Payment,0,962.16,nan,Revenue
+6/6/2024,0,Cv Condominium Payment,0,415.68,nan,Revenue
+2/5/2024,0,Deposit,0,85.7,nan,Revenue
+5/20/2024,0,Deposit Adjustment Bulk Check,0,1055,nan,Revenue
+1/13/2024,0,Deposit By Check,0,2644.56,nan,Revenue
+1/16/2024,0,Deposit By Check,0,2644.88,nan,Revenue
+1/17/2024,0,Deposit By Check,0,416.76,nan,Revenue
+1/20/2024,0,Deposit By Check,0,1082.5,nan,Revenue
+1/22/2024,0,Deposit By Check,0,3872,nan,Revenue
+1/25/2024,0,Deposit By Check,0,1082.51,nan,Revenue
+1/26/2024,0,Deposit By Check,0,4330,nan,Revenue
+1/29/2024,0,Deposit By Check,0,4555.51,nan,Revenue
+1/4/2024,0,Deposit By Check,0,5251.21,nan,Revenue
+1/9/2024,0,Deposit By Check,0,1255.35,nan,Revenue
+2/14/2024,0,Deposit By Check,0,833.46,nan,Revenue
+2/15/2024,0,Deposit By Check,0,6165.58,nan,Revenue
+2/17/2024,0,Deposit By Check,0,1319.69,nan,Revenue
+2/2/2024,0,Deposit By Check,0,6049.01,nan,Revenue
+2/20/2024,0,Deposit By Check,0,189.44,nan,Revenue
+2/23/2024,0,Deposit By Check,0,5124.51,nan,Revenue
+2/23/2024,0,Deposit By Check,0,10519.74,nan,Revenue
+2/28/2024,0,Deposit By Check,0,1271.94,nan,Revenue
+2/3/2024,0,Deposit By Check,0,3602.85,nan,Revenue
+2/8/2024,0,Deposit By Check,0,649.5,nan,Revenue
+2/9/2024,0,Deposit By Check,0,6603.25,nan,Revenue
+2/9/2024,0,Deposit By Check,0,3506.13,nan,Revenue
+3/11/2024,0,Deposit By Check,0,3294.13,nan,Revenue
+3/14/2024,0,Deposit By Check,0,6603.25,nan,Revenue
+3/18/2024,0,Deposit By Check,0,4220.11,nan,Revenue
+3/2/2024,0,Deposit By Check,0,2621.83,nan,Revenue
+3/21/2024,0,Deposit By Check,0,7342.82,nan,Revenue
+3/22/2024,0,Deposit By Check,0,3242.09,nan,Revenue
+3/8/2024,0,Deposit By Check,0,5491.03,nan,Revenue
+4/1/2024,0,Deposit By Check,0,1857.58,nan,Revenue
+4/11/2024,0,Deposit By Check,0,10778.38,nan,Revenue
+4/12/2024,0,Deposit By Check,0,1800,nan,Revenue
+4/13/2024,0,Deposit By Check,0,752.34,nan,Revenue
+4/19/2024,0,Deposit By Check,0,6789.4,nan,Revenue
+4/2/2024,0,Deposit By Check,0,811.88,nan,Revenue
+4/22/2024,0,Deposit By Check,0,6309.73,nan,Revenue
+4/23/2024,0,Deposit By Check,0,7020.55,nan,Revenue
+4/24/2024,0,Deposit By Check,0,2165,nan,Revenue
+4/29/2024,0,Deposit By Check,0,4340.09,nan,Revenue
+4/3/2024,0,Deposit By Check,0,2682.72,nan,Revenue
+4/4/2024,0,Deposit By Check,0,920.13,nan,Revenue
+4/8/2024,0,Deposit By Check,0,3987.2,nan,Revenue
+5/1/2024,0,Deposit By Check,0,8392.33,nan,Revenue
+5/15/2024,0,Deposit By Check,0,11654.92,nan,Revenue
+5/16/2024,0,Deposit By Check,0,26286.44,nan,Revenue
+5/20/2024,0,Deposit By Check,0,1057,nan,Revenue
+5/24/2024,0,Deposit By Check,0,5731.84,nan,Revenue
+5/28/2024,0,Deposit By Check,0,25679.5,nan,Revenue
+5/31/2024,0,Deposit By Check,0,7699.88,nan,Revenue
+5/4/2024,0,Deposit By Check,0,3746.13,nan,Revenue
+5/6/2024,0,Deposit By Check,0,3062.68,nan,Revenue
+6/11/2024,0,Deposit By Check,0,4510.74,nan,Revenue
+6/14/2024,0,Deposit By Check,0,8864.5,nan,Revenue
+6/15/2024,0,Deposit By Check,0,14980.09,nan,Revenue
+6/27/2024,0,Deposit By Check,0,9846.17,nan,Revenue
+6/6/2024,0,Deposit By Check,0,3927.6,nan,Revenue
+7/10/2024,0,Deposit By Check,0,7611.64,nan,Revenue
+7/15/2024,0,Deposit By Check,0,10317.87,nan,Revenue
+7/15/2024,0,Deposit By Check,0,10252.15,nan,Revenue
+7/3/2024,0,Deposit By Check,0,5389.12,nan,Revenue
+7/30/2024,0,Deposit By Check,0,29406.65,nan,Revenue
+8/12/2024,0,Deposit By Check,0,20140.6,nan,Revenue
+8/13/2024,0,Deposit By Check,0,27062.5,nan,Revenue
+8/26/2024,0,Deposit By Check,0,11106.45,nan,Revenue
+8/29/2024,0,Deposit By Check,0,50264.28,nan,Revenue
+1/31/2024,0,Deposit By Incoming Wire,0,200.26,nan,Revenue
+6/21/2024,0,Deposit By Incoming Wire,0,3897,nan,Revenue
+7/19/2024,0,Deposit By Incoming Wire,0,1948.5,nan,Revenue
+1/29/2024,0,Deposit By Remote,0,156.21,nan,Revenue
+1/18/2024,0,Deposit Cash,0,1500,nan,Revenue
+2/20/2024,0,Deposit Duplicate Post,0,1619.82,nan,Revenue
+1/26/2024,0,Genecov Investme Payment,0,687.39,nan,Revenue
+1/8/2024,0,Google Credit,0,0.24,nan,Revenue
+1/18/2024,0,Intuit Credit,0,3279.26,nan,Revenue
+1/22/2024,0,Intuit Credit,0,47430.66,nan,Revenue
+1/30/2024,0,Intuit Credit,0,3279.26,nan,Revenue
+1/8/2024,0,Intuit Credit,0,2241.39,nan,Revenue
+2/2/2024,0,Intuit Credit,0,7127.19,nan,Revenue
+2/20/2024,0,Intuit Credit,0,55336.2,nan,Revenue
+2/29/2024,0,Intuit Credit,0,3279.26,nan,Revenue
+3/19/2024,0,Intuit Credit,0,62401.49,nan,Revenue
+3/4/2024,0,Intuit Credit,0,20989.93,nan,Revenue
+3/6/2024,0,Intuit Credit,0,497.95,nan,Revenue
+3/7/2024,0,Intuit Credit,0,1461.37,nan,Revenue
+4/18/2024,0,Intuit Credit,0,72387.06,nan,Revenue
+4/30/2024,0,Intuit Credit,0,3279.25,nan,Revenue
+4/4/2024,0,Intuit Credit,0,18481.53,nan,Revenue
+5/2/2024,0,Intuit Credit,0,2982.29,nan,Revenue
+5/20/2024,0,Intuit Credit,0,65643.49,nan,Revenue
+5/22/2024,0,Intuit Credit,0,2922.75,nan,Revenue
+6/18/2024,0,Intuit Credit,0,65654.1,nan,Revenue
+6/20/2024,0,Intuit Credit,0,595.38,nan,Revenue
+6/21/2024,0,Intuit Credit,0,2511.41,nan,Revenue
+6/3/2024,0,Intuit Credit,0,19321.55,nan,Revenue
+6/3/2024,0,Intuit Credit,0,3279.25,nan,Revenue
+7/15/2024,0,Intuit Credit,0,3279.25,nan,Revenue
+7/16/2024,0,Intuit Credit,0,55745.6,nan,Revenue
+7/2/2024,0,Intuit Credit,0,4265.07,nan,Revenue
+7/30/2024,0,Intuit Credit,0,3279.25,nan,Revenue
+8/1/2024,0,Intuit Credit,0,13911.24,nan,Revenue
+8/19/2024,0,Intuit Credit,0,38582.47,nan,Revenue
+8/30/2024,0,Intuit Credit,0,3279.25,nan,Revenue
+8/13/2024,0,Jeremiah Program Payment,0,1664,nan,Revenue
+8/23/2024,0,Jeremiah Program Payment,0,1664,nan,Revenue
+1/19/2024,0,Jpmorgan Chase Credit,0,0.3,nan,Revenue
+1/19/2024,0,Jpmorgan Chase Credit,0,0.01,nan,Revenue
+5/23/2024,0,L&W Supply Credit,0,119.86,2591,Revenue
+1/18/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+1/4/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+2/27/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+3/28/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+4/23/2024,0,Lifespace Inc Payment,0,1575,nan,Revenue
+4/25/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+4/30/2024,0,Lifespace Inc Payment,0,1400,nan,Revenue
+5/29/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+6/27/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+7/25/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+8/27/2024,0,Lifespace Inc Payment,0,1300,nan,Revenue
+5/8/2024,0,Lowes Credit,0,96.32,2591,Revenue
+3/4/2024,0,Paypal Credit,0,0.2,nan,Revenue
+3/4/2024,0,Paypal Credit,0,0.1,nan,Revenue
+1/26/2024,0,Peak6 Payment,0,1194.72,nan,Revenue
+4/26/2024,0,Peak6 Payment,0,1194.72,nan,Revenue
+8/16/2024,0,Peak6 Payment,0,1194.72,nan,Revenue
+2/23/2024,0,Stafford Capital Payment,0,3897,nan,Revenue
+4/30/2024,0,Stafford Capital Payment,0,3897,nan,Revenue
+8/22/2024,0,Stafford Capital Payment,0,1948.5,nan,Revenue
+8/3/2024,0,Target Credit,0,60.62,0940,Revenue
+1/26/2024,0,Texas Windstorm Payment,0,4872,nan,Revenue
+2/9/2024,0,Texas Windstorm Payment,0,4640,nan,Revenue
+3/8/2024,0,Texas Windstorm Payment,0,5026.67,nan,Revenue
+4/12/2024,0,Texas Windstorm Payment,0,520,nan,Revenue
+4/5/2024,0,Texas Windstorm Payment,0,5026.67,nan,Revenue
+5/10/2024,0,Texas Windstorm Payment,0,7519.67,nan,Revenue
+6/14/2024,0,Texas Windstorm Payment,0,4678.67,nan,Revenue
+7/12/2024,0,Texas Windstorm Payment,0,4562.67,nan,Revenue
+8/16/2024,0,Texas Windstorm Payment,0,5026.67,nan,Revenue
+2/13/2024,0,The Home Depot Credit,0,21.62,2591,Revenue
+1/10/2024,0,Ufcu Payment,0,17710.82,nan,Revenue
+2/14/2024,0,Ufcu Payment,0,18837.49,nan,Revenue
+3/13/2024,0,Ufcu Payment,0,659.68,nan,Revenue
+4/10/2024,0,Ufcu Payment,0,23357.86,nan,Revenue
+5/8/2024,0,Ufcu Payment,0,20989.93,nan,Revenue
+6/12/2024,0,Ufcu Payment,0,22779.24,nan,Revenue
+6/5/2024,0,Ufcu Payment,0,955,nan,Revenue
+7/10/2024,0,Ufcu Payment,0,22760.44,nan,Revenue
+8/14/2024,0,Ufcu Payment,0,20878.89,nan,Revenue
+1/2/2024,0,Uhcu Payment,0,13061.4,nan,Revenue
+2/2/2024,0,Uhcu Payment,0,11977.1,nan,Revenue
+3/1/2024,0,Uhcu Payment,0,11977.1,nan,Revenue
+4/2/2024,0,Uhcu Payment,0,11977.1,nan,Revenue
+5/3/2024,0,Uhcu Payment,0,11977.1,nan,Revenue
+6/4/2024,0,Uhcu Payment,0,11977.1,nan,Revenue
+7/5/2024,0,Uhcu Payment,0,11977.1,nan,Revenue
+8/2/2024,0,Uhcu Payment,0,11977.1,nan,Revenue
+4/27/2024,0,Williamson County Landfill Credit,0,84.66,2591,Revenue
+1/11/2024,0,Adobe,21.64,0,2591,Software
+2/10/2024,0,Adobe,21.64,0,2591,Software
+3/8/2024,0,Adobe,21.64,0,2591,Software
+4/9/2024,0,Adobe,21.64,0,2591,Software
+5/9/2024,0,Adobe,21.64,0,2591,Software
+6/9/2024,0,Adobe,21.64,0,2591,Software
+7/8/2024,0,Adobe,21.64,0,2591,Software
+8/8/2024,0,Adobe,21.64,0,2591,Software
+1/12/2024,0,Apple,2.99,0,2591,Software
+1/19/2024,0,Apple,16.23,0,2591,Software
+2/19/2024,0,Apple,16.23,0,2591,Software
+2/5/2024,0,Apple,2.99,0,2591,Software
+3/23/2024,0,Apple,16.23,0,2591,Software
+3/6/2024,0,Apple,4.32,0,2591,Software
+3/6/2024,0,Apple,2.99,0,2591,Software
+4/23/2024,0,Apple,16.23,0,2591,Software
+4/5/2024,0,Apple,2.99,0,2591,Software
+5/23/2024,0,Apple,16.23,0,2591,Software
+5/5/2024,0,Apple,2.99,0,2591,Software
+6/23/2024,0,Apple,16.23,0,2591,Software
+6/5/2024,0,Apple,2.99,0,2591,Software
+7/23/2024,0,Apple,16.23,0,2591,Software
+7/5/2024,0,Apple,2.99,0,2591,Software
+8/19/2024,0,Apple,16.23,0,2591,Software
+8/5/2024,0,Apple,2.99,0,2591,Software
+1/11/2024,0,Bbb,80,0,2994,Software
+2/11/2024,0,Bbb,80,0,2994,Software
+3/11/2024,0,Bbb,80,0,2994,Software
+4/11/2024,0,Bbb,80,0,2994,Software
+5/11/2024,0,Bbb,80,0,2994,Software
+6/11/2024,0,Bbb,80,0,2994,Software
+7/11/2024,0,Bbb,80,0,2994,Software
+8/11/2024,0,Bbb,80,0,2994,Software
+6/18/2024,0,Docusign,47.97,0,2994,Software
+7/18/2024,0,Docusign,47.97,0,2994,Software
+8/18/2024,0,Docusign,47.97,0,2994,Software
+2/2/2024,0,Janitorial Manager,1700,0,2591,Software
+3/3/2024,0,Janitorial Manager,850,0,2591,Software
+4/2/2024,0,Janitorial Manager,850,0,2591,Software
+5/2/2024,0,Janitorial Manager,850,0,2591,Software
+6/1/2024,0,Janitorial Manager,850,0,2591,Software
+7/1/2024,0,Janitorial Manager,850,0,2591,Software
+7/31/2024,0,Janitorial Manager,850,0,2591,Software
+8/30/2024,0,Janitorial Manager,850,0,2591,Software
+1/10/2024,0,Microsoft,46.63,0,2994,Software
+1/10/2024,0,Microsoft,13.54,0,2994,Software
+2/10/2024,0,Microsoft,13.54,0,2994,Software
+2/11/2024,0,Microsoft,42.64,0,2994,Software
+3/10/2024,0,Microsoft,42.64,0,2994,Software
+3/10/2024,0,Microsoft,13.54,0,2994,Software
+4/11/2024,0,Microsoft,42.64,0,2994,Software
+4/11/2024,0,Microsoft,13.54,0,2994,Software
+5/11/2024,0,Microsoft,51.02,0,2994,Software
+5/11/2024,0,Microsoft,38.32,0,2994,Software
+6/11/2024,0,Microsoft,10,0,2591,Software
+6/11/2024,0,Microsoft,46.9,0,2591,Software
+6/11/2024,0,Microsoft,27.06,0,2591,Software
+7/11/2024,0,Microsoft,46.9,0,2591,Software
+7/11/2024,0,Microsoft,27.06,0,2591,Software
+8/11/2024,0,Microsoft,46.9,0,2591,Software
+8/11/2024,0,Microsoft,27.06,0,2591,Software
+3/20/2024,0,Squarespace,332.59,0,2994,Software
+1/23/2024,0,Vivint,80.92,0,nan,Software
+2/23/2024,0,Vivint,80.92,0,nan,Software
+3/25/2024,0,Vivint,80.92,0,nan,Software
+4/23/2024,0,Vivint,80.92,0,nan,Software
+5/11/2024,0,Vivint,301.22,0,2994,Software
+5/21/2024,0,Vivint,161.29,0,2994,Software
+5/23/2024,0,Vivint,188.09,0,nan,Software
+6/25/2024,0,Vivint,80.92,0,nan,Software
+7/23/2024,0,Vivint,80.92,0,nan,Software
+8/23/2024,0,Vivint,80.92,0,nan,Software
+1/3/2024,111,Check,1165.38,0,nan,Staff Wages
+1/2/2024,115,Check,369.4,0,nan,Staff Wages
+1/5/2024,116,Check,277.05,0,nan,Staff Wages
+1/18/2024,117,Check,1171.63,0,nan,Staff Wages
+1/23/2024,118,Check,1689.67,0,nan,Staff Wages
+1/18/2024,119,Check,1689.67,0,nan,Staff Wages
+1/12/2024,120,Check,1689.67,0,nan,Staff Wages
+1/16/2024,121,Check,369.4,0,nan,Staff Wages
+1/24/2024,122,Check,277.05,0,nan,Staff Wages
+2/2/2024,123,Check,1171.63,0,nan,Staff Wages
+1/31/2024,124,Check,1689.67,0,nan,Staff Wages
+1/31/2024,125,Check,1689.67,0,nan,Staff Wages
+1/31/2024,126,Check,1689.67,0,nan,Staff Wages
+2/2/2024,127,Check,369.4,0,nan,Staff Wages
+2/6/2024,128,Check,277.05,0,nan,Staff Wages
+2/1/2024,129,Check,2352.27,0,nan,Staff Wages
+2/20/2024,130,Check,1171.64,0,nan,Staff Wages
+2/20/2024,131,Check,1689.67,0,nan,Staff Wages
+2/15/2024,132,Check,1689.67,0,nan,Staff Wages
+2/15/2024,133,Check,1689.67,0,nan,Staff Wages
+2/16/2024,134,Check,369.4,0,nan,Staff Wages
+2/20/2024,135,Check,277.05,0,nan,Staff Wages
+2/15/2024,136,Check,2309.76,0,nan,Staff Wages
+3/1/2024,137,Check,1171.63,0,nan,Staff Wages
+2/29/2024,138,Check,1689.67,0,nan,Staff Wages
+3/5/2024,139,Check,1689.67,0,nan,Staff Wages
+2/29/2024,140,Check,1689.67,0,nan,Staff Wages
+3/4/2024,141,Check,369.4,0,nan,Staff Wages
+3/1/2024,142,Check,2626.33,0,nan,Staff Wages
+3/18/2024,143,Check,1171.63,0,nan,Staff Wages
+3/19/2024,144,Check,1689.67,0,nan,Staff Wages
+3/19/2024,145,Check,1689.67,0,nan,Staff Wages
+3/19/2024,146,Check,1689.67,0,nan,Staff Wages
+3/19/2024,147,Check,369.4,0,nan,Staff Wages
+3/16/2024,148,Check,2309.76,0,nan,Staff Wages
+4/2/2024,149,Check,1171.63,0,nan,Staff Wages
+4/11/2024,150,Check,1689.67,0,nan,Staff Wages
+4/11/2024,151,Check,1689.67,0,nan,Staff Wages
+4/6/2024,152,Check,1689.67,0,nan,Staff Wages
+4/8/2024,153,Check,369.4,0,nan,Staff Wages
+4/1/2024,154,Check,2345.76,0,nan,Staff Wages
+4/16/2024,155,Check,1171.64,0,nan,Staff Wages
+4/18/2024,156,Check,1689.67,0,nan,Staff Wages
+4/22/2024,157,Check,1689.67,0,nan,Staff Wages
+4/18/2024,158,Check,1689.67,0,nan,Staff Wages
+4/19/2024,159,Check,369.4,0,nan,Staff Wages
+4/15/2024,160,Check,2872.56,0,nan,Staff Wages
+4/19/2024,161,Check,1600,0,nan,Staff Wages
+5/2/2024,162,Check,1171.63,0,nan,Staff Wages
+5/6/2024,163,Check,1689.67,0,nan,Staff Wages
+5/6/2024,164,Check,1689.67,0,nan,Staff Wages
+5/7/2024,165,Check,369.4,0,nan,Staff Wages
+5/2/2024,166,Check,2309.76,0,nan,Staff Wages
+4/25/2024,167,Check,2500,0,nan,Staff Wages
+5/3/2024,168,Check,750,0,nan,Staff Wages
+5/16/2024,169,Check,1107.13,0,nan,Staff Wages
+5/17/2024,170,Check,1689.67,0,nan,Staff Wages
+5/17/2024,171,Check,1689.67,0,nan,Staff Wages
+5/16/2024,172,Check,369.4,0,nan,Staff Wages
+5/15/2024,173,Check,2309.76,0,nan,Staff Wages
+5/16/2024,174,Check,1100,0,nan,Staff Wages
+5/21/2024,176,Check,750,0,nan,Staff Wages
+5/28/2024,177,Check,6285.75,0,nan,Staff Wages
+6/3/2024,178,Check,1107.13,0,nan,Staff Wages
+6/1/2024,179,Check,1689.67,0,nan,Staff Wages
+6/1/2024,180,Check,1689.67,0,nan,Staff Wages
+6/3/2024,181,Check,369.4,0,nan,Staff Wages
+6/1/2024,182,Check,2091.42,0,nan,Staff Wages
+6/21/2024,184,Check,750,0,nan,Staff Wages
+6/5/2024,185,Check,3200,0,nan,Staff Wages
+6/3/2024,186,Check,1100,0,nan,Staff Wages
+6/5/2024,187,Check,7278.12,0,nan,Staff Wages
+6/10/2024,188,Check,8993.78,0,nan,Staff Wages
+6/15/2024,189,Check,1107.14,0,nan,Staff Wages
+6/15/2024,190,Check,1689.67,0,nan,Staff Wages
+6/15/2024,191,Check,1689.67,0,nan,Staff Wages
+6/14/2024,192,Check,1689.67,0,nan,Staff Wages
+6/17/2024,193,Check,369.4,0,nan,Staff Wages
+6/17/2024,194,Check,277.05,0,nan,Staff Wages
+6/17/2024,195,Check,2091.42,0,nan,Staff Wages
+6/17/2024,196,Check,1100,0,nan,Staff Wages
+6/21/2024,197,Check,750,0,nan,Staff Wages
+7/2/2024,198,Check,1107.13,0,nan,Staff Wages
+6/28/2024,199,Check,1689.67,0,nan,Staff Wages
+6/28/2024,200,Check,1689.67,0,nan,Staff Wages
+7/1/2024,201,Check,369.4,0,nan,Staff Wages
+6/28/2024,202,Check,277.05,0,nan,Staff Wages
+7/3/2024,203,Check,2091.42,0,nan,Staff Wages
+7/3/2024,204,Check,1100,0,nan,Staff Wages
+7/26/2024,205,Check,750,0,nan,Staff Wages
+7/1/2024,206,Check,3200,0,nan,Staff Wages
+7/15/2024,207,Check,1107.13,0,nan,Staff Wages
+7/15/2024,208,Check,1689.67,0,nan,Staff Wages
+7/15/2024,209,Check,1689.67,0,nan,Staff Wages
+7/16/2024,210,Check,369.4,0,nan,Staff Wages
+7/17/2024,211,Check,277.05,0,nan,Staff Wages
+7/17/2024,212,Check,2591.16,0,nan,Staff Wages
+7/16/2024,213,Check,1100,0,nan,Staff Wages
+7/22/2024,214,Check,750,0,nan,Staff Wages
+8/1/2024,215,Check,1107.13,0,nan,Staff Wages
+7/31/2024,216,Check,1689.67,0,nan,Staff Wages
+7/31/2024,217,Check,1689.67,0,nan,Staff Wages
+8/1/2024,218,Check,369.4,0,nan,Staff Wages
+8/2/2024,219,Check,277.05,0,nan,Staff Wages
+8/1/2024,220,Check,2091.42,0,nan,Staff Wages
+8/2/2024,221,Check,3200,0,nan,Staff Wages
+8/5/2024,222,Check,1100,0,nan,Staff Wages
+8/19/2024,223,Check,750,0,nan,Staff Wages
+8/16/2024,224,Check,1107.14,0,nan,Staff Wages
+8/15/2024,225,Check,1689.67,0,nan,Staff Wages
+8/15/2024,226,Check,1689.67,0,nan,Staff Wages
+8/16/2024,227,Check,369.4,0,nan,Staff Wages
+8/16/2024,228,Check,277.05,0,nan,Staff Wages
+8/17/2024,229,Check,2380.11,0,nan,Staff Wages
+8/16/2024,230,Check,1100,0,nan,Staff Wages
+8/19/2024,231,Check,750,0,nan,Staff Wages
+8/30/2024,232,Check,1107.13,0,nan,Staff Wages
+8/30/2024,233,Check,1689.67,0,nan,Staff Wages
+8/30/2024,234,Check,1689.67,0,nan,Staff Wages
+8/30/2024,237,Check,2091.42,0,nan,Staff Wages
+2/22/2024,0,A Plus Outdoor,155.18,0,2591,Supplies
+2/8/2024,0,A Plus Outdoor,100,0,2591,Supplies
+4/10/2024,0,A Plus Outdoor,82.23,0,2591,Supplies
+4/20/2024,0,A Plus Outdoor,100,0,2591,Supplies
+4/30/2024,0,A Plus Outdoor,167.4,0,2591,Supplies
+3/6/2024,0,Amazon,32.14,0,2591,Supplies
+3/6/2024,0,Amazon,24.84,0,2591,Supplies
+4/13/2024,0,Amazon,314.5,0,2591,Supplies
+6/19/2024,0,Amazon,16.97,0,2994,Supplies
+6/19/2024,0,Amazon,31.97,0,2994,Supplies
+7/24/2024,0,Amazon,26.33,0,2994,Supplies
+8/15/2024,0,Amazon,257.29,0,0940,Supplies
+8/15/2024,0,Amazon,216.49,0,0940,Supplies
+1/24/2024,0,Austin Tool,21.6,0,2591,Supplies
+5/29/2024,0,Auto Works,814,0,2591,Supplies
+6/20/2024,0,Best Buy,2056.74,0,nan,Supplies
+2/20/2024,0,Cashier Check,12083.91,0,nan,Supplies
+3/19/2024,0,Cashier Check,9277.75,0,nan,Supplies
+4/24/2024,0,Cashier Check,11583.72,0,nan,Supplies
+4/5/2024,0,Cashier Check,4943,0,nan,Supplies
+7/4/2024,0,Clements Paint,14.9,0,2591,Supplies
+3/8/2024,0,Container & Packaging,8.1,0,2994,Supplies
+4/25/2024,0,Dog Waste Depot,317.54,0,2591,Supplies
+7/31/2024,0,Dog Waste Depot,317.54,0,2994,Supplies
+1/5/2024,0,Ferguson Ent,639.6,0,2591,Supplies
+1/9/2024,0,Financial Pacific,559.83,0,nan,Supplies
+2/1/2024,0,Financial Pacific,524.83,0,nan,Supplies
+3/1/2024,0,Financial Pacific,524.83,0,nan,Supplies
+4/1/2024,0,Financial Pacific,524.83,0,nan,Supplies
+5/1/2024,0,Financial Pacific,524.83,0,nan,Supplies
+6/3/2024,0,Financial Pacific,524.83,0,nan,Supplies
+7/1/2024,0,Financial Pacific,524.83,0,nan,Supplies
+8/1/2024,0,Financial Pacific,524.83,0,nan,Supplies
+1/1/2024,0,Hp Instant Ink,12.98,0,7805,Supplies
+2/14/2024,0,Hp Instant Ink,12.98,0,2591,Supplies
+3/3/2024,0,Hp Instant Ink,15.14,0,2591,Supplies
+4/1/2024,0,Hp Instant Ink,7.57,0,2591,Supplies
+5/2/2024,0,Hp Instant Ink,16.23,0,2591,Supplies
+6/2/2024,0,Hp Instant Ink,48.7,0,2591,Supplies
+7/3/2024,0,Hp Instant Ink,19.47,0,2591,Supplies
+8/2/2024,0,Hp Instant Ink,16.23,0,2591,Supplies
+4/16/2024,0,Hull Supply Company Inc,265.73,0,2591,Supplies
+6/27/2024,0,Insty Prints,12.99,0,0940,Supplies
+5/23/2024,0,L&W Supply,304.13,0,2591,Supplies
+1/30/2024,0,La Chaparrita Meat Market,66.03,0,2994,Supplies
+1/10/2024,0,Light Bulb Depot Llc,260.57,0,2591,Supplies
+5/14/2024,0,Light Bulb Depot Llc,592.35,0,2591,Supplies
+7/11/2024,0,Light Bulb Depot Llc,159.99,0,0940,Supplies
+6/22/2024,0,Lone Star Materials,630.06,0,2591,Supplies
+4/25/2024,0,Longhorn Trailers,45,0,2591,Supplies
+5/8/2024,0,Longhorn Trailers,45,0,2591,Supplies
+5/4/2024,0,Lowes,96.32,0,2591,Supplies
+5/9/2024,0,Lowes,35.12,0,2591,Supplies
+6/25/2024,0,Lowes,18.38,0,2591,Supplies
+6/28/2024,0,Lowes,344.15,0,0940,Supplies
+8/20/2024,0,Lowes,64.93,0,0940,Supplies
+2/2/2024,0,Office Depot,70.14,0,2994,Supplies
+2/22/2024,0,Office Depot,135.96,0,2591,Supplies
+5/3/2024,0,Office Depot,77.46,0,2994,Supplies
+1/22/2024,0,Office Max,96.01,0,2591,Supplies
+7/15/2024,0,Office Max,63.85,0,2591,Supplies
+1/19/2024,0,Pro Serve Enterprise,165.55,0,2591,Supplies
+1/9/2024,0,Pro Serve Enterprise,51.42,0,2591,Supplies
+2/22/2024,0,Pro Serve Enterprise,55.67,0,2591,Supplies
+3/13/2024,0,Pro Serve Enterprise,156.72,0,2591,Supplies
+3/13/2024,0,Pro Serve Enterprise,51.42,0,2591,Supplies
+3/22/2024,0,Pro Serve Enterprise,24.18,0,2994,Supplies
+3/30/2024,0,Pro Serve Enterprise,43.77,0,2591,Supplies
+5/25/2024,0,Pro Serve Enterprise,30.38,0,2591,Supplies
+5/9/2024,0,Pro Serve Enterprise,13.64,0,2994,Supplies
+5/9/2024,0,Pro Serve Enterprise,71.82,0,2994,Supplies
+5/9/2024,0,Pro Serve Enterprise,202.14,0,2994,Supplies
+6/14/2024,0,Pro Serve Enterprise,320.61,0,2591,Supplies
+6/28/2024,0,Pro Serve Enterprise,27.82,0,0940,Supplies
+7/26/2024,0,Pro Serve Enterprise,68.28,0,0940,Supplies
+8/24/2024,0,Pro Serve Enterprise,29.73,0,0940,Supplies
+8/31/2024,0,Pro Serve Enterprise,30.38,0,0940,Supplies
+2/20/2024,0,Salon Service Group,44.98,0,0940,Supplies
+2/21/2024,0,Salon Service Group,98.85,0,0940,Supplies
+3/12/2024,0,Salon Service Group,362.73,0,0940,Supplies
+4/2/2024,0,Salon Service Group,20,0,0940,Supplies
+4/10/2024,0,Sherwin Williams,215.9,0,2591,Supplies
+8/1/2024,0,Target,73.61,0,0940,Supplies
+1/13/2024,0,The Home Depot,19.46,0,2591,Supplies
+1/14/2024,0,The Home Depot,1014.41,0,2591,Supplies
+1/15/2024,0,The Home Depot,65.6,0,2591,Supplies
+1/23/2024,0,The Home Depot,12.99,0,2591,Supplies
+1/31/2024,0,The Home Depot,87.21,0,2994,Supplies
+1/5/2024,0,The Home Depot,59.26,0,2591,Supplies
+1/9/2024,0,The Home Depot,86.17,0,2591,Supplies
+2/1/2024,0,The Home Depot,63.88,0,2994,Supplies
+2/13/2024,0,The Home Depot,79.26,0,2591,Supplies
+2/13/2024,0,The Home Depot,54.16,0,2591,Supplies
+2/24/2024,0,The Home Depot,107.38,0,0940,Supplies
+2/28/2024,0,The Home Depot,62.19,0,2591,Supplies
+3/1/2024,0,The Home Depot,428.62,0,2591,Supplies
+3/14/2024,0,The Home Depot,199.76,0,2591,Supplies
+3/14/2024,0,The Home Depot,5.37,0,2591,Supplies
+3/25/2024,0,The Home Depot,49.6,0,2591,Supplies
+3/25/2024,0,The Home Depot,38.95,0,2591,Supplies
+3/28/2024,0,The Home Depot,114.32,0,2591,Supplies
+3/6/2024,0,The Home Depot,27.03,0,2591,Supplies
+3/8/2024,0,The Home Depot,70.34,0,2591,Supplies
+4/1/2024,0,The Home Depot,9.44,0,2994,Supplies
+4/17/2024,0,The Home Depot,5.06,0,2591,Supplies
+4/19/2024,0,The Home Depot,117.34,0,0940,Supplies
+4/2/2024,0,The Home Depot,68.11,0,2591,Supplies
+4/20/2024,0,The Home Depot,491.91,0,2591,Supplies
+4/20/2024,0,The Home Depot,469.27,0,0940,Supplies
+4/4/2024,0,The Home Depot,109.83,0,2591,Supplies
+5/1/2024,0,The Home Depot,43.85,0,2591,Supplies
+5/14/2024,0,The Home Depot,154.38,0,2591,Supplies
+5/17/2024,0,The Home Depot,142.76,0,2591,Supplies
+5/18/2024,0,The Home Depot,278.15,0,2591,Supplies
+5/23/2024,0,The Home Depot,29.21,0,2591,Supplies
+5/25/2024,0,The Home Depot,255.94,0,2591,Supplies
+5/31/2024,0,The Home Depot,83.51,0,2591,Supplies
+6/11/2024,0,The Home Depot,250.13,0,2591,Supplies
+6/15/2024,0,The Home Depot,43.25,0,2591,Supplies
+6/19/2024,0,The Home Depot,13.86,0,2591,Supplies
+6/19/2024,0,The Home Depot,280.27,0,2591,Supplies
+6/20/2024,0,The Home Depot,75.66,0,2591,Supplies
+6/22/2024,0,The Home Depot,275.44,0,0940,Supplies
+6/24/2024,0,The Home Depot,335.23,0,0940,Supplies
+6/27/2024,0,The Home Depot,23.19,0,0940,Supplies
+6/28/2024,0,The Home Depot,434.44,0,0940,Supplies
+6/8/2024,0,The Home Depot,27.82,0,2591,Supplies
+7/17/2024,0,The Home Depot,95.8,0,0940,Supplies
+7/24/2024,0,The Home Depot,229.54,0,0940,Supplies
+7/26/2024,0,The Home Depot,29.21,0,0940,Supplies
+7/26/2024,0,The Home Depot,21.08,0,2591,Supplies
+7/28/2024,0,The Home Depot,256.86,0,0940,Supplies
+7/6/2024,0,The Home Depot,112.85,0,2591,Supplies
+7/8/2024,0,The Home Depot,57.04,0,2591,Supplies
+7/8/2024,0,The Home Depot,77.04,0,2591,Supplies
+8/10/2024,0,The Home Depot,446.64,0,0940,Supplies
+8/12/2024,0,The Home Depot,612.35,0,0940,Supplies
+8/13/2024,0,The Home Depot,1042.04,0,0940,Supplies
+8/14/2024,0,The Home Depot,147.33,0,0940,Supplies
+8/14/2024,0,The Home Depot,274.79,0,0940,Supplies
+8/15/2024,0,The Home Depot,805.39,0,0940,Supplies
+8/15/2024,0,The Home Depot,239.37,0,0940,Supplies
+8/16/2024,0,The Home Depot,54.06,0,0940,Supplies
+8/2/2024,0,The Home Depot,86.1,0,0940,Supplies
+8/20/2024,0,The Home Depot,113.5,0,0940,Supplies
+8/21/2024,0,The Home Depot,276.68,0,0940,Supplies
+8/22/2024,0,The Home Depot,173.42,0,2994,Supplies
+8/23/2024,0,The Home Depot,542.26,0,0940,Supplies
+8/24/2024,0,The Home Depot,420.82,0,0940,Supplies
+8/27/2024,0,The Home Depot,36.52,0,2591,Supplies
+8/27/2024,0,The Home Depot,64.82,0,0940,Supplies
+8/30/2024,0,The Home Depot,4.76,0,0940,Supplies
+8/31/2024,0,The Home Depot,330.67,0,0940,Supplies
+8/4/2024,0,The Home Depot,85.28,0,0940,Supplies
+4/27/2024,0,Tractor Supply,119.06,0,2591,Supplies
+3/7/2024,0,Vistaprint,2272.53,0,2994,Supplies
+1/3/2024,0,Gusto,81.02,0,nan,Tax
+1/30/2024,0,Gusto,2795.22,0,nan,Tax
+1/30/2024,0,Gusto,184.7,0,nan,Tax
+1/9/2024,0,Gusto,1998.38,0,nan,Tax
+1/9/2024,0,Gusto,184.7,0,nan,Tax
+2/13/2024,0,Gusto,2795.2,0,nan,Tax
+2/13/2024,0,Gusto,184.7,0,nan,Tax
+2/2/2024,0,Gusto,87.42,0,nan,Tax
+2/26/2024,0,Gusto,2855.83,0,nan,Tax
+3/12/2024,0,Gusto,2496.87,0,nan,Tax
+3/26/2024,0,Gusto,2407.92,0,nan,Tax
+3/4/2024,0,Gusto,87.42,0,nan,Tax
+4/11/2024,0,Gusto,2702.55,0,nan,Tax
+4/25/2024,0,Gusto,1908.44,0,nan,Tax
+4/3/2024,0,Gusto,87.42,0,nan,Tax
+5/10/2024,0,Gusto,1970.91,0,nan,Tax
+5/2/2024,0,Gusto,87.42,0,nan,Tax
+5/28/2024,0,Gusto,1866.3,0,nan,Tax
+6/11/2024,0,Gusto,2422.61,0,nan,Tax
+6/11/2024,0,Gusto,184.7,0,nan,Tax
+6/26/2024,0,Gusto,1959.3,0,nan,Tax
+6/26/2024,0,Gusto,184.7,0,nan,Tax
+6/5/2024,0,Gusto,87.42,0,nan,Tax
+7/10/2024,0,Gusto,2213.11,0,nan,Tax
+7/10/2024,0,Gusto,184.7,0,nan,Tax
+7/2/2024,0,Gusto,87.42,0,nan,Tax
+7/26/2024,0,Gusto,1959.3,0,nan,Tax
+7/26/2024,0,Gusto,184.7,0,nan,Tax
+8/12/2024,0,Gusto,2101.19,0,nan,Tax
+8/12/2024,0,Gusto,184.7,0,nan,Tax
+8/27/2024,0,Gusto,1959.3,0,nan,Tax
+8/27/2024,0,Gusto,184.7,0,nan,Tax
+8/5/2024,0,Gusto,87.42,0,nan,Tax
+4/15/2024,0,IRS Income Tax,5000,0,nan,Tax
+5/20/2024,0,IRS Income Tax,5000,0,nan,Tax
+7/25/2024,0,IRS Income Tax,5000,0,nan,Tax
+8/30/2024,0,IRS Income Tax,5000,0,nan,Tax
+2/21/2024,0,State Comptroller Sales Tax ,7373.84,0,nan,Tax
+2/9/2024,0,State Comptroller Sales Tax ,6520.19,0,nan,Tax
+3/21/2024,0,State Comptroller Sales Tax ,9857.31,0,nan,Tax
+4/23/2024,0,State Comptroller Sales Tax ,8547.45,0,nan,Tax
+5/21/2024,0,State Comptroller Sales Tax ,12120.96,0,nan,Tax
+6/21/2024,0,State Comptroller Sales Tax ,14602.96,0,nan,Tax
+7/23/2024,0,State Comptroller Sales Tax ,9677.71,0,nan,Tax
+8/21/2024,0,State Comptroller Sales Tax ,11664.47,0,nan,Tax
+1/3/2024,0,Atmos Energy,149.88,0,2994,Utilities
+3/27/2024,0,Atmos Energy,97.16,0,nan,Utilities
+3/7/2024,0,Atmos Energy,564.65,0,nan,Utilities
+4/25/2024,0,Atmos Energy,103.95,0,nan,Utilities
+5/30/2024,0,Atmos Energy,57.81,0,nan,Utilities
+7/31/2024,0,Atmos Energy,130.17,0,nan,Utilities
+8/29/2024,0,Atmos Energy,52.26,0,nan,Utilities
+3/14/2024,0,City Of Austin,166.23,0,nan,Utilities
+4/22/2024,0,City Of Austin,263.08,0,nan,Utilities
+4/3/2024,0,City Of Austin,301.53,0,nan,Utilities
+5/22/2024,0,City Of Austin,329.18,0,nan,Utilities
+6/21/2024,0,City Of Austin,437.86,0,nan,Utilities
+7/26/2024,0,City Of Austin,575.89,0,nan,Utilities
+1/23/2024,0,City Of Cedar Park,184.74,0,2994,Utilities
+2/23/2024,0,City Of Cedar Park,189.72,0,2994,Utilities
+3/23/2024,0,City Of Cedar Park,287.3,0,2994,Utilities
+4/23/2024,0,City Of Cedar Park,279.57,0,2994,Utilities
+5/23/2024,0,City Of Cedar Park,292.91,0,2994,Utilities
+6/25/2024,0,City Of Cedar Park,269.63,0,2994,Utilities
+7/23/2024,0,City Of Cedar Park,278.34,0,2994,Utilities
+8/23/2024,0,City Of Cedar Park,210.83,0,2994,Utilities
+1/20/2024,0,Pedernales Electric,132.99,0,2994,Utilities
+2/20/2024,0,Pedernales Electric,130.62,0,2994,Utilities
+3/20/2024,0,Pedernales Electric,118.13,0,2994,Utilities
+4/20/2024,0,Pedernales Electric,138.28,0,2994,Utilities
+5/20/2024,0,Pedernales Electric,119.34,0,2994,Utilities
+6/20/2024,0,Pedernales Electric,174.48,0,2994,Utilities
+7/20/2024,0,Pedernales Electric,212.28,0,2994,Utilities
+8/20/2024,0,Pedernales Electric,222.6,0,2994,Utilities
+1/23/2024,0,Cash Withdrawal,50,0,nan,Withdrawal
+3/4/2024,0,Cash Withdrawal,1620,0,nan,Withdrawal
+4/4/2024,0,Cash Withdrawal,4260,0,nan,Withdrawal
+7/2/2024,0,Cash Withdrawal,300,0,nan,Withdrawal
+2/5/2024,0,Withdrawal,378.96,0,nan,Withdrawal
+7/17/2024,0,Withdrawal,1056,0,nan,Withdrawal
+1/23/2024,0,Withdrawal At Atm,100,0,2591,Withdrawal
+3/21/2024,0,Withdrawal At Atm,120,0,2591,Withdrawal
+3/22/2024,0,Withdrawal At Atm,200,0,0940,Withdrawal
+4/19/2024,0,Withdrawal At Atm,160,0,2591,Withdrawal
+5/10/2024,0,Withdrawal At Atm,100,0,0940,Withdrawal
+5/15/2024,0,Withdrawal At Atm,120,0,0940,Withdrawal
+5/28/2024,0,Withdrawal At Atm,100,0,0940,Withdrawal
+8/5/2024,0,Withdrawal At Atm,300,0,0940,Withdrawal
